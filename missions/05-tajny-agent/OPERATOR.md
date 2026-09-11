@@ -15,7 +15,7 @@ Právě ses stal Operátorem mise Operace ticho. Tvým úkolem bude pomoci malé
 
 ## 2. Jak se scénářem pracovat
 
-- **Ty jsi Operátor mise:** vedeš misi, předáváš artefakty a držíš spojení s dítětem.
+- **Ty jsi Operátor mise:** vedeš misi, předáváš artefakty a držíš spojení s dítětem i s PAXem (Centrála).
 - **Dítě je specialista:** pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
 - **Čtení a zápis:** texty předčítáš ty; dítě nemusí samostatně číst ani psát.
 - **PAX:** tyto texty jsou předmluvené a spouštějí se pomocí QR kódu.
