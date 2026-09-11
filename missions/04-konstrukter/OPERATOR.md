@@ -20,19 +20,12 @@ Právě ses stal Operátorem mise Operace Skalní orel. Tvým úkolem bude pomoc
 - **Poznámky:** sekce s poznámkami a radami k danému kroku.
 - **Podmínky dokončení:** co je třeba splnit k úspěšnému dokončení kroku.
 
-## 3. Jak se scénářem pracovat
 
-- **Ty jsi Operátor mise:** vedeš misi, předáváš artefakty a držíš spojení s dítětem i s PAXem (Centrála).
-- **Dítě je specialista:** pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
-- **Čtení a zápis:** texty předčítáš ty; dítě nemusí samostatně číst ani psát.
-
-
-
-## 4. Pro koho mise je?
+## 3. Pro koho mise je?
 
 Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby s ním buď nablízku a pomoz mu podle potřeby. Dítě však nechávej rozhodovat a objevovat.
 
-## 5. Co budete potřebovat?
+## 4. Co budete potřebovat?
 
 **Z boxu pro dítě**
 
@@ -54,7 +47,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 - volný prostor kolem pracovní plochy pro vyznačení zakázané zóny
 
 ---
-## 6. PAX — texty k doslovnému čtení
+## 5. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -72,14 +65,14 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 > Podle tvého zjištění uzavíráme svah u čidla C a vyšleme odborníky. Označ jej a předej mi aktualizovanou mapu.
 
-## 7. Vedení dítěte
+## 6. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 8. Návrhové poznámky a ověření
+## 7. Návrhové poznámky a ověření
 
 ## 1. Konstrukce a návrat
 
@@ -99,6 +92,6 @@ Krok 1 „První domněnka“: sopka s otazníkem. Krok 5 „Měření před zá
 
 HERO konstrukce a test 15–20 minut, celá mise cílově 60–90 minut. Pauza po získání kazety. Zůstává modul s lanovkou a badge; čas musí potvrdit dětský průchod.
 
-## 9. Závěr
+## 8. Závěr
 
 Dítě získává specializaci **KONSTRUKTÉR**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
