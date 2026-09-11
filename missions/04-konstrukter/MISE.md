@@ -22,7 +22,7 @@ KONS-04
 
 ### 2.3 Incident
 
-V oblasti se spící sopkou zaznamenala Centrála neobvyklé otřesy. Během průzkumu došlo k závalu, který odřízl měřicí stanici. Vzdálené spojení se přerušilo právě ve chvíli, kdy měla stanice odeslat poslední měření. Data proto zůstala uložená v kazetě přímo na místě. Do zakázané zóny se nesmí vstupovat. Centrála vysílá dítě jako Konstruktéra, aby vymyslelo bezpečný způsob získání kazety. Dítě sestaví nouzovou lanovku a pošle přes ni servisní modul. Potom otevře zachráněná data a porovná hodnoty tří čidel. Zjistí, zda riziko souvisí se sopkou, nebo s nestabilním svahem. Nakonec označí nebezpečnou oblast a předá Centrále doporučení.
+V oblasti se spící sopkou zaznamenala Centrála neobvyklé otřesy. Během průzkumu došlo k závalu, který odřízl měřicí stanici. Vzdálené spojení se přerušilo právě ve chvíli, kdy měla stanice odeslat poslední měření. Data proto zůstala uložená v kazetě přímo na místě. Do zakázané zóny se nesmí vstupovat. Centrála vysílá terénního pracovníka – Konstruktéra, aby vymyslel bezpečný způsob získání kazety. Terénní pracovník sestaví nouzovou lanovku a pošle přes ni servisní modul. Potom otevře zachráněná data a porovná hodnoty tří čidel. Zjistí, zda riziko souvisí se sopkou, nebo s nestabilním svahem. Nakonec označí nebezpečnou oblast a předá Centrále doporučení.
 
 
 ### 2.4 Potvrzená fakta

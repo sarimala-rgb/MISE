@@ -22,7 +22,7 @@ DINO-01
 
 ### 2.3 Incident
 
-Při přípravě základů nové pozorovací věže nad zálivem dělníci objevili zkamenělou kost. Ve stejné oblasti našli také otisk dinosauří stopy. Práce okamžitě zastavili, aby nález nepoškodili. Centrála proto vysílá dítě jako terénního paleontologa. Jeho prvním úkolem je zjistit, zda jde o skutečné paleontologické naleziště. Musí také prozkoumat, zda nález pokračuje mimo původní staveniště. Teprve potom může Centrála rozhodnout, kde bude věž stát. Dítě bude porovnávat vzorky, skládat části kostry a pracovat s mapou okolí. Nakonec doporučí místo, které nabídne výhled na záliv a zároveň neohrozí naleziště.
+Při přípravě základů nové pozorovací věže nad zálivem dělníci objevili zkamenělou kost. Ve stejné oblasti našli také otisk dinosauří stopy. Práce okamžitě zastavili, aby nález nepoškodili. Centrála proto vysílá terénního pracovníka – paleontologa. Jeho prvním úkolem je zjistit, zda jde o skutečné paleontologické naleziště. Musí také prozkoumat, zda nález pokračuje mimo původní staveniště. Teprve potom může Centrála rozhodnout, kde bude věž stát. Terénní pracovník bude porovnávat vzorky, skládat části kostry a pracovat s mapou okolí. Nakonec doporučí místo, které nabídne výhled na záliv a zároveň neohrozí naleziště.
 
 
 ### 2.4 Potvrzená fakta

@@ -22,7 +22,7 @@ DRAK-02
 
 ### 2.3 Incident
 
-V perimetru Centrály vypukl požár a bezpečnostní brána byla narušena. Bezpečnostní systém zachytil také neobvykle velkou stopu. Z prvních záznamů není jasné, zda spolu všechny události souvisejí. Centrála proto vysílá dítě jako Strážce draků. Dítě nejprve porovná fotografie s mapou a určí, komu velká stopa patří. Potom zrekonstruuje směr pohybu a pořadí událostí. Musí zjistit, kdo založil požár a proč. Pátrání ho zavede k ukrytému dračímu hnízdu. Pokud objeví vejce v ohroženém místě, bude muset připravit bezpečný přesun. O správném postupu rozhodne podle důkazů a pokynů Centrály.
+V perimetru Centrály vypukl požár a bezpečnostní brána byla narušena. Bezpečnostní systém zachytil také neobvykle velkou stopu. Z prvních záznamů není jasné, zda spolu všechny události souvisejí. Centrála proto vysílá terénního pracovníka – Strážce draků. Terénní pracovník nejprve porovná fotografie s mapou a určí, komu velká stopa patří. Potom zrekonstruuje směr pohybu a pořadí událostí. Musí zjistit, kdo založil požár a proč. Pátrání ho zavede k ukrytému dračímu hnízdu. Pokud objeví vejce v ohroženém místě, bude muset připravit bezpečný přesun. O správném postupu rozhodne podle důkazů a pokynů Centrály.
 
 
 ### 2.4 Potvrzená fakta

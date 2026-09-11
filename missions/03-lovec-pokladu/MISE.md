@@ -22,7 +22,7 @@ PIRA-03
 
 ### 2.3 Incident
 
-Centrála získala pět starých pirátských map, ale neví, které z nich jsou pravé. Mapy údajně vedou k dávno ztracenému pokladu. K jejich ověření potřebuje najít osobní pečeť kapitána. Stará pracovní mapa ukazuje cestu k první schránce. Nikdo však zatím neví, zda razítko v ní nalezené opravdu patří kapitánovi. Dítě proto musí nejprve projít kapitánovou zkouškou. Potom bude hledat druhou schránku a získá pravou pečeť. Teprve s ní smí otevřít zásilku pěti map. Z vybraných map sestaví jednu navazující trasu a připraví ji pro Centrálu.
+Centrála získala pět starých pirátských map, ale neví, které z nich jsou pravé. Mapy údajně vedou k dávno ztracenému pokladu. K jejich ověření potřebuje najít osobní pečeť kapitána. Stará pracovní mapa ukazuje cestu k první schránce. Nikdo však zatím neví, zda razítko v ní nalezené opravdu patří kapitánovi. Terénní pracovník proto musí nejprve projít kapitánovou zkouškou. Potom bude hledat druhou schránku a získá pravou pečeť. Teprve s ní smí otevřít zásilku pěti map. Z vybraných map sestaví jednu navazující trasu a připraví ji pro Centrálu.
 
 
 ### 2.4 Potvrzená fakta

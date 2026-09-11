@@ -22,7 +22,7 @@ AGEN-05
 
 ### 2.3 Incident
 
-Centrála zachytila poslední zakódované hlášení agenta. Agent se ukrývá v hlídané oblasti a nemůže bezpečně mluvit. Neví, kudy vede cesta mimo dohled kamer. Zpráva proto obsahuje číselný kód, který musí dítě rozluštit. Centrála vysílá dítě jako Tajného agenta, aby mu pomohlo zvenčí. Dítě sestaví periskop a z krytých míst prozkoumá připravené scény. Na nich zjistí, které části cest sledují kamery. Z pozorování sestaví jednu souvislou bezpečnou trasu. PAX ji předá agentovi, který ji použije k opuštění úkrytu. Úspěch mise potvrdí agentovým hlášením z bezpečí.
+Centrála zachytila poslední zakódované hlášení agenta. Agent se ukrývá v hlídané oblasti a nemůže bezpečně mluvit. Neví, kudy vede cesta mimo dohled kamer. Zpráva proto obsahuje číselný kód, který musí terénní pracovník rozluštit. Centrála vysílá terénního pracovníka – Tajného agenta, aby mu pomohl zvenčí. Terénní pracovník sestaví periskop a z krytých míst prozkoumá připravené scény. Na nich zjistí, které části cest sledují kamery. Z pozorování sestaví jednu souvislou bezpečnou trasu. PAX ji předá agentovi, který ji použije k opuštění úkrytu. Úspěch mise potvrdí agentovým hlášením z bezpečí.
 
 
 ### 2.4 Potvrzená fakta
