@@ -51,7 +51,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 - 
 
-## 6. PAX — texty k doslovnému čtení
+## 6. Scénář mise Operace Skalní orel pro Operátora mise
 
 ### Krok 1
 
