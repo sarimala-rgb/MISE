@@ -10,7 +10,7 @@ Dnes se z obyčejného prostoru stane kapitánova paluba a každé znamení mů�
 - **Mise** je konkrétní úkol nebo případ, který dítě pro organizaci M!SE plní.
 - **Centrála** je operační zázemí organizace M!SE. Odtud přichází zadání a probíhá komunikace s PAXem.
 - **PAX** je koordinátor misí z Centrály. Během mise drží se specialistou spojení, předává nové informace a přijímá jeho hlášení.
-- **Dítě** je specialista vyslaný do terénu. Samo zkoumá stopy, pracuje s artefakty, řeší úkoly a dělá rozhodnutí. V důležitých momentech podává Operátorovi mise a PAXovi report. Nemá pocit, že „hraje hru“, ale že plní skutečný případ.
+- **Dítě** je specialista vyslaný do terénu. Samo zkoumá stopy, pracuje s artefakty, řeší úkoly a dělá rozhodnutí. V důležitých momentech podává Operátorovi mise a PAXovi report.
 - **Operátor mise** — jsi TY :) Technicky zajišťuješ spojení mezi dítětem a PAXem (Centrálou). Spouštíš zprávy, předáváš nové materiály ve správný okamžik, případně přijímáš reporty dítěte a hlídáš průběh mise.
 
 ## 2. Jak se scénářem pracovat
