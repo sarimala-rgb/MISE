@@ -75,28 +75,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 > Mapu jsem převzal. Podle nové polohy zapínám návratový signál pro draka, jak stanovuje nouzový protokol.
 
 
-## 7. Návrhové poznámky a ověření
 
-## 1. Doložená posloupnost
-
-Uživatelkou schváleno: člověk vstoupí, založí požár, drak jde hasit. Člověk hledá hnízdo, ale drak se vrátí dřív. Pozdější bezpečnostní záznam dokládá odchod draka od hnízda. Doplněný návrh záznamu 9_1 zachycuje skutečné jednání, protože sirka a poznámky samy pachatele neprokazují. Hlídka získala dokumenty 9_2 přímo u zadrženého člověka; nepoužívá se odhozený batoh ani vak na vejce.
-
-Poznámky 9_2: „Jak odlákat draka? Hluk? Potrava? Oheň?“ Oheň podtržen. Vedle instrukce: „Vejce přepravuj podepřené, bez kutálení.“ Dítě musí porovnat plán s obrazovým záznamem, nikoli číst úmysl z jediného slova.
-
-## 2. Stopy, mapa a Protokol
-
-Atlas A6 na výšku má pět listů; list 5 přesně odpovídá dodané dračí stopě. Ostatní se liší počtem prstů, šířkou, drápy nebo patou. Směr určují prsty, vysvětlené v atlasu. Fyzické stopy stejného obrysu vedou souvisle od hnízda k požářišti; dítě hledá jejich začátek.
-
-Protokol: krok 2 „Pozorovaní účastníci“, krok 3 „Původce velké stopy“, krok 5 „Pořadí událostí“, krok 6 „Pracovní vysvětlení“, krok 9 „Co se stalo“, krok 12 „Transport vyzkoušen“, krok 17 „Vejce v bezpečí“. Dítě kroužkuje obrázky, časové karty klade na osu. Mapové informace se znovu neopisují.
-
-## 3. Ochrana a návrat draka
-
-Nouzový protokol 10_1 je postup Centrály, nikoli povolení vzít libovolné vejce. Přesun vyžaduje prozrazený sektor, doloženou nepřítomnost draka, otestovaný transport, vhodné hnízdo a povolení PAXe. Zadržení člověka neodstraňuje znalost sektoru. Doplněný návrh: Centrála podle nové mapy použije svůj návratový signál pro draka; tato schopnost musí být dítěti vysvětlena už v 10_1.
-
-## 4. Rytmus a kontrola
-
-HERO je stavba nosítka a test, cílově 15–20 minut; hnízdo je kratší navazující použití připravených materiálů. Celá mise cílí na 60–90 minut. Pauza po reportu 9, před konstrukcí. Krátké reporty nemají opakovat celé předchozí pátrání. Počet kroků je zatím původní, sjednocení řeší společná otevřená otázka. Památkou je model vejce a nosítko, osobní badge zůstává oddělený od ochranné značky.
-
-## 8. Závěr
+## 7. Závěr
 
 Dítě získává specializaci **STRÁŽCE DRAKŮ**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
