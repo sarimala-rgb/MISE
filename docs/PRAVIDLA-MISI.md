@@ -1,18 +1,18 @@
-# Pravidla struktury M!SE
+﻿# Pravidla struktury M!SE
 
 ---
 
-## 1. Hlavní tabulka mise
+## 1. HlavnĂ­ tabulka mise
 
-Každá mise má samostatně upravovaný soubor MISE.md a samostatně upravovaný soubor SCENAR-TABULKA.md. Oba soubory jsou rovnocenné pracovní dokumenty; žádný z nich není automaticky generován z druhého.
+KaĹľdĂˇ mise mĂˇ samostatnÄ› upravovanĂ˝ soubor MISE.md a samostatnÄ› upravovanĂ˝ soubor SCENAR-MISE.md. Oba soubory jsou rovnocennĂ© pracovnĂ­ dokumenty; ĹľĂˇdnĂ˝ z nich nenĂ­ automaticky generovĂˇn z druhĂ©ho.
 
-SCENAR-TABULKA.md obsahuje strukturovaný pracovní scénář. MISE.md obsahuje samostatný čitelný dokument mise. Při změnách se upravují nezávisle a na konci revize se ručně kontroluje jejich soulad. Čísla sekcí dokumentu jsou oddělená od čísel herních kroků.
+SCENAR-MISE.md obsahuje strukturovanĂ˝ pracovnĂ­ scĂ©nĂˇĹ™. MISE.md obsahuje samostatnĂ˝ ÄŤitelnĂ˝ dokument mise. PĹ™i zmÄ›nĂˇch se upravujĂ­ nezĂˇvisle a na konci revize se ruÄŤnÄ› kontroluje jejich soulad. ÄŚĂ­sla sekcĂ­ dokumentu jsou oddÄ›lenĂˇ od ÄŤĂ­sel hernĂ­ch krokĹŻ.
 
-Sloupce musí být vždy přesně v tomto pořadí:
+Sloupce musĂ­ bĂ˝t vĹľdy pĹ™esnÄ› v tomto poĹ™adĂ­:
 
-| Label | Krok | Název kroku | Nové artefakty na vstupu | Co potřebuje dítě k vyřešení kroku | Akce dítěte | Úkoly | Co je hotový krok |
+| Label | Krok | NĂˇzev kroku | NovĂ© artefakty na vstupu | Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku | Akce dĂ­tÄ›te | Ăškoly | Co je hotovĂ˝ krok |
 
-Každý řádek tabulky představuje buď jeden skutečný herní krok dítěte, nebo jeden Report navázaný na konkrétní krok.
+KaĹľdĂ˝ Ĺ™Ăˇdek tabulky pĹ™edstavuje buÄŹ jeden skuteÄŤnĂ˝ hernĂ­ krok dĂ­tÄ›te, nebo jeden Report navĂˇzanĂ˝ na konkrĂ©tnĂ­ krok.
 
 ---
 
@@ -20,279 +20,280 @@ Každý řádek tabulky představuje buď jeden skutečný herní krok dítěte,
 
 Do sloupce `Label` lze zapisovat pouze:
 
-- `Dítě`
+- `DĂ­tÄ›`
 - `Report`
 
-### 2.1 Dítě
+### 2.1 DĂ­tÄ›
 
-`Dítě` označuje skutečný herní krok, ve kterém dítě něco:
-- fyzicky provádí,
+`DĂ­tÄ›` oznaÄŤuje skuteÄŤnĂ˝ hernĂ­ krok, ve kterĂ©m dĂ­tÄ› nÄ›co:
+- fyzicky provĂˇdĂ­,
 - pozoruje,
-- porovnává,
+- porovnĂˇvĂˇ,
 - rozhoduje,
 - dedukuje,
-- skládá,
-- hledá,
+- sklĂˇdĂˇ,
+- hledĂˇ,
 - zapisuje,
-- nebo jinak aktivně řeší.
+- nebo jinak aktivnÄ› Ĺ™eĹˇĂ­.
 
-Každý řádek `Dítě` musí mít jasný vstup, akci dítěte a výsledek.
+KaĹľdĂ˝ Ĺ™Ăˇdek `DĂ­tÄ›` musĂ­ mĂ­t jasnĂ˝ vstup, akci dĂ­tÄ›te a vĂ˝sledek.
 
 ### 2.2 Report
 
-`Report` je samostatné hlášení PAXovi přes vysílačku.
+`Report` je samostatnĂ© hlĂˇĹˇenĂ­ PAXovi pĹ™es vysĂ­laÄŤku.
 
 Report:
-- není nový dějový krok,
-- nevytváří novou herní situaci,
-- pouze komunikuje nebo uzavírá zjištění z předchozího kroku,
-- čísluje se podle kroku, ke kterému patří, např. `6_Report`, `9_Report`.
+- nenĂ­ novĂ˝ dÄ›jovĂ˝ krok,
+- nevytvĂˇĹ™Ă­ novou hernĂ­ situaci,
+- pouze komunikuje nebo uzavĂ­rĂˇ zjiĹˇtÄ›nĂ­ z pĹ™edchozĂ­ho kroku,
+- ÄŤĂ­sluje se podle kroku, ke kterĂ©mu patĹ™Ă­, napĹ™. `6_Report`, `9_Report`.
 
-Report nesmí dítěti dodat novou informaci potřebnou k vyřešení kroku, který už mělo splnit.
+Report nesmĂ­ dĂ­tÄ›ti dodat novou informaci potĹ™ebnou k vyĹ™eĹˇenĂ­ kroku, kterĂ˝ uĹľ mÄ›lo splnit.
 
-Pokud PAX dítěti po Reportu předává novou instrukci nebo informaci, musí být tato informace explicitně zachycena jako vstup následujícího kroku.
+Pokud PAX dĂ­tÄ›ti po Reportu pĹ™edĂˇvĂˇ novou instrukci nebo informaci, musĂ­ bĂ˝t tato informace explicitnÄ› zachycena jako vstup nĂˇsledujĂ­cĂ­ho kroku.
 
 ---
 
-## 3. Krok 1 — Předání mise
+## 3. Krok 1 â€” PĹ™edĂˇnĂ­ mise
 
-Krok 1 se ve všech misích vždy jmenuje přesně:
+Krok 1 se ve vĹˇech misĂ­ch vĹľdy jmenuje pĹ™esnÄ›:
 
-`Předání mise`
+`PĹ™edĂˇnĂ­ mise`
 
-V tomto kroku dítě dostává minimálně tyto tři artefakty, vždy přesně v tomto pořadí:
+V tomto kroku dĂ­tÄ› dostĂˇvĂˇ minimĂˇlnÄ› tyto tĹ™i artefakty, vĹľdy pĹ™esnÄ› v tomto poĹ™adĂ­:
 
-1. Zadání mise
+1. ZadĂˇnĂ­ mise
 2. Protokol mise
-3. Mapa perimetru centrály
+3. Mapa perimetru centrĂˇly
 
-Další artefakty mohou být v kroku 1 přidány podle potřeby konkrétní mise, ale vždy až za těmito třemi.
+DalĹˇĂ­ artefakty mohou bĂ˝t v kroku 1 pĹ™idĂˇny podle potĹ™eby konkrĂ©tnĂ­ mise, ale vĹľdy aĹľ za tÄ›mito tĹ™emi.
 
-### 3.1 Zadání mise
+### 3.1 ZadĂˇnĂ­ mise
 
-Uvádí dítě do situace a vysvětluje, proč je mise potřeba.
+UvĂˇdĂ­ dĂ­tÄ› do situace a vysvÄ›tluje, proÄŤ je mise potĹ™eba.
 
 ### 3.2 Protokol mise
 
-Protokol mise je vždy specifický pro konkrétní misi.
+Protokol mise je vĹľdy specifickĂ˝ pro konkrĂ©tnĂ­ misi.
 
-Není to univerzální formulář použitelný napříč všemi misemi. Je navržen podle konkrétního scénáře, úkolů a informací, které dítě během dané mise získává.
+NenĂ­ to univerzĂˇlnĂ­ formulĂˇĹ™ pouĹľitelnĂ˝ napĹ™Ă­ÄŤ vĹˇemi misemi. Je navrĹľen podle konkrĂ©tnĂ­ho scĂ©nĂˇĹ™e, ĂşkolĹŻ a informacĂ­, kterĂ© dĂ­tÄ› bÄ›hem danĂ© mise zĂ­skĂˇvĂˇ.
 
-Každé místo v Protokolu musí mít jasnou funkci.
+KaĹľdĂ© mĂ­sto v Protokolu musĂ­ mĂ­t jasnou funkci.
 
-Ve scénáři musí být vždy explicitně určeno:
-- v jakém kroku dítě do Protokolu zapisuje,
-- kam přesně zapisuje,
-- co přesně zapisuje nebo označuje,
-- proč je daný zápis potřeba,
-- zda a kdy se tento údaj použije později.
+Ve scĂ©nĂˇĹ™i musĂ­ bĂ˝t vĹľdy explicitnÄ› urÄŤeno:
+- v jakĂ©m kroku dĂ­tÄ› do Protokolu zapisuje,
+- kam pĹ™esnÄ› zapisuje,
+- co pĹ™esnÄ› zapisuje nebo oznaÄŤuje,
+- proÄŤ je danĂ˝ zĂˇpis potĹ™eba,
+- zda a kdy se tento Ăşdaj pouĹľije pozdÄ›ji.
 
-Dítě nesmí být nuceno samo odhadovat, kam má informaci zapsat.
+DĂ­tÄ› nesmĂ­ bĂ˝t nuceno samo odhadovat, kam mĂˇ informaci zapsat.
 
-Protokol má dítě provázet misí a zachycovat pouze informace, které mají význam pro její další průběh nebo závěr.
+Protokol mĂˇ dĂ­tÄ› provĂˇzet misĂ­ a zachycovat pouze informace, kterĂ© majĂ­ vĂ˝znam pro jejĂ­ dalĹˇĂ­ prĹŻbÄ›h nebo zĂˇvÄ›r.
 
-### 3.3 Mapa perimetru centrály
+### 3.3 Mapa perimetru centrĂˇly
 
-Poskytuje prostorový kontext mise a podle potřeby slouží k orientaci nebo práci s konkrétními místy.
-
----
-
-## 4. Logika kroků
-
-Každý krok musí přímo navazovat na předchozí stav mise.
-
-Dítě nesmí přejít k novému závěru, místu nebo akci bez toho, aby k tomu dostalo dostatečný důvod v předchozích krocích.
-
-Každý krok musí mít:
-- jasný vstup,
-- konkrétní akci dítěte,
-- jednoznačný výsledek,
-- návaznost na další krok.
-
-Krok nesmí existovat pouze jako samostatná atrakce bez vlivu na další průběh mise.
+Poskytuje prostorovĂ˝ kontext mise a podle potĹ™eby slouĹľĂ­ k orientaci nebo prĂˇci s konkrĂ©tnĂ­mi mĂ­sty.
 
 ---
 
-## 5. Řešitelnost
+## 4. Logika krokĹŻ
 
-Dítě musí mít všechny informace potřebné k vyřešení úkolu dříve, než má řešení provést.
+KaĹľdĂ˝ krok musĂ­ pĹ™Ă­mo navazovat na pĹ™edchozĂ­ stav mise.
 
-Obtížnost má vznikat z přemýšlení, pozorování, porovnávání nebo fyzické akce, ne z nejasného zadání nebo chybějících informací.
+DĂ­tÄ› nesmĂ­ pĹ™ejĂ­t k novĂ©mu zĂˇvÄ›ru, mĂ­stu nebo akci bez toho, aby k tomu dostalo dostateÄŤnĂ˝ dĹŻvod v pĹ™edchozĂ­ch krocĂ­ch.
 
-Správné řešení nesmí záviset na náhodném tipu.
+KaĹľdĂ˝ krok musĂ­ mĂ­t:
+- jasnĂ˝ vstup,
+- konkrĂ©tnĂ­ akci dĂ­tÄ›te,
+- jednoznaÄŤnĂ˝ vĂ˝sledek,
+- nĂˇvaznost na dalĹˇĂ­ krok.
 
-Pokud existuje více logicky správných řešení, mise s tím musí počítat.
+Krok nesmĂ­ existovat pouze jako samostatnĂˇ atrakce bez vlivu na dalĹˇĂ­ prĹŻbÄ›h mise.
+
+---
+
+## 5. ĹeĹˇitelnost
+
+DĂ­tÄ› musĂ­ mĂ­t vĹˇechny informace potĹ™ebnĂ© k vyĹ™eĹˇenĂ­ Ăşkolu dĹ™Ă­ve, neĹľ mĂˇ Ĺ™eĹˇenĂ­ provĂ©st.
+
+ObtĂ­Ĺľnost mĂˇ vznikat z pĹ™emĂ˝ĹˇlenĂ­, pozorovĂˇnĂ­, porovnĂˇvĂˇnĂ­ nebo fyzickĂ© akce, ne z nejasnĂ©ho zadĂˇnĂ­ nebo chybÄ›jĂ­cĂ­ch informacĂ­.
+
+SprĂˇvnĂ© Ĺ™eĹˇenĂ­ nesmĂ­ zĂˇviset na nĂˇhodnĂ©m tipu.
+
+Pokud existuje vĂ­ce logicky sprĂˇvnĂ˝ch Ĺ™eĹˇenĂ­, mise s tĂ­m musĂ­ poÄŤĂ­tat.
 
 ---
 
 ## 6. Artefakty
 
-Každý nový artefakt musí mít konkrétní herní funkci.
+KaĹľdĂ˝ novĂ˝ artefakt musĂ­ mĂ­t konkrĂ©tnĂ­ hernĂ­ funkci.
 
-Artefakt musí alespoň jedno z následujícího:
-- předávat novou informaci,
-- umožnit dítěti provést akci,
-- zaznamenat výsledek,
-- sloužit jako důkaz,
-- umožnit ověření řešení.
+Artefakt musĂ­ alespoĹ jedno z nĂˇsledujĂ­cĂ­ho:
+- pĹ™edĂˇvat novou informaci,
+- umoĹľnit dĂ­tÄ›ti provĂ©st akci,
+- zaznamenat vĂ˝sledek,
+- slouĹľit jako dĹŻkaz,
+- umoĹľnit ovÄ›Ĺ™enĂ­ Ĺ™eĹˇenĂ­.
 
-Artefakt se nepřidává pouze jako dekorace nebo pro zvýšení počtu předmětů v misi.
+Artefakt se nepĹ™idĂˇvĂˇ pouze jako dekorace nebo pro zvĂ˝ĹˇenĂ­ poÄŤtu pĹ™edmÄ›tĹŻ v misi.
 
 ---
 
-## 7. Fyzický svět a příběhová věrohodnost
+## 7. FyzickĂ˝ svÄ›t a pĹ™Ă­bÄ›hovĂˇ vÄ›rohodnost
 
-Vše, co dítě v reálném prostoru najde nebo pozoruje, musí mít uvěřitelné vysvětlení v rámci příběhu.
+VĹˇe, co dĂ­tÄ› v reĂˇlnĂ©m prostoru najde nebo pozoruje, musĂ­ mĂ­t uvÄ›Ĺ™itelnĂ© vysvÄ›tlenĂ­ v rĂˇmci pĹ™Ă­bÄ›hu.
 
-Uměle připravené značky, obrázky, stopy, kamery nebo jiné prvky nesmí působit jako herní pomůcka vložená bez důvodu.
+UmÄ›le pĹ™ipravenĂ© znaÄŤky, obrĂˇzky, stopy, kamery nebo jinĂ© prvky nesmĂ­ pĹŻsobit jako hernĂ­ pomĹŻcka vloĹľenĂˇ bez dĹŻvodu.
 
-Pokud něco existuje pouze proto, aby dítě mohlo vyřešit úkol, musí zároveň existovat důvod, proč se to nachází právě v daném místě a podobě.
+Pokud nÄ›co existuje pouze proto, aby dĂ­tÄ› mohlo vyĹ™eĹˇit Ăşkol, musĂ­ zĂˇroveĹ existovat dĹŻvod, proÄŤ se to nachĂˇzĂ­ prĂˇvÄ› v danĂ©m mĂ­stÄ› a podobÄ›.
 
 ---
 
 ## 8. PAX a komunikace
 
-PAX je řídicí kontaktní postava mise.
+PAX je Ĺ™Ă­dicĂ­ kontaktnĂ­ postava mise.
 
-Komunikace s PAXem probíhá přes vysílačku a má vždy jasnou funkci:
-- zadat další úkol,
-- potvrdit přijetí reportu,
-- předat novou informaci,
-- reagovat na výsledek dítěte,
-- posunout příběh dál.
+Komunikace s PAXem probĂ­hĂˇ pĹ™es vysĂ­laÄŤku a mĂˇ vĹľdy jasnou funkci:
+- zadat dalĹˇĂ­ Ăşkol,
+- potvrdit pĹ™ijetĂ­ reportu,
+- pĹ™edat novou informaci,
+- reagovat na vĂ˝sledek dĂ­tÄ›te,
+- posunout pĹ™Ă­bÄ›h dĂˇl.
 
-PAX nesmí nahrazovat samotné řešení úkolu dítěte.
+PAX nesmĂ­ nahrazovat samotnĂ© Ĺ™eĹˇenĂ­ Ăşkolu dĂ­tÄ›te.
 
-Pokud dítě něco zjistí samo, PAX mu nesmí tutéž informaci sdělit dřív, než ji dítě objeví.
+Pokud dĂ­tÄ› nÄ›co zjistĂ­ samo, PAX mu nesmĂ­ tutĂ©Ĺľ informaci sdÄ›lit dĹ™Ă­v, neĹľ ji dĂ­tÄ› objevĂ­.
 
-Pokud PAX předává novou informaci potřebnou pro další krok, musí být tato informace explicitně uvedena jako vstup následujícího kroku.
+Pokud PAX pĹ™edĂˇvĂˇ novou informaci potĹ™ebnou pro dalĹˇĂ­ krok, musĂ­ bĂ˝t tato informace explicitnÄ› uvedena jako vstup nĂˇsledujĂ­cĂ­ho kroku.
 
-Report dítěte směrem k PAXovi slouží ke komunikaci výsledku nebo zjištění, ne jako skrytý mechanismus pro doplnění chybějící logiky.
+Report dĂ­tÄ›te smÄ›rem k PAXovi slouĹľĂ­ ke komunikaci vĂ˝sledku nebo zjiĹˇtÄ›nĂ­, ne jako skrytĂ˝ mechanismus pro doplnÄ›nĂ­ chybÄ›jĂ­cĂ­ logiky.
 
-PAX má dítě vést, ne řešit úkol za něj.
+PAX mĂˇ dĂ­tÄ› vĂ©st, ne Ĺ™eĹˇit Ăşkol za nÄ›j.
 
 ---
 
-## 9. Obtížnost a věková přiměřenost
+## 9. ObtĂ­Ĺľnost a vÄ›kovĂˇ pĹ™imÄ›Ĺ™enost
 
-Všechny mise M!SE jsou určeny dětem ve věku **4–5 let**.
+VĹˇechny mise M!SE jsou urÄŤeny dÄ›tem ve vÄ›ku **4â€“5 let**.
 
-Obtížnost úkolu má vznikat z činnosti dítěte, ne z nejasnosti systému.
+ObtĂ­Ĺľnost Ăşkolu mĂˇ vznikat z ÄŤinnosti dĂ­tÄ›te, ne z nejasnosti systĂ©mu.
 
-Vhodné zdroje obtížnosti:
-- pozorné pozorování,
-- porovnávání více možností,
-- skládání informací dohromady,
-- jednoduchá dedukce,
-- práce s pořadím,
+VhodnĂ© zdroje obtĂ­Ĺľnosti:
+- pozornĂ© pozorovĂˇnĂ­,
+- porovnĂˇvĂˇnĂ­ vĂ­ce moĹľnostĂ­,
+- sklĂˇdĂˇnĂ­ informacĂ­ dohromady,
+- jednoduchĂˇ dedukce,
+- prĂˇce s poĹ™adĂ­m,
 - orientace v prostoru,
-- fyzická manipulace,
-- hledání rozdílů nebo shod.
+- fyzickĂˇ manipulace,
+- hledĂˇnĂ­ rozdĂ­lĹŻ nebo shod.
 
-Nevhodné zdroje obtížnosti:
-- nejasné zadání,
-- chybějící informace,
-- nutnost uhodnout záměr autora,
-- příliš mnoho možností bez vodítka,
+NevhodnĂ© zdroje obtĂ­Ĺľnosti:
+- nejasnĂ© zadĂˇnĂ­,
+- chybÄ›jĂ­cĂ­ informace,
+- nutnost uhodnout zĂˇmÄ›r autora,
+- pĹ™Ă­liĹˇ mnoho moĹľnostĂ­ bez vodĂ­tka,
 - skok v logice,
-- úkol, jehož správnost nelze ověřit.
+- Ăşkol, jehoĹľ sprĂˇvnost nelze ovÄ›Ĺ™it.
 
-Každý úkol musí mít řešení, ke kterému se dítě může dostat z dostupných informací.
+KaĹľdĂ˝ Ăşkol musĂ­ mĂ­t Ĺ™eĹˇenĂ­, ke kterĂ©mu se dĂ­tÄ› mĹŻĹľe dostat z dostupnĂ˝ch informacĂ­.
 
-Pokud je úkol obtížný, musí být možné obtížnost snížit vodítkem, aniž by bylo nutné změnit samotné řešení.
+Pokud je Ăşkol obtĂ­ĹľnĂ˝, musĂ­ bĂ˝t moĹľnĂ© obtĂ­Ĺľnost snĂ­Ĺľit vodĂ­tkem, aniĹľ by bylo nutnĂ© zmÄ›nit samotnĂ© Ĺ™eĹˇenĂ­.
 
-Dítě má mít pocit, že na řešení přišlo samo.
-
----
-
-## 10. Ověření správnosti a dokončení kroku
-
-Každý krok musí mít jednoznačně definováno, podle čeho poznáme, že je hotový.
-
-Do sloupce `Co je hotový krok` se zapisuje konkrétní stav nebo výsledek, ne obecná formulace typu `dítě úkol splnilo`.
-
-Správné dokončení kroku musí být ověřitelné alespoň jedním z těchto způsobů:
-- dítě získá konkrétní výsledek,
-- správně identifikuje objekt nebo možnost,
-- fyzicky sestaví nebo umístí správné řešení,
-- zapíše správné zjištění do Protokolu mise,
-- předá správný Report,
-- vytvoří stav v prostoru, který lze zkontrolovat.
-
-Pokud může dítě udělat chybu, scénář musí vědět:
-- jak se chyba projeví,
-- zda ji dítě může samo odhalit,
-- případně jak dostane další vodítko.
-
-Chyba dítěte nesmí vést do slepé uličky, ze které se bez zásahu dospělého nedá pokračovat.
-
-Ověření nemá být založené jen na tom, že PAX řekne `správně`. Pokud to jde, má správnost vyplynout z herního systému nebo fyzického výsledku.
+DĂ­tÄ› mĂˇ mĂ­t pocit, Ĺľe na Ĺ™eĹˇenĂ­ pĹ™iĹˇlo samo.
 
 ---
 
-## 11. Nové artefakty na vstupu
+## 10. OvÄ›Ĺ™enĂ­ sprĂˇvnosti a dokonÄŤenĂ­ kroku
 
-Do sloupce `Nové artefakty na vstupu` se zapisují pouze artefakty, které dítě v daném kroku nově dostává, nachází nebo zpřístupňuje.
+KaĹľdĂ˝ krok musĂ­ mĂ­t jednoznaÄŤnÄ› definovĂˇno, podle ÄŤeho poznĂˇme, Ĺľe je hotovĂ˝.
 
-Nezapisují se sem artefakty, které už dítě získalo v některém z předchozích kroků a pouze je znovu používá.
+Do sloupce `Co je hotovĂ˝ krok` se zapisuje konkrĂ©tnĂ­ stav nebo vĂ˝sledek, ne obecnĂˇ formulace typu `dĂ­tÄ› Ăşkol splnilo`.
 
-U každého nového artefaktu musí být jasné:
+SprĂˇvnĂ© dokonÄŤenĂ­ kroku musĂ­ bĂ˝t ovÄ›Ĺ™itelnĂ© alespoĹ jednĂ­m z tÄ›chto zpĹŻsobĹŻ:
+- dĂ­tÄ› zĂ­skĂˇ konkrĂ©tnĂ­ vĂ˝sledek,
+- sprĂˇvnÄ› identifikuje objekt nebo moĹľnost,
+- fyzicky sestavĂ­ nebo umĂ­stĂ­ sprĂˇvnĂ© Ĺ™eĹˇenĂ­,
+- zapĂ­Ĺˇe sprĂˇvnĂ© zjiĹˇtÄ›nĂ­ do Protokolu mise,
+- pĹ™edĂˇ sprĂˇvnĂ˝ Report,
+- vytvoĹ™Ă­ stav v prostoru, kterĂ˝ lze zkontrolovat.
+
+Pokud mĹŻĹľe dĂ­tÄ› udÄ›lat chybu, scĂ©nĂˇĹ™ musĂ­ vÄ›dÄ›t:
+- jak se chyba projevĂ­,
+- zda ji dĂ­tÄ› mĹŻĹľe samo odhalit,
+- pĹ™Ă­padnÄ› jak dostane dalĹˇĂ­ vodĂ­tko.
+
+Chyba dĂ­tÄ›te nesmĂ­ vĂ©st do slepĂ© uliÄŤky, ze kterĂ© se bez zĂˇsahu dospÄ›lĂ©ho nedĂˇ pokraÄŤovat.
+
+OvÄ›Ĺ™enĂ­ nemĂˇ bĂ˝t zaloĹľenĂ© jen na tom, Ĺľe PAX Ĺ™ekne `sprĂˇvnÄ›`. Pokud to jde, mĂˇ sprĂˇvnost vyplynout z hernĂ­ho systĂ©mu nebo fyzickĂ©ho vĂ˝sledku.
+
+---
+
+## 11. NovĂ© artefakty na vstupu
+
+Do sloupce `NovĂ© artefakty na vstupu` se zapisujĂ­ pouze artefakty, kterĂ© dĂ­tÄ› v danĂ©m kroku novÄ› dostĂˇvĂˇ, nachĂˇzĂ­ nebo zpĹ™Ă­stupĹuje.
+
+NezapisujĂ­ se sem artefakty, kterĂ© uĹľ dĂ­tÄ› zĂ­skalo v nÄ›kterĂ©m z pĹ™edchozĂ­ch krokĹŻ a pouze je znovu pouĹľĂ­vĂˇ.
+
+U kaĹľdĂ©ho novĂ©ho artefaktu musĂ­ bĂ˝t jasnĂ©:
 - odkud se bere,
-- proč ho dítě dostává právě v tomto kroku,
-- k čemu slouží,
-- zda je fyzický, tiskový, prostorový nebo jiný.
+- proÄŤ ho dĂ­tÄ› dostĂˇvĂˇ prĂˇvÄ› v tomto kroku,
+- k ÄŤemu slouĹľĂ­,
+- zda je fyzickĂ˝, tiskovĂ˝, prostorovĂ˝ nebo jinĂ˝.
 
-Pokud krok žádný nový artefakt nepřináší, uvede se `—`.
+Pokud krok ĹľĂˇdnĂ˝ novĂ˝ artefakt nepĹ™inĂˇĹˇĂ­, uvede se `â€”`.
 
-Artefakt nesmí být do kroku přidán jen proto, že je potřeba něco nového. Musí být přímo navázaný na řešení, informaci nebo akci dítěte.
+Artefakt nesmĂ­ bĂ˝t do kroku pĹ™idĂˇn jen proto, Ĺľe je potĹ™eba nÄ›co novĂ©ho. MusĂ­ bĂ˝t pĹ™Ă­mo navĂˇzanĂ˝ na Ĺ™eĹˇenĂ­, informaci nebo akci dĂ­tÄ›te.
 
-Pokud je artefakt poprvé použit v kroku, ale nebyl dříve předán, nalezen nebo zpřístupněn, jde o chybu scénáře.
+Pokud je artefakt poprvĂ© pouĹľit v kroku, ale nebyl dĹ™Ă­ve pĹ™edĂˇn, nalezen nebo zpĹ™Ă­stupnÄ›n, jde o chybu scĂ©nĂˇĹ™e.
 
 ---
 
-## 12. Co potřebuje dítě k vyřešení kroku
+## 12. Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku
 
-Do sloupce `Co potřebuje dítě k vyřešení kroku` se zapisují všechny informace, pomůcky a předchozí zjištění, bez kterých dítě nemůže krok správně vyřešit.
+Do sloupce `Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku` se zapisujĂ­ vĹˇechny informace, pomĹŻcky a pĹ™edchozĂ­ zjiĹˇtÄ›nĂ­, bez kterĂ˝ch dĂ­tÄ› nemĹŻĹľe krok sprĂˇvnÄ› vyĹ™eĹˇit.
 
-Může jít například o:
-- informaci získanou v předchozím kroku,
-- zápis v Protokolu mise,
-- artefakt, který už dítě má,
-- pozorování z reálného prostoru,
+MĹŻĹľe jĂ­t napĹ™Ă­klad o:
+- informaci zĂ­skanou v pĹ™edchozĂ­m kroku,
+- zĂˇpis v Protokolu mise,
+- artefakt, kterĂ˝ uĹľ dĂ­tÄ› mĂˇ,
+- pozorovĂˇnĂ­ z reĂˇlnĂ©ho prostoru,
 - instrukci od PAXe,
-- pravidlo nebo klíč potřebný k řešení.
+- pravidlo nebo klĂ­ÄŤ potĹ™ebnĂ˝ k Ĺ™eĹˇenĂ­.
 
-Tento sloupec musí umožnit rychlou kontrolu, zda je krok skutečně řešitelný.
+Tento sloupec musĂ­ umoĹľnit rychlou kontrolu, zda je krok skuteÄŤnÄ› Ĺ™eĹˇitelnĂ˝.
 
-Pokud je zde uvedena informace nebo artefakt, musí být dohledatelné, kde a kdy je dítě získalo.
+Pokud je zde uvedena informace nebo artefakt, musĂ­ bĂ˝t dohledatelnĂ©, kde a kdy je dĂ­tÄ› zĂ­skalo.
 
-Pokud něco potřebné k řešení není před krokem dostupné, jde o chybu scénáře.
+Pokud nÄ›co potĹ™ebnĂ© k Ĺ™eĹˇenĂ­ nenĂ­ pĹ™ed krokem dostupnĂ©, jde o chybu scĂ©nĂˇĹ™e.
 
-Do tohoto sloupce nepatří samotné řešení kroku, ale pouze podmínky a informace, které dítě k řešení potřebuje.
+Do tohoto sloupce nepatĹ™Ă­ samotnĂ© Ĺ™eĹˇenĂ­ kroku, ale pouze podmĂ­nky a informace, kterĂ© dĂ­tÄ› k Ĺ™eĹˇenĂ­ potĹ™ebuje.
 
 ---
 
-## 13. Průvodce, PAX a pomoc dospělého
+## 13. PrĹŻvodce, PAX a pomoc dospÄ›lĂ©ho
 
-- M!SE je pro děti 4–5 let; dítě nemusí samostatně číst ani psát. Dospělý text předčítá a zapisuje jen podle dítětem vybraného obrázku, značky nebo výsledku.
-- Dospělý primárně vede hru na dálku jako PAX, aby dítě mělo pocit samostatné mise. U luštění, stavby a bezpečného přesunu je přítomen a prakticky pomáhá.
-- Každá mise začíná nahrávkou se znělkou M!SE a úvodním monologem PAXe. Poté roli PAXe přebírá průvodce; vysílačka může být skutečná i herní.
-- Box pro průvodce obsahuje scénář, instalační plán, později předávané artefakty, doslovnou PAXovu řeč, volné nápovědy a podmínky dokončení.
-- Průvodce pomáhá otázkami a návratem k důkazu. Nesmí uznat řešení, které podklady nedokládají.
+- M!SE je pro dÄ›ti 4â€“5 let; dĂ­tÄ› nemusĂ­ samostatnÄ› ÄŤĂ­st ani psĂˇt. DospÄ›lĂ˝ text pĹ™edÄŤĂ­tĂˇ a zapisuje jen podle dĂ­tÄ›tem vybranĂ©ho obrĂˇzku, znaÄŤky nebo vĂ˝sledku.
+- DospÄ›lĂ˝ primĂˇrnÄ› vede hru na dĂˇlku jako PAX, aby dĂ­tÄ› mÄ›lo pocit samostatnĂ© mise. U luĹˇtÄ›nĂ­, stavby a bezpeÄŤnĂ©ho pĹ™esunu je pĹ™Ă­tomen a prakticky pomĂˇhĂˇ.
+- KaĹľdĂˇ mise zaÄŤĂ­nĂˇ nahrĂˇvkou se znÄ›lkou M!SE a ĂşvodnĂ­m monologem PAXe. PotĂ© roli PAXe pĹ™ebĂ­rĂˇ prĹŻvodce; vysĂ­laÄŤka mĹŻĹľe bĂ˝t skuteÄŤnĂˇ i hernĂ­.
+- Box pro prĹŻvodce obsahuje scĂ©nĂˇĹ™, instalaÄŤnĂ­ plĂˇn, pozdÄ›ji pĹ™edĂˇvanĂ© artefakty, doslovnou PAXovu Ĺ™eÄŤ, volnĂ© nĂˇpovÄ›dy a podmĂ­nky dokonÄŤenĂ­.
+- PrĹŻvodce pomĂˇhĂˇ otĂˇzkami a nĂˇvratem k dĹŻkazu. NesmĂ­ uznat Ĺ™eĹˇenĂ­, kterĂ© podklady nedoklĂˇdajĂ­.
 
-## 14. Příprava, rozsah a podklady
+## 14. PĹ™Ă­prava, rozsah a podklady
 
-- Instalace využívá jen vybavení boxu a běžnou rovnou plochu, stůl nebo židli. Mise musí jít upravit pro interiér i venek; další domácí vybavení nesmí být předpokladem.
-- Všechny mise cílí na 60–90 minut, mají jednu hlavní fyzickou HERO aktivitu přibližně 15–20 minut a zanechají dítěti fyzickou památku.
-- Do ustálení misí připravujeme pouze textové podklady. Grafické soubory vzniknou až potom.
+- Instalace vyuĹľĂ­vĂˇ jen vybavenĂ­ boxu a bÄ›Ĺľnou rovnou plochu, stĹŻl nebo Ĺľidli. Mise musĂ­ jĂ­t upravit pro interiĂ©r i venek; dalĹˇĂ­ domĂˇcĂ­ vybavenĂ­ nesmĂ­ bĂ˝t pĹ™edpokladem.
+- VĹˇechny mise cĂ­lĂ­ na 60â€“90 minut, majĂ­ jednu hlavnĂ­ fyzickou HERO aktivitu pĹ™ibliĹľnÄ› 15â€“20 minut a zanechajĂ­ dĂ­tÄ›ti fyzickou pamĂˇtku.
+- Do ustĂˇlenĂ­ misĂ­ pĹ™ipravujeme pouze textovĂ© podklady. GrafickĂ© soubory vzniknou aĹľ potom.
 
-## 15. Typy textů ve scénáři
+## 15. Typy textĹŻ ve scĂ©nĂˇĹ™i
 
-Texty ve scénáři jsou označené těmito labely:
+Texty ve scĂ©nĂˇĹ™i jsou oznaÄŤenĂ© tÄ›mito labely:
 
-- **PAX** — předmluvený text, který se spouští pomocí QR kódu.
-- **Operátor mise** — text, který Operátor mise čte dítěti doslova.
-- **Poznámky** — poznámky a rady k danému kroku pro Operátora mise.
-- **Podmínky dokončení** — co je třeba splnit k úspěšnému dokončení kroku.
+- **PAX** â€” pĹ™edmluvenĂ˝ text, kterĂ˝ se spouĹˇtĂ­ pomocĂ­ QR kĂłdu.
+- **OperĂˇtor mise** â€” text, kterĂ˝ OperĂˇtor mise ÄŤte dĂ­tÄ›ti doslova.
+- **PoznĂˇmky** â€” poznĂˇmky a rady k danĂ©mu kroku pro OperĂˇtora mise.
+- **PodmĂ­nky dokonÄŤenĂ­** â€” co je tĹ™eba splnit k ĂşspÄ›ĹˇnĂ©mu dokonÄŤenĂ­ kroku.
 
-Label vždy určuje, zda text slyší dítě, nebo slouží pouze Operátorovi mise.
+Label vĹľdy urÄŤuje, zda text slyĹˇĂ­ dĂ­tÄ›, nebo slouĹľĂ­ pouze OperĂˇtorovi mise.
+

@@ -66,7 +66,7 @@ zĂ­tko.
 
 ---
 
-zdrojem je [tabulka scĂ©nĂˇĹ™e](SCENAR-TABULKA.md).
+zdrojem je [tabulka scĂ©nĂˇĹ™e](SCENAR-MISE.md).
 ÄŚĂ­sla krokĹŻ oznaÄŤujĂ­ hernĂ­ poĹ™adĂ­; reporty zĹŻstĂˇvajĂ­ navĂˇzanĂ© na pĹ™Ă­sluĹˇnĂ˝ krok.
 
 ---
@@ -577,4 +577,5 @@ NejvÄ›tĹˇĂ­ otevĹ™enĂ˝ bod je teÄŹ uĹľ prakticky jen pĹ™esnĂ
 - **1_3 Mapa perimetru â€” NEOVÄšĹENO:** zdroj vĂ˝slovnÄ› uvĂˇdĂ­ chybÄ›jĂ­cĂ­ aktivnĂ­ funkci. OvÄ›Ĺ™it jejĂ­ prostorovĂ˝ ĂşÄŤel v souladu s globĂˇlnĂ­mi pravidly; standardnĂ­ pĹ™edĂˇnĂ­ zachovĂˇno.
 - **VysĂ­laÄŤka a razĂ­tkovĂˇnĂ­ â€” TODO:** urÄŤit dostupnost vysĂ­laÄŤky a zda razĂ­tko obsahuje barvu, nebo potĹ™ebuje poduĹˇku.
 - **NĂˇzev specializace â€” UZAVĹENO (11. 9. 2026):** schvĂˇlenĂ˝ nĂˇzev je LOVEC POKLADĹ®.
+
 

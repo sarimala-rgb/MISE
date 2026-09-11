@@ -1,88 +1,89 @@
-# Ustálená rozhodnutí projektu
+﻿# UstĂˇlenĂˇ rozhodnutĂ­ projektu
 
-Tento soubor obsahuje rozhodnutí zachycená v dostupném projektovém kontextu.
+Tento soubor obsahuje rozhodnutĂ­ zachycenĂˇ v dostupnĂ©m projektovĂ©m kontextu.
 
 ---
 
-## 1. Cílový věk
+## 1. CĂ­lovĂ˝ vÄ›k
 
-Všechny mise M!SE jsou určeny dětem ve věku **4–5 let**.
+VĹˇechny mise M!SE jsou urÄŤeny dÄ›tem ve vÄ›ku **4â€“5 let**.
 
 ---
 
 ## 2. Terminologie
 
-- Původní označení „složka mise“ bylo změněno na **Zadání mise**.
-- Centrální kontaktní postava / hlas je označován jako **PAX**.
-- Závěrečná ocenění mohou mít podobu badge / označení role, např. u Dračí mise „Strážce draků“.
+- PĹŻvodnĂ­ oznaÄŤenĂ­ â€žsloĹľka miseâ€ś bylo zmÄ›nÄ›no na **ZadĂˇnĂ­ mise**.
+- CentrĂˇlnĂ­ kontaktnĂ­ postava / hlas je oznaÄŤovĂˇn jako **PAX**.
+- ZĂˇvÄ›reÄŤnĂˇ ocenÄ›nĂ­ mohou mĂ­t podobu badge / oznaÄŤenĂ­ role, napĹ™. u DraÄŤĂ­ mise â€žStrĂˇĹľce drakĹŻâ€ś.
 
 ---
 
-## 3. Vizuální identita
+## 3. VizuĂˇlnĂ­ identita
 
-Známé rozhodnutí:
-- logo M!SE musí přesně respektovat schválený vizuální vzor,
-- razítko / pečeť bylo upravováno směrem k sofistikovanější pečeti, nikoli vzhledu „zátky od piva“,
-- u dokumentů byly odstraněny pomocné sub-popisky typu „popis situace“,
-- boxy a vnější okraj mají lícovat a mít spíše hranaté obrysy.
+ZnĂˇmĂ© rozhodnutĂ­:
+- logo M!SE musĂ­ pĹ™esnÄ› respektovat schvĂˇlenĂ˝ vizuĂˇlnĂ­ vzor,
+- razĂ­tko / peÄŤeĹĄ bylo upravovĂˇno smÄ›rem k sofistikovanÄ›jĹˇĂ­ peÄŤeti, nikoli vzhledu â€žzĂˇtky od pivaâ€ś,
+- u dokumentĹŻ byly odstranÄ›ny pomocnĂ© sub-popisky typu â€žpopis situaceâ€ś,
+- boxy a vnÄ›jĹˇĂ­ okraj majĂ­ lĂ­covat a mĂ­t spĂ­Ĺˇe hranatĂ© obrysy.
 
-Konkrétní finální grafické soubory nejsou součástí tohoto starteru, protože nejsou v aktivním filesystemu této konverzace.
-
----
-
-## 4. Důležité pracovní pravidlo
-
-Chat není dlouhodobý zdroj pravdy. Jakmile je rozhodnutí schváleno, má být propsáno do tohoto repa.
-
+KonkrĂ©tnĂ­ finĂˇlnĂ­ grafickĂ© soubory nejsou souÄŤĂˇstĂ­ tohoto starteru, protoĹľe nejsou v aktivnĂ­m filesystemu tĂ©to konverzace.
 
 ---
 
-## 5. Čitelná podoba scénářů
+## 4. DĹŻleĹľitĂ© pracovnĂ­ pravidlo
 
-MISE.md a SCENAR-TABULKA.md jsou samostatně upravované dokumenty. Na konci práce se provádí ruční kontrola jejich souladu.
+Chat nenĂ­ dlouhodobĂ˝ zdroj pravdy. Jakmile je rozhodnutĂ­ schvĂˇleno, mĂˇ bĂ˝t propsĂˇno do tohoto repa.
+
 
 ---
 
-## 6. Schválené specializace
+## 5. ÄŚitelnĂˇ podoba scĂ©nĂˇĹ™ĹŻ
 
-Schváleno uživatelem 11. 9. 2026:
+MISE.md a SCENAR-MISE.md jsou samostatnÄ› upravovanĂ© dokumenty. Na konci prĂˇce se provĂˇdĂ­ ruÄŤnĂ­ kontrola jejich souladu.
+
+---
+
+## 6. SchvĂˇlenĂ© specializace
+
+SchvĂˇleno uĹľivatelem 11. 9. 2026:
 
 1. **PALEONTOLOG**
-2. **STRÁŽCE DRAKŮ**
-3. **LOVEC POKLADŮ**
-4. **KONSTRUKTÉR**
-5. **TAJNÝ AGENT**
+2. **STRĂĹ˝CE DRAKĹ®**
+3. **LOVEC POKLADĹ®**
+4. **KONSTRUKTĂ‰R**
+5. **TAJNĂť AGENT**
 
-Pirátská specializace je sjednocena na množné číslo Lovec pokladů.
-Schválené názvy jednotlivých misí jsou uvedeny v sekci 7.
+PirĂˇtskĂˇ specializace je sjednocena na mnoĹľnĂ© ÄŤĂ­slo Lovec pokladĹŻ.
+SchvĂˇlenĂ© nĂˇzvy jednotlivĂ˝ch misĂ­ jsou uvedeny v sekci 7.
 ---
 
-## 7. Schválené názvy misí
+## 7. SchvĂˇlenĂ© nĂˇzvy misĂ­
 
-Schváleno uživatelem 11. 9. 2026:
+SchvĂˇleno uĹľivatelem 11. 9. 2026:
 
-- **Tajemství dávných obrů** — specializace PALEONTOLOG.
-- **Po stopách draka** — specializace STRÁŽCE DRAKŮ.
-- **Tajemství kapitánovy pečeti** — specializace LOVEC POKLADŮ.
-- **Operace ticho** — specializace TAJNÝ AGENT.
+- **TajemstvĂ­ dĂˇvnĂ˝ch obrĹŻ** â€” specializace PALEONTOLOG.
+- **Po stopĂˇch draka** â€” specializace STRĂĹ˝CE DRAKĹ®.
+- **TajemstvĂ­ kapitĂˇnovy peÄŤeti** â€” specializace LOVEC POKLADĹ®.
+- **Operace ticho** â€” specializace TAJNĂť AGENT.
 
-- **Operace Skalní orel** — specializace KONSTRUKTÉR.
+- **Operace SkalnĂ­ orel** â€” specializace KONSTRUKTĂ‰R.
 
-Názvy všech pěti misí jsou schválené. Kódy misí zůstávají TODO.
+NĂˇzvy vĹˇech pÄ›ti misĂ­ jsou schvĂˇlenĂ©. KĂłdy misĂ­ zĹŻstĂˇvajĂ­ TODO.
 ---
 
-## 8. Schválené vedení misí
+## 8. SchvĂˇlenĂ© vedenĂ­ misĂ­
 
-Schváleno uživatelem 11. 9. 2026:
+SchvĂˇleno uĹľivatelem 11. 9. 2026:
 
-- Rodič/průvodce hraje PAXe. Úvod každé mise tvoří nahrávka se znělkou M!SE a monologem PAXe; potom vede hru průvodce vysílačkou skutečnou nebo herní.
-- Každá mise má hlavní box pro dítě a box pro průvodce s instalačním plánem, scénářem, PAXovou řečí, nápovědami, podmínkami hotového kroku a později předávanými artefakty.
-- Dospělý čte a podle volby dítěte zapisuje; dítě rozhoduje a provádí činnost. U konstrukce a luštění je praktická pomoc dospělého očekávaná.
-- Mise se instalují doma nebo venku bez specifického vybavení nad běžný stůl či židli.
-- Cíl délky je 60–90 minut, jedna HERO fyzická aktivita 15–20 minut a fyzická památka z každé mise.
-- Do ustálení scénářů se připravují pouze textové podklady.
+- RodiÄŤ/prĹŻvodce hraje PAXe. Ăšvod kaĹľdĂ© mise tvoĹ™Ă­ nahrĂˇvka se znÄ›lkou M!SE a monologem PAXe; potom vede hru prĹŻvodce vysĂ­laÄŤkou skuteÄŤnou nebo hernĂ­.
+- KaĹľdĂˇ mise mĂˇ hlavnĂ­ box pro dĂ­tÄ› a box pro prĹŻvodce s instalaÄŤnĂ­m plĂˇnem, scĂ©nĂˇĹ™em, PAXovou Ĺ™eÄŤĂ­, nĂˇpovÄ›dami, podmĂ­nkami hotovĂ©ho kroku a pozdÄ›ji pĹ™edĂˇvanĂ˝mi artefakty.
+- DospÄ›lĂ˝ ÄŤte a podle volby dĂ­tÄ›te zapisuje; dĂ­tÄ› rozhoduje a provĂˇdĂ­ ÄŤinnost. U konstrukce a luĹˇtÄ›nĂ­ je praktickĂˇ pomoc dospÄ›lĂ©ho oÄŤekĂˇvanĂˇ.
+- Mise se instalujĂ­ doma nebo venku bez specifickĂ©ho vybavenĂ­ nad bÄ›ĹľnĂ˝ stĹŻl ÄŤi Ĺľidli.
+- CĂ­l dĂ©lky je 60â€“90 minut, jedna HERO fyzickĂˇ aktivita 15â€“20 minut a fyzickĂˇ pamĂˇtka z kaĹľdĂ© mise.
+- Do ustĂˇlenĂ­ scĂ©nĂˇĹ™ĹŻ se pĹ™ipravujĂ­ pouze textovĂ© podklady.
 
-## 9. Schválené dějové vazby
+## 9. SchvĂˇlenĂ© dÄ›jovĂ© vazby
 
-- **Po stopách draka:** člověk vstoupil, založil požár, drak k němu šel hasit a člověk mezitím hledal hnízdo, ale drak se vrátil dřív. U člověka jsou instrukce k přepravě vejce a poznámky o vylákání draka, kde je zvýrazněn oheň. Bezpečnostní záznam dokládá kompromitaci sektoru; přesun vejce povoluje nouzový protokol a PAX až po splnění podmínek.
-- **Tajemství kapitánovy pečeti:** první schránku s falešným razítkem a puzzle připravil kapitán jako zkoušku. Puzzle se najde už při otevření schránky, řeší se až po ověření padělku. Neexistuje padělatel, falešné dno ani přesouvání mezi schránkami.
+- **Po stopĂˇch draka:** ÄŤlovÄ›k vstoupil, zaloĹľil poĹľĂˇr, drak k nÄ›mu Ĺˇel hasit a ÄŤlovÄ›k mezitĂ­m hledal hnĂ­zdo, ale drak se vrĂˇtil dĹ™Ă­v. U ÄŤlovÄ›ka jsou instrukce k pĹ™epravÄ› vejce a poznĂˇmky o vylĂˇkĂˇnĂ­ draka, kde je zvĂ˝raznÄ›n oheĹ. BezpeÄŤnostnĂ­ zĂˇznam doklĂˇdĂˇ kompromitaci sektoru; pĹ™esun vejce povoluje nouzovĂ˝ protokol a PAX aĹľ po splnÄ›nĂ­ podmĂ­nek.
+- **TajemstvĂ­ kapitĂˇnovy peÄŤeti:** prvnĂ­ schrĂˇnku s faleĹˇnĂ˝m razĂ­tkem a puzzle pĹ™ipravil kapitĂˇn jako zkouĹˇku. Puzzle se najde uĹľ pĹ™i otevĹ™enĂ­ schrĂˇnky, Ĺ™eĹˇĂ­ se aĹľ po ovÄ›Ĺ™enĂ­ padÄ›lku. Neexistuje padÄ›latel, faleĹˇnĂ© dno ani pĹ™esouvĂˇnĂ­ mezi schrĂˇnkami.
+
