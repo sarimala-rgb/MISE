@@ -4,13 +4,13 @@
 
 **Nové artefakty na vstupu:**
 
-- 1_1 Zadání mise
-- 1_2 Protokol mise
-- 1_3 Mapa perimetru centrály se značkou věže
-- 1_4 Vysílačka
-- 1_5 Psací / značicí prostředek
+- 01_01 Zadání mise
+- 01_02 Protokol mise
+- 01_03 Mapa perimetru centrály se značkou věže
+- 01_04 Vysílačka
+- 01_05 Psací / značicí prostředek
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 1_1–1_5; mapa s pěti místy a legendou. Zadání má čtyři obrázkové kontroly: mimo označená místa nálezů, místo nad nejvyšší zaznamenanou vodou, volný výhled na záliv, vyhlídka nad červenou výškovou čárou stavebního plánu. Jde o doporučení k dalšímu stavebnímu prověření.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_01–01_05; mapa s pěti místy a legendou. Zadání má čtyři obrázkové kontroly: mimo označená místa nálezů, místo nad nejvyšší zaznamenanou vodou, volný výhled na záliv, vyhlídka nad červenou výškovou čárou stavebního plánu. Jde o doporučení k dalšímu stavebnímu prověření.
 
 **Akce dítěte:** Prohlédne zadání a mapu. Najde původní staveniště a čtyři kandidáty. Seznámí se s účelem věže a důvodem zastavení prací.
 
@@ -30,10 +30,10 @@
 
 **Nové artefakty na vstupu:**
 
-- 2_1 První sádrový blok ze staveniště: trup, pánev a čtyři končetiny zjednodušeného modelu
-- 2_2 Výkopová sada: tupá špachtle, štětec, pracovní podložka, dvě označené odkládací misky a úložná podložka kostry
+- 01_06 První sádrový blok ze staveniště: trup, pánev a čtyři končetiny zjednodušeného modelu
+- 01_07 Výkopová sada: tupá špachtle, štětec, pracovní podložka, dvě označené odkládací misky a úložná podložka kostry
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 2_1–2_2, 1_2 pole „Vzorek ze staveniště“, 1_3 a 1_5. Dospělý předvede jemné odhrnování; dítě odkrývá a čistí, dospělý pomůže u pevnějšího místa. Díly ukládá do misky se symbolem staveniště.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_06–01_07, 01_02 pole „Vzorek ze staveniště“, 01_03 a 01_05. Dospělý předvede jemné odhrnování; dítě odkrývá a čistí, dospělý pomůže u pevnějšího místa. Díly ukládá do misky se symbolem staveniště.
 
 **Akce dítěte:** Opatrně odkrývá první blok. Vyjme části kostry a drží je pohromadě jako nález ze staveniště. V Protokolu označí původ vzorku a vyjmuté části.
 
@@ -50,9 +50,9 @@
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 3_1 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus, Ankylosaurus; sestavovací podklad ke každé možnosti
+**Nové artefakty na vstupu:** 01_08 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus, Ankylosaurus; sestavovací podklad ke každé možnosti
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 3_1, části z 2_1, 1_2 pole „Pracovní určení“, 1_5. Dítě porovnává přímo obrysy modelových dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání úplnému ověření.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_08, části z 01_06, 01_02 pole „Pracovní určení“, 01_05. Dítě porovnává přímo obrysy modelových dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání úplnému ověření.
 
 **Akce dítěte:** Porovná kosti s obrázky. Začne je skládat a vybere pravděpodobného dinosaura. V Protokolu označí volbu jako předběžnou.
 
@@ -72,10 +72,10 @@
 
 **Nové artefakty na vstupu:**
 
-- 4_1 Druhý blok z bodu u staveniště: velké plastové kolečko ze stavebního modelu
-- 4_2 Karta s fotografií stejného kolečka na dělnickém modelu vozíku; šipky ukazují otvor pro osu a pravidelný vroubkovaný okraj
+- 01_09 Druhý blok z bodu u staveniště: velké plastové kolečko ze stavebního modelu
+- 01_10 Karta s fotografií stejného kolečka na dělnickém modelu vozíku; šipky ukazují otvor pro osu a pravidelný vroubkovaný okraj
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 4_1–4_2, 2_2, nález z 2_1, 3_1, 1_2 pole „Porovnání vzorků“ a 1_5. Karta vysvětluje: toto kolečko patří k novodobému vozíku. Nejde o obecné pravidlo, že vše odlišné od kostí je falešné.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_09–01_10, 01_07, nález z 01_06, 01_08, 01_02 pole „Porovnání vzorků“ a 01_05. Karta vysvětluje: toto kolečko patří k novodobému vozíku. Nejde o obecné pravidlo, že vše odlišné od kostí je falešné.
 
 **Akce dítěte:** Odkryje druhý blok. Porovná předmět s kostmi a ověřovacím podkladem. Označí jeden skutečný nález a jeden vyloučený předmět, odděleně podle původu.
 
@@ -95,10 +95,10 @@
 
 **Nové artefakty na vstupu:**
 
-- 5_1 Fotografie původní zkamenělé kosti
-- 5_2 Fotografie původního otisku dinosauří stopy
+- 01_11 Fotografie původní zkamenělé kosti
+- 01_12 Fotografie původního otisku dinosauří stopy
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 5_1–5_2 jsou fotografie dělníků se symbolem staveniště a dvěma odlišnými body nálezu v mapě; 5_1 zachycuje kost před odebráním bloku 2_1, 5_2 stopu ponechanou na místě. Dítě páruje symbol původu, nikoli druh podle stopy. Dále výsledky 2–4, 1_1–1_3 a 1_5.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_11–01_12 jsou fotografie dělníků se symbolem staveniště a dvěma odlišnými body nálezu v mapě; 01_11 zachycuje kost před odebráním bloku 01_06, 01_12 stopu ponechanou na místě. Dítě páruje symbol původu, nikoli druh podle stopy. Dále výsledky 2–4, 01_01–01_03 a 01_05.
 
 **Akce dítěte:** Porovná fotografie a výsledky výkopů. Rozliší potvrzené nálezy od vyloučeného předmětu. Zaznamená, že pokračování stavby na původním místě ohrožuje zkameněliny.
 
@@ -117,7 +117,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 1_4 vysílačka; 1_2 Protokol a 1_3 mapa; závěr kroku 5
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_04 vysílačka; 01_02 Protokol a 01_03 mapa; závěr kroku 5
 
 **Akce dítěte:** Oznámí PAXovi skutečné nálezy a riziko jejich poškození. PAX potvrdí zastavení stavby a povolí hledání náhradního místa.
 
@@ -133,13 +133,13 @@
 
 **Nové artefakty na vstupu:**
 
-- 6_1 Fotografie výhledu z Lesní louky
-- 6_2 Fotografie Pobřežní plošiny při nižší vodě
-- 6_3 Fotografie stejné plošiny při vysoké vodě
+- 01_13 Fotografie výhledu z Lesní louky
+- 01_14 Fotografie Pobřežní plošiny při nižší vodě
+- 01_15 Fotografie stejné plošiny při vysoké vodě
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] dokumentace 6_1–6_3 od Centrály; 1_1 požadavky věže; 1_3 mapa; 1_2 Protokol, pole „Náhradní místa“; 1_5 značicí prostředek
+- [Z HRY] dokumentace 01_13–01_15 od Centrály; 01_01 požadavky věže; 01_03 mapa; 01_02 Protokol, pole „Náhradní místa“; 01_05 značicí prostředek
 - Povolení PAXe po 5_Report hledat jiné místo; fotografie umožňují poznat stejné místo a změnu hladiny.
 
 **Akce dítěte:** Na louce rozpozná stromy zakrývající záliv. Porovná dva stavy vody na plošině. Obě místa vyřadí na mapě a k výsledkům v Protokolu přiřadí důvody.
@@ -160,10 +160,10 @@
 
 **Nové artefakty na vstupu:**
 
-- 7_1 Předávací lístek dělníků: na Rozcestí odebrali vzorek R z přípravy alternativního místa, uzavřeli ho a ponechali u místní značky; připojený snímek vzorku R u značky Rozcestí
-- 7_2 Třetí sádrový blok R se symbolem Rozcestí; uvnitř hlava a ocas modelu
+- 01_16 Předávací lístek dělníků: na Rozcestí odebrali vzorek R z přípravy alternativního místa, uzavřeli ho a ponechali u místní značky; připojený snímek vzorku R u značky Rozcestí
+- 01_17 Třetí sádrový blok R se symbolem Rozcestí; uvnitř hlava a ocas modelu
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 7_1 doručí PAX po kontrole stavební evidence; 1_3 má symbol Rozcestí. Tentýž symbol je na instalační značce a vzorku R. Lístek doloží existenci a původ vzorku, nikoli předem jeho obsah. [PŘÍPRAVA] Průvodce položí blok do úkrytu vedle značky Rozcestí.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_16 doručí PAX po kontrole stavební evidence; 01_03 má symbol Rozcestí. Tentýž symbol je na instalační značce a vzorku R. Lístek doloží existenci a původ vzorku, nikoli předem jeho obsah. [PŘÍPRAVA] Průvodce položí blok do úkrytu vedle značky Rozcestí.
 
 **Akce dítěte:** Prozkoumá nový podklad. Podle symbolu na mapě určí odpovídající domácí místo a najde třetí blok. Zkontroluje jeho původ.
 
@@ -184,7 +184,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 7_2 třetí blok; 2_2 nástroje; 1_2 Protokol, pole „Vzorek z Rozcestí“; 1_5 značicí prostředek
+- [Z HRY] 01_17 třetí blok; 01_07 nástroje; 01_02 Protokol, pole „Vzorek z Rozcestí“; 01_05 značicí prostředek
 - [Z DOMOVA] pracovní plocha
 
 **Akce dítěte:** Opatrně vykope další části kostry. Než je přidá k prvnímu nálezu, zaznamená, že pocházejí z Rozcestí.
@@ -204,7 +204,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] díly z 2_1 a 7_2, 3_1 atlas, 1_2 pole „Potvrzené určení“, 1_5. Hlava modelu se třemi rohy a límcem spolu s kompletním obrysem odpovídá kartě Triceratops. Model tvoří osm velkých dílů; jeho přesná anatomická a výrobní podoba čeká na kontrolu před výrobou.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] díly z 01_06 a 01_17, 01_08 atlas, 01_02 pole „Potvrzené určení“, 01_05. Hlava modelu se třemi rohy a límcem spolu s kompletním obrysem odpovídá kartě Triceratops. Model tvoří osm velkých dílů; jeho přesná anatomická a výrobní podoba čeká na kontrolu před výrobou.
 
 **Akce dítěte:** Připojí nové části k prvnímu nálezu. Dokončí kostru podle atlasu, porovná ji s pěti možnostmi a ověří původní hypotézu. Označí potvrzené určení.
 
@@ -224,7 +224,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] zdokumentované původy obou skutečných nálezů v 1_2; dokončená kostra; 1_3 mapa; 1_5 značicí prostředek; požadavek ochrany nálezů z 1_1
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] zdokumentované původy obou skutečných nálezů v 01_02; dokončená kostra; 01_03 mapa; 01_05 značicí prostředek; požadavek ochrany nálezů z 01_01
 
 **Akce dítěte:** Na mapě označí původní staveniště i Rozcestí jako místa určená k ochraně pro výzkum. Rozcestí vyřadí jako kandidáta pro věž.
 
@@ -244,7 +244,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 1_4 vysílačka; 1_2 Protokol; 1_3 mapa; úplná kostra
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_04 vysílačka; 01_02 Protokol; 01_03 mapa; úplná kostra
 
 **Akce dítěte:** Nahlásí PAXovi dokončenou rekonstrukci a nález z Rozcestí. Vysvětlí, proč musí být chráněny oba body a Rozcestí není vhodné pro věž.
 
@@ -261,9 +261,9 @@
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 11_1 Stavební karta Travnatého vršku od Centrály: panoramatický snímek volného zálivu, boční profil s nejvyšší zaznamenanou hladinou a minimální výškovou čárou věže, výřez mapy s oběma místy nálezů
+**Nové artefakty na vstupu:** 01_18 Stavební karta Travnatého vršku od Centrály: panoramatický snímek volného zálivu, boční profil s nejvyšší zaznamenanou hladinou a minimální výškovou čárou věže, výřez mapy s oběma místy nálezů
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 11_1, 1_1 čtyři požadavky, 1_2 pole „Kontrola Travnatého vršku“, 1_3 a 1_5. Na profilu je značka vršku nad oběma čarami; panorama ukazuje nezakrytý záliv; výřez jej umisťuje mimo dva potvrzené body. Legendu čte dospělý.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_18, 01_01 čtyři požadavky, 01_02 pole „Kontrola Travnatého vršku“, 01_03 a 01_05. Na profilu je značka vršku nad oběma čarami; panorama ukazuje nezakrytý záliv; výřez jej umisťuje mimo dva potvrzené body. Legendu čte dospělý.
 
 **Akce dítěte:** Po jedné porovná podmínky se skutečně dostupnými podklady. Do Protokolu označí výsledek každé kontroly.
 
@@ -283,7 +283,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] úspěšně doložené kontroly z kroku 11; 1_3 mapa s přesunutelnou značkou věže z předání; 1_2 Protokol, pole „Doporučení pro Centrálu“; 1_5 značicí prostředek
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] úspěšně doložené kontroly z kroku 11; 01_03 mapa s přesunutelnou značkou věže z předání; 01_02 Protokol, pole „Doporučení pro Centrálu“; 01_05 značicí prostředek
 
 **Akce dítěte:** Přesune značku věže z původního staveniště na Travnatý vršek. Do Protokolu zaznamená doporučení a jeho důvody.
 
@@ -302,7 +302,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 1_4 vysílačka; 1_2 Protokol; 1_3 aktualizovaná mapa; doložené výsledky kroku 11
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_04 vysílačka; 01_02 Protokol; 01_03 aktualizovaná mapa; doložené výsledky kroku 11
 
 **Akce dítěte:** Předá PAXovi doporučení Travnatého vršku a vysvětlí vyřazení ostatních míst. PAX potvrdí změnu stavebního plánu a ochranu původního staveniště a Rozcestí.
 
@@ -319,9 +319,9 @@
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 13_1 Kartonový badge PALEONTOLOG
+**Nové artefakty na vstupu:** 01_19 Kartonový badge PALEONTOLOG
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 13_1 od PAXe po 12_Report; sestavená kostra, 1_2 pole „Uzavření mise“, 1_3, 1_5 a úložná podložka z 2_2. Centrála přijala doporučení vršku pro nový plán a ochranu obou míst, další průzkum před stavbou zůstává její prací.
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 01_19 od PAXe po 12_Report; sestavená kostra, 01_02 pole „Uzavření mise“, 01_03, 01_05 a úložná podložka z 01_07. Centrála přijala doporučení vršku pro nový plán a ochranu obou míst, další průzkum před stavbou zůstává její prací.
 
 **Akce dítěte:** Dokončí Protokol, uloží sestavenou kostru společně s dokumentací a přijme specializaci.
 
