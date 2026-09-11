@@ -13,10 +13,9 @@ Dnes otevíráš spojení s Centrálou v okamžiku, kdy se v perimetru něco pok
 
 ## 2. Jak se scénářem pracovat
 
-Scénář vedeš ty jako PAX. Dítě nemusí samostatně číst ani psát: text předčítáš, dítě pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
-
-V průvodci najdeš tyto typy textu:
-
+- **Ty jsi PAX:** vedeš misi, předáváš artefakty a držíš spojení s dítětem.
+- **Dítě je specialista:** pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
+- **Čtení a zápis:** text předčítáš ty; dítě nemusí samostatně číst ani psát.
 - **PAX — čti doslova:** věty, které dítě slyší od Centrály.
 - **Průvodce — veď volně:** nápovědy a otázky, kterými dítěti pomůžeš bez prozrazení řešení.
 - **Hotovo:** přesný výsledek, podle kterého poznáš, že lze pokračovat.
