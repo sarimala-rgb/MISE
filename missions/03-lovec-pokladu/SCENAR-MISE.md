@@ -12,12 +12,12 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] 03_01 Zadání mise
-- • [Z HRY] 03_02 Protokol mise
-- • [Z HRY] 03_03 Mapa perimetru Centrály
-- • [Z HRY] 03_04 Stará pirátská mapa
-- • [Z HRY] 03_05 Zapečetěná zásilka 5 map
-- • [Z HRY] vysílačka
+- [Z HRY] 03_01 Zadání mise
+- [Z HRY] 03_02 Protokol mise
+- [Z HRY] 03_03 Mapa perimetru Centrály
+- [Z HRY] 03_04 Stará pirátská mapa
+- [Z HRY] 03_05 Zapečetěná zásilka 5 map
+- [Z HRY] vysílačka
 
 **Akce dítěte:** Dítě převezme M!SI, zjistí, že Centrála potřebuje najít kapitánovo razítko, aby mohla ověřit získané mapy. Zapečetěnou zásilku zatím nesmí otevřít.
 
@@ -33,7 +33,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** • [Z HRY] vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] vysílačka
 
 **Akce dítěte:** Dítě potvrdí PAXovi převzetí M!SE.
 
@@ -73,9 +73,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] vysílačka
-- • [Z HRY] nalezená schránka
-- • [Z HRY] falešné razítko
+- [Z HRY] vysílačka
+- [Z HRY] nalezená schránka
+- [Z HRY] falešné razítko
 
 **Akce dítěte:** Dítě hlásí nalezené razítko a kapitánovu zkoušku. PAX potvrdí potřebu ověření; archivní podklady doručí jako vstup kroku 3.
 
@@ -112,9 +112,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] vysílačka
-- • [Z HRY] falešné razítko
-- • [Z HRY] sestavená rekonstrukce
+- [Z HRY] vysílačka
+- [Z HRY] falešné razítko
+- [Z HRY] sestavená rekonstrukce
 
 **Akce dítěte:** Dítě PAXovi oznámí, že razítko je falešné, a vysvětlí, co na něm nesedí.
 
@@ -165,7 +165,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** • [Z HRY] vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z HRY] vysílačka
 
 **Akce dítěte:** Dítě hlásí PAXovi, že schránku našlo, ale nemůže se k ní dostat. PAX nabídne vybavení Centrály určené k vytahování nákladu.
 
@@ -231,8 +231,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] vysílačka
-- • [Z HRY] 03_16 Pravé kapitánovo razítko
+- [Z HRY] vysílačka
+- [Z HRY] 03_16 Pravé kapitánovo razítko
 
 **Akce dítěte:** Dítě hlásí PAXovi nález originálu. PAX nyní povolí otevřít zásilku map, kterou dítě dostalo na začátku.
 
@@ -275,8 +275,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] vysílačka
-- • [Z HRY] 03_18 Obálka s připravenými mapami
+- [Z HRY] vysílačka
+- [Z HRY] 03_18 Obálka s připravenými mapami
 
 **Akce dítěte:** Dítě nahlásí PAXovi složení a odeslání ověřené trasy. Průvodce potvrdí přijetí obálky předané v kroku 9.
 
@@ -294,8 +294,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] 03_19 Specializace LOVEC POKLADŮ
-- • [Z HRY] 03_16 Pravé kapitánovo razítko
+- [Z HRY] 03_19 Specializace LOVEC POKLADŮ
+- [Z HRY] 03_16 Pravé kapitánovo razítko
 
 **Akce dítěte:** Dítě přijme specializaci a ponechá si pravé kapitánovo razítko.
 
