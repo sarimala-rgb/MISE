@@ -1,1047 +1,1048 @@
-﻿# 02 â€” Po stopĂˇch draka
+# 02 — Po stopách draka
 
 ---
 
-## 1. ZĂˇkladnĂ­ Ăşdaje o misi
+## 1. Základní údaje o misi
 
-- **NĂˇzev:** Po stopĂˇch draka
-- **Specializace:** StrĂˇĹľce drakĹŻ
-- **VÄ›k:** 4â€“5 let
+- **Název:** Po stopách draka
+- **Specializace:** Strážce draků
+- **Věk:** 4–5 let
 
 ---
 
-## 2. ZadĂˇnĂ­ mise
+## 2. Zadání mise
 
-### 2.1 NĂˇzev mise
+### 2.1 Název mise
 
-Po stopĂˇch draka
+Po stopách draka
 
-### 2.2 KĂłd mise
+### 2.2 Kód mise
 
 DRAK-02
 
 ### 2.3 Incident
 
-V perimetru CentrĂˇly vypukl poĹľĂˇr a bezpeÄŤnostnĂ­ brĂˇna byla naruĹˇena. BezpeÄŤnostnĂ­ systĂ©m zachytil takĂ© neobvykle velkou stopu. Z prvnĂ­ch zĂˇznamĹŻ nenĂ­ jasnĂ©, zda spolu vĹˇechny udĂˇlosti souvisejĂ­. CentrĂˇla proto vysĂ­lĂˇ dĂ­tÄ› jako StrĂˇĹľce drakĹŻ. DĂ­tÄ› nejprve porovnĂˇ fotografie s mapou a urÄŤĂ­, komu velkĂˇ stopa patĹ™Ă­. Potom zrekonstruuje smÄ›r pohybu a poĹ™adĂ­ udĂˇlostĂ­. MusĂ­ zjistit, kdo zaloĹľil poĹľĂˇr a proÄŤ. PĂˇtrĂˇnĂ­ ho zavede k ukrytĂ©mu draÄŤĂ­mu hnĂ­zdu. Pokud objevĂ­ vejce v ohroĹľenĂ©m mĂ­stÄ›, bude muset pĹ™ipravit bezpeÄŤnĂ˝ pĹ™esun. O sprĂˇvnĂ©m postupu rozhodne podle dĹŻkazĹŻ a pokynĹŻ CentrĂˇly.
+V perimetru Centrály vypukl požár a bezpečnostní brána byla narušena. Bezpečnostní systém zachytil také neobvykle velkou stopu. Z prvních záznamů není jasné, zda spolu všechny události souvisejí. Centrála proto vysílá dítě jako Strážce draků. Dítě nejprve porovná fotografie s mapou a určí, komu velká stopa patří. Potom zrekonstruuje směr pohybu a pořadí událostí. Musí zjistit, kdo založil požár a proč. Pátrání ho zavede k ukrytému dračímu hnízdu. Pokud objeví vejce v ohroženém místě, bude muset připravit bezpečný přesun. O správném postupu rozhodne podle důkazů a pokynů Centrály.
 
 
-### 2.4 PotvrzenĂˇ fakta
+### 2.4 Potvrzená fakta
 
-- V perimetru doĹˇlo k poĹľĂˇru.
-- BrĂˇna byla naruĹˇena.
-- ZĂˇznamy zachytily jednoho ÄŤlovÄ›ka a jednu velkou dosud neurÄŤenou bytost.
-- HnĂ­zdo ani vejce nejsou pĹ™i pĹ™edĂˇnĂ­ mise znĂˇmĂ©.
+- V perimetru došlo k požáru.
+- Brána byla narušena.
+- Záznamy zachytily jednoho člověka a jednu velkou dosud neurčenou bytost.
+- Hnízdo ani vejce nejsou při předání mise známé.
 
-### 2.5 Co zatĂ­m nevĂ­me
+### 2.5 Co zatím nevíme
 
-- Komu patĹ™Ă­ velkĂˇ stopa a kdo zaloĹľil poĹľĂˇr.
-- ProÄŤ se velkĂˇ bytost pohybovala k poĹľĂˇru.
-- Co ÄŤlovÄ›k v perimetru hledal.
+- Komu patří velká stopa a kdo založil požár.
+- Proč se velká bytost pohybovala k požáru.
+- Co člověk v perimetru hledal.
 
-### 2.6 Ăškoly mise
+### 2.6 Úkoly mise
 
-- Zkontrolovat dĹŻkazy, trasu a poĹ™adĂ­ udĂˇlostĂ­.
-- UrÄŤit pĹŻvodce stopy a vysvÄ›tlit incident jen z doloĹľenĂ˝ch informacĂ­.
-- Pokud nalezneĹˇ ohroĹľenĂ© vejce, postupuj jen podle pokynĹŻ CentrĂˇly.
+- Zkontrolovat důkazy, trasu a pořadí událostí.
+- Určit původce stopy a vysvětlit incident jen z doložených informací.
+- Pokud nalezneš ohrožené vejce, postupuj jen podle pokynů Centrály.
 
-### 2.7 PrvnĂ­ pokyn
+### 2.7 První pokyn
 
-Najdi na mapÄ› poĹľĂˇr a poĹˇkozenou brĂˇnu. Potom porovnej dĹŻkaznĂ­ fotografie.
+Najdi na mapě požár a poškozenou bránu. Potom porovnej důkazní fotografie.
 ---
 
-zanĂ˝ch reportĹŻ. ÄŚitelnĂ˝ scĂ©nĂˇĹ™ je v sekci 7, zdrojovĂˇ tabulka v SCENAR-TABULKA.md a otevĹ™enĂ© body kontroly v sekci 8.
+zaných reportů. Čitelný scénář je v sekci 7, zdrojová tabulka v SCENAR-MISE.md a otevřené body kontroly v sekci 8.
 
 ---
 
 
 ## 5. Struktura
 
-PrvnĂ­ tĹ™i artefakty:
-1. ZadĂˇnĂ­ mise
+První tři artefakty:
+1. Zadání mise
 2. Protokol mise
-3. Mapa perimetru centrĂˇly
+3. Mapa perimetru centrály
 
 ---
 
 ## 6. Pozor na logiku
 
-V pĹ™edchozĂ­ prĂˇci byla Ĺ™eĹˇena otĂˇzka, aby motiv vetĹ™elce nebyl odvozen z umÄ›lĂ©ho nebo nevÄ›rohodnĂ©ho dĹŻkazu (napĹ™. zamĂ­tnut vak/popruh na vejce).
+V předchozí práci byla řešena otázka, aby motiv vetřelce nebyl odvozen z umělého nebo nevěrohodného důkazu (např. zamítnut vak/popruh na vejce).
 
 ---
 
-zdrojem je [tabulka scĂ©nĂˇĹ™e](SCENAR-TABULKA.md).
-ÄŚĂ­sla krokĹŻ oznaÄŤujĂ­ hernĂ­ poĹ™adĂ­; reporty zĹŻstĂˇvajĂ­ navĂˇzanĂ© na pĹ™Ă­sluĹˇnĂ˝ krok.
+zdrojem je [tabulka scénáře](SCENAR-MISE.md).
+Čísla kroků označují herní pořadí; reporty zůstávají navázané na příslušný krok.
 
 ---
 
-### KROK 1 â€” PĹ™edĂˇnĂ­ mise
+### KROK 1 — Předání mise
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 1_1 ZadĂˇnĂ­ mise
+- 1_1 Zadání mise
 - 1_2 Protokol mise
-- 1_3 Mapa perimetru CentrĂˇly
-- 1_4 Fotografie dĹŻkaz A â€“ mĂ­sto poĹľĂˇru
-- 1_5 Fotografie dĹŻkaz B â€“ neobvykle velkĂˇ stopa
-- 1_6 Fotografie dĹŻkaz C â€“ naruĹˇenĂ­ perimetru
-- 1_7 ZĂˇznam incidentu: kamera brĂˇny zaznamenala jednoho ÄŤlovÄ›ka, druhĂ˝ snĂ­mek jednu dosud
-  neurÄŤenou velkou bytost
+- 1_3 Mapa perimetru Centrály
+- 1_4 Fotografie důkaz A – místo požáru
+- 1_5 Fotografie důkaz B – neobvykle velká stopa
+- 1_6 Fotografie důkaz C – narušení perimetru
+- 1_7 Záznam incidentu: kamera brány zaznamenala jednoho člověka, druhý snímek jednu dosud
+  neurčenou velkou bytost
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 1_1 ZadĂˇnĂ­ mise
+- [Z HRY] 1_1 Zadání mise
 - [Z HRY] 1_2 Protokol mise
-- [Z HRY] 1_3 Mapa perimetru CentrĂˇly
-- [Z HRY] 1_4â€“1_6 DĹŻkaznĂ­ fotografie
-- [Z HRY] 1_7 ZĂˇznam incidentu
+- [Z HRY] 1_3 Mapa perimetru Centrály
+- [Z HRY] 1_4–1_6 Důkazní fotografie
+- [Z HRY] 1_7 Záznam incidentu
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- SeznĂˇmĂ­ se s incidentem.
-- ProhlĂ©dne potvrzenĂˇ fakta a neznĂˇmĂ©.
-- ProhlĂ©dne dĹŻkazy a mapu.
+- Seznámí se s incidentem.
+- Prohlédne potvrzená fakta a neznámé.
+- Prohlédne důkazy a mapu.
 
-**Ăškoly:**
+**Úkoly:**
 
-â€”
+—
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- VĂ­, Ĺľe v perimetru vznikl poĹľĂˇr.
-- VĂ­, Ĺľe byly zaznamenĂˇny neobvykle velkĂ© stopy.
-- VĂ­, Ĺľe byl naruĹˇen perimetr.
-- VĂ­, co mĂˇ vyĹˇetĹ™it.
+- Ví, že v perimetru vznikl požár.
+- Ví, že byly zaznamenány neobvykle velké stopy.
+- Ví, že byl narušen perimetr.
+- Ví, co má vyšetřit.
 
 ---
 
-### REPORT 1_Report â€” PĹ™evzetĂ­ mise
+### REPORT 1_Report — Převzetí mise
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- PĹ™ihlĂˇsĂ­ se PAXovi.
-- PotvrdĂ­ pĹ™evzetĂ­ pĹ™Ă­padu.
+- Přihlásí se PAXovi.
+- Potvrdí převzetí případu.
 
-**Ăškoly:**
+**Úkoly:**
 
-- PotvrÄŹ zahĂˇjenĂ­ vyĹˇetĹ™ovĂˇnĂ­.
+- Potvrď zahájení vyšetřování.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- PAX vĂ­, Ĺľe mise byla pĹ™evzata.
-
----
-
-### KROK 2 â€” Lokalizace prvnĂ­ch dĹŻkazĹŻ
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-â€”
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-[Z HRY] 1_2â€“1_7, znaÄŤicĂ­ prostĹ™edek. Fotografie i mapa ukazujĂ­ rozbitou brĂˇnu, rozvÄ›tvenĂ˝ strom u
-ohniĹˇtÄ› a balvan u velkĂ© stopy. ZĂˇznam 1_7 doklĂˇdĂˇ jednoho ÄŤlovÄ›ka a jednu velkou bytost; poÄŤet se
-nehĂˇdĂˇ z jednotlivĂ˝ch stop.
-
-**Akce dĂ­tÄ›te:**
-
-SpĂˇruje stejnĂ© orientaÄŤnĂ­ body, oznaÄŤĂ­ v mapÄ› poĹľĂˇr a brĂˇnu. V Protokolu v poli â€žPozorovanĂ­
-ĂşÄŤastnĂ­ciâ€ś oznaÄŤĂ­ jednoho ÄŤlovÄ›ka a jednu neznĂˇmou bytost; skuteÄŤnĂ˝ celkovĂ˝ poÄŤet ĂşÄŤastnĂ­kĹŻ tĂ­m
-nenĂ­ zaruÄŤen.
-
-**Ăškoly:**
-
-- PĹ™iprav si 1_3, 1_4, 1_5 a 1_6.
-- Do mapy zakresli mĂ­sto poĹľĂˇru.
-- Do mapy zakresli mĂ­sto naruĹˇenĂ­ perimetru.
-- Do Protokolu mise zapiĹˇ poÄŤet dosud identifikovanĂ˝ch osob / zvĂ­Ĺ™at / pĹ™Ă­Ĺˇer.
-
-**Co je hotovĂ˝ krok:**
-
-- PoĹľĂˇr a naruĹˇenĂ­ perimetru jsou zaznamenĂˇny v mapÄ›.
-- Protokol obsahuje prvnĂ­ zĂˇznam.
+- PAX ví, že mise byla převzata.
 
 ---
 
-### REPORT 2_Report â€” PrvnĂ­ situaÄŤnĂ­ hlĂˇĹˇenĂ­
+### KROK 2 — Lokalizace prvních důkazů
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+—
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 1_2–1_7, značicí prostředek. Fotografie i mapa ukazují rozbitou bránu, rozvětvený strom u
+ohniště a balvan u velké stopy. Záznam 1_7 dokládá jednoho člověka a jednu velkou bytost; počet se
+nehádá z jednotlivých stop.
+
+**Akce dítěte:**
+
+Spáruje stejné orientační body, označí v mapě požár a bránu. V Protokolu v poli „Pozorovaní
+účastníci“ označí jednoho člověka a jednu neznámou bytost; skutečný celkový počet účastníků tím
+není zaručen.
+
+**Úkoly:**
+
+- Připrav si 1_3, 1_4, 1_5 a 1_6.
+- Do mapy zakresli místo požáru.
+- Do mapy zakresli místo narušení perimetru.
+- Do Protokolu mise zapiš počet dosud identifikovaných osob / zvířat / příšer.
+
+**Co je hotový krok:**
+
+- Požár a narušení perimetru jsou zaznamenány v mapě.
+- Protokol obsahuje první záznam.
+
+---
+
+### REPORT 2_Report — První situační hlášení
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
 - [Z HRY] 1_2 Protokol
 - [Z HRY] 1_3 Mapa
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- NahlĂˇsĂ­ prvnĂ­ zjiĹˇtÄ›nĂ­ PAXovi.
+- Nahlásí první zjištění PAXovi.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Nahlas mĂ­sto poĹľĂˇru.
-- Nahlas mĂ­sto naruĹˇenĂ­ perimetru.
-- Nahlas poÄŤet ĂşÄŤastnĂ­kĹŻ.
+- Nahlas místo požáru.
+- Nahlas místo narušení perimetru.
+- Nahlas počet účastníků.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- PAX mĂˇ prvnĂ­ situaÄŤnĂ­ pĹ™ehled.
+- PAX má první situační přehled.
 
 ---
 
-### KROK 3 â€” AnalĂ˝za velkĂ© stopy
+### KROK 3 — Analýza velké stopy
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 3_1 Atlas stop CentrĂˇly
+- 3_1 Atlas stop Centrály
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 1_5 Fotografie velkĂ© stopy
+- [Z HRY] 1_5 Fotografie velké stopy
 - [Z HRY] 3_1 Atlas stop
 - [Z HRY] 1_2 Protokol mise
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- PorovnĂˇ stopu s atlasem.
-- Identifikuje jejĂ­ho pĹŻvodce.
-- ZapĂ­Ĺˇe zjiĹˇtÄ›nĂ­.
-- V poli â€žPĹŻvodce velkĂ© stopyâ€ś zakrouĹľkuje draka; porovnĂˇ poÄŤet prstĹŻ, jejich ĹˇĂ­Ĺ™ku a obrys paty s
+- Porovná stopu s atlasem.
+- Identifikuje jejího původce.
+- Zapíše zjištění.
+- V poli „Původce velké stopy“ zakroužkuje draka; porovná počet prstů, jejich šířku a obrys paty s
   listem 5.
 
-**Ăškoly:**
+**Úkoly:**
 
-- UrÄŤi, komu stopa patĹ™Ă­.
-- ZapiĹˇ vĂ˝sledek do Protokolu mise.
+- Urči, komu stopa patří.
+- Zapiš výsledek do Protokolu mise.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- DĂ­tÄ› identifikuje draÄŤĂ­ stopu.
+- Dítě identifikuje dračí stopu.
 
 ---
 
-### REPORT 3_Report â€” PotvrzenĂ­ pĹ™Ă­tomnosti draka
+### REPORT 3_Report — Potvrzení přítomnosti draka
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- NahlĂˇsĂ­ identifikaci stopy.
+- Nahlásí identifikaci stopy.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Ĺekni PAXovi, komu stopa patĹ™Ă­.
+- Řekni PAXovi, komu stopa patří.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- CentrĂˇla vĂ­, Ĺľe na mĂ­stÄ› byl drak.
+- Centrála ví, že na místě byl drak.
 
 ---
 
-### KROK 4 â€” Rekonstrukce draÄŤĂ­ trasy
+### KROK 4 — Rekonstrukce dračí trasy
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 4_1 Fotografie draÄŤĂ­ stopy A
-- 4_2 Fotografie draÄŤĂ­ stopy B
-- 4_3 Fotografie draÄŤĂ­ stopy C
-- 4_4 Sada 3 samolepek draÄŤĂ­ch stop
-- 4_5 Sada samolepek Ĺˇipek smÄ›ru
+- 4_1 Fotografie dračí stopy A
+- 4_2 Fotografie dračí stopy B
+- 4_3 Fotografie dračí stopy C
+- 4_4 Sada 3 samolepek dračích stop
+- 4_5 Sada samolepek šipek směru
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-[Z HRY] 4_1â€“4_5 a mapa 1_3. TĹ™i snĂ­mky majĂ­ spoleÄŤnĂ© orientaÄŤnĂ­ body s mapou: balvan, paĹ™ez,
-rozvÄ›tvenĂ˝ strom. Atlas vysvÄ›tluje smÄ›r ke ĹˇpiÄŤkĂˇm prstĹŻ. Stopy tvoĹ™Ă­ nĂˇvaznou trasu balvan â†’ paĹ™ez
-â†’ poĹľĂˇĹ™iĹˇtÄ›.
+[Z HRY] 4_1–4_5 a mapa 1_3. Tři snímky mají společné orientační body s mapou: balvan, pařez,
+rozvětvený strom. Atlas vysvětluje směr ke špičkám prstů. Stopy tvoří návaznou trasu balvan → pařez
+→ požářiště.
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- Lokalizuje fotografie na mapÄ›.
-- NalepĂ­ draÄŤĂ­ stopy.
-- VyznaÄŤĂ­ smÄ›r pohybu draka.
+- Lokalizuje fotografie na mapě.
+- Nalepí dračí stopy.
+- Vyznačí směr pohybu draka.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Najdi mĂ­sta vĹˇech tĹ™Ă­ stop.
+- Najdi místa všech tří stop.
 - Nalep stopy do mapy.
-- VyznaÄŤ Ĺˇipkami trasu draka.
+- Vyznač šipkami trasu draka.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- DĂ­tÄ› zjistĂ­, Ĺľe drak mĂ­Ĺ™il k poĹľĂˇru.
+- Dítě zjistí, že drak mířil k požáru.
 
 ---
 
-### REPORT 4_Report â€” HlĂˇĹˇenĂ­ o trase draka
+### REPORT 4_Report — Hlášení o trase draka
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
 - [Z HRY] 1_3 Mapa
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- NahlĂˇsĂ­ smÄ›r pohybu draka.
+- Nahlásí směr pohybu draka.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Ĺekni PAXovi, kam drak mĂ­Ĺ™il.
+- Řekni PAXovi, kam drak mířil.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- PAX znĂˇ zrekonstruovanou trasu.
-
----
-
-### KROK 5 â€” ÄŚasovĂˇ rekonstrukce incidentu
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-- 5_1 ZĂˇznam vstupu ÄŤlovÄ›ka: 1 teÄŤka / prvnĂ­ udĂˇlost
-- 5_2 ZĂˇznam draka smÄ›Ĺ™ujĂ­cĂ­ho k poĹľĂˇru: 3 teÄŤky / tĹ™etĂ­ udĂˇlost
-- 5_3 PoĹľĂˇrnĂ­ ÄŤidlo hlĂˇsĂ­ vznik ohnÄ›: 2 teÄŤky / druhĂˇ udĂˇlost
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-[Z HRY] 5_1â€“5_3 z bezpeÄŤnostnĂ­ho systĂ©mu, 1_2 pole â€žPoĹ™adĂ­ udĂˇlostĂ­â€ś se tĹ™emi mĂ­sty a 1_3. DospÄ›lĂ˝
-pĹ™eÄŤte udĂˇlosti a vysvÄ›tlĂ­ teÄŤky jako poĹ™adĂ­ tĂ©hoĹľ zĂˇznamu, nikoli hodiny. Karty jsou pĹ™edanĂ©
-promĂ­chanĂ©.
-
-**Akce dĂ­tÄ›te:**
-
-- SeĹ™adĂ­ udĂˇlosti podle ÄŤasu.
-- UmĂ­stĂ­ je na ÄŤasovou osu.
-- PorovnĂˇ je s trasou draka.
-
-**Ăškoly:**
-
-- SeĹ™aÄŹ tĹ™i udĂˇlosti podle ÄŤasu.
-- UmĂ­sti je na ÄŤasovou osu.
-- Porovnej je s draÄŤĂ­ trasou.
-
-**Co je hotovĂ˝ krok:**
-
-PoĹ™adĂ­ je vstup ÄŤlovÄ›ka â†’ poĹľĂˇr â†’ drak mĂ­Ĺ™Ă­ k poĹľĂˇru. ZjiĹˇtÄ›nĂ­ nepodporuje automatickĂ© obvinÄ›nĂ­
-draka jen podle pĹ™Ă­tomnosti stop; samo jeĹˇtÄ› neprokazuje vinĂ­ka.
+- PAX zná zrekonstruovanou trasu.
 
 ---
 
-### REPORT 5_Report â€” NaruĹˇenĂ­ pĹŻvodnĂ­ hypotĂ©zy
+### KROK 5 — Časová rekonstrukce incidentu
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+- 5_1 Záznam vstupu člověka: 1 tečka / první událost
+- 5_2 Záznam draka směřujícího k požáru: 3 tečky / třetí událost
+- 5_3 Požární čidlo hlásí vznik ohně: 2 tečky / druhá událost
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 5_1–5_3 z bezpečnostního systému, 1_2 pole „Pořadí událostí“ se třemi místy a 1_3. Dospělý
+přečte události a vysvětlí tečky jako pořadí téhož záznamu, nikoli hodiny. Karty jsou předané
+promíchané.
+
+**Akce dítěte:**
+
+- Seřadí události podle času.
+- Umístí je na časovou osu.
+- Porovná je s trasou draka.
+
+**Úkoly:**
+
+- Seřaď tři události podle času.
+- Umísti je na časovou osu.
+- Porovnej je s dračí trasou.
+
+**Co je hotový krok:**
+
+Pořadí je vstup člověka → požár → drak míří k požáru. Zjištění nepodporuje automatické obvinění
+draka jen podle přítomnosti stop; samo ještě neprokazuje viníka.
+
+---
+
+### REPORT 5_Report — Narušení původní hypotézy
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
 - [Z HRY] 1_2 Protokol
 - [Z HRY] 1_3 Mapa
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- PopĂ­Ĺˇe PAXovi nesrovnalost.
+- Popíše PAXovi nesrovnalost.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Nahlas poĹ™adĂ­ udĂˇlostĂ­.
-- Ĺekni, zda podle dĹŻkazĹŻ stĂˇle mĹŻĹľe bĂ˝t drak jistĂ˝m vinĂ­kem.
+- Nahlas pořadí událostí.
+- Řekni, zda podle důkazů stále může být drak jistým viníkem.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- PAX vĂ­, Ĺľe pĹŻvodnĂ­ hypotĂ©za pĹ™estĂˇvĂˇ sedÄ›t.
+- PAX ví, že původní hypotéza přestává sedět.
 
 ---
 
-### KROK 6 â€” DĹŻkaz zpĹŻsobu zaloĹľenĂ­ poĹľĂˇru
+### KROK 6 — Důkaz způsobu založení požáru
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 6_1 DĹŻkaznĂ­ obĂˇlka hlĂ­dky s oznaÄŤenĂ­m mĂ­sta nĂˇlezu u ohniĹˇtÄ›
-- 6_2 Model ohoĹ™elĂ© sirky bez zĂˇpalnĂ© hlaviÄŤky
+- 6_1 Důkazní obálka hlídky s označením místa nálezu u ohniště
+- 6_2 Model ohořelé sirky bez zápalné hlavičky
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 6_1 ObĂˇlka
+- [Z HRY] 6_1 Obálka
 - [Z HRY] 6_2 Sirka
 - [Z HRY] 1_2 Protokol mise
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- OtevĹ™e obĂˇlku.
-- ProzkoumĂˇ sirku.
-- PorovnĂˇ novĂ˝ dĹŻkaz s hypotĂ©zou o drakovi.
+- Otevře obálku.
+- Prozkoumá sirku.
+- Porovná nový důkaz s hypotézou o drakovi.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Prozkoumej novĂ˝ dĹŻkaz.
-- ZapiĹˇ, co vypovĂ­dĂˇ o vzniku poĹľĂˇru.
+- Prozkoumej nový důkaz.
+- Zapiš, co vypovídá o vzniku požáru.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-Sirka a ÄŤasovĂˇ osa podporujĂ­ hypotĂ©zu lidskĂ©ho zĂˇsahu. DĂ­tÄ› v poli â€žPracovnĂ­ vysvÄ›tlenĂ­â€ś oznaÄŤĂ­
-ÄŤlovÄ›ka s otaznĂ­kem; konkrĂ©tnĂ­ pachatel jeĹˇtÄ› prokĂˇzanĂ˝ nenĂ­.
+Sirka a časová osa podporují hypotézu lidského zásahu. Dítě v poli „Pracovní vysvětlení“ označí
+člověka s otazníkem; konkrétní pachatel ještě prokázaný není.
 
 ---
 
-### REPORT 6_Report â€” PracovnĂ­ hypotĂ©za lidskĂ©ho zĂˇsahu
+### REPORT 6_Report — Pracovní hypotéza lidského zásahu
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
 - [Z HRY] 6_2 Sirka
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-NahlĂˇsĂ­, Ĺľe sirka podporuje lidskĂ˝ zĂˇsah, ale jeĹˇtÄ› nevĂ­, kdo ji pouĹľil. PAX pĹ™ijme pracovnĂ­
-hypotĂ©zu, ne definitivnĂ­ oÄŤiĹˇtÄ›nĂ­ draka.
+Nahlásí, že sirka podporuje lidský zásah, ale ještě neví, kdo ji použil. PAX přijme pracovní
+hypotézu, ne definitivní očištění draka.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Ĺekni, jak podle tebe poĹľĂˇr vznikl.
-- Ĺekni, co to znamenĂˇ pro draka.
+- Řekni, jak podle tebe požár vznikl.
+- Řekni, co to znamená pro draka.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- VyĹˇetĹ™ovĂˇnĂ­ se pĹ™esouvĂˇ k neznĂˇmĂ©mu ÄŤlovÄ›ku.
-
----
-
-### KROK 7 â€” StopovĂˇnĂ­ draka v terĂ©nu
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-- 7_1 TerĂ©nnĂ­ znaÄŤka MĂŤSTO POĹ˝ĂRU
-- 7_2 Sada velkĂ˝ch draÄŤĂ­ch stop
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-- [Z HRY] 1_3 Mapa s draÄŤĂ­ trasou
-- [Z HRY] 7_1 TerĂ©nnĂ­ znaÄŤka
-- [Z HRY] 7_2 VelkĂ© draÄŤĂ­ stopy
-- [Z DOMOVA] Prostor pĹ™ipravenĂ˝ PAXem
-
-**Akce dĂ­tÄ›te:**
-
-Najde poĹľĂˇĹ™iĹˇtÄ› a sleduje trasu opaÄŤnÄ› neĹľ ukazujĂ­ prsty stop, aby naĹˇlo mĂ­sto, odkud drak pĹ™iĹˇel.
-ChodĂ­ normĂˇlnÄ› vpĹ™ed; nemusĂ­ couvat. PĹ™i vĂˇhĂˇnĂ­ prĹŻvodce pĹ™ipomene rozdĂ­l mezi â€žkam Ĺˇelâ€ś a â€žodkud
-pĹ™iĹˇelâ€ś.
-
-**Ăškoly:**
-
-- Najdi mĂ­sto poĹľĂˇru.
-- Zjisti, odkud drak pĹ™iĹˇel.
-
-**Co je hotovĂ˝ krok:**
-
-- DĂ­tÄ› sprĂˇvnÄ› sleduje draÄŤĂ­ trasu proti smÄ›ru pohybu a dorazĂ­ k neznĂˇmĂ©mu mĂ­stu.
+- Vyšetřování se přesouvá k neznámému člověku.
 
 ---
 
-### KROK 8 â€” NĂˇlez draÄŤĂ­ho hnĂ­zda
+### KROK 7 — Stopování draka v terénu
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 8_1 PĹŻvodnĂ­ draÄŤĂ­ hnĂ­zdo
-- 8_2 DraÄŤĂ­ vejce
+- 7_1 Terénní značka MÍSTO POŽÁRU
+- 7_2 Sada velkých dračích stop
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-[Z HRY] 8_1 sestavenĂ© hnĂ­zdo z materiĂˇlu boxu, 8_2 model vejce; terĂ©nnĂ­ trasa 7_2. PrĹŻvodce pĹ™ed
-vstupem pĹ™ipomene: pozoruj, vejce nech na mĂ­stÄ›.
+- [Z HRY] 1_3 Mapa s dračí trasou
+- [Z HRY] 7_1 Terénní značka
+- [Z HRY] 7_2 Velké dračí stopy
+- [Z DOMOVA] Prostor připravený PAXem
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- Na konci draÄŤĂ­ch stop objevĂ­ hnĂ­zdo.
+Najde požářiště a sleduje trasu opačně než ukazují prsty stop, aby našlo místo, odkud drak přišel.
+Chodí normálně vpřed; nemusí couvat. Při váhání průvodce připomene rozdíl mezi „kam šel“ a „odkud
+přišel“.
+
+**Úkoly:**
+
+- Najdi místo požáru.
+- Zjisti, odkud drak přišel.
+
+**Co je hotový krok:**
+
+- Dítě správně sleduje dračí trasu proti směru pohybu a dorazí k neznámému místu.
+
+---
+
+### KROK 8 — Nález dračího hnízda
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+- 8_1 Původní dračí hnízdo
+- 8_2 Dračí vejce
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 8_1 sestavené hnízdo z materiálu boxu, 8_2 model vejce; terénní trasa 7_2. Průvodce před
+vstupem připomene: pozoruj, vejce nech na místě.
+
+**Akce dítěte:**
+
+- Na konci dračích stop objeví hnízdo.
 - Najde vejce.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Zjisti, co se na konci trasy nachĂˇzĂ­.
-- S vejcem zatĂ­m nemanipuluj.
+- Zjisti, co se na konci trasy nachází.
+- S vejcem zatím nemanipuluj.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- DĂ­tÄ› objevĂ­ tajnĂ© draÄŤĂ­ hnĂ­zdo a vejce.
+- Dítě objeví tajné dračí hnízdo a vejce.
 
 ---
 
-### REPORT 8_Report â€” MimoĹ™ĂˇdnĂ˝ nĂˇlez
+### REPORT 8_Report — Mimořádný nález
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- OhlĂˇsĂ­ nĂˇlez PAXovi.
+- Ohlásí nález PAXovi.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Nahlas, co jsi naĹˇel.
+- Nahlas, co jsi našel.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- CentrĂˇla se poprvĂ© dozvĂ­ o hnĂ­zdÄ› a vejci.
+- Centrála se poprvé dozví o hnízdě a vejci.
 
 ---
 
-### KROK 9 â€” OdhalenĂ­ motivu vetĹ™elce
+### KROK 9 — Odhalení motivu vetřelce
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 9_1 BezpeÄŤnostnĂ­ obrazovĂ˝ zĂˇznam: tĂ˝Ĺľ ÄŤlovÄ›k u zapĂˇlenĂ­ ohnÄ›, drak jej hasĂ­ a vracĂ­ se, ÄŤlovÄ›k
-  hledĂˇ ve smÄ›ru draÄŤĂ­ trasy a utĂ­kĂˇ; poslednĂ­ snĂ­mek draka opouĹˇtÄ›jĂ­cĂ­ho okolĂ­ hnĂ­zda
-- 9_2 Kopie instrukcĂ­ k pĹ™epravÄ› draÄŤĂ­ho vejce a poznĂˇmek nalezenĂ˝ch hlĂ­dkou pĹ™Ă­mo u zadrĹľenĂ©ho
-  ÄŤlovÄ›ka; moĹľnost â€žvylĂˇkat ohnÄ›mâ€ś je podtrĹľenĂˇ
+- 9_1 Bezpečnostní obrazový záznam: týž člověk u zapálení ohně, drak jej hasí a vrací se, člověk
+  hledá ve směru dračí trasy a utíká; poslední snímek draka opouštějícího okolí hnízda
+- 9_2 Kopie instrukcí k přepravě dračího vejce a poznámek nalezených hlídkou přímo u zadrženého
+  člověka; možnost „vylákat ohněm“ je podtržená
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-[Z HRY] 9_1â€“9_2 doruÄŤĂ­ PAX po zĂ­skĂˇnĂ­ zĂˇznamu hlĂ­dky; zĂˇznam uvĂˇdĂ­ stejnĂ© oznaÄŤenĂ­ osoby jako
-fotografie u brĂˇny. 1_2, ÄŤasovĂˇ osa a mapa. VidÄ›t je sled ÄŤinĹŻ, ne pouze fotografie obliÄŤeje.
-ZĂˇznam konÄŤĂ­ odchodem draka mimo bezprostĹ™ednĂ­ okolĂ­ hnĂ­zda a zadrĹľenĂ­m ÄŤlovÄ›ka u vnÄ›jĹˇĂ­ brĂˇny.
+[Z HRY] 9_1–9_2 doručí PAX po získání záznamu hlídky; záznam uvádí stejné označení osoby jako
+fotografie u brány. 1_2, časová osa a mapa. Vidět je sled činů, ne pouze fotografie obličeje.
+Záznam končí odchodem draka mimo bezprostřední okolí hnízda a zadržením člověka u vnější brány.
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-PorovnĂˇ dÄ›j snĂ­mkĹŻ s ÄŤasovou osou. SpojĂ­ nalezenĂ˝ plĂˇn s ÄŤinem tĂ©hoĹľ ÄŤlovÄ›ka. V poli â€žCo se staloâ€ś
-oznaÄŤĂ­: ÄŤlovÄ›k zapĂˇlil oheĹ, drak hasĂ­, ÄŤlovÄ›k hledĂˇ vejce; v mapÄ› porovnĂˇ smÄ›r jeho pĂˇtrĂˇnĂ­ se
-sektorem hnĂ­zda.
+Porovná děj snímků s časovou osou. Spojí nalezený plán s činem téhož člověka. V poli „Co se stalo“
+označí: člověk zapálil oheň, drak hasí, člověk hledá vejce; v mapě porovná směr jeho pátrání se
+sektorem hnízda.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Zjisti, proÄŤ se vetĹ™elec dostal do perimetru.
-- Zjisti, proÄŤ zaloĹľil poĹľĂˇr.
+- Zjisti, proč se vetřelec dostal do perimetru.
+- Zjisti, proč založil požár.
 - Do Protokolu mise zaznamenej motiv.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-DĂ­tÄ› doloĹľĂ­ pachatele z obrazovĂ©ho zĂˇznamu a motiv z instrukcĂ­ a vyznaÄŤenĂ©ho plĂˇnu. Drak Ĺˇel hasit
-a vrĂˇtil se dĹ™Ă­v, neĹľ ÄŤlovÄ›k naĹˇel vejce. PozdÄ›ji opustil okolĂ­ hnĂ­zda. ÄŚlovÄ›k znal sprĂˇvnĂ˝ sektor;
-jeho zadrĹľenĂ­ nevymaĹľe prozrazenĂ­ polohy.
+Dítě doloží pachatele z obrazového záznamu a motiv z instrukcí a vyznačeného plánu. Drak šel hasit
+a vrátil se dřív, než člověk našel vejce. Později opustil okolí hnízda. Člověk znal správný sektor;
+jeho zadržení nevymaže prozrazení polohy.
 
 ---
 
-### REPORT 9_Report â€” ZĂˇvÄ›r vyĹˇetĹ™ovĂˇnĂ­
+### REPORT 9_Report — Závěr vyšetřování
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
 - [Z HRY] 1_2 Protokol
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- VysvÄ›tlĂ­ PAXovi celĂ˝ incident.
+- Vysvětlí PAXovi celý incident.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Kdo zaloĹľil poĹľĂˇr?
-- ProÄŤ?
-- ProÄŤ drak Ĺˇel k poĹľĂˇru?
-- Co vetĹ™elec hledal?
+- Kdo založil požár?
+- Proč?
+- Proč drak šel k požáru?
+- Co vetřelec hledal?
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-PAX pĹ™ijme doloĹľenou rekonstrukci a potvrzenĂ­ ohroĹľenĂ©ho sektoru. NouzovĂ˝ protokol pĹ™edĂˇ aĹľ jako
+PAX přijme doloženou rekonstrukci a potvrzení ohroženého sektoru. Nouzový protokol předá až jako
 vstup kroku 10.
 
 ---
 
-### KROK 10 â€” ZahĂˇjenĂ­ zĂˇchrannĂ© operace
+### KROK 10 — Zahájení záchranné operace
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 10_1 NouzovĂ˝ protokol ochrany draÄŤĂ­ho vejce vÄŤetnÄ› karty bezpeÄŤnĂ© pĹ™epravy
-- 10_2 KonstrukÄŤnĂ­ sada nosĂ­tka: sklĂˇdacĂ­ pevnĂˇ zĂˇkladna, ÄŤtyĹ™i boÄŤnice, dvÄ› ĹˇirokĂˇ drĹľadla,
-  vĂ˝stelka, spojovacĂ­ pĂˇsky a obrĂˇzkovĂ˝ plĂˇn
+- 10_1 Nouzový protokol ochrany dračího vejce včetně karty bezpečné přepravy
+- 10_2 Konstrukční sada nosítka: skládací pevná základna, čtyři bočnice, dvě široká držadla,
+  výstelka, spojovací pásky a obrázkový plán
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-[Z HRY] 10_1â€“10_2 od PAXe po 9_Report; zĂˇznam 9_1 a vejce na pĹŻvodnĂ­m mĂ­stÄ›. Protokol Ĺ™Ă­kĂˇ:
-prozrazenĂ˝ sektor vyĹľaduje chrĂˇnÄ›nĂ© nĂˇhradnĂ­ hnĂ­zdo. Vejce lze pĹ™emĂ­stit aĹľ po testu nosĂ­tka,
-kontrole novĂ©ho hnĂ­zda a vĂ˝slovnĂ©m povolenĂ­ PAXe. CentrĂˇla podle novĂ© mapy navede draka svĂ˝m
-nĂˇvratovĂ˝m signĂˇlem popsanĂ˝m v protokolu.
+[Z HRY] 10_1–10_2 od PAXe po 9_Report; záznam 9_1 a vejce na původním místě. Protokol říká:
+prozrazený sektor vyžaduje chráněné náhradní hnízdo. Vejce lze přemístit až po testu nosítka,
+kontrole nového hnízda a výslovném povolení PAXe. Centrála podle nové mapy navede draka svým
+návratovým signálem popsaným v protokolu.
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- SeznĂˇmĂ­ se s podmĂ­nkami bezpeÄŤnĂ© pĹ™epravy.
+- Seznámí se s podmínkami bezpečné přepravy.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Zjisti, co musĂ­ transportnĂ­ zaĹ™Ă­zenĂ­ splĹovat.
+- Zjisti, co musí transportní zařízení splňovat.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- DĂ­tÄ› vĂ­, co musĂ­ postavit.
-
----
-
-### KROK 11 â€” Stavba transportnĂ­ho zaĹ™Ă­zenĂ­
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-â€”
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-[Z HRY] 10_1 poĹľadavky i plĂˇn, 10_2 dĂ­ly. DospÄ›lĂ˝ pomĹŻĹľe s pevnĂ˝mi spoji, dĂ­tÄ› vybĂ­rĂˇ umĂ­stÄ›nĂ­
-vĂ˝stelky a sestavuje boÄŤnice. [Z DOMOVA] rovnĂˇ pracovnĂ­ plocha.
-
-**Akce dĂ­tÄ›te:**
-
-- PostavĂ­ zaĹ™Ă­zenĂ­ pro bezpeÄŤnĂ˝ transport vejce.
-
-**Ăškoly:**
-
-- Postav zaĹ™Ă­zenĂ­, ve kterĂ©m se vejce nebude kutĂˇlet ani vypadĂˇvat.
-
-**Co je hotovĂ˝ krok:**
-
-- TransportnĂ­ zaĹ™Ă­zenĂ­ je hotovĂ©.
+- Dítě ví, co musí postavit.
 
 ---
 
-### KROK 12 â€” Test transportnĂ­ho zaĹ™Ă­zenĂ­
+### KROK 11 — Stavba transportního zařízení
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-12_1 CviÄŤnĂ© vejce stejnĂ©ho vnÄ›jĹˇĂ­ho tvaru a hmotnosti jako model draÄŤĂ­ho vejce
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-[Z HRY] 12_1, hotovĂ© nosĂ­tko, 10_1. Test: vloĹľit zĂˇtÄ›Ĺľ, obÄ›ma rukama drĹľet nosĂ­tko, ujĂ­t pÄ›t
-pomalĂ˝ch krokĹŻ, zastavit, zatoÄŤit a poloĹľit. ZĂˇtÄ›Ĺľ nesmĂ­ vyklouznout z vĂ˝stelky ani pĹ™es boÄŤnici,
-spoje se nerozpojĂ­.
+[Z HRY] 10_1 požadavky i plán, 10_2 díly. Dospělý pomůže s pevnými spoji, dítě vybírá umístění
+výstelky a sestavuje bočnice. [Z DOMOVA] rovná pracovní plocha.
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
+
+- Postaví zařízení pro bezpečný transport vejce.
+
+**Úkoly:**
+
+- Postav zařízení, ve kterém se vejce nebude kutálet ani vypadávat.
+
+**Co je hotový krok:**
+
+- Transportní zařízení je hotové.
+
+---
+
+### KROK 12 — Test transportního zařízení
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+12_1 Cvičné vejce stejného vnějšího tvaru a hmotnosti jako model dračího vejce
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 12_1, hotové nosítko, 10_1. Test: vložit zátěž, oběma rukama držet nosítko, ujít pět
+pomalých kroků, zastavit, zatočit a položit. Zátěž nesmí vyklouznout z výstelky ani přes bočnici,
+spoje se nerozpojí.
+
+**Akce dítěte:**
 
 - Otestuje konstrukci.
-- PĹ™Ă­padnÄ› ji upravĂ­.
+- Případně ji upraví.
 
-**Ăškoly:**
+**Úkoly:**
 
-- ProveÄŹ test a pĹ™Ă­padnĂ© opravy.
+- Proveď test a případné opravy.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-Test vyĹˇel a dĂ­tÄ› oznaÄŤilo v Protokolu pole â€žTransport vyzkouĹˇenâ€ś. PĹ™i posunu zĂˇtÄ›Ĺľe doplnĂ­
-vĂ˝stelku, pĹ™i povolenĂ©m spoji jej s dospÄ›lĂ˝m opravĂ­ a celĂ˝ test zopakuje. Na skuteÄŤnĂ© vejce dosud
-nesahĂˇ.
+Test vyšel a dítě označilo v Protokolu pole „Transport vyzkoušen“. Při posunu zátěže doplní
+výstelku, při povoleném spoji jej s dospělým opraví a celý test zopakuje. Na skutečné vejce dosud
+nesahá.
 
 ---
 
-### REPORT 12_Report â€” Transport pĹ™ipraven
+### REPORT 12_Report — Transport připraven
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- OhlĂˇsĂ­ ĂşspÄ›ĹˇnĂ˝ test.
+- Ohlásí úspěšný test.
 
-**Ăškoly:**
+**Úkoly:**
 
-- PotvrÄŹ, Ĺľe zaĹ™Ă­zenĂ­ je pĹ™ipravenĂ©.
+- Potvrď, že zařízení je připravené.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- PAX povolĂ­ pokraÄŤovat.
-
----
-
-### KROK 13 â€” VĂ˝bÄ›r novĂ©ho mĂ­sta pro hnĂ­zdo
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-13_1 KontrolnĂ­ karta novĂ©ho hnĂ­zda, souÄŤĂˇst nouzovĂ©ho protokolu: rovnĂ© suchĂ© mĂ­sto, mimo prozrazenĂ˝
-sektor i prĹŻchozĂ­ cestu, krytĂ© z pohledu od pĹŻvodnĂ­ trasy a pĹ™Ă­stupnĂ© pro uloĹľenĂ­ vejce
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-[Z HRY] 10_1, 13_1, mapa; po ĂşspÄ›ĹˇnĂ©m 12_Report PAX povolil hledĂˇnĂ­ mĂ­sta. PrĹŻvodce pĹ™edem vyznaÄŤil
-hranici starĂ©ho sektoru na mapÄ› i v prostoru a ponechal nejmĂ©nÄ› dvÄ› vhodnĂˇ mĂ­sta. DĂ­tÄ› volĂ­
-kterĂ©koli splĹujĂ­cĂ­ podmĂ­nky.
-
-**Akce dĂ­tÄ›te:**
-
-- Vybere vhodnĂ© novĂ© mĂ­sto podle poĹľadavkĹŻ.
-
-**Ăškoly:**
-
-- Najdi mĂ­sto splĹujĂ­cĂ­ vĹˇechny podmĂ­nky.
-
-**Co je hotovĂ˝ krok:**
-
-- NovĂˇ lokalita je vybranĂˇ.
+- PAX povolí pokračovat.
 
 ---
 
-### KROK 14 â€” Stavba nĂˇhradnĂ­ho hnĂ­zda
+### KROK 13 — Výběr nového místa pro hnízdo
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-14_1 MateriĂˇl nĂˇhradnĂ­ho hnĂ­zda z boxu: sklĂˇdacĂ­ podloĹľka, mÄ›kkĂˇ vĂ˝stelka, ochrannĂ˝ lem,
-neprĹŻhlednĂˇ krycĂ­ zĂˇstÄ›na a spojovacĂ­ prvky
+13_1 Kontrolní karta nového hnízda, součást nouzového protokolu: rovné suché místo, mimo prozrazený
+sektor i průchozí cestu, kryté z pohledu od původní trasy a přístupné pro uložení vejce
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-[Z HRY] 14_1, 13_1 a 10_1; vybranĂ© mĂ­sto. Deka ani polĹˇtĂˇĹ™ z domova nejsou poĹľadovanĂ©. PrĹŻvodce
-ovÄ›Ĺ™Ă­ dostupnost mĂ­sta, dĂ­tÄ› vybuduje hnĂ­zdo a na kartÄ› projde vĹˇechny podmĂ­nky.
+[Z HRY] 10_1, 13_1, mapa; po úspěšném 12_Report PAX povolil hledání místa. Průvodce předem vyznačil
+hranici starého sektoru na mapě i v prostoru a ponechal nejméně dvě vhodná místa. Dítě volí
+kterékoli splňující podmínky.
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- PostavĂ­ novĂ© hnĂ­zdo.
+- Vybere vhodné nové místo podle požadavků.
+
+**Úkoly:**
+
+- Najdi místo splňující všechny podmínky.
+
+**Co je hotový krok:**
+
+- Nová lokalita je vybraná.
+
+---
+
+### KROK 14 — Stavba náhradního hnízda
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+14_1 Materiál náhradního hnízda z boxu: skládací podložka, měkká výstelka, ochranný lem,
+neprůhledná krycí zástěna a spojovací prvky
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 14_1, 13_1 a 10_1; vybrané místo. Deka ani polštář z domova nejsou požadované. Průvodce
+ověří dostupnost místa, dítě vybuduje hnízdo a na kartě projde všechny podmínky.
+
+**Akce dítěte:**
+
+- Postaví nové hnízdo.
 - Zkontroluje ho podle protokolu.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Postav hnĂ­zdo splĹujĂ­cĂ­ vĹˇechny poĹľadavky.
+- Postav hnízdo splňující všechny požadavky.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- NovĂ© hnĂ­zdo je pĹ™ipravenĂ©.
+- Nové hnízdo je připravené.
 
 ---
 
-### REPORT 14_Report â€” HnĂ­zdo pĹ™ipraveno
+### REPORT 14_Report — Hnízdo připraveno
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- NahlĂˇsĂ­ dokonÄŤenĂ­ hnĂ­zda.
+- Nahlásí dokončení hnízda.
 
-**Ăškoly:**
+**Úkoly:**
 
-- PotvrÄŹ pĹ™ipravenost hnĂ­zda.
-- PoĹľĂˇdej o povolenĂ­ pĹ™esunu vejce.
+- Potvrď připravenost hnízda.
+- Požádej o povolení přesunu vejce.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- PAX povolĂ­ pĹ™esun.
-
----
-
-### KROK 15 â€” PĹ™esun draÄŤĂ­ho vejce
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-â€”
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-[Z HRY] 8_2 vejce, otestovanĂ© nosĂ­tko, 10_1, dokonÄŤenĂ© hnĂ­zdo ovÄ›Ĺ™enĂ© podle 13_1 a vĂ˝slovnĂ©
-povolenĂ­ PAXe po 14_Report. [PROSTOR] krĂˇtkĂˇ volnĂˇ trasa; prĹŻvodce je pĹ™i pĹ™esunu pĹ™Ă­tomen.
-
-**Akce dĂ­tÄ›te:**
-
-- VloĹľĂ­ vejce do zaĹ™Ă­zenĂ­.
-- BezpeÄŤnÄ› jej pĹ™enese.
-- UloĹľĂ­ do novĂ©ho hnĂ­zda.
-
-**Ăškoly:**
-
-- PĹ™esuĹ vejce bez poĹˇkozenĂ­.
-
-**Co je hotovĂ˝ krok:**
-
-- Vejce je bezpeÄŤnÄ› na novĂ©m mĂ­stÄ›.
+- PAX povolí přesun.
 
 ---
 
-### REPORT 15_Report â€” Vejce v bezpeÄŤĂ­
+### KROK 15 — Přesun dračího vejce
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+—
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 8_2 vejce, otestované nosítko, 10_1, dokončené hnízdo ověřené podle 13_1 a výslovné
+povolení PAXe po 14_Report. [PROSTOR] krátká volná trasa; průvodce je při přesunu přítomen.
+
+**Akce dítěte:**
+
+- Vloží vejce do zařízení.
+- Bezpečně jej přenese.
+- Uloží do nového hnízda.
+
+**Úkoly:**
+
+- Přesuň vejce bez poškození.
+
+**Co je hotový krok:**
+
+- Vejce je bezpečně na novém místě.
+
+---
+
+### REPORT 15_Report — Vejce v bezpečí
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- OhlĂˇsĂ­ ĂşspÄ›ĹˇnĂ˝ pĹ™esun.
+- Ohlásí úspěšný přesun.
 
-**Ăškoly:**
+**Úkoly:**
 
-- PotvrÄŹ, Ĺľe vejce je v novĂ©m hnĂ­zdÄ›.
+- Potvrď, že vejce je v novém hnízdě.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- CentrĂˇla vĂ­, Ĺľe vejce je v bezpeÄŤĂ­.
-
----
-
-### KROK 16 â€” ZajiĹˇtÄ›nĂ­ novĂ©ho hnĂ­zda
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-- 16_1 ZnaÄŤka ochrany StrĂˇĹľce drakĹŻ
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-- [Z HRY] 16_1 ZnaÄŤka ochrany
-- [Z DOMOVA] HotovĂ© hnĂ­zdo
-
-**Akce dĂ­tÄ›te:**
-
-- Provede zĂˇvÄ›reÄŤnou kontrolu.
-- OznaÄŤĂ­ hnĂ­zdo jako chrĂˇnÄ›nĂ©.
-
-**Ăškoly:**
-
-- UmĂ­sti ochrannou znaÄŤku.
-
-**Co je hotovĂ˝ krok:**
-
-- HnĂ­zdo je zajiĹˇtÄ›no.
+- Centrála ví, že vejce je v bezpečí.
 
 ---
 
-### KROK 17 â€” Aktualizace mapy
+### KROK 16 — Zajištění nového hnízda
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 17_1 Sada mapovĂ˝ch samolepek / znaÄŤek CentrĂˇly
+- 16_1 Značka ochrany Strážce draků
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
+
+- [Z HRY] 16_1 Značka ochrany
+- [Z DOMOVA] Hotové hnízdo
+
+**Akce dítěte:**
+
+- Provede závěrečnou kontrolu.
+- Označí hnízdo jako chráněné.
+
+**Úkoly:**
+
+- Umísti ochrannou značku.
+
+**Co je hotový krok:**
+
+- Hnízdo je zajištěno.
+
+---
+
+### KROK 17 — Aktualizace mapy
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+- 17_1 Sada mapových samolepek / značek Centrály
+
+**Co potřebuje dítě k vyřešení kroku:**
 
 - [Z HRY] 1_3 Mapa
-- [Z HRY] 17_1 MapovĂ© znaÄŤky
-- [Z HRY] PsacĂ­ prostĹ™edek
+- [Z HRY] 17_1 Mapové značky
+- [Z HRY] Psací prostředek
 - [Z HRY] 1_2 Protokol mise
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- OznaÄŤĂ­ pĹŻvodnĂ­ hnĂ­zdo.
-- OznaÄŤĂ­ ho jako kompromitovanĂ©.
-- ZaznamenĂˇ novĂ© tajnĂ© hnĂ­zdo.
-- DoplnĂ­ vĂ˝sledky mise.
+- Označí původní hnízdo.
+- Označí ho jako kompromitované.
+- Zaznamená nové tajné hnízdo.
+- Doplní výsledky mise.
 
-**Ăškoly:**
+**Úkoly:**
 
 - Aktualizuj mapu.
-- Zaznamenej novĂ© tajnĂ© mĂ­sto vejce.
+- Zaznamenej nové tajné místo vejce.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- Mapa obsahuje aktuĂˇlnĂ­ stav perimetru.
+- Mapa obsahuje aktuální stav perimetru.
 
 ---
 
-### REPORT 17_Report â€” ZĂˇvÄ›reÄŤnĂ© operaÄŤnĂ­ hlĂˇĹˇenĂ­
+### REPORT 17_Report — Závěrečné operační hlášení
 
 **Label:** Report
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-â€”
+—
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
 - [Z HRY] 1_2 Protokol
-- [Z HRY] 1_3 AktualizovanĂˇ mapa
-- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] 1_3 Aktualizovaná mapa
+- [Z HRY] Vysílačka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- Shrne celĂ˝ pĹ™Ă­pad.
+- Shrne celý případ.
 
-**Ăškoly:**
+**Úkoly:**
 
-- Kdo zaloĹľil poĹľĂˇr?
-- ProÄŤ?
-- Co dÄ›lal drak?
-- Je vejce v bezpeÄŤĂ­?
-- Je novĂ© hnĂ­zdo zaznamenĂˇno?
+- Kdo založil požár?
+- Proč?
+- Co dělal drak?
+- Je vejce v bezpečí?
+- Je nové hnízdo zaznamenáno?
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-- PAX mĂˇ kompletnĂ­ zĂˇvÄ›reÄŤnĂ© hlĂˇĹˇenĂ­.
-
----
-
-### KROK 18 â€” OdeslĂˇnĂ­ mapy PAXovi
-
-**Label:** DĂ­tÄ›
-
-**NovĂ© artefakty na vstupu:**
-
-- 18_1 NĂˇvratovĂˇ obĂˇlka pro PAXe
-
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
-
-- [Z HRY] 1_3 AktualizovanĂˇ mapa
-- [Z HRY] 18_1 NĂˇvratovĂˇ obĂˇlka
-
-**Akce dĂ­tÄ›te:**
-
-VloĹľĂ­ aktualizovanou mapu do obĂˇlky a pĹ™edĂˇ ji prĹŻvodci na pĹ™edĂˇvacĂ­m mĂ­stÄ› CentrĂˇly. PrĹŻvodce
-zkontroluje novĂ˝ sektor a polohu hnĂ­zda.
-
-**Ăškoly:**
-
-- OdeĹˇli aktualizovanou mapu CentrĂˇle.
-
-**Co je hotovĂ˝ krok:**
-
-CentrĂˇla pĹ™evzala mapu. PAX oznĂˇmĂ­, Ĺľe podle souĹ™adnic zapnul nĂˇvratovĂ˝ signĂˇl pro draka; jde o
-postup pĹ™edem uvedenĂ˝ v 10_1, nikoli o novĂ˝ nevysvÄ›tlenĂ˝ zpĹŻsob nalezenĂ­ vejce.
+- PAX má kompletní závěrečné hlášení.
 
 ---
 
-### KROK 19 â€” UdÄ›lenĂ­ specializace
+### KROK 18 — Odeslání mapy PAXovi
 
-**Label:** DĂ­tÄ›
+**Label:** Dítě
 
-**NovĂ© artefakty na vstupu:**
+**Nové artefakty na vstupu:**
 
-- 19_1 Badge STRĂĹ˝CE DRAKĹ®
+- 18_1 Návratová obálka pro PAXe
 
-**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+**Co potřebuje dítě k vyřešení kroku:**
 
-[Z HRY] 19_1 od PAXe po pĹ™evzetĂ­ mapy, 1_2 dokonÄŤenĂ˝ Protokol a zachrĂˇnÄ›nĂ© vejce v chrĂˇnÄ›nĂ©m
-hnĂ­zdÄ›.
+- [Z HRY] 1_3 Aktualizovaná mapa
+- [Z HRY] 18_1 Návratová obálka
 
-**Akce dĂ­tÄ›te:**
+**Akce dítěte:**
 
-- PĹ™ijme potvrzenĂ­ o dokonÄŤenĂ­ mise.
+Vloží aktualizovanou mapu do obálky a předá ji průvodci na předávacím místě Centrály. Průvodce
+zkontroluje nový sektor a polohu hnízda.
 
-**Ăškoly:**
+**Úkoly:**
 
-â€”
+- Odešli aktualizovanou mapu Centrále.
 
-**Co je hotovĂ˝ krok:**
+**Co je hotový krok:**
 
-Mapa je pĹ™edanĂˇ, Protokol uzavĹ™enĂ˝, vejce v chrĂˇnÄ›nĂ©m hnĂ­zdÄ› a drak mĂˇ zajiĹˇtÄ›nĂ© navedenĂ­. DĂ­tÄ›
-pĹ™evzalo samostatnĂ˝ badge STRĂĹ˝CE DRAKĹ® a ponechĂˇ si nosĂ­tko i model vejce.
+Centrála převzala mapu. PAX oznámí, že podle souřadnic zapnul návratový signál pro draka; jde o
+postup předem uvedený v 10_1, nikoli o nový nevysvětlený způsob nalezení vejce.
 
 ---
 
-## 8. OtevĹ™enĂ© body kontroly scĂ©nĂˇĹ™e
+### KROK 19 — Udělení specializace
 
-### 8.1 Soulad s pravidly a dostupnost pomĹŻcek
+**Label:** Dítě
 
-- **Krok 1 â€” NEOVÄšĹENO:** dodanĂ˝ nĂˇzev â€žPĹ™ijetĂ­ incidentuâ€ś se liĹˇĂ­ od globĂˇlnÄ› pĹ™edepsanĂ©ho â€žPĹ™edĂˇnĂ­ miseâ€ś. PĹŻvodnĂ­ nĂˇzev v tabulce je zachovĂˇn; TODO â€” sjednotit po rozhodnutĂ­ o rozporu.
-- **Kroky 1_Report, 2 a dalĹˇĂ­ â€” TODO:** urÄŤit, kdy dĂ­tÄ› dostane vysĂ­laÄŤku a psacĂ­ / znaÄŤicĂ­ prostĹ™edek. Tabulka je pouĹľĂ­vĂˇ bez explicitnĂ­ho pĹ™edĂˇnĂ­.
-- **NovĂ© dĹŻkazy a pomĹŻcky â€” TODO:** upĹ™esnit zdroj a zpĹŻsob pĹ™edĂˇnĂ­, zejmĂ©na u krokĹŻ 3â€“6, 9, 10 a 13. Report nesmĂ­ skrytÄ› dodĂˇvat chybÄ›jĂ­cĂ­ vstup dalĹˇĂ­ho kroku.
-- **Sloupec novĂ˝ch artefaktĹŻ:** dodanĂ© â€žBez novĂ©ho artefaktuâ€ś vĂ˝znamovÄ› odpovĂ­dĂˇ pĹ™edepsanĂ©mu â€žâ€”â€ś; znÄ›nĂ­ zdroje je zatĂ­m zachovĂˇno.
+**Nové artefakty na vstupu:**
 
-### 8.2 Dedukce a nĂˇvaznost vyĹˇetĹ™ovĂˇnĂ­
+- 19_1 Badge STRÁŽCE DRAKŮ
 
-- **Krok 2 â€” NEOVÄšĹENO:** bez obsahu fotografiĂ­ nelze ovÄ›Ĺ™it urÄŤenĂ­ mĂ­st ani poÄŤtu ĂşÄŤastnĂ­kĹŻ. VelkĂˇ stopa sama neurÄŤuje poÄŤet osob ÄŤi zvĂ­Ĺ™at.
-- **Krok 4 â€” TODO:** fotografie musĂ­ umoĹľĹovat pĹ™iĹ™azenĂ­ k mapÄ› a urÄŤenĂ­ smÄ›ru stop, aby trasa nebyla tipovĂˇnĂ­.
-- **Krok 5 â€” NEOVÄšĹENO:** poĹ™adĂ­ â€žnaruĹˇenĂ­ perimetru â†’ draÄŤĂ­ stopy â†’ poĹľĂˇrâ€ś samo nevyluÄŤuje, Ĺľe drak poĹľĂˇr zaloĹľil. NenĂ­ doloĹľeno, proÄŤ toto poĹ™adĂ­ pĹŻvodnĂ­ hypotĂ©zu vĂ˝raznÄ› naruĹˇuje.
-- **Krok 6 a 6_Report â€” NEOVÄšĹENO:** nalezenĂˇ sirka mĹŻĹľe podpoĹ™it hypotĂ©zu lidskĂ©ho zĂˇsahu, sama vĹˇak neprokazuje pĹŻvodce poĹľĂˇru ani nevinu draka. Report mĂˇ jistÄ›jĹˇĂ­ zĂˇvÄ›r neĹľ pĹ™edchozĂ­ krok.
-- **Krok 7 â€” TODO:** ovÄ›Ĺ™it, Ĺľe smÄ›r fyzickĂ˝ch stop je ÄŤitelnĂ˝ a cesta proti nÄ›mu skuteÄŤnÄ› navazuje na pĹŻvodnĂ­ hnĂ­zdo.
-- **Krok 9 a 9_Report â€” NEOVÄšĹENO:** instrukce k pĂ©ÄŤi o vejce doklĂˇdajĂ­ souvislost s vejcem, samy neprokazujĂ­ zaloĹľenĂ­ poĹľĂˇru, zĂˇmÄ›r vylĂˇkat draka ani dĹŻvod jeho cesty k poĹľĂˇru. OvÄ›Ĺ™it takĂ©, jak dĂ­tÄ› poznĂˇ, Ĺľe odhozenĂ˝ batoh patĹ™Ă­ fotografovanĂ©mu vetĹ™elci a proÄŤ je pĹŻvodnĂ­ hnĂ­zdo jiĹľ nebezpeÄŤnĂ©.
+**Co potřebuje dítě k vyřešení kroku:**
 
-### 8.3 ProvedenĂ­ pro vÄ›k 4â€“5 let
+[Z HRY] 19_1 od PAXe po převzetí mapy, 1_2 dokončený Protokol a zachráněné vejce v chráněném
+hnízdě.
 
-- **ZĂˇpisy a ÄŤasovĂˇ osa â€” TODO:** urÄŤit konkrĂ©tnĂ­ mĂ­sta v Protokolu, podobu ÄŤasovĂ˝ch ĂşdajĹŻ a zpĹŻsob prĂˇce dĂ­tÄ›te ve vÄ›ku 4â€“5 let; nespolĂ©hat bez upĹ™esnÄ›nĂ­ na samostatnĂ© ÄŤtenĂ­ a psanĂ­.
-- **Kroky 10â€“12 â€” TODO:** doplnit pĹ™esnĂ© podmĂ­nky pĹ™epravy, komponenty, postup testu a mÄ›Ĺ™itelnou podmĂ­nku ĂşspÄ›chu. Karta 10_1 je potĹ™ebnĂˇ takĂ© pĹ™i stavbÄ› a testovĂˇnĂ­, ale v jejich vstupech chybĂ­.
-- **Kroky 13â€“14 â€” TODO:** doplnit poĹľadavky na novĂ© mĂ­sto a hnĂ­zdo i pĹ™esnĂ© materiĂˇly. Protokol 13_1 je potĹ™ebnĂ˝ takĂ© pro kontrolu v kroku 14.
-- **Kroky 12_Report â†’ 13 a 14_Report â†’ 15 â€” TODO:** zachytit povolenĂ­ PAXe jako vstupy nĂˇsledujĂ­cĂ­ch krokĹŻ.
-- **Krok 18 â€” TODO:** upĹ™esnit fyzickĂ˝ zpĹŻsob odeslĂˇnĂ­ a pĹ™evzetĂ­ mapy PAXem.
-- **Krok 19 â€” TODO:** doplnit chybÄ›jĂ­cĂ­ podmĂ­nku dokonÄŤenĂ­ a zpĹŻsob pĹ™edĂˇnĂ­ badge.
+**Akce dítěte:**
+
+- Přijme potvrzení o dokončení mise.
+
+**Úkoly:**
+
+—
+
+**Co je hotový krok:**
+
+Mapa je předaná, Protokol uzavřený, vejce v chráněném hnízdě a drak má zajištěné navedení. Dítě
+převzalo samostatný badge STRÁŽCE DRAKŮ a ponechá si nosítko i model vejce.
+
+---
+
+## 8. Otevřené body kontroly scénáře
+
+### 8.1 Soulad s pravidly a dostupnost pomůcek
+
+- **Krok 1 — NEOVĚŘENO:** dodaný název „Přijetí incidentu“ se liší od globálně předepsaného „Předání mise“. Původní název v tabulce je zachován; TODO — sjednotit po rozhodnutí o rozporu.
+- **Kroky 1_Report, 2 a další — TODO:** určit, kdy dítě dostane vysílačku a psací / značicí prostředek. Tabulka je používá bez explicitního předání.
+- **Nové důkazy a pomůcky — TODO:** upřesnit zdroj a způsob předání, zejména u kroků 3–6, 9, 10 a 13. Report nesmí skrytě dodávat chybějící vstup dalšího kroku.
+- **Sloupec nových artefaktů:** dodané „Bez nového artefaktu“ významově odpovídá předepsanému „—“; znění zdroje je zatím zachováno.
+
+### 8.2 Dedukce a návaznost vyšetřování
+
+- **Krok 2 — NEOVĚŘENO:** bez obsahu fotografií nelze ověřit určení míst ani počtu účastníků. Velká stopa sama neurčuje počet osob či zvířat.
+- **Krok 4 — TODO:** fotografie musí umožňovat přiřazení k mapě a určení směru stop, aby trasa nebyla tipování.
+- **Krok 5 — NEOVĚŘENO:** pořadí „narušení perimetru → dračí stopy → požár“ samo nevylučuje, že drak požár založil. Není doloženo, proč toto pořadí původní hypotézu výrazně narušuje.
+- **Krok 6 a 6_Report — NEOVĚŘENO:** nalezená sirka může podpořit hypotézu lidského zásahu, sama však neprokazuje původce požáru ani nevinu draka. Report má jistější závěr než předchozí krok.
+- **Krok 7 — TODO:** ověřit, že směr fyzických stop je čitelný a cesta proti němu skutečně navazuje na původní hnízdo.
+- **Krok 9 a 9_Report — NEOVĚŘENO:** instrukce k péči o vejce dokládají souvislost s vejcem, samy neprokazují založení požáru, záměr vylákat draka ani důvod jeho cesty k požáru. Ověřit také, jak dítě pozná, že odhozený batoh patří fotografovanému vetřelci a proč je původní hnízdo již nebezpečné.
+
+### 8.3 Provedení pro věk 4–5 let
+
+- **Zápisy a časová osa — TODO:** určit konkrétní místa v Protokolu, podobu časových údajů a způsob práce dítěte ve věku 4–5 let; nespoléhat bez upřesnění na samostatné čtení a psaní.
+- **Kroky 10–12 — TODO:** doplnit přesné podmínky přepravy, komponenty, postup testu a měřitelnou podmínku úspěchu. Karta 10_1 je potřebná také při stavbě a testování, ale v jejich vstupech chybí.
+- **Kroky 13–14 — TODO:** doplnit požadavky na nové místo a hnízdo i přesné materiály. Protokol 13_1 je potřebný také pro kontrolu v kroku 14.
+- **Kroky 12_Report → 13 a 14_Report → 15 — TODO:** zachytit povolení PAXe jako vstupy následujících kroků.
+- **Krok 18 — TODO:** upřesnit fyzický způsob odeslání a převzetí mapy PAXem.
+- **Krok 19 — TODO:** doplnit chybějící podmínku dokončení a způsob předání badge.
+
 
 
