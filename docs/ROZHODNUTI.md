@@ -2,13 +2,23 @@
 
 Tento soubor obsahuje rozhodnutí zachycená v dostupném projektovém kontextu.
 
-## Terminologie
+---
+
+## 1. Cílový věk
+
+Všechny mise M!SE jsou určeny dětem ve věku **4–5 let**.
+
+---
+
+## 2. Terminologie
 
 - Původní označení „složka mise“ bylo změněno na **Zadání mise**.
 - Centrální kontaktní postava / hlas je označován jako **PAX**.
 - Závěrečná ocenění mohou mít podobu badge / označení role, např. u Dračí mise „Strážce draků“.
 
-## Vizuální identita
+---
+
+## 3. Vizuální identita
 
 Známé rozhodnutí:
 - logo M!SE musí přesně respektovat schválený vizuální vzor,
@@ -18,6 +28,61 @@ Známé rozhodnutí:
 
 Konkrétní finální grafické soubory nejsou součástí tohoto starteru, protože nejsou v aktivním filesystemu této konverzace.
 
-## Důležité pracovní pravidlo
+---
+
+## 4. Důležité pracovní pravidlo
 
 Chat není dlouhodobý zdroj pravdy. Jakmile je rozhodnutí schváleno, má být propsáno do tohoto repa.
+
+
+---
+
+## 5. Čitelná podoba scénářů
+
+Scénáře se v MISE.md zobrazují po jednotlivých očíslovaných krocích a navázaných reportech. Zdrojová tabulka zůstává v samostatném SCENAR-TABULKA.md. Obě podoby musí obsahovat stejné informace a při úpravách se aktualizují společně.
+
+---
+
+## 6. Schválené specializace
+
+Schváleno uživatelem 11. 9. 2026:
+
+1. **PALEONTOLOG**
+2. **STRÁŽCE DRAKŮ**
+3. **LOVEC POKLADŮ**
+4. **KONSTRUKTÉR**
+5. **TAJNÝ AGENT**
+
+Pirátská specializace je sjednocena na množné číslo Lovec pokladů.
+Schválené názvy jednotlivých misí jsou uvedeny v sekci 7.
+---
+
+## 7. Schválené názvy misí
+
+Schváleno uživatelem 11. 9. 2026:
+
+- **Tajemství dávných obrů** — specializace PALEONTOLOG.
+- **Po stopách draka** — specializace STRÁŽCE DRAKŮ.
+- **Tajemství kapitánovy pečeti** — specializace LOVEC POKLADŮ.
+- **Operace ticho** — specializace TAJNÝ AGENT.
+
+- **Operace Skalní orel** — specializace KONSTRUKTÉR.
+
+Názvy všech pěti misí jsou schválené. Kódy misí zůstávají TODO.
+---
+
+## 8. Schválené vedení misí
+
+Schváleno uživatelem 11. 9. 2026:
+
+- Rodič/průvodce hraje PAXe. Úvod každé mise tvoří nahrávka se znělkou M!SE a monologem PAXe; potom vede hru průvodce vysílačkou skutečnou nebo herní.
+- Každá mise má hlavní box pro dítě a box pro průvodce s instalačním plánem, scénářem, PAXovou řečí, nápovědami, podmínkami hotového kroku a později předávanými artefakty.
+- Dospělý čte a podle volby dítěte zapisuje; dítě rozhoduje a provádí činnost. U konstrukce a luštění je praktická pomoc dospělého očekávaná.
+- Mise se instalují doma nebo venku bez specifického vybavení nad běžný stůl či židli.
+- Cíl délky je 60–90 minut, jedna HERO fyzická aktivita 15–20 minut a fyzická památka z každé mise.
+- Do ustálení scénářů se připravují pouze textové podklady.
+
+## 9. Schválené dějové vazby
+
+- **Po stopách draka:** člověk vstoupil, založil požár, drak k němu šel hasit a člověk mezitím hledal hnízdo, ale drak se vrátil dřív. U člověka jsou instrukce k přepravě vejce a poznámky o vylákání draka, kde je zvýrazněn oheň. Bezpečnostní záznam dokládá kompromitaci sektoru; přesun vejce povoluje nouzový protokol a PAX až po splnění podmínek.
+- **Tajemství kapitánovy pečeti:** první schránku s falešným razítkem a puzzle připravil kapitán jako zkoušku. Puzzle se najde už při otevření schránky, řeší se až po ověření padělku. Neexistuje padělatel, falešné dno ani přesouvání mezi schránkami.

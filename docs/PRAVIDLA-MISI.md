@@ -1,8 +1,12 @@
 # Pravidla struktury M!SE
 
-## Hlavní tabulka mise
+---
+
+## 1. Hlavní tabulka mise
 
 Každá detailně rozpracovaná mise používá jednu průběžně editovatelnou tabulku. Tato tabulka je hlavním zdrojem pravdy pro herní průběh mise.
+
+Tabulka se ukládá v adresáři mise jako SCENAR-TABULKA.md. Soubor MISE.md obsahuje čitelný přepis po jednotlivých krocích a reportech. Přepis zachovává všechny údaje a pořadí tabulky; nepředstavuje druhý nezávislý scénář. Při změně tabulky vždy aktualizuj také přepis pomocí skriptu scripts/Update-MissionReadView.ps1 (parametr MissionDirectories) a ověř jejich shodu. Čísla sekcí dokumentu jsou oddělená od čísel herních kroků.
 
 Sloupce musí být vždy přesně v tomto pořadí:
 
@@ -12,14 +16,14 @@ Každý řádek tabulky představuje buď jeden skutečný herní krok dítěte,
 
 ---
 
-## Label
+## 2. Label
 
 Do sloupce `Label` lze zapisovat pouze:
 
 - `Dítě`
 - `Report`
 
-### Dítě
+### 2.1 Dítě
 
 `Dítě` označuje skutečný herní krok, ve kterém dítě něco:
 - fyzicky provádí,
@@ -34,7 +38,7 @@ Do sloupce `Label` lze zapisovat pouze:
 
 Každý řádek `Dítě` musí mít jasný vstup, akci dítěte a výsledek.
 
-### Report
+### 2.2 Report
 
 `Report` je samostatné hlášení PAXovi přes vysílačku.
 
@@ -50,7 +54,7 @@ Pokud PAX dítěti po Reportu předává novou instrukci nebo informaci, musí b
 
 ---
 
-## Krok 1 — Předání mise
+## 3. Krok 1 — Předání mise
 
 Krok 1 se ve všech misích vždy jmenuje přesně:
 
@@ -64,11 +68,11 @@ V tomto kroku dítě dostává minimálně tyto tři artefakty, vždy přesně v
 
 Další artefakty mohou být v kroku 1 přidány podle potřeby konkrétní mise, ale vždy až za těmito třemi.
 
-### Zadání mise
+### 3.1 Zadání mise
 
 Uvádí dítě do situace a vysvětluje, proč je mise potřeba.
 
-### Protokol mise
+### 3.2 Protokol mise
 
 Protokol mise je vždy specifický pro konkrétní misi.
 
@@ -87,13 +91,13 @@ Dítě nesmí být nuceno samo odhadovat, kam má informaci zapsat.
 
 Protokol má dítě provázet misí a zachycovat pouze informace, které mají význam pro její další průběh nebo závěr.
 
-### Mapa perimetru centrály
+### 3.3 Mapa perimetru centrály
 
 Poskytuje prostorový kontext mise a podle potřeby slouží k orientaci nebo práci s konkrétními místy.
 
 ---
 
-## Logika kroků
+## 4. Logika kroků
 
 Každý krok musí přímo navazovat na předchozí stav mise.
 
@@ -109,7 +113,7 @@ Krok nesmí existovat pouze jako samostatná atrakce bez vlivu na další průb�
 
 ---
 
-## Řešitelnost
+## 5. Řešitelnost
 
 Dítě musí mít všechny informace potřebné k vyřešení úkolu dříve, než má řešení provést.
 
@@ -121,7 +125,7 @@ Pokud existuje více logicky správných řešení, mise s tím musí počítat.
 
 ---
 
-## Artefakty
+## 6. Artefakty
 
 Každý nový artefakt musí mít konkrétní herní funkci.
 
@@ -136,7 +140,7 @@ Artefakt se nepřidává pouze jako dekorace nebo pro zvýšení počtu předmě
 
 ---
 
-## Fyzický svět a příběhová věrohodnost
+## 7. Fyzický svět a příběhová věrohodnost
 
 Vše, co dítě v reálném prostoru najde nebo pozoruje, musí mít uvěřitelné vysvětlení v rámci příběhu.
 
@@ -146,7 +150,7 @@ Pokud něco existuje pouze proto, aby dítě mohlo vyřešit úkol, musí zárov
 
 ---
 
-## PAX a komunikace
+## 8. PAX a komunikace
 
 PAX je řídicí kontaktní postava mise.
 
@@ -169,7 +173,9 @@ PAX má dítě vést, ne řešit úkol za něj.
 
 ---
 
-## Obtížnost a věková přiměřenost
+## 9. Obtížnost a věková přiměřenost
+
+Všechny mise M!SE jsou určeny dětem ve věku **4–5 let**.
 
 Obtížnost úkolu má vznikat z činnosti dítěte, ne z nejasnosti systému.
 
@@ -199,7 +205,7 @@ Dítě má mít pocit, že na řešení přišlo samo.
 
 ---
 
-## Ověření správnosti a dokončení kroku
+## 10. Ověření správnosti a dokončení kroku
 
 Každý krok musí mít jednoznačně definováno, podle čeho poznáme, že je hotový.
 
@@ -224,7 +230,7 @@ Ověření nemá být založené jen na tom, že PAX řekne `správně`. Pokud t
 
 ---
 
-## Nové artefakty na vstupu
+## 11. Nové artefakty na vstupu
 
 Do sloupce `Nové artefakty na vstupu` se zapisují pouze artefakty, které dítě v daném kroku nově dostává, nachází nebo zpřístupňuje.
 
@@ -244,7 +250,7 @@ Pokud je artefakt poprvé použit v kroku, ale nebyl dříve předán, nalezen n
 
 ---
 
-## Co potřebuje dítě k vyřešení kroku
+## 12. Co potřebuje dítě k vyřešení kroku
 
 Do sloupce `Co potřebuje dítě k vyřešení kroku` se zapisují všechny informace, pomůcky a předchozí zjištění, bez kterých dítě nemůže krok správně vyřešit.
 
@@ -263,3 +269,19 @@ Pokud je zde uvedena informace nebo artefakt, musí být dohledatelné, kde a kd
 Pokud něco potřebné k řešení není před krokem dostupné, jde o chybu scénáře.
 
 Do tohoto sloupce nepatří samotné řešení kroku, ale pouze podmínky a informace, které dítě k řešení potřebuje.
+
+---
+
+## 13. Průvodce, PAX a pomoc dospělého
+
+- M!SE je pro děti 4–5 let; dítě nemusí samostatně číst ani psát. Dospělý text předčítá a zapisuje jen podle dítětem vybraného obrázku, značky nebo výsledku.
+- Dospělý primárně vede hru na dálku jako PAX, aby dítě mělo pocit samostatné mise. U luštění, stavby a bezpečného přesunu je přítomen a prakticky pomáhá.
+- Každá mise začíná nahrávkou se znělkou M!SE a úvodním monologem PAXe. Poté roli PAXe přebírá průvodce; vysílačka může být skutečná i herní.
+- Box pro průvodce obsahuje scénář, instalační plán, později předávané artefakty, doslovnou PAXovu řeč, volné nápovědy a podmínky dokončení.
+- Průvodce pomáhá otázkami a návratem k důkazu. Nesmí uznat řešení, které podklady nedokládají.
+
+## 14. Příprava, rozsah a podklady
+
+- Instalace využívá jen vybavení boxu a běžnou rovnou plochu, stůl nebo židli. Mise musí jít upravit pro interiér i venek; další domácí vybavení nesmí být předpokladem.
+- Všechny mise cílí na 60–90 minut, mají jednu hlavní fyzickou HERO aktivitu přibližně 15–20 minut a zanechají dítěti fyzickou památku.
+- Do ustálení misí připravujeme pouze textové podklady. Grafické soubory vzniknou až potom.
