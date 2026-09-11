@@ -4,7 +4,12 @@
 
 Dnes Centrála zachytila tiché volání o pomoc. Agent je ukrytý, kamery hlídají cesty a jedině dítě může z bezpečného místa zjistit, kudy se dá projít. Dopřej mu chvíle soustředění, tajemství i radost z dobře vymyšlené trasy. Užijte si misi společně!
 
-M!SE je tajná organizace, která sleduje neobvyklé události, odhaluje jejich příčiny a vysílá specialisty tam, kde je potřeba jednat. **Mise** je konkrétní úkol nebo případ, který dítě pro M!SE plní. **Centrála** je operační zázemí organizace M!SE: odtud přichází zadání a probíhá komunikace s PAXem. PAX je koordinátor misí z Centrály. Během mise drží se specialistou spojení, předává nové informace a přijímá jeho hlášení.
+### Kdo je kdo
+
+- **M!SE** je tajná organizace, která sleduje neobvyklé události, odhaluje jejich příčiny a vysílá specialisty tam, kde je potřeba jednat.
+- **Mise** je konkrétní úkol nebo případ, který dítě pro M!SE plní.
+- **Centrála** je operační zázemí organizace M!SE. Odtud přichází zadání a probíhá komunikace s PAXem.
+- **PAX** je koordinátor misí z Centrály. Během mise drží se specialistou spojení, předává nové informace a přijímá jeho hlášení.
 
 ## 2. Jak se scénářem pracovat
 
