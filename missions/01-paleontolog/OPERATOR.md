@@ -47,7 +47,11 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 - suché místo pro ukrytí bloku u značky Rozcestí
 
 ---
-## 5. PAX — texty k doslovnému čtení
+## 5. Před zahájením hry
+
+- 
+
+## 6. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -61,14 +65,14 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 > Zbývá vršek. Ještě ho ale musíme prověřit. Ke každé podmínce najdi důkaz na stavební kartě.
 
-## 6. Vedení dítěte
+## 7. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 7. Návrhové poznámky a ověření
+## 8. Návrhové poznámky a ověření
 
 ## 1. Důkazy a texty podkladů
 
@@ -85,6 +89,6 @@ Pole uvedená v tabulce zůstávají. V každém jsou obrázkové možnosti k za
 
 Cíl 60–90 minut. Hlavní fyzická aktivita je paleontologický výkop a rekonstrukce; celkem 15–20 minut soustředěné manipulace rozdělené mezi bloky a skládání. Druhý blok má mělké uložení kolečka. Pauza je vhodná po reportu 5. Zůstává model kostry na úložné podložce, Protokol a badge. Časy ani funkčnost bloků zatím nebyly změřeny.
 
-## 8. Závěr
+## 9. Závěr
 
 Dítě získává specializaci **PALEONTOLOG**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.

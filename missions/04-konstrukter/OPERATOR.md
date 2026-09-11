@@ -47,7 +47,11 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 - volný prostor kolem pracovní plochy pro vyznačení zakázané zóny
 
 ---
-## 5. PAX — texty k doslovnému čtení
+## 5. Před zahájením hry
+
+- 
+
+## 6. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -65,14 +69,14 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 > Podle tvého zjištění uzavíráme svah u čidla C a vyšleme odborníky. Označ jej a předej mi aktualizovanou mapu.
 
-## 6. Vedení dítěte
+## 7. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 7. Návrhové poznámky a ověření
+## 8. Návrhové poznámky a ověření
 
 ## 1. Konstrukce a návrat
 
@@ -92,6 +96,6 @@ Krok 1 „První domněnka“: sopka s otazníkem. Krok 5 „Měření před zá
 
 HERO konstrukce a test 15–20 minut, celá mise cílově 60–90 minut. Pauza po získání kazety. Zůstává modul s lanovkou a badge; čas musí potvrdit dětský průchod.
 
-## 8. Závěr
+## 9. Závěr
 
 Dítě získává specializaci **KONSTRUKTÉR**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
