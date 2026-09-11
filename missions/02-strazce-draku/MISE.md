@@ -47,8 +47,5 @@ V perimetru Centrály vypukl požár a bezpečnostní brána byla narušena. Bez
 ### 2.7 První pokyn
 
 Najdi na mapě požár a poškozenou bránu. Potom porovnej důkazní fotografie.
----
 
-zaných reportů. Čitelný scénář je v sekci 7, zdrojová tabulka v SCENAR-MISE.md a otevřené body kontroly v sekci 8.
-
----
+## 3. Potvrzená fakta a rozhodnutí

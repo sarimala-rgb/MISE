@@ -46,16 +46,5 @@ Centrála zachytila poslední zakódované hlášení agenta. Agent se ukrývá 
 ### 2.7 První pokyn
 
 Poslechni první část agentova hlášení a vyber odpovídající slova dekodéru.
----
 
-zachycováno v rámci příběhu.
-
-### 3.2 Periskop / pozorování
-
-- Dítě má periskopem pozorovat reálný připravený terén, ne abstraktní symboly bez důvodu.
-- Byla odmítnuta nevěrohodná varianta se zavalenou chodbou jen proto, aby něco nešlo obejít.
-- Lepší směr: připravená scéna s kamerami.
-- Na obrázku / scéně jsou vyznačena zorná pole kamer, např. červeně.
-- Dítě má najít průchod, který není pod kamerami.
-
----
+## 3. Potvrzená fakta a rozhodnutí

@@ -51,3 +51,5 @@ Pracovní formulace podle dodaného příběhu; finální text pro dítě zbýv�
 ### 2.7 První pokyn
 
 Najdi na mapě původní staveniště. Potom prozkoumej první označený vzorek, který z něj pochází.
+
+## 3. Potvrzená fakta a rozhodnutí

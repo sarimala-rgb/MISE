@@ -47,11 +47,5 @@ V oblasti se spící sopkou zaznamenala Centrála neobvyklé otřesy. Během pr�
 ### 2.7 První pokyn
 
 Najdi na mapě měřicí stanici a místo závalu.
----
 
-znutému pracovišti; modul zachytí datovou kazetu a dítě jej stáhne zpět.
-- V příběhu byla řešena logická konzistence dat ze senzoru před a po závalu.
-- Bylo zpochybněno jednoduché porovnávání měření, protože samotný zával logicky vysvětluje velké otřesy.
-- Byla řešena otázka, jak věrohodně dostat data zpět od badatele; původní varianta „badatel vloží kapsli s daty a pošle ji zpátky“ byla považována za nedostatečně domyšlenou.
-
----
+## 3. Potvrzená fakta a rozhodnutí

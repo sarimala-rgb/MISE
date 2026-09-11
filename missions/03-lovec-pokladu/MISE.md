@@ -46,14 +46,5 @@ Centrála získala pět starých pirátských map, ale neví, které z nich jsou
 ### 2.7 První pokyn
 
 Najdi na mapě Centrály pobřežní sektor. Pak zorientuj starou pirátskou mapu podle tří značek.
----
 
-zítko.
-- Po nalezení falešného razítka pošle PAX dítěti indicii.
-- Dítě má podle návodu poskládat indicie tak, jak mají být vůči sobě postavené.
-- V další části pracuje s mapami.
-- Na mapách je nahoře okénko, kam dítě doplní čísla `1`, `2`, `3` pomocí nálepek, aby je nemuselo psát.
-- Poté vše orazítkuje do jiného připraveného okénka.
-- Výsledek zabalí do přiložené obálky a pošle PAXovi.
-
----
+## 3. Potvrzená fakta a rozhodnutí
