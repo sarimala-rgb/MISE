@@ -20,7 +20,7 @@
 
 ---
 
-## 2. Krok 1_Report — Převzetí operace
+## 2. Krok 1_Report — Potvrzení přijetí mise
 
 **Label:** Report
 

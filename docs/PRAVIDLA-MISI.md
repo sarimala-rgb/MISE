@@ -60,6 +60,10 @@ Krok 1 se ve všech misích vždy jmenuje přesně:
 
 `Předání mise`
 
+Report navázaný na krok 1 se ve všech misích vždy jmenuje přesně:
+
+`Potvrzení přijetí mise`
+
 V tomto kroku dítě dostává minimálně tyto tři artefakty, vždy přesně v tomto pořadí:
 
 1. Zadání mise

@@ -37,7 +37,7 @@
 
 ---
 
-## 2. Krok 1_Report — Převzetí mise
+## 2. Krok 1_Report — Potvrzení přijetí mise
 
 **Label:** Report
 
