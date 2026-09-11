@@ -18,7 +18,7 @@ Operace ticho
 
 ### 2.2 Kód mise
 
-TODO — doplnit schválený kód mise.
+AGEN-05
 
 ### 2.3 Incident
 

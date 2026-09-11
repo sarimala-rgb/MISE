@@ -18,7 +18,7 @@ Tajemství kapitánovy pečeti
 
 ### 2.2 Kód mise
 
-TODO — doplnit schválený kód mise.
+PIRA-03
 
 ### 2.3 Incident
 

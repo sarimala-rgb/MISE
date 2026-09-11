@@ -18,7 +18,7 @@ Operace Skalní orel
 
 ### 2.2 Kód mise
 
-TODO — doplnit schválený kód mise.
+KONS-04
 
 ### 2.3 Incident
 

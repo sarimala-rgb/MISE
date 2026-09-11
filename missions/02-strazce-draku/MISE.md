@@ -18,7 +18,7 @@ Po stopách draka
 
 ### 2.2 Kód mise
 
-TODO — doplnit schválený kód mise.
+DRAK-02
 
 ### 2.3 Incident
 

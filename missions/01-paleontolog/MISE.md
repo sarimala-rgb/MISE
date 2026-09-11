@@ -18,7 +18,7 @@ Tajemství dávných obrů
 
 ### 2.2 Kód mise
 
-TODO — doplnit schválený kód mise.
+DINO-01
 
 ### 2.3 Incident
 
