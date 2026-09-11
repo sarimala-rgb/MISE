@@ -2,7 +2,7 @@
 
 ## 1. Úvod
 
-Dnes se z obyčejného prostoru stane kapitánova paluba a každé znamení může ukázat směr k pokladu. Dítě čeká zkouška, ve které nerozhodne štěstí, ale pozornost, chytrost a chuť pokračovat i po odhalení padělku. Nech kapitánovu stopu ožít. Užijte si misi společně!
+Právě ses stal Operátorem mise Tajemství kapitánovy pečeti. Tvým úkolem bude pomoci malému Lovci pokladů s rozluštěním záhady ztracené kapitánovy pečeti, ověřit staré mapy a odhalit správnou cestu k pokladu. Užijte si misi společně!
 
 ### Kdo je kdo
 

@@ -2,7 +2,7 @@
 
 ## 1. Úvod
 
-Dnes Centrála zachytila tiché volání o pomoc. Agent je ukrytý, kamery hlídají cesty a jedině dítě může z bezpečného místa zjistit, kudy se dá projít. Dopřej mu chvíle soustředění, tajemství i radost z dobře vymyšlené trasy. Užijte si misi společně!
+Právě ses stal Operátorem mise Operace ticho. Tvým úkolem bude pomoci malému Taj­nému agentovi s rozluštěním záhady zakódovaného volání o pomoc, odhalit bezpečnou trasu a dostat ho z hlídané oblasti. Užijte si misi společně!
 
 ### Kdo je kdo
 

@@ -2,7 +2,7 @@
 
 ## 1. Úvod
 
-Dnes má Centrála problém, který nejde vyřešit silou: důležitá data zůstala za závalem. Dítě dostane šanci postavit vlastní řešení, vyslat ho přes nebezpečné místo a zjistit, co se v krajině opravdu děje. Nech ho stavět, testovat a opravovat. Užijte si misi společně!
+Právě ses stal Operátorem mise Operace Skalní orel. Tvým úkolem bude pomoci malému Konstruktérovi s rozluštěním záhady otřesů, závalu a ztracených měření a společně najít bezpečné řešení pro Centrálu. Užijte si misi společně!
 
 ### Kdo je kdo
 

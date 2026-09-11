@@ -2,7 +2,7 @@
 
 ## 1. Úvod
 
-Dnes nebudeš jen průvodcem. Centrála tě spojí s malým paleontologem, který dostal důležitý úkol: rozhodnout, kde může stát nová věž, aniž by se ztratily stopy dávného světa. Nech ho objevovat, zkoušet a skládat důkazy vlastním tempem. Užijte si misi společně!
+Právě ses stal Operátorem mise Tajemství dávných obrů. Tvým úkolem bude pomoci malému paleontologovi s rozluštěním záhady dávných nálezů, určit, co skutečně skrývají objevené vzorky, a najít bezpečné místo pro novou pozorovací věž. Užijte si misi společně!
 
 ### Kdo je kdo
 

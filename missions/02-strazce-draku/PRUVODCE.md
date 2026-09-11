@@ -2,7 +2,7 @@
 
 ## 1. Úvod
 
-Dnes otevíráš spojení s Centrálou v okamžiku, kdy se v perimetru něco pokazilo: hoří, brána je poškozená a v blátě zůstala obrovská stopa. Dítě bude hledat pravdu, chránit dračí vejce a rozhodovat podle důkazů. Nech napětí růst krok za krokem. Užijte si misi společně!
+Právě ses stal Operátorem mise Po stopách draka. Tvým úkolem bude pomoci malému Strážci draků s rozluštěním záhady požáru, obrovských stop a zmizelého dračího vejce. Užijte si misi společně!
 
 ### Kdo je kdo
 
