@@ -64,9 +64,3 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 ### Krok 11
 
 > Zbývá vršek. Ještě ho ale musíme prověřit. Ke každé podmínce najdi důkaz na stavební kartě.
-
-
-
-## 7. Závěr
-
-Dítě získává specializaci **PALEONTOLOG**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.

@@ -69,9 +69,3 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 ### Krok 9
 
 > Pravé razítko je ověřené. Můžeš otevřít zásilku. Nejprve porovnej pečeti na mapách, potom sestav cestu.
-
-
-
-## 7. Závěr
-
-Dítě získává specializaci **LOVEC POKLADŮ**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.

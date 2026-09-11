@@ -69,9 +69,3 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 ### Krok 9
 
 > Trasu jsme ověřili a agent ji dostal do sluchátka. Teď si poslechneme jeho hlášení z bezpečí.
-
-
-
-## 7. Závěr
-
-Dítě získává specializaci **TAJNÝ AGENT**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.

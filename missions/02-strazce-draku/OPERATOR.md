@@ -73,9 +73,3 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 ### Krok 18
 
 > Mapu jsem převzal. Podle nové polohy zapínám návratový signál pro draka, jak stanovuje nouzový protokol.
-
-
-
-## 7. Závěr
-
-Dítě získává specializaci **STRÁŽCE DRAKŮ**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.

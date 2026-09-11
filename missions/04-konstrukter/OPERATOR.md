@@ -68,9 +68,3 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 ### Krok 7
 
 > Podle tvého zjištění uzavíráme svah u čidla C a vyšleme odborníky. Označ jej a předej mi aktualizovanou mapu.
-
-
-
-## 7. Závěr
-
-Dítě získává specializaci **KONSTRUKTÉR**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
