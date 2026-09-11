@@ -20,12 +20,12 @@ Každý řádek tabulky představuje buď jeden skutečný herní krok dítěte,
 
 Do sloupce `Label` lze zapisovat pouze:
 
-- `Dítě`
+- `Akce`
 - `Report`
 
-### 2.1 Dítě
+### 2.1 Akce
 
-`Dítě` označuje skutečný herní krok, ve kterém dítě něco:
+`Akce` označuje skutečný herní krok, ve kterém dítě něco:
 - fyzicky provádí,
 - pozoruje,
 - porovnává,
@@ -36,7 +36,7 @@ Do sloupce `Label` lze zapisovat pouze:
 - zapisuje,
 - nebo jinak aktivně řeší.
 
-Každý řádek `Dítě` musí mít jasný vstup, akci dítěte a výsledek.
+Každý řádek `Akce` musí mít jasný vstup, akci dítěte a výsledek.
 
 ### 2.2 Report
 

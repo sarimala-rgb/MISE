@@ -1,6 +1,6 @@
 ## 1. Krok 1 — Předání mise
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -41,7 +41,7 @@
 
 ## 3. Krok 2 — Co agent nevidí
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -61,7 +61,7 @@
 
 ## 4. Krok 3 — Nouzová pozorovací výbava
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -87,7 +87,7 @@
 
 ## 5. Krok 4 — HERO – Stavba agentského periskopu
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -111,7 +111,7 @@
 
 ## 6. Krok 5 — Zkouška periskopu
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 5_1 Kalibrační scéna se sluncem nahoře a lodí dole, neprůhledná skládací zástěna z boxu
 
@@ -150,7 +150,7 @@
 
 ## 8. Krok 6 — Vstup do sledované oblasti
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 6_1 Označení pozorovacích bodů
 
@@ -176,7 +176,7 @@
 
 ## 9. Krok 7 — Průzkum kamer
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -223,7 +223,7 @@
 
 ## 11. Krok 8 — Bezpečná cesta z úkrytu
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 8_1 Prvek pro vyznačení finální trasy
 
@@ -265,7 +265,7 @@
 
 ## 13. Krok 9 — Hlas agenta
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 9_1 Audio 2 – agentovo hlášení z bezpečí
 
@@ -303,7 +303,7 @@
 
 ## 15. Krok 10 — Tajný agent
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 

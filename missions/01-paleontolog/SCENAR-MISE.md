@@ -1,6 +1,6 @@
 ## 1. Krok 1 — Předání mise
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -26,7 +26,7 @@
 
 ## 2. Krok 2 — První paleontologický výkop
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -48,7 +48,7 @@
 
 ## 3. Krok 3 — První hypotéza o dinosaurovi
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 3_1 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus, Ankylosaurus; sestavovací podklad ke každé možnosti
 
@@ -68,7 +68,7 @@
 
 ## 4. Krok 4 — Ověření druhého vzorku
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -91,7 +91,7 @@
 
 ## 5. Krok 5 — Posouzení původního staveniště
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -129,7 +129,7 @@
 
 ## 7. Krok 6 — Vyřazení louky a pobřeží
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -156,7 +156,7 @@
 
 ## 8. Krok 7 — Pátrání po vzorku na Rozcestí
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -178,7 +178,7 @@
 
 ## 9. Krok 8 — Výkop z Rozcestí
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -200,7 +200,7 @@
 
 ## 10. Krok 9 — Dokončení kostry a potvrzení určení
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -220,7 +220,7 @@
 
 ## 11. Krok 10 — Ochrana obou míst nálezu
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -259,7 +259,7 @@
 
 ## 13. Krok 11 — Ověření Travnatého vršku
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 11_1 Stavební karta Travnatého vršku od Centrály: panoramatický snímek volného zálivu, boční profil s nejvyšší zaznamenanou hladinou a minimální výškovou čárou věže, výřez mapy s oběma místy nálezů
 
@@ -279,7 +279,7 @@
 
 ## 14. Krok 12 — Návrh přesunu věže
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -317,7 +317,7 @@
 
 ## 16. Krok 13 — Zdokumentování nálezu a uzavření mise
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 13_1 Kartonový badge PALEONTOLOG
 

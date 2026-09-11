@@ -1,6 +1,6 @@
 ## 1. Krok 1 — Předání mise
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -58,7 +58,7 @@
 
 ## 3. Krok 2 — Lokalizace prvních důkazů
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -106,7 +106,7 @@
 
 ## 5. Krok 3 — Analýza velké stopy
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 3_1 Atlas stop Centrály
 
@@ -150,7 +150,7 @@
 
 ## 7. Krok 4 — Rekonstrukce dračí trasy
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -199,7 +199,7 @@
 
 ## 9. Krok 5 — Časová rekonstrukce incidentu
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -250,7 +250,7 @@
 
 ## 11. Krok 6 — Důkaz způsobu založení požáru
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -302,7 +302,7 @@
 
 ## 13. Krok 7 — Stopování draka v terénu
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -329,7 +329,7 @@
 
 ## 14. Krok 8 — Nález dračího hnízda
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -370,7 +370,7 @@
 
 ## 16. Krok 9 — Odhalení motivu vetřelce
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -417,7 +417,7 @@
 
 ## 18. Krok 10 — Zahájení záchranné operace
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -436,7 +436,7 @@
 
 ## 19. Krok 11 — Stavba transportního zařízení
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -452,7 +452,7 @@
 
 ## 20. Krok 12 — Test transportního zařízení
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 12_1 Cvičné vejce stejného vnějšího tvaru a hmotnosti jako model dračího vejce
 
@@ -487,7 +487,7 @@
 
 ## 22. Krok 13 — Výběr nového místa pro hnízdo
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 13_1 Kontrolní karta nového hnízda, součást nouzového protokolu: rovné suché místo, mimo prozrazený sektor i průchozí cestu, kryté z pohledu od původní trasy a přístupné pro uložení vejce
 
@@ -503,7 +503,7 @@
 
 ## 23. Krok 14 — Stavba náhradního hnízda
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 14_1 Materiál náhradního hnízda z boxu: skládací podložka, měkká výstelka, ochranný lem, neprůhledná krycí zástěna a spojovací prvky
 
@@ -541,7 +541,7 @@
 
 ## 25. Krok 15 — Přesun dračího vejce
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -577,7 +577,7 @@
 
 ## 27. Krok 16 — Zajištění nového hnízda
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 16_1 Značka ochrany Strážce draků
 
@@ -599,7 +599,7 @@
 
 ## 28. Krok 17 — Aktualizace mapy
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 17_1 Sada mapových samolepek / značek Centrály
 
@@ -654,7 +654,7 @@
 
 ## 30. Krok 18 — Odeslání mapy PAXovi
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 18_1 Návratová obálka pro PAXe
 
@@ -673,7 +673,7 @@
 
 ## 31. Krok 19 — Udělení specializace
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 19_1 Badge STRÁŽCE DRAKŮ
 

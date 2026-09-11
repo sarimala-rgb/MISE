@@ -1,6 +1,6 @@
 ## 1. Krok 1 — Předání mise
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -51,7 +51,7 @@
 
 ## 3. Krok 2 — Přerušené spojení
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -95,7 +95,7 @@
 
 ## 5. Krok 3 — Nouzová inspekční lanovka
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -119,7 +119,7 @@
 
 ## 6. Krok 4 — Získání posledních dat
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 4_1 Datová kazeta s protikusem suchého zipu, získaná ze stanice; obsah zůstává zavřený do kroku 5
 
@@ -154,7 +154,7 @@
 
 ## 8. Krok 5 — Vyhodnocení měření
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 5_1 Složená karta měření A–B–C uvnitř kazety 4_1, zpřístupněná jejím otevřením
 
@@ -174,7 +174,7 @@
 
 ## 9. Krok 6 — Zdroj nebezpečí
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 6_1 Značka NESTABILNÍ OBLAST
 
@@ -215,7 +215,7 @@
 
 ## 11. Krok 7 — Zajištění perimetru
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 7_1 Značka / pečeť ZÓNA UZAVŘENA
 
@@ -235,7 +235,7 @@
 
 ## 12. Krok 8 — Uzavření M!SE
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 8_1 Badge KONSTRUKTÉR
 

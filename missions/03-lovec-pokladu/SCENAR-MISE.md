@@ -1,6 +1,6 @@
 ## 1. Krok 1 — Předání mise
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -45,7 +45,7 @@
 
 ## 3. Krok 2 — Orientace pirátské mapy
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -87,7 +87,7 @@
 
 ## 5. Krok 3 — Rekonstrukce kapitánova razítka
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -126,7 +126,7 @@
 
 ## 7. Krok 4 — Kapitánův náčrtek
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -142,7 +142,7 @@
 
 ## 8. Krok 5 — Potopená schránka
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -177,7 +177,7 @@
 
 ## 10. Krok 6 — HERO — Stavba kladkostroje
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 6_1 Sada: pevná kladka na nízkém stolním rameni, volná kladka s tupým hákem, jedno lano s dorazy, základna s ochrannou svěrkou, montážní plán a cvičný náklad
 
@@ -193,7 +193,7 @@
 
 ## 11. Krok 7 — Vytažení pokladu
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
@@ -209,7 +209,7 @@
 
 ## 12. Krok 8 — Pravé kapitánovo razítko
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 8_1 Pravé samobarvicí kapitánovo razítko ve druhé schránce
 
@@ -244,7 +244,7 @@
 
 ## 14. Krok 9 — Ověření pirátských map
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:**
 
@@ -288,7 +288,7 @@
 
 ## 16. Krok 10 — Uzavření M!SE
 
-**Label:** Dítě
+**Label:** Akce
 
 **Nové artefakty na vstupu:** 10_1 Specializace LOVEC POKLADŮ
 
