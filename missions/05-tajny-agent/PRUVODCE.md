@@ -10,6 +10,7 @@ Dnes Centrála zachytila tiché volání o pomoc. Agent je ukrytý, kamery hlíd
 - **Mise** je konkrétní úkol nebo případ, který dítě pro organizaci M!SE plní.
 - **Centrála** je operační zázemí organizace M!SE. Odtud přichází zadání a probíhá komunikace s PAXem.
 - **PAX** je koordinátor misí z Centrály. Během mise drží se specialistou spojení, předává nové informace a přijímá jeho hlášení.
+- **Dítě** je specialista vyslaný do terénu. Samo zkoumá stopy, pracuje s artefakty, řeší úkoly a dělá rozhodnutí. V důležitých momentech podává Operátorovi mise a PAXovi report. Nemá pocit, že „hraje hru“, ale že plní skutečný případ.
 
 ## 2. Jak se scénářem pracovat
 
