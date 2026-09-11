@@ -1,148 +1,148 @@
-﻿# Scénář mise
+# Sc�n�� mise
 
-Přehled jednotlivých kroků mise v podobě vhodné pro čtení a úpravy.
+P�ehled jednotliv�ch krok� mise v podob� vhodn� pro �ten� a �pravy.
 
-## 1. Krok 1 — PĹ™edĂˇnĂ­ mise
+## 1. Krok 1 � Předání mise
 
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 1_1 ZadĂˇnĂ­ mise â€“ CentrĂˇla zĂ­skala starĂ© pirĂˇtskĂ© mapy, ale nevĂ­, kterĂ© jsou pravĂ©. PotĹ™ebuje najĂ­t ztracenĂ© osobnĂ­ razĂ­tko kapitĂˇna.<br><br>1_2 Protokol mise â€“ specifickĂ˝ protokol pro zapisovĂˇnĂ­/oznaÄŤovĂˇnĂ­ zjiĹˇtÄ›nĂ­ bÄ›hem mise.<br><br>1_3 Mapa perimetru CentrĂˇly â€“ ukazuje CentrĂˇlu, pobĹ™eĹľnĂ­ sektor starĂ© pirĂˇtskĂ© mapy a pĹ™edĂˇvacĂ­ mĂ­sto. DĂ­tÄ› podle nĂ­ nejprve najde sektor pĂˇtrĂˇnĂ­.<br><br>1_4 StarĂˇ pirĂˇtskĂˇ mapa â€“ pracovnĂ­ mapa vedoucĂ­ k prvnĂ­mu Ăşkrytu.<br><br>1_5 ZapeÄŤetÄ›nĂˇ zĂˇsilka 5 neovÄ›Ĺ™enĂ˝ch map â€“ nesmĂ­ se otevĹ™Ă­t, dokud nebude nalezeno pravĂ© kapitĂˇnovo razĂ­tko.
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] 1_1 ZadĂˇnĂ­ mise<br>â€˘ [Z HRY] 1_2 Protokol mise<br>â€˘ [Z HRY] 1_3 Mapa perimetru CentrĂˇly<br>â€˘ [Z HRY] 1_4 StarĂˇ pirĂˇtskĂˇ mapa<br>â€˘ [Z HRY] 1_5 ZapeÄŤetÄ›nĂˇ zĂˇsilka 5 map<br>â€˘ [Z HRY] vysĂ­laÄŤka
-- **Akce dítěte:** DĂ­tÄ› pĹ™evezme M!SI, zjistĂ­, Ĺľe CentrĂˇla potĹ™ebuje najĂ­t kapitĂˇnovo razĂ­tko, aby mohla ovÄ›Ĺ™it zĂ­skanĂ© mapy. ZapeÄŤetÄ›nou zĂˇsilku zatĂ­m nesmĂ­ otevĹ™Ă­t.
-- **Úkoly:** PĹ™evzĂ­t M!SI a pochopit jejĂ­ cĂ­l.
-- **Co je hotový krok:** DĂ­tÄ› vĂ­, Ĺľe hledĂˇ ztracenĂ© kapitĂˇnovo razĂ­tko a Ĺľe zĂˇsilku map smĂ­ otevĹ™Ă­t aĹľ po jeho nalezenĂ­.
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 1_1 Zadání mise – Centrála získala staré pirátské mapy, ale neví, které jsou pravé. Potřebuje najít ztracené osobní razítko kapitána.<br><br>1_2 Protokol mise – specifický protokol pro zapisování/označování zjištění během mise.<br><br>1_3 Mapa perimetru Centrály – ukazuje Centrálu, pobřežní sektor staré pirátské mapy a předávací místo. Dítě podle ní nejprve najde sektor pátrání.<br><br>1_4 Stará pirátská mapa – pracovní mapa vedoucí k prvnímu úkrytu.<br><br>1_5 Zapečetěná zásilka 5 neověřených map – nesmí se otevřít, dokud nebude nalezeno pravé kapitánovo razítko.
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] 1_1 Zadání mise<br>• [Z HRY] 1_2 Protokol mise<br>• [Z HRY] 1_3 Mapa perimetru Centrály<br>• [Z HRY] 1_4 Stará pirátská mapa<br>• [Z HRY] 1_5 Zapečetěná zásilka 5 map<br>• [Z HRY] vysílačka
+- **Akce d�t�te:** Dítě převezme M!SI, zjistí, že Centrála potřebuje najít kapitánovo razítko, aby mohla ověřit získané mapy. Zapečetěnou zásilku zatím nesmí otevřít.
+- **�koly:** Převzít M!SI a pochopit její cíl.
+- **Co je hotov� krok:** Dítě ví, že hledá ztracené kapitánovo razítko a že zásilku map smí otevřít až po jeho nalezení.
 
-## 2. Krok 1_Report — PĹ™ijetĂ­ mise
-
-- **Label:** Report
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] vysĂ­laÄŤka
-- **Akce dítěte:** DĂ­tÄ› potvrdĂ­ PAXovi pĹ™evzetĂ­ M!SE.
-- **Úkoly:** Potvrdit pĹ™ipravenost k pĂˇtrĂˇnĂ­.
-- **Co je hotový krok:** PAX vĂ­, Ĺľe dĂ­tÄ› M!SI pĹ™evzalo a mĹŻĹľe zaÄŤĂ­t.
-
-## 3. Krok 2 — Orientace pirĂˇtskĂ© mapy
-
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 2_1 Sada tĹ™Ă­ pirĂˇtskĂ˝ch orientaÄŤnĂ­ch znaÄŤek: kotva, palma, skĂˇla<br>2_2 PrvnĂ­ kapitĂˇnova schrĂˇnka<br>2_3 FaleĹˇnĂ© razĂ­tko v prvnĂ­ schrĂˇnce<br>2_4 KapitĂˇnĹŻv vzkaz o zkouĹˇce<br>4_1 RozstĹ™Ă­hanĂ˝ nĂˇÄŤrtek o deseti velkĂ˝ch dĂ­lech, nalezenĂ˝ uĹľ v prvnĂ­ schrĂˇnce; pĹŻvodnĂ­ kĂłd zachovĂˇn
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] 1_3 mapa sektoru, 1_4 starĂˇ mapa, 2_1â€“2_4 a 4_1 pĹ™ipravenĂ© prĹŻvodcem. TĹ™i rĹŻznĂ© znaÄŤky tvoĹ™Ă­ nestejnostrannĂ˝ trojĂşhelnĂ­k. Mapu dĂ­tÄ› otĂˇÄŤĂ­, nepĹ™evracĂ­; vĹˇechny znaÄŤky musĂ­ souhlasit souÄŤasnÄ›. SchrĂˇnka leĹľĂ­ ve ÄŤtvrtĂ©m mĂ­stÄ› zakreslenĂ©m na starĂ© mapÄ›.
-- **Akce dítěte:** DĂ­tÄ› v prostoru najde tĹ™i pirĂˇtskĂ© orientaÄŤnĂ­ body odpovĂ­dajĂ­cĂ­ znaÄŤkĂˇm na mapÄ›. Mapu otĂˇÄŤĂ­ a zorientuje ji podle jejich skuteÄŤnĂ©ho rozmĂ­stÄ›nĂ­. Ze sprĂˇvnÄ› orientovanĂ© mapy urÄŤĂ­ ÄŤtvrtĂ© mĂ­sto a tam najde ukrytou schrĂˇnku. OtevĹ™e schrĂˇnku a prohlĂ©dne razĂ­tko, vzkaz i puzzle. DospÄ›lĂ˝ pĹ™eÄŤte kapitĂˇnĹŻv pokyn: nejdĹ™Ă­v ovÄ›Ĺ™ razĂ­tko, teprve potom sloĹľ nĂˇÄŤrtek.
-- **Úkoly:** Zorientovat starou mapu podle tĹ™Ă­ bodĹŻ v reĂˇlnĂ©m prostoru a podle nĂ­ najĂ­t prvnĂ­ schrĂˇnku.
-- **Co je hotový krok:** DĂ­tÄ› najde prvnĂ­ pirĂˇtskou schrĂˇnku a uvnitĹ™ objevĂ­ ĂşdajnĂ© kapitĂˇnovo razĂ­tko.
-
-## 4. Krok 2_Report — NĂˇlez razĂ­tka
+## 2. Krok 1_Report � Přijetí mise
 
 - **Label:** Report
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] vysĂ­laÄŤka<br>â€˘ [Z HRY] nalezenĂˇ schrĂˇnka<br>â€˘ [Z HRY] faleĹˇnĂ© razĂ­tko
-- **Akce dítěte:** DĂ­tÄ› hlĂˇsĂ­ nalezenĂ© razĂ­tko a kapitĂˇnovu zkouĹˇku. PAX potvrdĂ­ potĹ™ebu ovÄ›Ĺ™enĂ­; archivnĂ­ podklady doruÄŤĂ­ jako vstup kroku 3.
-- **Úkoly:** NahlĂˇsit nĂˇlez.
-- **Co je hotový krok:** CentrĂˇla vĂ­ o nĂˇlezu. DĂ­tÄ› vĂ­, Ĺľe nejprve provÄ›Ĺ™Ă­ razĂ­tko; puzzle mĂˇ jiĹľ u sebe.
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] vysílačka
+- **Akce d�t�te:** Dítě potvrdí PAXovi převzetí M!SE.
+- **�koly:** Potvrdit připravenost k pátrání.
+- **Co je hotov� krok:** PAX ví, že dítě M!SI převzalo a může začít.
 
-## 5. Krok 3 — Rekonstrukce kapitĂˇnova razĂ­tka
+## 3. Krok 2 � Orientace pirátské mapy
 
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 3_1 ArchivnĂ­ indicie k razĂ­tku â€“ obrazovĂ˝ nĂˇvod urÄŤujĂ­cĂ­ vzĂˇjemnou polohu znakĹŻ pravĂ©ho kapitĂˇnova razĂ­tka.<br><br>3_2 Sada symbolĹŻ razĂ­tka â€“ fyzickĂ© dĂ­lky, kterĂ© dĂ­tÄ› podle indiciĂ­ sklĂˇdĂˇ.
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] 3_1 archivnĂ­ indicie: lebka je uprostĹ™ed, hvÄ›zda nad nĂ­, kotva pod nĂ­; 3_2 tĹ™i dĂ­lky a orientovanĂˇ sklĂˇdacĂ­ plocha, 2_3 faleĹˇnĂ© samobarvicĂ­ razĂ­tko, 1_2 pole â€žPrvnĂ­ peÄŤeĹĄâ€ś. PodloĹľka obsahuje zkuĹˇebnĂ­ okĂ©nko. DospÄ›lĂ˝ ÄŤte jednotlivĂ© vztahy, dĂ­tÄ› sklĂˇdĂˇ.
-- **Akce dítěte:** SestavĂ­ symboly podle tĹ™Ă­ indiciĂ­ a udÄ›lĂˇ zkuĹˇebnĂ­ otisk. Otisk faleĹˇnĂ©ho razĂ­tka mĂˇ hvÄ›zdu pod lebkou a kotvu nad nĂ­. DĂ­tÄ› porovnĂˇ otisk, nikoli zrcadlovou razicĂ­ plochu. V Protokolu zakrouĹľkuje rozdĂ­l a oznaÄŤĂ­ padÄ›lek.
-- **Úkoly:** Zrekonstruovat znĂˇmou podobu kapitĂˇnova razĂ­tka a provÄ›Ĺ™it nĂˇlez.
-- **Co je hotový krok:** DĂ­tÄ› na konkrĂ©tnĂ­m rozporu prokĂˇĹľe, Ĺľe nalezenĂ© razĂ­tko nenĂ­ pravĂ©.
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 2_1 Sada tří pirátských orientačních značek: kotva, palma, skála<br>2_2 První kapitánova schránka<br>2_3 Falešné razítko v první schránce<br>2_4 Kapitánův vzkaz o zkoušce<br>4_1 Rozstříhaný náčrtek o deseti velkých dílech, nalezený už v první schránce; původní kód zachován
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] 1_3 mapa sektoru, 1_4 stará mapa, 2_1–2_4 a 4_1 připravené průvodcem. Tři různé značky tvoří nestejnostranný trojúhelník. Mapu dítě otáčí, nepřevrací; všechny značky musí souhlasit současně. Schránka leží ve čtvrtém místě zakresleném na staré mapě.
+- **Akce d�t�te:** Dítě v prostoru najde tři pirátské orientační body odpovídající značkám na mapě. Mapu otáčí a zorientuje ji podle jejich skutečného rozmístění. Ze správně orientované mapy určí čtvrté místo a tam najde ukrytou schránku. Otevře schránku a prohlédne razítko, vzkaz i puzzle. Dospělý přečte kapitánův pokyn: nejdřív ověř razítko, teprve potom slož náčrtek.
+- **�koly:** Zorientovat starou mapu podle tří bodů v reálném prostoru a podle ní najít první schránku.
+- **Co je hotov� krok:** Dítě najde první pirátskou schránku a uvnitř objeví údajné kapitánovo razítko.
 
-## 6. Krok 3_Report — FaleĹˇnĂ© razĂ­tko
-
-- **Label:** Report
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] vysĂ­laÄŤka<br>â€˘ [Z HRY] faleĹˇnĂ© razĂ­tko<br>â€˘ [Z HRY] sestavenĂˇ rekonstrukce
-- **Akce dítěte:** DĂ­tÄ› PAXovi oznĂˇmĂ­, Ĺľe razĂ­tko je faleĹˇnĂ©, a vysvÄ›tlĂ­, co na nÄ›m nesedĂ­.
-- **Úkoly:** NahlĂˇsit dĹŻkaz o padÄ›lku.
-- **Co je hotový krok:** CentrĂˇla vĂ­, Ĺľe nalezenĂ© razĂ­tko je padÄ›lek pouĹľitĂ˝ v kapitĂˇnovÄ› zkouĹˇce. SchrĂˇnka a nĂˇÄŤrtek zĹŻstĂˇvajĂ­ platnĂ˝mi stopami.
-
-## 7. Krok 4 — KapitĂˇnĹŻv nĂˇÄŤrtek
-
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] 4_1 puzzle a 2_4 kapitĂˇnĹŻv vzkaz, zĂ­skanĂ© v kroku 2; padÄ›lek prokĂˇzanĂ˝ v kroku 3. NĂˇÄŤrtek ukĂˇĹľe stĹŻl oznaÄŤenĂ˝ kotvou, pod nĂ­m schrĂˇnku na moĹ™skĂ©m dnÄ›.
-- **Akce dítěte:** DĂ­tÄ› sloĹľĂ­ dĂ­lky do jednoho obrĂˇzku. Z vĂ˝slednĂ©ho nĂˇÄŤrtku rozpoznĂˇ stĹŻl a umĂ­stÄ›nĂ­ dalĹˇĂ­ schrĂˇnky pod nĂ­m.
-- **Úkoly:** SloĹľit nĂˇÄŤrtek a zjistit, kde kapitĂˇn ukryl dalĹˇĂ­ schrĂˇnku.
-- **Co je hotový krok:** DĂ­tÄ› odvodĂ­, Ĺľe mĂˇ hledat dalĹˇĂ­ schrĂˇnku pod stolem.
-
-## 8. Krok 5 — PotopenĂˇ schrĂˇnka
-
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 5_1 DruhĂˇ kapitĂˇnova schrĂˇnka s velkĂ˝m pevnĂ˝m okem<br>5_2 PodloĹľka MOĹSKĂ‰ DNO a oznaÄŤenĂ­ paluby s pravidlem vyzvedĂˇvĂˇnĂ­
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] 4_1 sloĹľenĂ˝ nĂˇÄŤrtek, 5_1â€“5_2. [Z DOMOVA] standardnĂ­ stĹŻl. Pravidlo na palubÄ› ÄŤte PAX pĹ™ed hledĂˇnĂ­m: â€žDole je hlubokĂ© moĹ™e. NemĂˇme potĂˇpÄ›ÄŤskou vĂ˝bavu. Na dno smĂ­ jen hĂˇk, ty zĹŻstĂˇvĂˇĹˇ na palubÄ›.â€ś DĂ­tÄ› stojĂ­ na podlaze vedle stolu, nikdy na desce.
-- **Akce dítěte:** DĂ­tÄ› podle sloĹľenĂ©ho nĂˇÄŤrtku najde sprĂˇvnĂ© mĂ­sto. Prostor pod stolem pĹ™edstavuje â€žmoĹ™skĂ© dnoâ€ś. DĂ­tÄ› schrĂˇnku objevĂ­, ale podle pravidel M!SE pro ni nesmĂ­ jednoduĹˇe sĂˇhnout dolĹŻ.
-- **Úkoly:** NajĂ­t potopenou schrĂˇnku a zjistit, Ĺľe ji nelze zĂ­skat bÄ›ĹľnĂ˝m zpĹŻsobem.
-- **Co je hotový krok:** DĂ­tÄ› znĂˇ polohu schrĂˇnky, ale potĹ™ebuje zpĹŻsob, jak ji vytĂˇhnout z â€žhlubinâ€ś.
-
-## 9. Krok 5_Report — SchrĂˇnka na moĹ™skĂ©m dnÄ›
+## 4. Krok 2_Report � Nález razítka
 
 - **Label:** Report
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] vysĂ­laÄŤka
-- **Akce dítěte:** DĂ­tÄ› hlĂˇsĂ­ PAXovi, Ĺľe schrĂˇnku naĹˇlo, ale nemĹŻĹľe se k nĂ­ dostat. PAX nabĂ­dne vybavenĂ­ CentrĂˇly urÄŤenĂ© k vytahovĂˇnĂ­ nĂˇkladu.
-- **Úkoly:** Popsat PAXovi vzniklĂ˝ fyzickĂ˝ problĂ©m.
-- **Co je hotový krok:** PAX pĹ™ijal popis problĂ©mu a ohlĂˇsil doruÄŤenĂ­ vytahovacĂ­ sady v kroku 6.
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] vysílačka<br>• [Z HRY] nalezená schránka<br>• [Z HRY] falešné razítko
+- **Akce d�t�te:** Dítě hlásí nalezené razítko a kapitánovu zkoušku. PAX potvrdí potřebu ověření; archivní podklady doručí jako vstup kroku 3.
+- **�koly:** Nahlásit nález.
+- **Co je hotov� krok:** Centrála ví o nálezu. Dítě ví, že nejprve prověří razítko; puzzle má již u sebe.
 
-## 10. Krok 6 — HERO â€” Stavba kladkostroje
+## 5. Krok 3 � Rekonstrukce kapitánova razítka
 
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 6_1 Sada: pevnĂˇ kladka na nĂ­zkĂ©m stolnĂ­m rameni, volnĂˇ kladka s tupĂ˝m hĂˇkem, jedno lano s dorazy, zĂˇkladna s ochrannou svÄ›rkou, montĂˇĹľnĂ­ plĂˇn a cviÄŤnĂ˝ nĂˇklad
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] 6_1 doruÄŤĂ­ PAX po 5_Report; 5_1 schrĂˇnka s okem. [Z DOMOVA] stĹŻl. PrĹŻvodce upevnĂ­ a zkontroluje zĂˇkladnu; dĂ­tÄ› vede lano z hornĂ­ho Ăşchytu kolem volnĂ© kladky, potom pĹ™es pevnou kladku k ovlĂˇdacĂ­mu konci. DospÄ›lĂ˝ pomĹŻĹľe podle potĹ™eby.
-- **Akce dítěte:** SestavĂ­ vytahovacĂ­ drĂˇhu podle plĂˇnu a spustĂ­ hĂˇk nad cviÄŤnĂ˝ nĂˇklad. PĹ™ed ostrĂ˝m pokusem jej zdvihne a spustĂ­. PĹ™i zaseknutĂ­ zkontroluje, zda je lano v drĂˇĹľkĂˇch a nekĹ™Ă­ĹľĂ­ se. ZĂˇkladnu opravuje dospÄ›lĂ˝.
-- **Úkoly:** Sestrojit funkÄŤnĂ­ kladkostroj schopnĂ˝ vytĂˇhnout schrĂˇnku z â€žmoĹ™skĂ©ho dnaâ€ś.
-- **Co je hotový krok:** CviÄŤnĂ˝ nĂˇklad lze bez sklouznutĂ­ zĂˇkladny zdvihnout z podloĹľky a kontrolovanÄ› poloĹľit. CĂ­l stavby a testu 15â€“20 minut, skuteÄŤnĂ© trvĂˇnĂ­ a kompatibilita svÄ›rky se stolem jsou NEOVÄšĹENO.
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 3_1 Archivní indicie k razítku – obrazový návod určující vzájemnou polohu znaků pravého kapitánova razítka.<br><br>3_2 Sada symbolů razítka – fyzické dílky, které dítě podle indicií skládá.
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] 3_1 archivní indicie: lebka je uprostřed, hvězda nad ní, kotva pod ní; 3_2 tři dílky a orientovaná skládací plocha, 2_3 falešné samobarvicí razítko, 1_2 pole „První pečeť“. Podložka obsahuje zkušební okénko. Dospělý čte jednotlivé vztahy, dítě skládá.
+- **Akce d�t�te:** Sestaví symboly podle tří indicií a udělá zkušební otisk. Otisk falešného razítka má hvězdu pod lebkou a kotvu nad ní. Dítě porovná otisk, nikoli zrcadlovou razicí plochu. V Protokolu zakroužkuje rozdíl a označí padělek.
+- **�koly:** Zrekonstruovat známou podobu kapitánova razítka a prověřit nález.
+- **Co je hotov� krok:** Dítě na konkrétním rozporu prokáže, že nalezené razítko není pravé.
 
-## 11. Krok 7 — VytaĹľenĂ­ pokladu
-
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] otestovanĂˇ 6_1 a 5_1 na 5_2, 4_1 nĂˇÄŤrtek. SchrĂˇnka je pod pĹ™esahem ramene u kraje stolu, velkĂ© oko je vzhĹŻru. DĂ­tÄ› stojĂ­ vedle stolu a vede zavÄ›ĹˇenĂ˝ hĂˇk do oka. PrĹŻvodce jistĂ­ zĂˇkladnu, neĹ™eĹˇĂ­ zachycenĂ­ mĂ­sto dĂ­tÄ›te.
-- **Akce dítěte:** DĂ­tÄ› pomocĂ­ sestavenĂ©ho kladkostroje zachytĂ­ schrĂˇnku a vytĂˇhne ji z â€žmoĹ™skĂ©ho dnaâ€ś nahoru.
-- **Úkoly:** ĂšspÄ›ĹˇnÄ› vyzvednout schrĂˇnku.
-- **Co je hotový krok:** SchrĂˇnka je vytaĹľena a dĂ­tÄ› ji mĹŻĹľe otevĹ™Ă­t.
-
-## 12. Krok 8 — PravĂ© kapitĂˇnovo razĂ­tko
-
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 8_1 PravĂ© samobarvicĂ­ kapitĂˇnovo razĂ­tko ve druhĂ© schrĂˇnce
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] 8_1, 3_1â€“3_2 sestavenĂ˝ vzor, 1_2 pole â€žDruhĂˇ peÄŤeĹĄâ€ś se zkuĹˇebnĂ­m okĂ©nkem. OriginĂˇl mĂˇ lebku uprostĹ™ed, hvÄ›zdu nahoĹ™e, kotvu dole.
-- **Akce dítěte:** OtevĹ™e vytaĹľenou schrĂˇnku, provede otisk v Protokolu a porovnĂˇ vĹˇechny tĹ™i polohy se sestavenĂ˝m vzorem. OznaÄŤĂ­ shodu. RazĂ­tko potĹ™ebuje k zĂˇvÄ›reÄŤnĂ©mu potvrzenĂ­ zĂˇsilky, archivnĂ­ dĂ­lky otisk nevytvoĹ™Ă­.
-- **Úkoly:** ProvÄ›Ĺ™it nalezenĂ© razĂ­tko.
-- **Co je hotový krok:** DĂ­tÄ› mĂˇ pravĂ© kapitĂˇnovo razĂ­tko.
-
-## 13. Krok 8_Report — OriginĂˇl nalezen
+## 6. Krok 3_Report � Falešné razítko
 
 - **Label:** Report
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] vysĂ­laÄŤka<br>â€˘ [Z HRY] 8_1 PravĂ© kapitĂˇnovo razĂ­tko
-- **Akce dítěte:** DĂ­tÄ› hlĂˇsĂ­ PAXovi nĂˇlez originĂˇlu. PAX nynĂ­ povolĂ­ otevĹ™Ă­t zĂˇsilku map, kterou dĂ­tÄ› dostalo na zaÄŤĂˇtku.
-- **Úkoly:** OznĂˇmit CentrĂˇle nĂˇlez.
-- **Co je hotový krok:** ZapeÄŤetÄ›nĂˇ zĂˇsilka 1_5 mĹŻĹľe bĂ˝t otevĹ™ena.
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] vysílačka<br>• [Z HRY] falešné razítko<br>• [Z HRY] sestavená rekonstrukce
+- **Akce d�t�te:** Dítě PAXovi oznámí, že razítko je falešné, a vysvětlí, co na něm nesedí.
+- **�koly:** Nahlásit důkaz o padělku.
+- **Co je hotov� krok:** Centrála ví, že nalezené razítko je padělek použitý v kapitánově zkoušce. Schránka a náčrtek zůstávají platnými stopami.
 
-## 14. Krok 9 — OvÄ›Ĺ™enĂ­ pirĂˇtskĂ˝ch map
+## 7. Krok 4 � Kapitánův náčrtek
 
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 9_1 ÄŚĂ­selnĂ© nĂˇlepky 1, 2, 3<br><br>9_2 ObĂˇlka pro CentrĂˇlu
-- **Co potřebuje dítě k vyřešení kroku:** [Z HRY] povolenĂ­ PAXe po 8_Report; 1_5 pÄ›t map, 8_1 originĂˇl, 9_1â€“9_2, 1_2 pole â€žOdeslanĂˇ trasaâ€ś. TĹ™i mapy majĂ­ pĹ™edtiĹˇtÄ›nou autentizaÄŤnĂ­ peÄŤeĹĄ ve sprĂˇvnĂ©m uspoĹ™ĂˇdĂˇnĂ­; dvÄ› majĂ­ vĹľdy jednu jasnou zĂˇmÄ›nu. ZvlĂˇĹˇtnĂ­ prĂˇzdnĂ© okĂ©nko slouĹľĂ­ novĂ©mu potvrzovacĂ­mu otisku, hornĂ­ okĂ©nko ÄŤĂ­slu.
-- **Akce dítěte:** DĂ­tÄ› otevĹ™e 5 map. Podle originĂˇlnĂ­ho razĂ­tka vybere 3 pravĂ©. Ty potom seĹ™adĂ­ podle nĂˇvaznosti kapitĂˇnovy trasy â€“ konec jednoho Ăşseku navazuje na zaÄŤĂˇtek dalĹˇĂ­ho. Do pĹ™ipravenĂ˝ch okĂ©nek nalepĂ­ ÄŤĂ­sla 1, 2, 3 podle poĹ™adĂ­. Do druhĂ©ho pĹ™ipravenĂ©ho okĂ©nka na kaĹľdĂ© pravĂ© mapÄ› udÄ›lĂˇ otisk kapitĂˇnova razĂ­tka. TĹ™i pĹ™ipravenĂ© mapy vloĹľĂ­ do obĂˇlky. V Protokolu oznaÄŤĂ­ tĹ™i po sobÄ› jdoucĂ­ Ăşseky a pĹ™edĂˇ obĂˇlku prĹŻvodci na mĂ­stÄ› CentrĂˇly z mapy. PĹ™edtiĹˇtÄ›nou peÄŤeĹĄ nezakrĂ˝vĂˇ novĂ˝m otiskem.
-- **Úkoly:** Rozpoznat 3 pravĂ© mapy.<br>SeĹ™adit je do sprĂˇvnĂ©ho poĹ™adĂ­.<br>OÄŤĂ­slovat je 1â€“3.<br>OvÄ›Ĺ™it je razĂ­tkem.<br>Zabalit je pro CentrĂˇlu.
-- **Co je hotový krok:** DĂ­tÄ› vybralo tĹ™i pravĂ© mapy, seĹ™adilo pĹ™Ă­stav â†’ majĂˇk â†’ jeskynÄ› â†’ ostrov, nalepilo ÄŤĂ­sla 1â€“3 a pĹ™idalo potvrzovacĂ­ otisky. ObĂˇlka byla fyzicky pĹ™edĂˇna CentrĂˇle.
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] 4_1 puzzle a 2_4 kapitánův vzkaz, získané v kroku 2; padělek prokázaný v kroku 3. Náčrtek ukáže stůl označený kotvou, pod ním schránku na mořském dně.
+- **Akce d�t�te:** Dítě složí dílky do jednoho obrázku. Z výsledného náčrtku rozpozná stůl a umístění další schránky pod ním.
+- **�koly:** Složit náčrtek a zjistit, kde kapitán ukryl další schránku.
+- **Co je hotov� krok:** Dítě odvodí, že má hledat další schránku pod stolem.
 
-## 15. Krok 9_Report — Expedice pĹ™ipravena
+## 8. Krok 5 � Potopená schránka
+
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 5_1 Druhá kapitánova schránka s velkým pevným okem<br>5_2 Podložka MOŘSKÉ DNO a označení paluby s pravidlem vyzvedávání
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] 4_1 složený náčrtek, 5_1–5_2. [Z DOMOVA] standardní stůl. Pravidlo na palubě čte PAX před hledáním: „Dole je hluboké moře. Nemáme potápěčskou výbavu. Na dno smí jen hák, ty zůstáváš na palubě.“ Dítě stojí na podlaze vedle stolu, nikdy na desce.
+- **Akce d�t�te:** Dítě podle složeného náčrtku najde správné místo. Prostor pod stolem představuje „mořské dno“. Dítě schránku objeví, ale podle pravidel M!SE pro ni nesmí jednoduše sáhnout dolů.
+- **�koly:** Najít potopenou schránku a zjistit, že ji nelze získat běžným způsobem.
+- **Co je hotov� krok:** Dítě zná polohu schránky, ale potřebuje způsob, jak ji vytáhnout z „hlubin“.
+
+## 9. Krok 5_Report � Schránka na mořském dně
 
 - **Label:** Report
-- **Nové artefakty na vstupu:** â€”
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] vysĂ­laÄŤka<br>â€˘ [Z HRY] 9_2 ObĂˇlka s pĹ™ipravenĂ˝mi mapami
-- **Akce dítěte:** DĂ­tÄ› nahlĂˇsĂ­ PAXovi sloĹľenĂ­ a odeslĂˇnĂ­ ovÄ›Ĺ™enĂ© trasy. PrĹŻvodce potvrdĂ­ pĹ™ijetĂ­ obĂˇlky pĹ™edanĂ© v kroku 9.
-- **Úkoly:** PĹ™edat CentrĂˇle ovÄ›Ĺ™enou trasu.
-- **Co je hotový krok:** CentrĂˇla mĹŻĹľe podle dĂ­tÄ›tem ovÄ›Ĺ™enĂ˝ch a seĹ™azenĂ˝ch map vyslat dalĹˇĂ­ tĂ˝m za novĂ˝m pokladem.
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] vysílačka
+- **Akce d�t�te:** Dítě hlásí PAXovi, že schránku našlo, ale nemůže se k ní dostat. PAX nabídne vybavení Centrály určené k vytahování nákladu.
+- **�koly:** Popsat PAXovi vzniklý fyzický problém.
+- **Co je hotov� krok:** PAX přijal popis problému a ohlásil doručení vytahovací sady v kroku 6.
 
-## 16. Krok 10 — UzavĹ™enĂ­ M!SE
+## 10. Krok 6 � HERO — Stavba kladkostroje
 
-- **Label:** DĂ­tÄ›
-- **Nové artefakty na vstupu:** 10_1 Specializace LOVEC POKLADĹ®
-- **Co potřebuje dítě k vyřešení kroku:** â€˘ [Z HRY] 10_1 Specializace LOVEC POKLADĹ®<br>â€˘ [Z HRY] 8_1 PravĂ© kapitĂˇnovo razĂ­tko
-- **Akce dítěte:** DĂ­tÄ› pĹ™ijme specializaci a ponechĂˇ si pravĂ© kapitĂˇnovo razĂ­tko.
-- **Úkoly:** DokonÄŤit M!SI.
-- **Co je hotový krok:** DĂ­tÄ› zĂ­skĂˇvĂˇ specializaci LOVEC POKLADĹ® a kapitĂˇnovo razĂ­tko mu zĹŻstĂˇvĂˇ jako fyzickĂˇ pamĂˇtka na M!SI.
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 6_1 Sada: pevná kladka na nízkém stolním rameni, volná kladka s tupým hákem, jedno lano s dorazy, základna s ochrannou svěrkou, montážní plán a cvičný náklad
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] 6_1 doručí PAX po 5_Report; 5_1 schránka s okem. [Z DOMOVA] stůl. Průvodce upevní a zkontroluje základnu; dítě vede lano z horního úchytu kolem volné kladky, potom přes pevnou kladku k ovládacímu konci. Dospělý pomůže podle potřeby.
+- **Akce d�t�te:** Sestaví vytahovací dráhu podle plánu a spustí hák nad cvičný náklad. Před ostrým pokusem jej zdvihne a spustí. Při zaseknutí zkontroluje, zda je lano v drážkách a nekříží se. Základnu opravuje dospělý.
+- **�koly:** Sestrojit funkční kladkostroj schopný vytáhnout schránku z „mořského dna“.
+- **Co je hotov� krok:** Cvičný náklad lze bez sklouznutí základny zdvihnout z podložky a kontrolovaně položit. Cíl stavby a testu 15–20 minut, skutečné trvání a kompatibilita svěrky se stolem jsou NEOVĚŘENO.
+
+## 11. Krok 7 � Vytažení pokladu
+
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] otestovaná 6_1 a 5_1 na 5_2, 4_1 náčrtek. Schránka je pod přesahem ramene u kraje stolu, velké oko je vzhůru. Dítě stojí vedle stolu a vede zavěšený hák do oka. Průvodce jistí základnu, neřeší zachycení místo dítěte.
+- **Akce d�t�te:** Dítě pomocí sestaveného kladkostroje zachytí schránku a vytáhne ji z „mořského dna“ nahoru.
+- **�koly:** Úspěšně vyzvednout schránku.
+- **Co je hotov� krok:** Schránka je vytažena a dítě ji může otevřít.
+
+## 12. Krok 8 � Pravé kapitánovo razítko
+
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 8_1 Pravé samobarvicí kapitánovo razítko ve druhé schránce
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] 8_1, 3_1–3_2 sestavený vzor, 1_2 pole „Druhá pečeť“ se zkušebním okénkem. Originál má lebku uprostřed, hvězdu nahoře, kotvu dole.
+- **Akce d�t�te:** Otevře vytaženou schránku, provede otisk v Protokolu a porovná všechny tři polohy se sestaveným vzorem. Označí shodu. Razítko potřebuje k závěrečnému potvrzení zásilky, archivní dílky otisk nevytvoří.
+- **�koly:** Prověřit nalezené razítko.
+- **Co je hotov� krok:** Dítě má pravé kapitánovo razítko.
+
+## 13. Krok 8_Report � Originál nalezen
+
+- **Label:** Report
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] vysílačka<br>• [Z HRY] 8_1 Pravé kapitánovo razítko
+- **Akce d�t�te:** Dítě hlásí PAXovi nález originálu. PAX nyní povolí otevřít zásilku map, kterou dítě dostalo na začátku.
+- **�koly:** Oznámit Centrále nález.
+- **Co je hotov� krok:** Zapečetěná zásilka 1_5 může být otevřena.
+
+## 14. Krok 9 � Ověření pirátských map
+
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 9_1 Číselné nálepky 1, 2, 3<br><br>9_2 Obálka pro Centrálu
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** [Z HRY] povolení PAXe po 8_Report; 1_5 pět map, 8_1 originál, 9_1–9_2, 1_2 pole „Odeslaná trasa“. Tři mapy mají předtištěnou autentizační pečeť ve správném uspořádání; dvě mají vždy jednu jasnou záměnu. Zvláštní prázdné okénko slouží novému potvrzovacímu otisku, horní okénko číslu.
+- **Akce d�t�te:** Dítě otevře 5 map. Podle originálního razítka vybere 3 pravé. Ty potom seřadí podle návaznosti kapitánovy trasy – konec jednoho úseku navazuje na začátek dalšího. Do připravených okének nalepí čísla 1, 2, 3 podle pořadí. Do druhého připraveného okénka na každé pravé mapě udělá otisk kapitánova razítka. Tři připravené mapy vloží do obálky. V Protokolu označí tři po sobě jdoucí úseky a předá obálku průvodci na místě Centrály z mapy. Předtištěnou pečeť nezakrývá novým otiskem.
+- **�koly:** Rozpoznat 3 pravé mapy.<br>Seřadit je do správného pořadí.<br>Očíslovat je 1–3.<br>Ověřit je razítkem.<br>Zabalit je pro Centrálu.
+- **Co je hotov� krok:** Dítě vybralo tři pravé mapy, seřadilo přístav → maják → jeskyně → ostrov, nalepilo čísla 1–3 a přidalo potvrzovací otisky. Obálka byla fyzicky předána Centrále.
+
+## 15. Krok 9_Report � Expedice připravena
+
+- **Label:** Report
+- **Nov� artefakty na vstupu:** —
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] vysílačka<br>• [Z HRY] 9_2 Obálka s připravenými mapami
+- **Akce d�t�te:** Dítě nahlásí PAXovi složení a odeslání ověřené trasy. Průvodce potvrdí přijetí obálky předané v kroku 9.
+- **�koly:** Předat Centrále ověřenou trasu.
+- **Co je hotov� krok:** Centrála může podle dítětem ověřených a seřazených map vyslat další tým za novým pokladem.
+
+## 16. Krok 10 � Uzavření M!SE
+
+- **Label:** Dítě
+- **Nov� artefakty na vstupu:** 10_1 Specializace LOVEC POKLADŮ
+- **Co pot�ebuje d�t� k vy�e�en� kroku:** • [Z HRY] 10_1 Specializace LOVEC POKLADŮ<br>• [Z HRY] 8_1 Pravé kapitánovo razítko
+- **Akce d�t�te:** Dítě přijme specializaci a ponechá si pravé kapitánovo razítko.
+- **�koly:** Dokončit M!SI.
+- **Co je hotov� krok:** Dítě získává specializaci LOVEC POKLADŮ a kapitánovo razítko mu zůstává jako fyzická památka na M!SI.
 

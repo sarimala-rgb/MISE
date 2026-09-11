@@ -1,21 +1,21 @@
-﻿| EvidenÄŤnĂ­ kĂłd | ScĂ©nĂˇĹ™ | Artefakt |
+| Evidenční kód | Scénář | Artefakt |
 | --- | --- | --- |
-| **03_01** | 1_1 | ZadĂˇnĂ­ mise |
+| **03_01** | 1_1 | Zadání mise |
 | **03_02** | 1_2 | Protokol mise |
-| **03_03** | 1_3 | Mapa perimetru CentrĂˇly |
-| **03_04** | 1_4 | StarĂˇ pirĂˇtskĂˇ mapa |
-| **03_05** | 1_5 | ZapeÄŤetÄ›nĂˇ zĂˇsilka pÄ›ti map |
-| **03_06** | 2_1 | Sada tĹ™Ă­ pirĂˇtskĂ˝ch orientaÄŤnĂ­ch znaÄŤek |
-| **03_07** | 2_2 | PrvnĂ­ kapitĂˇnova schrĂˇnka |
-| **03_08** | 2_3 | FaleĹˇnĂ© kapitĂˇnovo razĂ­tko |
-| **03_09** | 2_4 | KapitĂˇnĹŻv vzkaz o zkouĹˇce |
-| **03_10** | 4_1 | RozstĹ™Ă­hanĂ˝ nĂˇÄŤrtek ve stejnĂ© prvnĂ­ schrĂˇnce |
-| **03_11** | 3_1 | ArchivnĂ­ indicie k razĂ­tku |
-| **03_12** | 3_2 | Sada symbolĹŻ razĂ­tka |
-| **03_13** | 5_1 | DruhĂˇ kapitĂˇnova schrĂˇnka s pevnĂ˝m okem |
-| **03_14** | 5_2 | PodloĹľka MoĹ™skĂ© dno |
+| **03_03** | 1_3 | Mapa perimetru Centrály |
+| **03_04** | 1_4 | Stará pirátská mapa |
+| **03_05** | 1_5 | Zapečetěná zásilka pěti map |
+| **03_06** | 2_1 | Sada tří pirátských orientačních značek |
+| **03_07** | 2_2 | První kapitánova schránka |
+| **03_08** | 2_3 | Falešné kapitánovo razítko |
+| **03_09** | 2_4 | Kapitánův vzkaz o zkoušce |
+| **03_10** | 4_1 | Rozstříhaný náčrtek ve stejné první schránce |
+| **03_11** | 3_1 | Archivní indicie k razítku |
+| **03_12** | 3_2 | Sada symbolů razítka |
+| **03_13** | 5_1 | Druhá kapitánova schránka s pevným okem |
+| **03_14** | 5_2 | Podložka Mořské dno |
 | **03_15** | 6_1 | Sada kladkostroje |
-| **03_16** | 8_1 | PravĂ© kapitĂˇnovo razĂ­tko |
-| **03_17** | 9_1 | ÄŚĂ­selnĂ© nĂˇlepky 1, 2, 3 |
-| **03_18** | 9_2 | ObĂˇlka pro CentrĂˇlu |
-| **03_19** | 10_1 | Badge LOVEC POKLADĹ® |
+| **03_16** | 8_1 | Pravé kapitánovo razítko |
+| **03_17** | 9_1 | Číselné nálepky 1, 2, 3 |
+| **03_18** | 9_2 | Obálka pro Centrálu |
+| **03_19** | 10_1 | Badge LOVEC POKLADŮ |
