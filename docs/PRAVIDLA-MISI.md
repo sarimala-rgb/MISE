@@ -252,6 +252,12 @@ Artefakt nesmí být do kroku přidán jen proto, že je potřeba něco nového.
 
 Pokud je artefakt poprvé použit v kroku, ale nebyl dříve předán, nalezen nebo zpřístupněn, jde o chybu scénáře.
 
+### 11.1 Číslování a odkazy artefaktů
+
+Při přidání artefaktu do `SCENAR-MISE.md` se ihned zkontroluje číselná posloupnost v `ARTEFAKTY.md` dané mise. Evidenční kód má vždy formát `číslo_mise_číslo_artefaktu`.
+
+Pokud nový artefakt vložení do posloupnosti změní, přečíslují se všechny následující artefakty. Poté se vyhledají všechny původní kódy v `SCENAR-MISE.md` a nahradí se jejich novými kódy. Změna není dokončená, dokud žádný odkaz na starý kód v misi nezůstane.
+
 ---
 
 ## 12. Co potřebuje dítě k vyřešení kroku
