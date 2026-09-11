@@ -119,7 +119,105 @@ zatím není potvrzený.
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-[Z#]<��$z{-���jםístě. Dítě páruje
+[Z HRY] 2_1–2_2, 1_2 pole „Vzorek ze staveniště“, 1_3 a 1_5. Dospělý předvede jemné odhrnování;
+dítě odkrývá a čistí, dospělý pomůže u pevnějšího místa. Díly ukládá do misky se symbolem
+staveniště.
+
+**Akce dítěte:**
+
+Opatrně odkrývá první blok. Vyjme části kostry a drží je pohromadě jako nález ze staveniště. V
+Protokolu označí původ vzorku a vyjmuté části.
+
+**Úkoly:**
+
+- Odkryj části bez poškození.
+- Označ v Protokolu, odkud tento vzorek pochází.
+
+**Co je hotový krok:**
+
+Části z prvního bloku jsou vyjmuté a přiřazené ke staveništi; lze je porovnávat a skládat.
+
+---
+
+### KROK 3 — První hypotéza o dinosaurovi
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+3_1 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus,
+Ankylosaurus; sestavovací podklad ke každé možnosti
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 3_1, části z 2_1, 1_2 pole „Pracovní určení“, 1_5. Dítě porovnává přímo obrysy modelových
+dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání
+úplnému ověření.
+
+**Akce dítěte:**
+
+Porovná kosti s obrázky. Začne je skládat a vybere pravděpodobného dinosaura. V Protokolu označí
+volbu jako předběžnou.
+
+**Úkoly:**
+
+- Porovnej nález s atlasem.
+- Sestav části, které už máš.
+- Označ pracovní určení; kostra ještě není úplná.
+
+**Co je hotový krok:**
+
+Dítě označí předběžnou možnost nebo dvě dosud možné varianty. Žádná z možností se nepotvrdí jen
+slovem PAXe; čeká se na chybějící díly.
+
+---
+
+### KROK 4 — Ověření druhého vzorku
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+- 4_1 Druhý blok z bodu u staveniště: velké plastové kolečko ze stavebního modelu
+- 4_2 Karta s fotografií stejného kolečka na dělnickém modelu vozíku; šipky ukazují otvor pro osu a
+  pravidelný vroubkovaný okraj
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 4_1–4_2, 2_2, nález z 2_1, 3_1, 1_2 pole „Porovnání vzorků“ a 1_5. Karta vysvětluje: toto
+kolečko patří k novodobému vozíku. Nejde o obecné pravidlo, že vše odlišné od kostí je falešné.
+
+**Akce dítěte:**
+
+Odkryje druhý blok. Porovná předmět s kostmi a ověřovacím podkladem. Označí jeden skutečný nález a
+jeden vyloučený předmět, odděleně podle původu.
+
+**Úkoly:**
+
+- Prověř i druhý nález.
+- Ukaž, podle čeho předmět vylučuješ.
+- Do Protokolu označ výsledek obou vzorků.
+
+**Co je hotový krok:**
+
+Dítě ukáže shodu kolečka s doloženým předmětem na kartě, označí druhý vzorek jako novodobý předmět
+a první jako paleontologický nález. Rozhodnutí nestojí pouze na materiálu.
+
+---
+
+### KROK 5 — Posouzení původního staveniště
+
+**Label:** Dítě
+
+**Nové artefakty na vstupu:**
+
+- 5_1 Fotografie původní zkamenělé kosti
+- 5_2 Fotografie původního otisku dinosauří stopy
+
+**Co potřebuje dítě k vyřešení kroku:**
+
+[Z HRY] 5_1–5_2 jsou fotografie dělníků se symbolem staveniště a dvěma odlišnými body nálezu v
+mapě; 5_1 zachycuje kost před odebráním bloku 2_1, 5_2 stopu ponechanou na místě. Dítě páruje
 symbol původu, nikoli druh podle stopy. Dále výsledky 2–4, 1_1–1_3 a 1_5.
 
 **Akce dítěte:**
@@ -479,22 +577,3 @@ Protokol je uzavřený, kostra uložená se záznamem původu, plán věže změ
 k ochraně. Dítě získalo specializaci PALEONTOLOG.
 
 ---
-
-## 6. Příběh
-
-Centrála chce postavit pozorovací věž nad zálivem, ale nález kosti a stopy stavbu pozastaví. Dítě prozkoumá dva vzorky, odliší skutečné kosti od nesouvisejícího předmětu a začne určovat dinosaura. Po potvrzení nálezů na staveništi hledá jiné místo pro věž. Vyřadí louku se zakrytým výhledem a zaplavovanou plošinu. Nový podklad ho přivede ke třetímu bloku na Rozcestí. Z dalších kostí dokončí rekonstrukci a označí oba body nálezů k ochraně. Po ověření všech podmínek doporučí Travnatý vršek. Centrála změní stavební plán; dítě zdokumentuje kostru a získá specializaci PALEONTOLOG.
-
----
-
-## 7. Otevřené body návrhu
-
-- **Krok 7:** navrhnout skutečný důkaz, že na Rozcestí zůstal konkrétní vzorek, a jeho propojení se symbolem a domácím úkrytem. Samotná dinosauří stopa to neprokazuje.
-- **Krok 11:** navrhnout podklady pro všechny čtyři kontroly Travnatého vršku, včetně srozumitelné podmínky dostatečné výšky. Místo mimo potvrzené nálezy neznamená automaticky místo bez jakýchkoli fosilií.
-- **Kroky 3 a 9:** vybrat dinosaura, zbývající čtyři možnosti atlasu a rozdělení kostry mezi bloky. Úplná sestava musí umožnit ověřit určení; nelze předem tvrdit konkrétní druh.
-- **Krok 4:** navrhnout vyloučený předmět a ověřovací podklad. Rozdíl nesmí stát jen na neznámé vlastnosti materiálu; dítě musí mít pozorovatelné a vysvětlené znaky.
-- **Kroky 2, 4 a 8:** ověřit nástroje, bloky a šetrné odkrývání pro děti 4–5 let. Počty dílů, provedení a časová náročnost jsou TODO.
-- **Protokol:** názvy polí v rozpisu jsou pracovní návrh. Navrhnout obrázkové označování a rozsah pomoci dospělého, aby řešení nevyžadovalo samostatné psaní a čtení.
-- **Krok 10:** dva doložené body neopravňují k přesnému vymezení souvislé hranice naleziště ani k prokázání, že díly biologicky pocházejí z jediného jedince. Pro hru tvoří jednu sestavitelnou kostru podle dodaného příběhu; rozsah ochrany zůstává k upřesnění.
-- **Ocenění:** fyzická podoba specializace PALEONTOLOG nebyla určena.
-
-
