@@ -1,475 +1,472 @@
-# 04 — Operace Skalní orel
+﻿# 04 â€” Operace SkalnĂ­ orel
 
 ---
 
-## 1. Základní údaje o misi
+## 1. ZĂˇkladnĂ­ Ăşdaje o misi
 
-- **Název:** Operace Skalní orel
-- **Specializace:** Konstruktér
-- **Věk:** 4–5 let
+- **NĂˇzev:** Operace SkalnĂ­ orel
+- **Specializace:** KonstruktĂ©r
+- **VÄ›k:** 4â€“5 let
 
 ---
 
-## 2. Zadání mise
+## 2. ZadĂˇnĂ­ mise
 
-### 2.1 Název mise
+### 2.1 NĂˇzev mise
 
-Operace Skalní orel
+Operace SkalnĂ­ orel
 
-### 2.2 Kód mise
+### 2.2 KĂłd mise
 
 KONS-04
 
 ### 2.3 Incident
 
-Zával odřízl měřicí stanici od Centrály a přerušil spojení. Poslední data zůstala v kazetě stanice za zakázanou zónou.
+V oblasti se spĂ­cĂ­ sopkou zaznamenala CentrĂˇla neobvyklĂ© otĹ™esy. BÄ›hem prĹŻzkumu doĹˇlo k zĂˇvalu, kterĂ˝ odĹ™Ă­zl mÄ›Ĺ™icĂ­ stanici. VzdĂˇlenĂ© spojenĂ­ se pĹ™eruĹˇilo prĂˇvÄ› ve chvĂ­li, kdy mÄ›la stanice odeslat poslednĂ­ mÄ›Ĺ™enĂ­. Data proto zĹŻstala uloĹľenĂˇ v kazetÄ› pĹ™Ă­mo na mĂ­stÄ›. Do zakĂˇzanĂ© zĂłny se nesmĂ­ vstupovat. CentrĂˇla vysĂ­lĂˇ dĂ­tÄ› jako KonstruktĂ©ra, aby vymyslelo bezpeÄŤnĂ˝ zpĹŻsob zĂ­skĂˇnĂ­ kazety. DĂ­tÄ› sestavĂ­ nouzovou lanovku a poĹˇle pĹ™es ni servisnĂ­ modul. Potom otevĹ™e zachrĂˇnÄ›nĂˇ data a porovnĂˇ hodnoty tĹ™Ă­ ÄŤidel. ZjistĂ­, zda riziko souvisĂ­ se sopkou, nebo s nestabilnĂ­m svahem. Nakonec oznaÄŤĂ­ nebezpeÄŤnou oblast a pĹ™edĂˇ CentrĂˇle doporuÄŤenĂ­.
 
-### 2.4 Potvrzená fakta
 
-- V oblasti se spící sopkou byly zaznamenány otřesy.
-- Zával odřízl stanici, ale nikdo v ní není uvězněný.
-- Poslední měření jsou uložena jen lokálně v kazetě stanice.
-- Do zóny závalu se nesmí vstupovat.
+### 2.4 PotvrzenĂˇ fakta
 
-### 2.5 Co zatím nevíme
+- V oblasti se spĂ­cĂ­ sopkou byly zaznamenĂˇny otĹ™esy.
+- ZĂˇval odĹ™Ă­zl stanici, ale nikdo v nĂ­ nenĂ­ uvÄ›znÄ›nĂ˝.
+- PoslednĂ­ mÄ›Ĺ™enĂ­ jsou uloĹľena jen lokĂˇlnÄ› v kazetÄ› stanice.
+- Do zĂłny zĂˇvalu se nesmĂ­ vstupovat.
 
-- Co ukazovala poslední měření před závalem.
-- Zda otřesy souvisí se sopkou, nebo s jiným místem.
-- Kterou část perimetru je nutné uzavřít a odborně prověřit.
+### 2.5 Co zatĂ­m nevĂ­me
 
-### 2.6 Úkoly mise
+- Co ukazovala poslednĂ­ mÄ›Ĺ™enĂ­ pĹ™ed zĂˇvalem.
+- Zda otĹ™esy souvisĂ­ se sopkou, nebo s jinĂ˝m mĂ­stem.
+- Kterou ÄŤĂˇst perimetru je nutnĂ© uzavĹ™Ă­t a odbornÄ› provÄ›Ĺ™it.
 
-- Sestavit nouzovou lanovku a bezpečně získat kazetu.
-- Porovnat měření a označit rizikové místo.
-- Předat Centrále doporučení k uzavření zóny.
+### 2.6 Ăškoly mise
 
-### 2.7 První pokyn
+- Sestavit nouzovou lanovku a bezpeÄŤnÄ› zĂ­skat kazetu.
+- Porovnat mÄ›Ĺ™enĂ­ a oznaÄŤit rizikovĂ© mĂ­sto.
+- PĹ™edat CentrĂˇle doporuÄŤenĂ­ k uzavĹ™enĂ­ zĂłny.
 
-Najdi na mapě měřicí stanici a místo závalu.
+### 2.7 PrvnĂ­ pokyn
+
+Najdi na mapÄ› mÄ›Ĺ™icĂ­ stanici a mĂ­sto zĂˇvalu.
 ---
 
-## 3. Potvrzené herní prvky
-
-- Dítě staví lanovku.
-- Lanovka dopraví servisní modul k odříznutému pracovišti; modul zachytí datovou kazetu a dítě jej stáhne zpět.
-- V příběhu byla řešena logická konzistence dat ze senzoru před a po závalu.
-- Bylo zpochybněno jednoduché porovnávání měření, protože samotný zával logicky vysvětluje velké otřesy.
-- Byla řešena otázka, jak věrohodně dostat data zpět od badatele; původní varianta „badatel vloží kapsli s daty a pošle ji zpátky“ byla považována za nedostatečně domyšlenou.
+znutĂ©mu pracoviĹˇti; modul zachytĂ­ datovou kazetu a dĂ­tÄ› jej stĂˇhne zpÄ›t.
+- V pĹ™Ă­bÄ›hu byla Ĺ™eĹˇena logickĂˇ konzistence dat ze senzoru pĹ™ed a po zĂˇvalu.
+- Bylo zpochybnÄ›no jednoduchĂ© porovnĂˇvĂˇnĂ­ mÄ›Ĺ™enĂ­, protoĹľe samotnĂ˝ zĂˇval logicky vysvÄ›tluje velkĂ© otĹ™esy.
+- Byla Ĺ™eĹˇena otĂˇzka, jak vÄ›rohodnÄ› dostat data zpÄ›t od badatele; pĹŻvodnĂ­ varianta â€žbadatel vloĹľĂ­ kapsli s daty a poĹˇle ji zpĂˇtkyâ€ś byla povaĹľovĂˇna za nedostateÄŤnÄ› domyĹˇlenou.
 
 ---
 
-## 4. Kritická otevřená otázka
+## 4. KritickĂˇ otevĹ™enĂˇ otĂˇzka
 
-Dodaný scénář stanovuje důvod: po závalu nefunguje vzdálený přenos posledních měření a data jsou dostupná pouze lokálně. Servisní modul má fyzicky zachytit datovou kazetu bez vstupu dítěte do zakázané oblasti. TODO — automatické zachycení kazety ověřit fyzickým prototypem, jak požaduje krok 4. Původní otázka návratu dat od badatele je touto variantou nahrazena; historická výhrada zůstává v sekci 3.
+DodanĂ˝ scĂ©nĂˇĹ™ stanovuje dĹŻvod: po zĂˇvalu nefunguje vzdĂˇlenĂ˝ pĹ™enos poslednĂ­ch mÄ›Ĺ™enĂ­ a data jsou dostupnĂˇ pouze lokĂˇlnÄ›. ServisnĂ­ modul mĂˇ fyzicky zachytit datovou kazetu bez vstupu dĂ­tÄ›te do zakĂˇzanĂ© oblasti. TODO â€” automatickĂ© zachycenĂ­ kazety ovÄ›Ĺ™it fyzickĂ˝m prototypem, jak poĹľaduje krok 4. PĹŻvodnĂ­ otĂˇzka nĂˇvratu dat od badatele je touto variantou nahrazena; historickĂˇ vĂ˝hrada zĹŻstĂˇvĂˇ v sekci 3.
 
 ---
 
 ## 5. Struktura
 
-1. Zadání mise
+1. ZadĂˇnĂ­ mise
 2. Protokol mise
-3. Mapa perimetru centrály
+3. Mapa perimetru centrĂˇly
 
 ---
 
-## 6. Scénář po krocích
-
-Pro čtení používej tento přepis. Hlavním zdrojem je [tabulka scénáře](SCENAR-TABULKA.md).
-Čísla kroků označují herní pořadí; reporty zůstávají navázané na příslušný krok.
+zdrojem je [tabulka scĂ©nĂˇĹ™e](SCENAR-TABULKA.md).
+ÄŚĂ­sla krokĹŻ oznaÄŤujĂ­ hernĂ­ poĹ™adĂ­; reporty zĹŻstĂˇvajĂ­ navĂˇzanĂ© na pĹ™Ă­sluĹˇnĂ˝ krok.
 
 ---
 
-### KROK 1 — Předání mise
+### KROK 1 â€” PĹ™edĂˇnĂ­ mise
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-- 1_1 Zadání mise
+- 1_1 ZadĂˇnĂ­ mise
 - 1_2 Protokol mise
-- 1_3 Mapa perimetru Centrály
-- 1_4 Terénní fotografie závalu
+- 1_3 Mapa perimetru CentrĂˇly
+- 1_4 TerĂ©nnĂ­ fotografie zĂˇvalu
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-- [Z HRY] 1_1 Zadání mise
+- [Z HRY] 1_1 ZadĂˇnĂ­ mise
 - [Z HRY] 1_2 Protokol mise
-- [Z HRY] 1_3 Mapa perimetru Centrály
-- [Z HRY] 1_4 Terénní fotografie závalu
-- V Zadání je vysvětleno: A měří pohyb u sopky, B u stanice, C na svahu; spojení přerušil zával,
-  nikdo není uvězněný. V Protokolu dítě v poli „První domněnka“ označí sopku s otazníkem.
+- [Z HRY] 1_3 Mapa perimetru CentrĂˇly
+- [Z HRY] 1_4 TerĂ©nnĂ­ fotografie zĂˇvalu
+- V ZadĂˇnĂ­ je vysvÄ›tleno: A mÄ›Ĺ™Ă­ pohyb u sopky, B u stanice, C na svahu; spojenĂ­ pĹ™eruĹˇil zĂˇval,
+  nikdo nenĂ­ uvÄ›znÄ›nĂ˝. V Protokolu dĂ­tÄ› v poli â€žPrvnĂ­ domnÄ›nkaâ€ś oznaÄŤĂ­ sopku s otaznĂ­kem.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Projde zadání, prohlédne mapu a fotografii závalu a založí Protokol mise.
+Projde zadĂˇnĂ­, prohlĂ©dne mapu a fotografii zĂˇvalu a zaloĹľĂ­ Protokol mise.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Pochopit situaci: Centrála zaznamenala neobvyklé otřesy v oblasti se spící sopkou.
-- Pochopit původní úkol badatele: zjistit příčinu otřesů a ověřit bezpečnost perimetru.
-- Zjistit, že během průzkumu došlo k závalu a přestal fungovat vzdálený přenos posledních měření z
-  detašovaného pracoviště.
-- Zapsat pracovní hypotézu: otřesy mohou souviset se sopkou.
+- Pochopit situaci: CentrĂˇla zaznamenala neobvyklĂ© otĹ™esy v oblasti se spĂ­cĂ­ sopkou.
+- Pochopit pĹŻvodnĂ­ Ăşkol badatele: zjistit pĹ™Ă­ÄŤinu otĹ™esĹŻ a ovÄ›Ĺ™it bezpeÄŤnost perimetru.
+- Zjistit, Ĺľe bÄ›hem prĹŻzkumu doĹˇlo k zĂˇvalu a pĹ™estal fungovat vzdĂˇlenĂ˝ pĹ™enos poslednĂ­ch mÄ›Ĺ™enĂ­ z
+  detaĹˇovanĂ©ho pracoviĹˇtÄ›.
+- Zapsat pracovnĂ­ hypotĂ©zu: otĹ™esy mohou souviset se sopkou.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Dítě zná incident, původní hypotézu i svůj cíl: získat chybějící měření a dokončit vyhodnocení
-bezpečnosti perimetru.
+DĂ­tÄ› znĂˇ incident, pĹŻvodnĂ­ hypotĂ©zu i svĹŻj cĂ­l: zĂ­skat chybÄ›jĂ­cĂ­ mÄ›Ĺ™enĂ­ a dokonÄŤit vyhodnocenĂ­
+bezpeÄŤnosti perimetru.
 
 ---
 
-### REPORT 1_Report — Převzetí mise
+### REPORT 1_Report â€” PĹ™evzetĂ­ mise
 
 **Label:** Report
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] Vysílačka
+[Z HRY] VysĂ­laÄŤka
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-- Přihlásí se PAXovi.
-- Potvrdí převzetí případu.
+- PĹ™ihlĂˇsĂ­ se PAXovi.
+- PotvrdĂ­ pĹ™evzetĂ­ pĹ™Ă­padu.
 
-**Úkoly:**
+**Ăškoly:**
 
-Potvrď zahájení vyšetřování.
+PotvrÄŹ zahĂˇjenĂ­ vyĹˇetĹ™ovĂˇnĂ­.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-PAX ví, že mise byla převzata.
-
----
-
-### KROK 2 — Přerušené spojení
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-- 2_1 Detašované odečtové pracoviště
-- 2_2 Označení ZÁVAL – NEVSTUPOVAT
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z HRY] 1_3 Mapa perimetru Centrály
-- [Z HRY] 1_4 Terénní fotografie závalu
-- [Z HRY] 2_1 Detašované odečtové pracoviště
-- [Z HRY] 2_2 Označení ZÁVAL – NEVSTUPOVAT
-- 1_1 vysvětluje lokální uložení dat. 2_2 vyznačuje obdélník nepřístupné zóny. Stanice je uvnitř,
-  ovládací místo vně. Dítě se před stavbou dozví: servisní vedení bylo natažené před závalem, dnes
-  se k němu připojí nouzový modul.
-
-**Akce dítěte:**
-
-Přesune se do domácího „terénu“, najde označenou nebezpečnou oblast a na druhé straně vidí odečtové
-pracoviště. Porovná situaci s mapou a fotografií.
-
-**Úkoly:**
-
-- Ověřit, že pracoviště existuje a je odříznuté závalem.
-- Zjistit, že se k němu nesmí vstoupit pěšky a poslední data jsou dostupná pouze lokálně na
-  stanovišti.
-
-**Co je hotový krok:**
-
-Dítě má konkrétní problém: potřebuje získat data ze stanoviště, aniž vstoupí do nebezpečné zóny.
+PAX vĂ­, Ĺľe mise byla pĹ™evzata.
 
 ---
 
-### REPORT 2_Report — Přerušený přístup
+### KROK 2 â€” PĹ™eruĹˇenĂ© spojenĂ­
+
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+- 2_1 DetaĹˇovanĂ© odeÄŤtovĂ© pracoviĹˇtÄ›
+- 2_2 OznaÄŤenĂ­ ZĂVAL â€“ NEVSTUPOVAT
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+- [Z HRY] 1_3 Mapa perimetru CentrĂˇly
+- [Z HRY] 1_4 TerĂ©nnĂ­ fotografie zĂˇvalu
+- [Z HRY] 2_1 DetaĹˇovanĂ© odeÄŤtovĂ© pracoviĹˇtÄ›
+- [Z HRY] 2_2 OznaÄŤenĂ­ ZĂVAL â€“ NEVSTUPOVAT
+- 1_1 vysvÄ›tluje lokĂˇlnĂ­ uloĹľenĂ­ dat. 2_2 vyznaÄŤuje obdĂ©lnĂ­k nepĹ™Ă­stupnĂ© zĂłny. Stanice je uvnitĹ™,
+  ovlĂˇdacĂ­ mĂ­sto vnÄ›. DĂ­tÄ› se pĹ™ed stavbou dozvĂ­: servisnĂ­ vedenĂ­ bylo nataĹľenĂ© pĹ™ed zĂˇvalem, dnes
+  se k nÄ›mu pĹ™ipojĂ­ nouzovĂ˝ modul.
+
+**Akce dĂ­tÄ›te:**
+
+PĹ™esune se do domĂˇcĂ­ho â€žterĂ©nuâ€ś, najde oznaÄŤenou nebezpeÄŤnou oblast a na druhĂ© stranÄ› vidĂ­ odeÄŤtovĂ©
+pracoviĹˇtÄ›. PorovnĂˇ situaci s mapou a fotografiĂ­.
+
+**Ăškoly:**
+
+- OvÄ›Ĺ™it, Ĺľe pracoviĹˇtÄ› existuje a je odĹ™Ă­znutĂ© zĂˇvalem.
+- Zjistit, Ĺľe se k nÄ›mu nesmĂ­ vstoupit pÄ›Ĺˇky a poslednĂ­ data jsou dostupnĂˇ pouze lokĂˇlnÄ› na
+  stanoviĹˇti.
+
+**Co je hotovĂ˝ krok:**
+
+DĂ­tÄ› mĂˇ konkrĂ©tnĂ­ problĂ©m: potĹ™ebuje zĂ­skat data ze stanoviĹˇtÄ›, aniĹľ vstoupĂ­ do nebezpeÄŤnĂ© zĂłny.
+
+---
+
+### REPORT 2_Report â€” PĹ™eruĹˇenĂ˝ pĹ™Ă­stup
 
 **Label:** Report
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] Vysílačka
+[Z HRY] VysĂ­laÄŤka
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Nahlásí PAXovi situaci v terénu.
+NahlĂˇsĂ­ PAXovi situaci v terĂ©nu.
 
-**Úkoly:**
+**Ăškoly:**
 
-Potvrdit, že běžný přístup ke stanovišti není bezpečný.
+Potvrdit, Ĺľe bÄ›ĹľnĂ˝ pĹ™Ă­stup ke stanoviĹˇti nenĂ­ bezpeÄŤnĂ˝.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Centrála ví, že je nutné vytvořit jiné řešení.
+CentrĂˇla vĂ­, Ĺľe je nutnĂ© vytvoĹ™it jinĂ© Ĺ™eĹˇenĂ­.
 
 ---
 
-### KROK 3 — Nouzová inspekční lanovka
+### KROK 3 â€” NouzovĂˇ inspekÄŤnĂ­ lanovka
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-- 3_1 Konstrukční sada: dvě nízké základny s úchyty, předinstalované nosné vedení a ovládací
-  smyčka, napínák u Centrály, obrázkový plán
-- 3_2 Servisní modul: skládací vozík se dvěma pojezdovými prvky a širokým čelním suchým zipem pro
-  zachycení kazety
+- 3_1 KonstrukÄŤnĂ­ sada: dvÄ› nĂ­zkĂ© zĂˇkladny s Ăşchyty, pĹ™edinstalovanĂ© nosnĂ© vedenĂ­ a ovlĂˇdacĂ­
+  smyÄŤka, napĂ­nĂˇk u CentrĂˇly, obrĂˇzkovĂ˝ plĂˇn
+- 3_2 ServisnĂ­ modul: sklĂˇdacĂ­ vozĂ­k se dvÄ›ma pojezdovĂ˝mi prvky a ĹˇirokĂ˝m ÄŤelnĂ­m suchĂ˝m zipem pro
+  zachycenĂ­ kazety
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 3_1–3_2 od PAXe, stanice 2_1 s již instalovanou vzdálenou základnou a vedením, 2_2 hranice.
-[Z DOMOVA] stůl nebo rovná plocha. Průvodce před začátkem upevní oba konce; dítě u Centrály sestaví
-vozík, nasadí ho na vedení, připojí ovládací smyčku a nastaví místní napínák.
+[Z HRY] 3_1â€“3_2 od PAXe, stanice 2_1 s jiĹľ instalovanou vzdĂˇlenou zĂˇkladnou a vedenĂ­m, 2_2 hranice.
+[Z DOMOVA] stĹŻl nebo rovnĂˇ plocha. PrĹŻvodce pĹ™ed zaÄŤĂˇtkem upevnĂ­ oba konce; dĂ­tÄ› u CentrĂˇly sestavĂ­
+vozĂ­k, nasadĂ­ ho na vedenĂ­, pĹ™ipojĂ­ ovlĂˇdacĂ­ smyÄŤku a nastavĂ­ mĂ­stnĂ­ napĂ­nĂˇk.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Podle plánu sestaví modul a u bezpečného konce dokončí lanovou dráhu. Smyčkou pohybuje vozíkem
-vpřed i zpět. Při první jízdě zastaví před kazetou, vrátí modul a zkontroluje napnutí a průjezd.
+Podle plĂˇnu sestavĂ­ modul a u bezpeÄŤnĂ©ho konce dokonÄŤĂ­ lanovou drĂˇhu. SmyÄŤkou pohybuje vozĂ­kem
+vpĹ™ed i zpÄ›t. PĹ™i prvnĂ­ jĂ­zdÄ› zastavĂ­ pĹ™ed kazetou, vrĂˇtĂ­ modul a zkontroluje napnutĂ­ a prĹŻjezd.
 
-**Úkoly:**
+**Ăškoly:**
 
 - Sestrojit lanovku.
-- Otestovat její průjezd nad závalem.
-- Vyřešit případné zaseknutí nebo nevhodné napnutí.
-- Dostat servisní modul bezpečně až k odečtovému pracovišti.
+- Otestovat jejĂ­ prĹŻjezd nad zĂˇvalem.
+- VyĹ™eĹˇit pĹ™Ă­padnĂ© zaseknutĂ­ nebo nevhodnĂ© napnutĂ­.
+- Dostat servisnĂ­ modul bezpeÄŤnÄ› aĹľ k odeÄŤtovĂ©mu pracoviĹˇti.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Prázdný modul dojede ke značce před kazetou a vrátí se. Neklesne do zakázané oblasti ani se
-nezasekne. HERO stavba a test cílí na 15–20 minut. Vzdálené zaseknutí řeší dospělý po přerušení
-hry, dítě do zóny nevstupuje.
-
----
-
-### KROK 4 — Získání posledních dat
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-4_1 Datová kazeta s protikusem suchého zipu, získaná ze stanice; obsah zůstává zavřený do kroku 5
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-[Z HRY] otestovaná 3_1, 3_2 a 2_1 stanice. Kazeta 4_1 leží ve vodicím lůžku, protikus suchého zipu
-směrem k modulu. Široké čelo a doraz nastavují stejnou výšku; dosednutím se spojí, tahem zpět se
-kazeta vysune z lůžka.
-
-**Akce dítěte:**
-
-Pošle servisní modul lanovkou ke stanovišti. Modul fyzicky zachytí datovou kazetu a dítě jej stáhne
-zpět.
-
-**Úkoly:**
-
-Získat datovou kazetu bez vstupu do zóny závalu.
-
-**Co je hotový krok:**
-
-Kazeta je fyzicky u dítěte mimo zónu. Automatické zachycení má konkrétní návrh, ale jeho
-spolehlivost je NEOVĚŘENO; před dětským průchodem je nutný prototyp.
+PrĂˇzdnĂ˝ modul dojede ke znaÄŤce pĹ™ed kazetou a vrĂˇtĂ­ se. Neklesne do zakĂˇzanĂ© oblasti ani se
+nezasekne. HERO stavba a test cĂ­lĂ­ na 15â€“20 minut. VzdĂˇlenĂ© zaseknutĂ­ Ĺ™eĹˇĂ­ dospÄ›lĂ˝ po pĹ™eruĹˇenĂ­
+hry, dĂ­tÄ› do zĂłny nevstupuje.
 
 ---
 
-### REPORT 4_Report — Data obnovena
+### KROK 4 â€” ZĂ­skĂˇnĂ­ poslednĂ­ch dat
+
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+4_1 DatovĂˇ kazeta s protikusem suchĂ©ho zipu, zĂ­skanĂˇ ze stanice; obsah zĹŻstĂˇvĂˇ zavĹ™enĂ˝ do kroku 5
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+[Z HRY] otestovanĂˇ 3_1, 3_2 a 2_1 stanice. Kazeta 4_1 leĹľĂ­ ve vodicĂ­m lĹŻĹľku, protikus suchĂ©ho zipu
+smÄ›rem k modulu. Ĺ irokĂ© ÄŤelo a doraz nastavujĂ­ stejnou vĂ˝Ĺˇku; dosednutĂ­m se spojĂ­, tahem zpÄ›t se
+kazeta vysune z lĹŻĹľka.
+
+**Akce dĂ­tÄ›te:**
+
+PoĹˇle servisnĂ­ modul lanovkou ke stanoviĹˇti. Modul fyzicky zachytĂ­ datovou kazetu a dĂ­tÄ› jej stĂˇhne
+zpÄ›t.
+
+**Ăškoly:**
+
+ZĂ­skat datovou kazetu bez vstupu do zĂłny zĂˇvalu.
+
+**Co je hotovĂ˝ krok:**
+
+Kazeta je fyzicky u dĂ­tÄ›te mimo zĂłnu. AutomatickĂ© zachycenĂ­ mĂˇ konkrĂ©tnĂ­ nĂˇvrh, ale jeho
+spolehlivost je NEOVÄšĹENO; pĹ™ed dÄ›tskĂ˝m prĹŻchodem je nutnĂ˝ prototyp.
+
+---
+
+### REPORT 4_Report â€” Data obnovena
 
 **Label:** Report
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-- [Z HRY] Vysílačka
-- [Z HRY] 4_1 Datová kazeta stanoviště
+- [Z HRY] VysĂ­laÄŤka
+- [Z HRY] 4_1 DatovĂˇ kazeta stanoviĹˇtÄ›
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Nahlásí PAXovi, že data získalo.
+NahlĂˇsĂ­ PAXovi, Ĺľe data zĂ­skalo.
 
-**Úkoly:**
+**Ăškoly:**
 
-Potvrdit úspěšné obnovení posledních měření.
+Potvrdit ĂşspÄ›ĹˇnĂ© obnovenĂ­ poslednĂ­ch mÄ›Ĺ™enĂ­.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Centrála může pokračovat ve vyhodnocení.
+CentrĂˇla mĹŻĹľe pokraÄŤovat ve vyhodnocenĂ­.
 
 ---
 
-### KROK 5 — Vyhodnocení měření
+### KROK 5 â€” VyhodnocenĂ­ mÄ›Ĺ™enĂ­
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-5_1 Složená karta měření A–B–C uvnitř kazety 4_1, zpřístupněná jejím otevřením
+5_1 SloĹľenĂˇ karta mÄ›Ĺ™enĂ­ Aâ€“Bâ€“C uvnitĹ™ kazety 4_1, zpĹ™Ă­stupnÄ›nĂˇ jejĂ­m otevĹ™enĂ­m
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 4_1, uvnitř 5_1, 1_2 pole „Měření před závalem“, značicí prostředek. Karta výslovně uvádí
-tři po sobě jdoucí odečty PŘED závalem: A 1–1–1, B 1–1–1, C 1–2–3. Tečky znázorňují modelovou
-úroveň pohybu, ne skutečné fyzikální jednotky. Legenda: rostoucí řada = místo k uzavření a odborné
+[Z HRY] 4_1, uvnitĹ™ 5_1, 1_2 pole â€žMÄ›Ĺ™enĂ­ pĹ™ed zĂˇvalemâ€ś, znaÄŤicĂ­ prostĹ™edek. Karta vĂ˝slovnÄ› uvĂˇdĂ­
+tĹ™i po sobÄ› jdoucĂ­ odeÄŤty PĹED zĂˇvalem: A 1â€“1â€“1, B 1â€“1â€“1, C 1â€“2â€“3. TeÄŤky znĂˇzorĹujĂ­ modelovou
+ĂşroveĹ pohybu, ne skuteÄŤnĂ© fyzikĂˇlnĂ­ jednotky. Legenda: rostoucĂ­ Ĺ™ada = mĂ­sto k uzavĹ™enĂ­ a odbornĂ©
 kontrole.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Otevře kazetu a vyjme záznam. S dospělým přečte symboly A–B–C a pořadí odečtů. V předtištěných
-třech řadách Protokolu vybarví tolik polí, kolik ukazují tečky, a porovná průběhy.
+OtevĹ™e kazetu a vyjme zĂˇznam. S dospÄ›lĂ˝m pĹ™eÄŤte symboly Aâ€“Bâ€“C a poĹ™adĂ­ odeÄŤtĹŻ. V pĹ™edtiĹˇtÄ›nĂ˝ch
+tĹ™ech Ĺ™adĂˇch Protokolu vybarvĂ­ tolik polĂ­, kolik ukazujĂ­ teÄŤky, a porovnĂˇ prĹŻbÄ›hy.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Doplnit jednotlivá měření.
-- Porovnat průběh tří čidel.
-- Najít čidlo, jehož hodnoty postupně rostou.
+- Doplnit jednotlivĂˇ mÄ›Ĺ™enĂ­.
+- Porovnat prĹŻbÄ›h tĹ™Ă­ ÄŤidel.
+- NajĂ­t ÄŤidlo, jehoĹľ hodnoty postupnÄ› rostou.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Dítě prokáže, že pouze hodnoty čidla C soustavně rostly.
+DĂ­tÄ› prokĂˇĹľe, Ĺľe pouze hodnoty ÄŤidla C soustavnÄ› rostly.
 
 ---
 
-### KROK 6 — Zdroj nebezpečí
+### KROK 6 â€” Zdroj nebezpeÄŤĂ­
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-6_1 Značka NESTABILNÍ OBLAST
+6_1 ZnaÄŤka NESTABILNĂŤ OBLAST
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 1_2 vyplněný graf, 5_1 časové zařazení a legenda, 1_3 mapa se sopkou A, stanicí B a svahem
-C, 6_1 značka. Časy před závalem vylučují, že šlo pouze o měření samotného pádu kamenů.
+[Z HRY] 1_2 vyplnÄ›nĂ˝ graf, 5_1 ÄŤasovĂ© zaĹ™azenĂ­ a legenda, 1_3 mapa se sopkou A, stanicĂ­ B a svahem
+C, 6_1 znaÄŤka. ÄŚasy pĹ™ed zĂˇvalem vyluÄŤujĂ­, Ĺľe Ĺˇlo pouze o mÄ›Ĺ™enĂ­ samotnĂ©ho pĂˇdu kamenĹŻ.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Najde na mapě čidla A, B a C a propojí jejich polohu s výsledkem grafu. Označí oblast u C. V poli
-„Doporučení“ označí svah a odbornou kontrolu. Neoznačuje sopku za definitivně bezpečnou ani
-neprohlašuje příčinu otřesů za prokázanou.
+Najde na mapÄ› ÄŤidla A, B a C a propojĂ­ jejich polohu s vĂ˝sledkem grafu. OznaÄŤĂ­ oblast u C. V poli
+â€žDoporuÄŤenĂ­â€ś oznaÄŤĂ­ svah a odbornou kontrolu. NeoznaÄŤuje sopku za definitivnÄ› bezpeÄŤnou ani
+neprohlaĹˇuje pĹ™Ă­ÄŤinu otĹ™esĹŻ za prokĂˇzanou.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Zjistit, kde čidlo C leží.
+- Zjistit, kde ÄŤidlo C leĹľĂ­.
 - Porovnat jeho polohu se sopkou.
-- Označit rizikový skalní svah na mapě.
-- Zapsat závěr do Protokolu M!SE.
+- OznaÄŤit rizikovĂ˝ skalnĂ­ svah na mapÄ›.
+- Zapsat zĂˇvÄ›r do Protokolu M!SE.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Dítě zjistí: A u sopky nevykazuje růst, zatímco C na skalním svahu ano. Data tedy nepodporují
-původní hypotézu o sopce a ukazují na nestabilitu svahu.
+DĂ­tÄ› zjistĂ­: A u sopky nevykazuje rĹŻst, zatĂ­mco C na skalnĂ­m svahu ano. Data tedy nepodporujĂ­
+pĹŻvodnĂ­ hypotĂ©zu o sopce a ukazujĂ­ na nestabilitu svahu.
 
 ---
 
-### REPORT 6_Report — Výsledek průzkumu
+### REPORT 6_Report â€” VĂ˝sledek prĹŻzkumu
 
 **Label:** Report
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-- [Z HRY] Vysílačka
+- [Z HRY] VysĂ­laÄŤka
 - [Z HRY] 1_2 Protokol mise
-- [Z HRY] 1_3 Mapa perimetru Centrály
+- [Z HRY] 1_3 Mapa perimetru CentrĂˇly
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Nahlásí PAXovi, které čidlo vykazovalo rostoucí aktivitu a kde leží.
+NahlĂˇsĂ­ PAXovi, kterĂ© ÄŤidlo vykazovalo rostoucĂ­ aktivitu a kde leĹľĂ­.
 
-**Úkoly:**
+**Ăškoly:**
 
-Sděl Centrále závěr průzkumu a doporučení označit svah jako rizikovou oblast.
+SdÄ›l CentrĂˇle zĂˇvÄ›r prĹŻzkumu a doporuÄŤenĂ­ oznaÄŤit svah jako rizikovou oblast.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Centrála získává podklad k uzavření nebezpečné části perimetru a dalšímu odbornému prověření svahu.
-
----
-
-### KROK 7 — Zajištění perimetru
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-7_1 Značka / pečeť ZÓNA UZAVŘENA
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z HRY] 1_3 Mapa perimetru Centrály
-- [Z HRY] 7_1 Značka / pečeť ZÓNA UZAVŘENA
-- Pokyn PAXe po reportu 6 uzavřít označený svah; 1_2 pole „Zóna uzavřena“.
-
-**Akce dítěte:**
-
-Označí svah C pečetí uzavření, zkontroluje shodu s Protokolem a fyzicky ukáže nebo předá mapu
-průvodci na místě Centrály.
-
-**Úkoly:**
-
-Provést bezpečnostní opatření podle výsledku průzkumu.
-
-**Co je hotový krok:**
-
-Mapa perimetru je aktualizovaná a Centrála ví, kterou část území nemá používat.
+CentrĂˇla zĂ­skĂˇvĂˇ podklad k uzavĹ™enĂ­ nebezpeÄŤnĂ© ÄŤĂˇsti perimetru a dalĹˇĂ­mu odbornĂ©mu provÄ›Ĺ™enĂ­ svahu.
 
 ---
 
-### KROK 8 — Uzavření M!SE
+### KROK 7 â€” ZajiĹˇtÄ›nĂ­ perimetru
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-8_1 Badge KONSTRUKTÉR
+7_1 ZnaÄŤka / peÄŤeĹĄ ZĂ“NA UZAVĹENA
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+- [Z HRY] 1_3 Mapa perimetru CentrĂˇly
+- [Z HRY] 7_1 ZnaÄŤka / peÄŤeĹĄ ZĂ“NA UZAVĹENA
+- Pokyn PAXe po reportu 6 uzavĹ™Ă­t oznaÄŤenĂ˝ svah; 1_2 pole â€žZĂłna uzavĹ™enaâ€ś.
+
+**Akce dĂ­tÄ›te:**
+
+OznaÄŤĂ­ svah C peÄŤetĂ­ uzavĹ™enĂ­, zkontroluje shodu s Protokolem a fyzicky ukĂˇĹľe nebo pĹ™edĂˇ mapu
+prĹŻvodci na mĂ­stÄ› CentrĂˇly.
+
+**Ăškoly:**
+
+ProvĂ©st bezpeÄŤnostnĂ­ opatĹ™enĂ­ podle vĂ˝sledku prĹŻzkumu.
+
+**Co je hotovĂ˝ krok:**
+
+Mapa perimetru je aktualizovanĂˇ a CentrĂˇla vĂ­, kterou ÄŤĂˇst ĂşzemĂ­ nemĂˇ pouĹľĂ­vat.
+
+---
+
+### KROK 8 â€” UzavĹ™enĂ­ M!SE
+
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+8_1 Badge KONSTRUKTĂ‰R
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
 - [Z HRY] 1_2 Protokol mise
-- [Z HRY] 8_1 Badge KONSTRUKTÉR
+- [Z HRY] 8_1 Badge KONSTRUKTĂ‰R
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Dokončí Protokol mise a převezme specializaci.
+DokonÄŤĂ­ Protokol mise a pĹ™evezme specializaci.
 
-**Úkoly:**
+**Ăškoly:**
 
-Uzavřít případ.
+UzavĹ™Ă­t pĹ™Ă­pad.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Centrála má mapu uzavřeného svahu a zachráněná data. Dítě dokončilo Protokol, získalo badge
-KONSTRUKTÉR a ponechá si servisní modul a sestavitelnou lanovku.
+CentrĂˇla mĂˇ mapu uzavĹ™enĂ©ho svahu a zachrĂˇnÄ›nĂˇ data. DĂ­tÄ› dokonÄŤilo Protokol, zĂ­skalo badge
+KONSTRUKTĂ‰R a ponechĂˇ si servisnĂ­ modul a sestavitelnou lanovku.
 
 ---
 
-## 7. Otevřené body kontroly scénáře
+## 7. OtevĹ™enĂ© body kontroly scĂ©nĂˇĹ™e
 
-### 7.1 Fyzické provedení lanovky a získání dat
+### 7.1 FyzickĂ© provedenĂ­ lanovky a zĂ­skĂˇnĂ­ dat
 
-- **Kroky 2–4 — TODO:** upřesnit rozmístění pevných bodů, konstrukční díly, ovládání a návrat modulu tak, aby dítě nemuselo vstoupit do zakázané oblasti ani během stavby a řešení zaseknutí.
-- **Krok 4 — NEOVĚŘENO:** automatické zachycení a vytažení kazety musí projít fyzickým prototypem. Bez něj není hlavní konstrukční mechanismus ověřený.
-- **Kroky 4 → 5 — TODO:** určit, jak se ze získané kazety 4_1 zpřístupní záznam 5_1; musí být zřejmé, že dítě vyhodnocuje právě zachráněná data.
+- **Kroky 2â€“4 â€” TODO:** upĹ™esnit rozmĂ­stÄ›nĂ­ pevnĂ˝ch bodĹŻ, konstrukÄŤnĂ­ dĂ­ly, ovlĂˇdĂˇnĂ­ a nĂˇvrat modulu tak, aby dĂ­tÄ› nemuselo vstoupit do zakĂˇzanĂ© oblasti ani bÄ›hem stavby a Ĺ™eĹˇenĂ­ zaseknutĂ­.
+- **Krok 4 â€” NEOVÄšĹENO:** automatickĂ© zachycenĂ­ a vytaĹľenĂ­ kazety musĂ­ projĂ­t fyzickĂ˝m prototypem. Bez nÄ›j nenĂ­ hlavnĂ­ konstrukÄŤnĂ­ mechanismus ovÄ›Ĺ™enĂ˝.
+- **Kroky 4 â†’ 5 â€” TODO:** urÄŤit, jak se ze zĂ­skanĂ© kazety 4_1 zpĹ™Ă­stupnĂ­ zĂˇznam 5_1; musĂ­ bĂ˝t zĹ™ejmĂ©, Ĺľe dĂ­tÄ› vyhodnocuje prĂˇvÄ› zachrĂˇnÄ›nĂˇ data.
 
-### 7.2 Interpretace měření
+### 7.2 Interpretace mÄ›Ĺ™enĂ­
 
-- **Kroky 5–6 — TODO:** doplnit konkrétní hodnoty A–B–C, jejich časový vztah k závalu a legendu čidel. Ověřit, že rostoucí hodnoty C nejsou pouze následkem samotného závalu.
-- **Krok 6 — NEOVĚŘENO:** dítě potřebuje dostupné vysvětlení, co čidla měří a proč jejich průběh spolu s polohou podporuje závěr o rizikovém svahu. Samotný růst nepojmenované veličiny tento závěr nevysvětluje.
-- Zachovat míru jistoty dodaného scénáře: data nepodporují původní hypotézu a vedou k označení rizika a odbornému prověření; nejde o definitivní odborné potvrzení příčiny otřesů.
+- **Kroky 5â€“6 â€” TODO:** doplnit konkrĂ©tnĂ­ hodnoty Aâ€“Bâ€“C, jejich ÄŤasovĂ˝ vztah k zĂˇvalu a legendu ÄŤidel. OvÄ›Ĺ™it, Ĺľe rostoucĂ­ hodnoty C nejsou pouze nĂˇsledkem samotnĂ©ho zĂˇvalu.
+- **Krok 6 â€” NEOVÄšĹENO:** dĂ­tÄ› potĹ™ebuje dostupnĂ© vysvÄ›tlenĂ­, co ÄŤidla mÄ›Ĺ™Ă­ a proÄŤ jejich prĹŻbÄ›h spolu s polohou podporuje zĂˇvÄ›r o rizikovĂ©m svahu. SamotnĂ˝ rĹŻst nepojmenovanĂ© veliÄŤiny tento zĂˇvÄ›r nevysvÄ›tluje.
+- Zachovat mĂ­ru jistoty dodanĂ©ho scĂ©nĂˇĹ™e: data nepodporujĂ­ pĹŻvodnĂ­ hypotĂ©zu a vedou k oznaÄŤenĂ­ rizika a odbornĂ©mu provÄ›Ĺ™enĂ­; nejde o definitivnĂ­ odbornĂ© potvrzenĂ­ pĹ™Ă­ÄŤiny otĹ™esĹŻ.
 
-### 7.3 Dostupnost informací a dokončení
+### 7.3 Dostupnost informacĂ­ a dokonÄŤenĂ­
 
-- **Krok 1_Report — TODO:** určit předání vysílačky. U zápisů doplnit potřebný psací / značicí prostředek a jeho dostupnost.
-- **Kroky 1, 5, 6 a 8 — TODO:** určit konkrétní pole v Protokolu a podobu práce s grafem a zápisy pro děti 4–5 let.
-- **Krok 2 — TODO:** určit, kde dítě dostane informaci, že data jsou pouze lokální a vstup pěšky není povolen; nestačí, aby to byl pouze požadovaný závěr kroku.
-- **Kroky 6_Report → 7 — TODO:** určit, jak se aktualizace uzavřené zóny dostane k Centrále, aby věděla o výsledku zakreslení.
-- **Krok 8 — TODO:** zdroj končí slovy „Dítě získává“. Doplnit chybějící konec věty; převzetí specializace a badge 8_1 jsou již uvedené v ostatních buňkách.
-- Dodaná označení „Zadání M!SE“, „Protokol M!SE“ a „Bez nového artefaktu“ jsou zachována. TODO — sjednotit názvosloví s globálními pravidly („Zadání mise“, „Protokol mise“, „—“).
+- **Krok 1_Report â€” TODO:** urÄŤit pĹ™edĂˇnĂ­ vysĂ­laÄŤky. U zĂˇpisĹŻ doplnit potĹ™ebnĂ˝ psacĂ­ / znaÄŤicĂ­ prostĹ™edek a jeho dostupnost.
+- **Kroky 1, 5, 6 a 8 â€” TODO:** urÄŤit konkrĂ©tnĂ­ pole v Protokolu a podobu prĂˇce s grafem a zĂˇpisy pro dÄ›ti 4â€“5 let.
+- **Krok 2 â€” TODO:** urÄŤit, kde dĂ­tÄ› dostane informaci, Ĺľe data jsou pouze lokĂˇlnĂ­ a vstup pÄ›Ĺˇky nenĂ­ povolen; nestaÄŤĂ­, aby to byl pouze poĹľadovanĂ˝ zĂˇvÄ›r kroku.
+- **Kroky 6_Report â†’ 7 â€” TODO:** urÄŤit, jak se aktualizace uzavĹ™enĂ© zĂłny dostane k CentrĂˇle, aby vÄ›dÄ›la o vĂ˝sledku zakreslenĂ­.
+- **Krok 8 â€” TODO:** zdroj konÄŤĂ­ slovy â€žDĂ­tÄ› zĂ­skĂˇvĂˇâ€ś. Doplnit chybÄ›jĂ­cĂ­ konec vÄ›ty; pĹ™evzetĂ­ specializace a badge 8_1 jsou jiĹľ uvedenĂ© v ostatnĂ­ch buĹkĂˇch.
+- DodanĂˇ oznaÄŤenĂ­ â€žZadĂˇnĂ­ M!SEâ€ś, â€žProtokol M!SEâ€ś a â€žBez novĂ©ho artefaktuâ€ś jsou zachovĂˇna. TODO â€” sjednotit nĂˇzvoslovĂ­ s globĂˇlnĂ­mi pravidly (â€žZadĂˇnĂ­ miseâ€ś, â€žProtokol miseâ€ś, â€žâ€”â€ś).
+

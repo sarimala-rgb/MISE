@@ -1,602 +1,597 @@
-# 01 — Tajemství dávných obrů
+﻿# 01 â€” TajemstvĂ­ dĂˇvnĂ˝ch obrĹŻ
 
 ---
 
-## 1. Základní údaje o misi
+## 1. ZĂˇkladnĂ­ Ăşdaje o misi
 
-- **Název:** Tajemství dávných obrů
+- **NĂˇzev:** TajemstvĂ­ dĂˇvnĂ˝ch obrĹŻ
 - **Specializace:** Paleontolog
-- **Věk:** 4–5 let
+- **VÄ›k:** 4â€“5 let
 
 ---
 
-## 2. Zadání mise
+## 2. ZadĂˇnĂ­ mise
 
-### 2.1 Název mise
+### 2.1 NĂˇzev mise
 
-Tajemství dávných obrů
+TajemstvĂ­ dĂˇvnĂ˝ch obrĹŻ
 
-### 2.2 Kód mise
+### 2.2 KĂłd mise
 
 DINO-01
 
 ### 2.3 Incident
 
-Při přípravě základů nové pozorovací věže nad zálivem dělníci objevili zkamenělou kost a otisk dinosauří stopy. Práce zastavili. Centrála potřebuje ověřit paleontologické nálezy a rozhodnout, zda věž přesunout.
+PĹ™i pĹ™Ă­pravÄ› zĂˇkladĹŻ novĂ© pozorovacĂ­ vÄ›Ĺľe nad zĂˇlivem dÄ›lnĂ­ci objevili zkamenÄ›lou kost. Ve stejnĂ© oblasti naĹˇli takĂ© otisk dinosauĹ™Ă­ stopy. PrĂˇce okamĹľitÄ› zastavili, aby nĂˇlez nepoĹˇkodili. CentrĂˇla proto vysĂ­lĂˇ dĂ­tÄ› jako terĂ©nnĂ­ho paleontologa. Jeho prvnĂ­m Ăşkolem je zjistit, zda jde o skuteÄŤnĂ© paleontologickĂ© naleziĹˇtÄ›. MusĂ­ takĂ© prozkoumat, zda nĂˇlez pokraÄŤuje mimo pĹŻvodnĂ­ staveniĹˇtÄ›. Teprve potom mĹŻĹľe CentrĂˇla rozhodnout, kde bude vÄ›Ĺľ stĂˇt. DĂ­tÄ› bude porovnĂˇvat vzorky, sklĂˇdat ÄŤĂˇsti kostry a pracovat s mapou okolĂ­. Nakonec doporuÄŤĂ­ mĂ­sto, kterĂ© nabĂ­dne vĂ˝hled na zĂˇliv a zĂˇroveĹ neohrozĂ­ naleziĹˇtÄ›.
 
-### 2.4 Potvrzená fakta
 
-- Věž má umožnit včas pozorovat lodě a nebezpečí v zálivu.
-- Dělníci ohlásili kost a otisk stopy na původním staveništi a pozastavili práce.
-- Mapa uvádí čtyři náhradní místa: Lesní louku, Pobřežní plošinu, Rozcestí a Travnatý vršek.
-- Vhodnost náhradních míst zatím nebyla potvrzena.
+### 2.4 PotvrzenĂˇ fakta
 
-### 2.5 Co zatím nevíme
+- VÄ›Ĺľ mĂˇ umoĹľnit vÄŤas pozorovat lodÄ› a nebezpeÄŤĂ­ v zĂˇlivu.
+- DÄ›lnĂ­ci ohlĂˇsili kost a otisk stopy na pĹŻvodnĂ­m staveniĹˇti a pozastavili prĂˇce.
+- Mapa uvĂˇdĂ­ ÄŤtyĹ™i nĂˇhradnĂ­ mĂ­sta: LesnĂ­ louku, PobĹ™eĹľnĂ­ ploĹˇinu, RozcestĂ­ a TravnatĂ˝ vrĹˇek.
+- Vhodnost nĂˇhradnĂ­ch mĂ­st zatĂ­m nebyla potvrzena.
 
-- Které vykopané předměty jsou skutečné paleontologické nálezy?
-- Ke kterému dinosaurovi patří části kostry?
-- Kde jsou doložené nálezy a která místa je třeba chránit?
-- Které náhradní místo splní podmínky pro věž?
+### 2.5 Co zatĂ­m nevĂ­me
 
-### 2.6 Úkoly mise
+- KterĂ© vykopanĂ© pĹ™edmÄ›ty jsou skuteÄŤnĂ© paleontologickĂ© nĂˇlezy?
+- Ke kterĂ©mu dinosaurovi patĹ™Ă­ ÄŤĂˇsti kostry?
+- Kde jsou doloĹľenĂ© nĂˇlezy a kterĂˇ mĂ­sta je tĹ™eba chrĂˇnit?
+- KterĂ© nĂˇhradnĂ­ mĂ­sto splnĂ­ podmĂ­nky pro vÄ›Ĺľ?
 
-- Prozkoumat vzorky, ověřit nálezy a postupně určit dinosaura.
-- Zdokumentovat původ a výsledek každého vzorku.
-- Posoudit původní staveniště a podle důkazů doporučit místo pro věž.
-- Předat Centrále doporučení k ochraně naleziště.
+### 2.6 Ăškoly mise
 
-Pracovní formulace podle dodaného příběhu; finální text pro dítě zbývá upravit.
+- Prozkoumat vzorky, ovÄ›Ĺ™it nĂˇlezy a postupnÄ› urÄŤit dinosaura.
+- Zdokumentovat pĹŻvod a vĂ˝sledek kaĹľdĂ©ho vzorku.
+- Posoudit pĹŻvodnĂ­ staveniĹˇtÄ› a podle dĹŻkazĹŻ doporuÄŤit mĂ­sto pro vÄ›Ĺľ.
+- PĹ™edat CentrĂˇle doporuÄŤenĂ­ k ochranÄ› naleziĹˇtÄ›.
 
-### 2.7 První pokyn
+PracovnĂ­ formulace podle dodanĂ©ho pĹ™Ă­bÄ›hu; finĂˇlnĂ­ text pro dĂ­tÄ› zbĂ˝vĂˇ upravit.
 
-Najdi na mapě původní staveniště. Potom prozkoumej první označený vzorek, který z něj pochází.
+### 2.7 PrvnĂ­ pokyn
 
----
-
-## 3. Stav
-
-Pracovní rozpis dodaného příběhu: 13 herních kroků a 3 reporty. Kódy artefaktů, rozdělení kroků a názvy polí Protokolu jsou návrhem tohoto rozpisu. Druh dinosaura, důkaz pro Rozcestí a ověřovací podklady Travnatého vršku zatím nejsou určené.
+Najdi na mapÄ› pĹŻvodnĂ­ staveniĹˇtÄ›. Potom prozkoumej prvnĂ­ oznaÄŤenĂ˝ vzorek, kterĂ˝ z nÄ›j pochĂˇzĂ­.
 
 ---
 
-## 4. Potvrzené informace
+zpis dodanĂ©ho pĹ™Ă­bÄ›hu: 13 hernĂ­ch krokĹŻ a 3 reporty. KĂłdy artefaktĹŻ, rozdÄ›lenĂ­ krokĹŻ a nĂˇzvy polĂ­ Protokolu jsou nĂˇvrhem tohoto rozpisu. Druh dinosaura, dĹŻkaz pro RozcestĂ­ a ovÄ›Ĺ™ovacĂ­ podklady TravnatĂ©ho vrĹˇku zatĂ­m nejsou urÄŤenĂ©.
 
-- Používá standardní tabulkový formát projektu M!SE.
-- V kroku 1 dítě dostává také Protokol mise, do kterého si zapisuje průběžná zjištění.
-- První tři artefakty jsou:
-  1. Zadání mise
+---
+
+zapisuje prĹŻbÄ›ĹľnĂˇ zjiĹˇtÄ›nĂ­.
+- PrvnĂ­ tĹ™i artefakty jsou:
+  1. ZadĂˇnĂ­ mise
   2. Protokol mise
-  3. Mapa perimetru centrály
+  3. Mapa perimetru centrĂˇly
 
 ---
 
-## 5. Scénář po krocích
-
-Pro čtení používej tento přepis. Hlavním zdrojem je [tabulka scénáře](SCENAR-TABULKA.md).
-Čísla kroků označují herní pořadí; reporty zůstávají navázané na příslušný krok.
+zdrojem je [tabulka scĂ©nĂˇĹ™e](SCENAR-TABULKA.md).
+ÄŚĂ­sla krokĹŻ oznaÄŤujĂ­ hernĂ­ poĹ™adĂ­; reporty zĹŻstĂˇvajĂ­ navĂˇzanĂ© na pĹ™Ă­sluĹˇnĂ˝ krok.
 
 ---
 
-### KROK 1 — Předání mise
+### KROK 1 â€” PĹ™edĂˇnĂ­ mise
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-- 1_1 Zadání mise
+- 1_1 ZadĂˇnĂ­ mise
 - 1_2 Protokol mise
-- 1_3 Mapa perimetru centrály se značkou věže
-- 1_4 Vysílačka
-- 1_5 Psací / značicí prostředek
+- 1_3 Mapa perimetru centrĂˇly se znaÄŤkou vÄ›Ĺľe
+- 1_4 VysĂ­laÄŤka
+- 1_5 PsacĂ­ / znaÄŤicĂ­ prostĹ™edek
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 1_1–1_5; mapa s pěti místy a legendou. Zadání má čtyři obrázkové kontroly: mimo označená
-místa nálezů, místo nad nejvyšší zaznamenanou vodou, volný výhled na záliv, vyhlídka nad červenou
-výškovou čárou stavebního plánu. Jde o doporučení k dalšímu stavebnímu prověření.
+[Z HRY] 1_1â€“1_5; mapa s pÄ›ti mĂ­sty a legendou. ZadĂˇnĂ­ mĂˇ ÄŤtyĹ™i obrĂˇzkovĂ© kontroly: mimo oznaÄŤenĂˇ
+mĂ­sta nĂˇlezĹŻ, mĂ­sto nad nejvyĹˇĹˇĂ­ zaznamenanou vodou, volnĂ˝ vĂ˝hled na zĂˇliv, vyhlĂ­dka nad ÄŤervenou
+vĂ˝Ĺˇkovou ÄŤĂˇrou stavebnĂ­ho plĂˇnu. Jde o doporuÄŤenĂ­ k dalĹˇĂ­mu stavebnĂ­mu provÄ›Ĺ™enĂ­.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Prohlédne zadání a mapu. Najde původní staveniště a čtyři kandidáty. Seznámí se s účelem věže a
-důvodem zastavení prací.
+ProhlĂ©dne zadĂˇnĂ­ a mapu. Najde pĹŻvodnĂ­ staveniĹˇtÄ› a ÄŤtyĹ™i kandidĂˇty. SeznĂˇmĂ­ se s ĂşÄŤelem vÄ›Ĺľe a
+dĹŻvodem zastavenĂ­ pracĂ­.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Zjisti, proč dělníci zastavili práci.
-- Najdi na mapě staveniště a náhradní místa.
-- Zjisti, co musíš pro Centrálu ověřit.
+- Zjisti, proÄŤ dÄ›lnĂ­ci zastavili prĂˇci.
+- Najdi na mapÄ› staveniĹˇtÄ› a nĂˇhradnĂ­ mĂ­sta.
+- Zjisti, co musĂ­Ĺˇ pro CentrĂˇlu ovÄ›Ĺ™it.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Dítě zná problém a cíl: prozkoumat nálezy a podle důkazů doporučit místo pro věž. Žádný kandidát
-zatím není potvrzený.
-
----
-
-### KROK 2 — První paleontologický výkop
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-- 2_1 První sádrový blok ze staveniště: trup, pánev a čtyři končetiny zjednodušeného modelu
-- 2_2 Výkopová sada: tupá špachtle, štětec, pracovní podložka, dvě označené odkládací misky a
-  úložná podložka kostry
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-[Z HRY] 2_1–2_2, 1_2 pole „Vzorek ze staveniště“, 1_3 a 1_5. Dospělý předvede jemné odhrnování;
-dítě odkrývá a čistí, dospělý pomůže u pevnějšího místa. Díly ukládá do misky se symbolem
-staveniště.
-
-**Akce dítěte:**
-
-Opatrně odkrývá první blok. Vyjme části kostry a drží je pohromadě jako nález ze staveniště. V
-Protokolu označí původ vzorku a vyjmuté části.
-
-**Úkoly:**
-
-- Odkryj části bez poškození.
-- Označ v Protokolu, odkud tento vzorek pochází.
-
-**Co je hotový krok:**
-
-Části z prvního bloku jsou vyjmuté a přiřazené ke staveništi; lze je porovnávat a skládat.
+DĂ­tÄ› znĂˇ problĂ©m a cĂ­l: prozkoumat nĂˇlezy a podle dĹŻkazĹŻ doporuÄŤit mĂ­sto pro vÄ›Ĺľ. Ĺ˝ĂˇdnĂ˝ kandidĂˇt
+zatĂ­m nenĂ­ potvrzenĂ˝.
 
 ---
 
-### KROK 3 — První hypotéza o dinosaurovi
+### KROK 2 â€” PrvnĂ­ paleontologickĂ˝ vĂ˝kop
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-3_1 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus,
-Ankylosaurus; sestavovací podklad ke každé možnosti
+- 2_1 PrvnĂ­ sĂˇdrovĂ˝ blok ze staveniĹˇtÄ›: trup, pĂˇnev a ÄŤtyĹ™i konÄŤetiny zjednoduĹˇenĂ©ho modelu
+- 2_2 VĂ˝kopovĂˇ sada: tupĂˇ Ĺˇpachtle, ĹˇtÄ›tec, pracovnĂ­ podloĹľka, dvÄ› oznaÄŤenĂ© odklĂˇdacĂ­ misky a
+  ĂşloĹľnĂˇ podloĹľka kostry
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 3_1, části z 2_1, 1_2 pole „Pracovní určení“, 1_5. Dítě porovnává přímo obrysy modelových
-dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání
-úplnému ověření.
+[Z HRY] 2_1â€“2_2, 1_2 pole â€žVzorek ze staveniĹˇtÄ›â€ś, 1_3 a 1_5. DospÄ›lĂ˝ pĹ™edvede jemnĂ© odhrnovĂˇnĂ­;
+dĂ­tÄ› odkrĂ˝vĂˇ a ÄŤistĂ­, dospÄ›lĂ˝ pomĹŻĹľe u pevnÄ›jĹˇĂ­ho mĂ­sta. DĂ­ly uklĂˇdĂˇ do misky se symbolem
+staveniĹˇtÄ›.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Porovná kosti s obrázky. Začne je skládat a vybere pravděpodobného dinosaura. V Protokolu označí
-volbu jako předběžnou.
+OpatrnÄ› odkrĂ˝vĂˇ prvnĂ­ blok. Vyjme ÄŤĂˇsti kostry a drĹľĂ­ je pohromadÄ› jako nĂˇlez ze staveniĹˇtÄ›. V
+Protokolu oznaÄŤĂ­ pĹŻvod vzorku a vyjmutĂ© ÄŤĂˇsti.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Porovnej nález s atlasem.
-- Sestav části, které už máš.
-- Označ pracovní určení; kostra ještě není úplná.
+- Odkryj ÄŤĂˇsti bez poĹˇkozenĂ­.
+- OznaÄŤ v Protokolu, odkud tento vzorek pochĂˇzĂ­.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Dítě označí předběžnou možnost nebo dvě dosud možné varianty. Žádná z možností se nepotvrdí jen
-slovem PAXe; čeká se na chybějící díly.
-
----
-
-### KROK 4 — Ověření druhého vzorku
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-- 4_1 Druhý blok z bodu u staveniště: velké plastové kolečko ze stavebního modelu
-- 4_2 Karta s fotografií stejného kolečka na dělnickém modelu vozíku; šipky ukazují otvor pro osu a
-  pravidelný vroubkovaný okraj
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-[Z HRY] 4_1–4_2, 2_2, nález z 2_1, 3_1, 1_2 pole „Porovnání vzorků“ a 1_5. Karta vysvětluje: toto
-kolečko patří k novodobému vozíku. Nejde o obecné pravidlo, že vše odlišné od kostí je falešné.
-
-**Akce dítěte:**
-
-Odkryje druhý blok. Porovná předmět s kostmi a ověřovacím podkladem. Označí jeden skutečný nález a
-jeden vyloučený předmět, odděleně podle původu.
-
-**Úkoly:**
-
-- Prověř i druhý nález.
-- Ukaž, podle čeho předmět vylučuješ.
-- Do Protokolu označ výsledek obou vzorků.
-
-**Co je hotový krok:**
-
-Dítě ukáže shodu kolečka s doloženým předmětem na kartě, označí druhý vzorek jako novodobý předmět
-a první jako paleontologický nález. Rozhodnutí nestojí pouze na materiálu.
+ÄŚĂˇsti z prvnĂ­ho bloku jsou vyjmutĂ© a pĹ™iĹ™azenĂ© ke staveniĹˇti; lze je porovnĂˇvat a sklĂˇdat.
 
 ---
 
-### KROK 5 — Posouzení původního staveniště
+### KROK 3 â€” PrvnĂ­ hypotĂ©za o dinosaurovi
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-- 5_1 Fotografie původní zkamenělé kosti
-- 5_2 Fotografie původního otisku dinosauří stopy
+3_1 Atlas pÄ›ti zjednoduĹˇenĂ˝ch koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus,
+Ankylosaurus; sestavovacĂ­ podklad ke kaĹľdĂ© moĹľnosti
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 5_1–5_2 jsou fotografie dělníků se symbolem staveniště a dvěma odlišnými body nálezu v
-mapě; 5_1 zachycuje kost před odebráním bloku 2_1, 5_2 stopu ponechanou na místě. Dítě páruje
-symbol původu, nikoli druh podle stopy. Dále výsledky 2–4, 1_1–1_3 a 1_5.
+[Z HRY] 3_1, ÄŤĂˇsti z 2_1, 1_2 pole â€žPracovnĂ­ urÄŤenĂ­â€ś, 1_5. DĂ­tÄ› porovnĂˇvĂˇ pĹ™Ă­mo obrysy modelovĂ˝ch
+dĂ­lĹŻ s obrĂˇzky, nemusĂ­ znĂˇt anatomii ani nĂˇzvy. DospÄ›lĂ˝ je pĹ™eÄŤte. ChybÄ›jĂ­cĂ­ hlava a ocas brĂˇnĂ­
+ĂşplnĂ©mu ovÄ›Ĺ™enĂ­.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Porovná fotografie a výsledky výkopů. Rozliší potvrzené nálezy od vyloučeného předmětu. Zaznamená,
-že pokračování stavby na původním místě ohrožuje zkameněliny.
+PorovnĂˇ kosti s obrĂˇzky. ZaÄŤne je sklĂˇdat a vybere pravdÄ›podobnĂ©ho dinosaura. V Protokolu oznaÄŤĂ­
+volbu jako pĹ™edbÄ›Ĺľnou.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Urči, které důkazy potvrzují paleontologické nálezy na staveništi.
-- Označ původní místo jako nevhodné pro stavbu.
+- Porovnej nĂˇlez s atlasem.
+- Sestav ÄŤĂˇsti, kterĂ© uĹľ mĂˇĹˇ.
+- OznaÄŤ pracovnĂ­ urÄŤenĂ­; kostra jeĹˇtÄ› nenĂ­ ĂşplnĂˇ.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Protokol a mapa zachycují doložené nálezy na staveništi a důvod nepokračovat ve stavbě. Vyloučený
-předmět skutečné nálezy neruší.
+DĂ­tÄ› oznaÄŤĂ­ pĹ™edbÄ›Ĺľnou moĹľnost nebo dvÄ› dosud moĹľnĂ© varianty. Ĺ˝ĂˇdnĂˇ z moĹľnostĂ­ se nepotvrdĂ­ jen
+slovem PAXe; ÄŤekĂˇ se na chybÄ›jĂ­cĂ­ dĂ­ly.
 
 ---
 
-### REPORT 5_Report — Naleziště místo staveniště
+### KROK 4 â€” OvÄ›Ĺ™enĂ­ druhĂ©ho vzorku
+
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+- 4_1 DruhĂ˝ blok z bodu u staveniĹˇtÄ›: velkĂ© plastovĂ© koleÄŤko ze stavebnĂ­ho modelu
+- 4_2 Karta s fotografiĂ­ stejnĂ©ho koleÄŤka na dÄ›lnickĂ©m modelu vozĂ­ku; Ĺˇipky ukazujĂ­ otvor pro osu a
+  pravidelnĂ˝ vroubkovanĂ˝ okraj
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+[Z HRY] 4_1â€“4_2, 2_2, nĂˇlez z 2_1, 3_1, 1_2 pole â€žPorovnĂˇnĂ­ vzorkĹŻâ€ś a 1_5. Karta vysvÄ›tluje: toto
+koleÄŤko patĹ™Ă­ k novodobĂ©mu vozĂ­ku. Nejde o obecnĂ© pravidlo, Ĺľe vĹˇe odliĹˇnĂ© od kostĂ­ je faleĹˇnĂ©.
+
+**Akce dĂ­tÄ›te:**
+
+Odkryje druhĂ˝ blok. PorovnĂˇ pĹ™edmÄ›t s kostmi a ovÄ›Ĺ™ovacĂ­m podkladem. OznaÄŤĂ­ jeden skuteÄŤnĂ˝ nĂˇlez a
+jeden vylouÄŤenĂ˝ pĹ™edmÄ›t, oddÄ›lenÄ› podle pĹŻvodu.
+
+**Ăškoly:**
+
+- ProvÄ›Ĺ™ i druhĂ˝ nĂˇlez.
+- UkaĹľ, podle ÄŤeho pĹ™edmÄ›t vyluÄŤujeĹˇ.
+- Do Protokolu oznaÄŤ vĂ˝sledek obou vzorkĹŻ.
+
+**Co je hotovĂ˝ krok:**
+
+DĂ­tÄ› ukĂˇĹľe shodu koleÄŤka s doloĹľenĂ˝m pĹ™edmÄ›tem na kartÄ›, oznaÄŤĂ­ druhĂ˝ vzorek jako novodobĂ˝ pĹ™edmÄ›t
+a prvnĂ­ jako paleontologickĂ˝ nĂˇlez. RozhodnutĂ­ nestojĂ­ pouze na materiĂˇlu.
+
+---
+
+### KROK 5 â€” PosouzenĂ­ pĹŻvodnĂ­ho staveniĹˇtÄ›
+
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+- 5_1 Fotografie pĹŻvodnĂ­ zkamenÄ›lĂ© kosti
+- 5_2 Fotografie pĹŻvodnĂ­ho otisku dinosauĹ™Ă­ stopy
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+[Z HRY] 5_1â€“5_2 jsou fotografie dÄ›lnĂ­kĹŻ se symbolem staveniĹˇtÄ› a dvÄ›ma odliĹˇnĂ˝mi body nĂˇlezu v
+mapÄ›; 5_1 zachycuje kost pĹ™ed odebrĂˇnĂ­m bloku 2_1, 5_2 stopu ponechanou na mĂ­stÄ›. DĂ­tÄ› pĂˇruje
+symbol pĹŻvodu, nikoli druh podle stopy. DĂˇle vĂ˝sledky 2â€“4, 1_1â€“1_3 a 1_5.
+
+**Akce dĂ­tÄ›te:**
+
+PorovnĂˇ fotografie a vĂ˝sledky vĂ˝kopĹŻ. RozliĹˇĂ­ potvrzenĂ© nĂˇlezy od vylouÄŤenĂ©ho pĹ™edmÄ›tu. ZaznamenĂˇ,
+Ĺľe pokraÄŤovĂˇnĂ­ stavby na pĹŻvodnĂ­m mĂ­stÄ› ohroĹľuje zkamenÄ›liny.
+
+**Ăškoly:**
+
+- UrÄŤi, kterĂ© dĹŻkazy potvrzujĂ­ paleontologickĂ© nĂˇlezy na staveniĹˇti.
+- OznaÄŤ pĹŻvodnĂ­ mĂ­sto jako nevhodnĂ© pro stavbu.
+
+**Co je hotovĂ˝ krok:**
+
+Protokol a mapa zachycujĂ­ doloĹľenĂ© nĂˇlezy na staveniĹˇti a dĹŻvod nepokraÄŤovat ve stavbÄ›. VylouÄŤenĂ˝
+pĹ™edmÄ›t skuteÄŤnĂ© nĂˇlezy neruĹˇĂ­.
+
+---
+
+### REPORT 5_Report â€” NaleziĹˇtÄ› mĂ­sto staveniĹˇtÄ›
 
 **Label:** Report
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 1_4 vysílačka; 1_2 Protokol a 1_3 mapa; závěr kroku 5
+[Z HRY] 1_4 vysĂ­laÄŤka; 1_2 Protokol a 1_3 mapa; zĂˇvÄ›r kroku 5
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Oznámí PAXovi skutečné nálezy a riziko jejich poškození. PAX potvrdí zastavení stavby a povolí
-hledání náhradního místa.
+OznĂˇmĂ­ PAXovi skuteÄŤnĂ© nĂˇlezy a riziko jejich poĹˇkozenĂ­. PAX potvrdĂ­ zastavenĂ­ stavby a povolĂ­
+hledĂˇnĂ­ nĂˇhradnĂ­ho mĂ­sta.
 
-**Úkoly:**
+**Ăškoly:**
 
-Nahlas nálezy a vysvětli, proč se zde nesmí pokračovat ve stavbě.
+Nahlas nĂˇlezy a vysvÄ›tli, proÄŤ se zde nesmĂ­ pokraÄŤovat ve stavbÄ›.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-PAX zná důkazy; zastavení stavby a povolení hledání jsou předané jako vstup kroku 6.
+PAX znĂˇ dĹŻkazy; zastavenĂ­ stavby a povolenĂ­ hledĂˇnĂ­ jsou pĹ™edanĂ© jako vstup kroku 6.
 
 ---
 
-### KROK 6 — Vyřazení louky a pobřeží
+### KROK 6 â€” VyĹ™azenĂ­ louky a pobĹ™eĹľĂ­
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-- 6_1 Fotografie výhledu z Lesní louky
-- 6_2 Fotografie Pobřežní plošiny při nižší vodě
-- 6_3 Fotografie stejné plošiny při vysoké vodě
+- 6_1 Fotografie vĂ˝hledu z LesnĂ­ louky
+- 6_2 Fotografie PobĹ™eĹľnĂ­ ploĹˇiny pĹ™i niĹľĹˇĂ­ vodÄ›
+- 6_3 Fotografie stejnĂ© ploĹˇiny pĹ™i vysokĂ© vodÄ›
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-- [Z HRY] dokumentace 6_1–6_3 od Centrály; 1_1 požadavky věže; 1_3 mapa; 1_2 Protokol, pole
-  „Náhradní místa“; 1_5 značicí prostředek
-- Povolení PAXe po 5_Report hledat jiné místo; fotografie umožňují poznat stejné místo a změnu
+- [Z HRY] dokumentace 6_1â€“6_3 od CentrĂˇly; 1_1 poĹľadavky vÄ›Ĺľe; 1_3 mapa; 1_2 Protokol, pole
+  â€žNĂˇhradnĂ­ mĂ­staâ€ś; 1_5 znaÄŤicĂ­ prostĹ™edek
+- PovolenĂ­ PAXe po 5_Report hledat jinĂ© mĂ­sto; fotografie umoĹľĹujĂ­ poznat stejnĂ© mĂ­sto a zmÄ›nu
   hladiny.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Na louce rozpozná stromy zakrývající záliv. Porovná dva stavy vody na plošině. Obě místa vyřadí na
-mapě a k výsledkům v Protokolu přiřadí důvody.
+Na louce rozpoznĂˇ stromy zakrĂ˝vajĂ­cĂ­ zĂˇliv. PorovnĂˇ dva stavy vody na ploĹˇinÄ›. ObÄ› mĂ­sta vyĹ™adĂ­ na
+mapÄ› a k vĂ˝sledkĹŻm v Protokolu pĹ™iĹ™adĂ­ dĹŻvody.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Zkontroluj výhled z louky.
-- Porovnej oba snímky plošiny.
-- Vyřaď nevhodná místa a ukaž důkazy.
+- Zkontroluj vĂ˝hled z louky.
+- Porovnej oba snĂ­mky ploĹˇiny.
+- VyĹ™aÄŹ nevhodnĂˇ mĂ­sta a ukaĹľ dĹŻkazy.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Lesní louka je vyřazená kvůli výhledu, Pobřežní plošina kvůli zaplavování. Rozcestí a Travnatý
-vršek zůstávají neověřené.
-
----
-
-### KROK 7 — Pátrání po vzorku na Rozcestí
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-- 7_1 Předávací lístek dělníků: na Rozcestí odebrali vzorek R z přípravy alternativního místa,
-  uzavřeli ho a ponechali u místní značky; připojený snímek vzorku R u značky Rozcestí
-- 7_2 Třetí sádrový blok R se symbolem Rozcestí; uvnitř hlava a ocas modelu
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-[Z HRY] 7_1 doručí PAX po kontrole stavební evidence; 1_3 má symbol Rozcestí. Tentýž symbol je na
-instalační značce a vzorku R. Lístek doloží existenci a původ vzorku, nikoli předem jeho obsah.
-[PŘÍPRAVA] Průvodce položí blok do úkrytu vedle značky Rozcestí.
-
-**Akce dítěte:**
-
-Prozkoumá nový podklad. Podle symbolu na mapě určí odpovídající domácí místo a najde třetí blok.
-Zkontroluje jeho původ.
-
-**Úkoly:**
-
-- Zjisti, kde zůstal neprozkoumaný vzorek.
-- Najdi ho podle mapy a přiřaď k Rozcestí.
-
-**Co je hotový krok:**
-
-Dítě najde blok R a ověří shodu značky, symbolu na mapě a předávacího lístku. Obsah zatím není
-známý.
+LesnĂ­ louka je vyĹ™azenĂˇ kvĹŻli vĂ˝hledu, PobĹ™eĹľnĂ­ ploĹˇina kvĹŻli zaplavovĂˇnĂ­. RozcestĂ­ a TravnatĂ˝
+vrĹˇek zĹŻstĂˇvajĂ­ neovÄ›Ĺ™enĂ©.
 
 ---
 
-### KROK 8 — Výkop z Rozcestí
+### KROK 7 â€” PĂˇtrĂˇnĂ­ po vzorku na RozcestĂ­
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+- 7_1 PĹ™edĂˇvacĂ­ lĂ­stek dÄ›lnĂ­kĹŻ: na RozcestĂ­ odebrali vzorek R z pĹ™Ă­pravy alternativnĂ­ho mĂ­sta,
+  uzavĹ™eli ho a ponechali u mĂ­stnĂ­ znaÄŤky; pĹ™ipojenĂ˝ snĂ­mek vzorku R u znaÄŤky RozcestĂ­
+- 7_2 TĹ™etĂ­ sĂˇdrovĂ˝ blok R se symbolem RozcestĂ­; uvnitĹ™ hlava a ocas modelu
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-- [Z HRY] 7_2 třetí blok; 2_2 nástroje; 1_2 Protokol, pole „Vzorek z Rozcestí“; 1_5 značicí
-  prostředek
-- [Z DOMOVA] pracovní plocha
+[Z HRY] 7_1 doruÄŤĂ­ PAX po kontrole stavebnĂ­ evidence; 1_3 mĂˇ symbol RozcestĂ­. TentĂ˝Ĺľ symbol je na
+instalaÄŤnĂ­ znaÄŤce a vzorku R. LĂ­stek doloĹľĂ­ existenci a pĹŻvod vzorku, nikoli pĹ™edem jeho obsah.
+[PĹĂŤPRAVA] PrĹŻvodce poloĹľĂ­ blok do Ăşkrytu vedle znaÄŤky RozcestĂ­.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Opatrně vykope další části kostry. Než je přidá k prvnímu nálezu, zaznamená, že pocházejí z
-Rozcestí.
+ProzkoumĂˇ novĂ˝ podklad. Podle symbolu na mapÄ› urÄŤĂ­ odpovĂ­dajĂ­cĂ­ domĂˇcĂ­ mĂ­sto a najde tĹ™etĂ­ blok.
+Zkontroluje jeho pĹŻvod.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Odkryj další kosti.
-- Označ jejich původ v Protokolu.
+- Zjisti, kde zĹŻstal neprozkoumanĂ˝ vzorek.
+- Najdi ho podle mapy a pĹ™iĹ™aÄŹ k RozcestĂ­.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Nové části jsou vyjmuté a zdokumentované jako nález z Rozcestí.
+DĂ­tÄ› najde blok R a ovÄ›Ĺ™Ă­ shodu znaÄŤky, symbolu na mapÄ› a pĹ™edĂˇvacĂ­ho lĂ­stku. Obsah zatĂ­m nenĂ­
+znĂˇmĂ˝.
 
 ---
 
-### KROK 9 — Dokončení kostry a potvrzení určení
+### KROK 8 â€” VĂ˝kop z RozcestĂ­
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] díly z 2_1 a 7_2, 3_1 atlas, 1_2 pole „Potvrzené určení“, 1_5. Hlava modelu se třemi rohy a
-límcem spolu s kompletním obrysem odpovídá kartě Triceratops. Model tvoří osm velkých dílů; jeho
-přesná anatomická a výrobní podoba čeká na kontrolu před výrobou.
+- [Z HRY] 7_2 tĹ™etĂ­ blok; 2_2 nĂˇstroje; 1_2 Protokol, pole â€žVzorek z RozcestĂ­â€ś; 1_5 znaÄŤicĂ­
+  prostĹ™edek
+- [Z DOMOVA] pracovnĂ­ plocha
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Připojí nové části k prvnímu nálezu. Dokončí kostru podle atlasu, porovná ji s pěti možnostmi a
-ověří původní hypotézu. Označí potvrzené určení.
+OpatrnÄ› vykope dalĹˇĂ­ ÄŤĂˇsti kostry. NeĹľ je pĹ™idĂˇ k prvnĂ­mu nĂˇlezu, zaznamenĂˇ, Ĺľe pochĂˇzejĂ­ z
+RozcestĂ­.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Dokonči kostru.
+- Odkryj dalĹˇĂ­ kosti.
+- OznaÄŤ jejich pĹŻvod v Protokolu.
+
+**Co je hotovĂ˝ krok:**
+
+NovĂ© ÄŤĂˇsti jsou vyjmutĂ© a zdokumentovanĂ© jako nĂˇlez z RozcestĂ­.
+
+---
+
+### KROK 9 â€” DokonÄŤenĂ­ kostry a potvrzenĂ­ urÄŤenĂ­
+
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+â€”
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+[Z HRY] dĂ­ly z 2_1 a 7_2, 3_1 atlas, 1_2 pole â€žPotvrzenĂ© urÄŤenĂ­â€ś, 1_5. Hlava modelu se tĹ™emi rohy a
+lĂ­mcem spolu s kompletnĂ­m obrysem odpovĂ­dĂˇ kartÄ› Triceratops. Model tvoĹ™Ă­ osm velkĂ˝ch dĂ­lĹŻ; jeho
+pĹ™esnĂˇ anatomickĂˇ a vĂ˝robnĂ­ podoba ÄŤekĂˇ na kontrolu pĹ™ed vĂ˝robou.
+
+**Akce dĂ­tÄ›te:**
+
+PĹ™ipojĂ­ novĂ© ÄŤĂˇsti k prvnĂ­mu nĂˇlezu. DokonÄŤĂ­ kostru podle atlasu, porovnĂˇ ji s pÄ›ti moĹľnostmi a
+ovÄ›Ĺ™Ă­ pĹŻvodnĂ­ hypotĂ©zu. OznaÄŤĂ­ potvrzenĂ© urÄŤenĂ­.
+
+**Ăškoly:**
+
+- DokonÄŤi kostru.
 - Porovnej ji s atlasem.
-- Potvrď určení podle úplné rekonstrukce; pokud první volba nesedí, oprav ji podle nálezu.
+- PotvrÄŹ urÄŤenĂ­ podle ĂşplnĂ© rekonstrukce; pokud prvnĂ­ volba nesedĂ­, oprav ji podle nĂˇlezu.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Úplná kostra odpovídá jedné možnosti v atlasu. Protokol odlišuje původní hypotézu od výsledného
-určení.
-
----
-
-### KROK 10 — Ochrana obou míst nálezu
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-—
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-[Z HRY] zdokumentované původy obou skutečných nálezů v 1_2; dokončená kostra; 1_3 mapa; 1_5 značicí
-prostředek; požadavek ochrany nálezů z 1_1
-
-**Akce dítěte:**
-
-Na mapě označí původní staveniště i Rozcestí jako místa určená k ochraně pro výzkum. Rozcestí
-vyřadí jako kandidáta pro věž.
-
-**Úkoly:**
-
-- Ukaž obě místa skutečných nálezů.
-- Označ je k ochraně.
-- Vyřaď Rozcestí ze stavebních možností.
-
-**Co je hotový krok:**
-
-V mapě jsou dva doložené body nálezů označené k ochraně a Rozcestí je vyřazeno. Dítě nekreslí
-hranici mezi body; rozsah ochranného území určí další odborný průzkum. Sestavitelný herní model
-není důkazem, že kosti patří jedinému jedinci.
+ĂšplnĂˇ kostra odpovĂ­dĂˇ jednĂ© moĹľnosti v atlasu. Protokol odliĹˇuje pĹŻvodnĂ­ hypotĂ©zu od vĂ˝slednĂ©ho
+urÄŤenĂ­.
 
 ---
 
-### REPORT 10_Report — Nález zasahuje k Rozcestí
+### KROK 10 â€” Ochrana obou mĂ­st nĂˇlezu
+
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+â€”
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+[Z HRY] zdokumentovanĂ© pĹŻvody obou skuteÄŤnĂ˝ch nĂˇlezĹŻ v 1_2; dokonÄŤenĂˇ kostra; 1_3 mapa; 1_5 znaÄŤicĂ­
+prostĹ™edek; poĹľadavek ochrany nĂˇlezĹŻ z 1_1
+
+**Akce dĂ­tÄ›te:**
+
+Na mapÄ› oznaÄŤĂ­ pĹŻvodnĂ­ staveniĹˇtÄ› i RozcestĂ­ jako mĂ­sta urÄŤenĂˇ k ochranÄ› pro vĂ˝zkum. RozcestĂ­
+vyĹ™adĂ­ jako kandidĂˇta pro vÄ›Ĺľ.
+
+**Ăškoly:**
+
+- UkaĹľ obÄ› mĂ­sta skuteÄŤnĂ˝ch nĂˇlezĹŻ.
+- OznaÄŤ je k ochranÄ›.
+- VyĹ™aÄŹ RozcestĂ­ ze stavebnĂ­ch moĹľnostĂ­.
+
+**Co je hotovĂ˝ krok:**
+
+V mapÄ› jsou dva doloĹľenĂ© body nĂˇlezĹŻ oznaÄŤenĂ© k ochranÄ› a RozcestĂ­ je vyĹ™azeno. DĂ­tÄ› nekreslĂ­
+hranici mezi body; rozsah ochrannĂ©ho ĂşzemĂ­ urÄŤĂ­ dalĹˇĂ­ odbornĂ˝ prĹŻzkum. SestavitelnĂ˝ hernĂ­ model
+nenĂ­ dĹŻkazem, Ĺľe kosti patĹ™Ă­ jedinĂ©mu jedinci.
+
+---
+
+### REPORT 10_Report â€” NĂˇlez zasahuje k RozcestĂ­
 
 **Label:** Report
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 1_4 vysílačka; 1_2 Protokol; 1_3 mapa; úplná kostra
+[Z HRY] 1_4 vysĂ­laÄŤka; 1_2 Protokol; 1_3 mapa; ĂşplnĂˇ kostra
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Nahlásí PAXovi dokončenou rekonstrukci a nález z Rozcestí. Vysvětlí, proč musí být chráněny oba
-body a Rozcestí není vhodné pro věž.
+NahlĂˇsĂ­ PAXovi dokonÄŤenou rekonstrukci a nĂˇlez z RozcestĂ­. VysvÄ›tlĂ­, proÄŤ musĂ­ bĂ˝t chrĂˇnÄ›ny oba
+body a RozcestĂ­ nenĂ­ vhodnĂ© pro vÄ›Ĺľ.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Nahlas potvrzené určení a původ nových kostí.
-- Ukaž, která dvě místa je nutné chránit.
+- Nahlas potvrzenĂ© urÄŤenĂ­ a pĹŻvod novĂ˝ch kostĂ­.
+- UkaĹľ, kterĂˇ dvÄ› mĂ­sta je nutnĂ© chrĂˇnit.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Centrála zná nový nález a podklad pro ochranu původního staveniště i Rozcestí.
+CentrĂˇla znĂˇ novĂ˝ nĂˇlez a podklad pro ochranu pĹŻvodnĂ­ho staveniĹˇtÄ› i RozcestĂ­.
 
 ---
 
-### KROK 11 — Ověření Travnatého vršku
+### KROK 11 â€” OvÄ›Ĺ™enĂ­ TravnatĂ©ho vrĹˇku
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-11_1 Stavební karta Travnatého vršku od Centrály: panoramatický snímek volného zálivu, boční profil
-s nejvyšší zaznamenanou hladinou a minimální výškovou čárou věže, výřez mapy s oběma místy nálezů
+11_1 StavebnĂ­ karta TravnatĂ©ho vrĹˇku od CentrĂˇly: panoramatickĂ˝ snĂ­mek volnĂ©ho zĂˇlivu, boÄŤnĂ­ profil
+s nejvyĹˇĹˇĂ­ zaznamenanou hladinou a minimĂˇlnĂ­ vĂ˝Ĺˇkovou ÄŤĂˇrou vÄ›Ĺľe, vĂ˝Ĺ™ez mapy s obÄ›ma mĂ­sty nĂˇlezĹŻ
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 11_1, 1_1 čtyři požadavky, 1_2 pole „Kontrola Travnatého vršku“, 1_3 a 1_5. Na profilu je
-značka vršku nad oběma čarami; panorama ukazuje nezakrytý záliv; výřez jej umisťuje mimo dva
-potvrzené body. Legendu čte dospělý.
+[Z HRY] 11_1, 1_1 ÄŤtyĹ™i poĹľadavky, 1_2 pole â€žKontrola TravnatĂ©ho vrĹˇkuâ€ś, 1_3 a 1_5. Na profilu je
+znaÄŤka vrĹˇku nad obÄ›ma ÄŤarami; panorama ukazuje nezakrytĂ˝ zĂˇliv; vĂ˝Ĺ™ez jej umisĹĄuje mimo dva
+potvrzenĂ© body. Legendu ÄŤte dospÄ›lĂ˝.
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Po jedné porovná podmínky se skutečně dostupnými podklady. Do Protokolu označí výsledek každé
+Po jednĂ© porovnĂˇ podmĂ­nky se skuteÄŤnÄ› dostupnĂ˝mi podklady. Do Protokolu oznaÄŤĂ­ vĂ˝sledek kaĹľdĂ©
 kontroly.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Ověř místo mimo potvrzené naleziště.
-- Ověř, že ho nezaplavuje voda.
-- Ověř nezakrytý výhled a dostatečnou výšku nad zálivem.
+- OvÄ›Ĺ™ mĂ­sto mimo potvrzenĂ© naleziĹˇtÄ›.
+- OvÄ›Ĺ™, Ĺľe ho nezaplavuje voda.
+- OvÄ›Ĺ™ nezakrytĂ˝ vĂ˝hled a dostateÄŤnou vĂ˝Ĺˇku nad zĂˇlivem.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Dítě doloží všechny čtyři kontroly: vršek leží nad zakreslenou hladinou i výškovou čárou, má volný
-výhled a leží mimo potvrzené nálezy. Doporučení není zárukou, že pod zemí žádné další fosilie
+DĂ­tÄ› doloĹľĂ­ vĹˇechny ÄŤtyĹ™i kontroly: vrĹˇek leĹľĂ­ nad zakreslenou hladinou i vĂ˝Ĺˇkovou ÄŤĂˇrou, mĂˇ volnĂ˝
+vĂ˝hled a leĹľĂ­ mimo potvrzenĂ© nĂˇlezy. DoporuÄŤenĂ­ nenĂ­ zĂˇrukou, Ĺľe pod zemĂ­ ĹľĂˇdnĂ© dalĹˇĂ­ fosilie
 nejsou.
 
 ---
 
-### KROK 12 — Návrh přesunu věže
+### KROK 12 â€” NĂˇvrh pĹ™esunu vÄ›Ĺľe
 
-**Label:** Dítě
+**Label:** DĂ­tÄ›
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] úspěšně doložené kontroly z kroku 11; 1_3 mapa s přesunutelnou značkou věže z předání; 1_2
-Protokol, pole „Doporučení pro Centrálu“; 1_5 značicí prostředek
+[Z HRY] ĂşspÄ›ĹˇnÄ› doloĹľenĂ© kontroly z kroku 11; 1_3 mapa s pĹ™esunutelnou znaÄŤkou vÄ›Ĺľe z pĹ™edĂˇnĂ­; 1_2
+Protokol, pole â€žDoporuÄŤenĂ­ pro CentrĂˇluâ€ś; 1_5 znaÄŤicĂ­ prostĹ™edek
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Přesune značku věže z původního staveniště na Travnatý vršek. Do Protokolu zaznamená doporučení a
-jeho důvody.
+PĹ™esune znaÄŤku vÄ›Ĺľe z pĹŻvodnĂ­ho staveniĹˇtÄ› na TravnatĂ˝ vrĹˇek. Do Protokolu zaznamenĂˇ doporuÄŤenĂ­ a
+jeho dĹŻvody.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Přesuň značku na ověřené místo.
-- Připrav doporučení i důkazy.
+- PĹ™esuĹ znaÄŤku na ovÄ›Ĺ™enĂ© mĂ­sto.
+- PĹ™iprav doporuÄŤenĂ­ i dĹŻkazy.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Mapa a Protokol obsahují návrh nové polohy věže a chráněné body nálezů. Krok navazuje pouze na
-dokončené ověření v kroku 11.
+Mapa a Protokol obsahujĂ­ nĂˇvrh novĂ© polohy vÄ›Ĺľe a chrĂˇnÄ›nĂ© body nĂˇlezĹŻ. Krok navazuje pouze na
+dokonÄŤenĂ© ovÄ›Ĺ™enĂ­ v kroku 11.
 
 ---
 
-### REPORT 12_Report — Doporučení nového stavebního místa
+### REPORT 12_Report â€” DoporuÄŤenĂ­ novĂ©ho stavebnĂ­ho mĂ­sta
 
 **Label:** Report
 
-**Nové artefakty na vstupu:**
+**NovĂ© artefakty na vstupu:**
 
-—
+â€”
 
-**Co potřebuje dítě k vyřešení kroku:**
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
 
-[Z HRY] 1_4 vysílačka; 1_2 Protokol; 1_3 aktualizovaná mapa; doložené výsledky kroku 11
+[Z HRY] 1_4 vysĂ­laÄŤka; 1_2 Protokol; 1_3 aktualizovanĂˇ mapa; doloĹľenĂ© vĂ˝sledky kroku 11
 
-**Akce dítěte:**
+**Akce dĂ­tÄ›te:**
 
-Předá PAXovi doporučení Travnatého vršku a vysvětlí vyřazení ostatních míst. PAX potvrdí změnu
-stavebního plánu a ochranu původního staveniště a Rozcestí.
+PĹ™edĂˇ PAXovi doporuÄŤenĂ­ TravnatĂ©ho vrĹˇku a vysvÄ›tlĂ­ vyĹ™azenĂ­ ostatnĂ­ch mĂ­st. PAX potvrdĂ­ zmÄ›nu
+stavebnĂ­ho plĂˇnu a ochranu pĹŻvodnĂ­ho staveniĹˇtÄ› a RozcestĂ­.
 
-**Úkoly:**
+**Ăškoly:**
 
-- Nahlas nové místo a důkazy.
-- Vysvětli, která místa zůstávají chráněná.
+- Nahlas novĂ© mĂ­sto a dĹŻkazy.
+- VysvÄ›tli, kterĂˇ mĂ­sta zĹŻstĂˇvajĂ­ chrĂˇnÄ›nĂˇ.
 
-**Co je hotový krok:**
+**Co je hotovĂ˝ krok:**
 
-Centrála přijala podložené doporučení. Potvrzení změny plánu je vstupem závěrečného kroku; není
-náhradou chybějících důkazů z kroku 11.
-
----
-
-### KROK 13 — Zdokumentování nálezu a uzavření mise
-
-**Label:** Dítě
-
-**Nové artefakty na vstupu:**
-
-13_1 Kartonový badge PALEONTOLOG
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-[Z HRY] 13_1 od PAXe po 12_Report; sestavená kostra, 1_2 pole „Uzavření mise“, 1_3, 1_5 a úložná
-podložka z 2_2. Centrála přijala doporučení vršku pro nový plán a ochranu obou míst, další průzkum
-před stavbou zůstává její prací.
-
-**Akce dítěte:**
-
-Dokončí Protokol, uloží sestavenou kostru společně s dokumentací a přijme specializaci.
-
-**Úkoly:**
-
-- Zkontroluj záznamy nálezů a rozhodnutí o věži.
-- Ulož kostru jako zdokumentovaný nález.
-- Převezmi specializaci.
-
-**Co je hotový krok:**
-
-Protokol je uzavřený, kostra uložená se záznamem původu, plán věže změněný a oba body nálezů určené
-k ochraně. Dítě získalo specializaci PALEONTOLOG.
+CentrĂˇla pĹ™ijala podloĹľenĂ© doporuÄŤenĂ­. PotvrzenĂ­ zmÄ›ny plĂˇnu je vstupem zĂˇvÄ›reÄŤnĂ©ho kroku; nenĂ­
+nĂˇhradou chybÄ›jĂ­cĂ­ch dĹŻkazĹŻ z kroku 11.
 
 ---
 
-## 6. Příběh
+### KROK 13 â€” ZdokumentovĂˇnĂ­ nĂˇlezu a uzavĹ™enĂ­ mise
 
-Centrála chce postavit pozorovací věž nad zálivem, ale nález kosti a stopy stavbu pozastaví. Dítě prozkoumá dva vzorky, odliší skutečné kosti od nesouvisejícího předmětu a začne určovat dinosaura. Po potvrzení nálezů na staveništi hledá jiné místo pro věž. Vyřadí louku se zakrytým výhledem a zaplavovanou plošinu. Nový podklad ho přivede ke třetímu bloku na Rozcestí. Z dalších kostí dokončí rekonstrukci a označí oba body nálezů k ochraně. Po ověření všech podmínek doporučí Travnatý vršek. Centrála změní stavební plán; dítě zdokumentuje kostru a získá specializaci PALEONTOLOG.
+**Label:** DĂ­tÄ›
+
+**NovĂ© artefakty na vstupu:**
+
+13_1 KartonovĂ˝ badge PALEONTOLOG
+
+**Co potĹ™ebuje dĂ­tÄ› k vyĹ™eĹˇenĂ­ kroku:**
+
+[Z HRY] 13_1 od PAXe po 12_Report; sestavenĂˇ kostra, 1_2 pole â€žUzavĹ™enĂ­ miseâ€ś, 1_3, 1_5 a ĂşloĹľnĂˇ
+podloĹľka z 2_2. CentrĂˇla pĹ™ijala doporuÄŤenĂ­ vrĹˇku pro novĂ˝ plĂˇn a ochranu obou mĂ­st, dalĹˇĂ­ prĹŻzkum
+pĹ™ed stavbou zĹŻstĂˇvĂˇ jejĂ­ pracĂ­.
+
+**Akce dĂ­tÄ›te:**
+
+DokonÄŤĂ­ Protokol, uloĹľĂ­ sestavenou kostru spoleÄŤnÄ› s dokumentacĂ­ a pĹ™ijme specializaci.
+
+**Ăškoly:**
+
+- Zkontroluj zĂˇznamy nĂˇlezĹŻ a rozhodnutĂ­ o vÄ›Ĺľi.
+- UloĹľ kostru jako zdokumentovanĂ˝ nĂˇlez.
+- PĹ™evezmi specializaci.
+
+**Co je hotovĂ˝ krok:**
+
+Protokol je uzavĹ™enĂ˝, kostra uloĹľenĂˇ se zĂˇznamem pĹŻvodu, plĂˇn vÄ›Ĺľe zmÄ›nÄ›nĂ˝ a oba body nĂˇlezĹŻ urÄŤenĂ©
+k ochranÄ›. DĂ­tÄ› zĂ­skalo specializaci PALEONTOLOG.
 
 ---
 
-## 7. Otevřené body návrhu
+## 6. PĹ™Ă­bÄ›h
 
-- **Krok 7:** navrhnout skutečný důkaz, že na Rozcestí zůstal konkrétní vzorek, a jeho propojení se symbolem a domácím úkrytem. Samotná dinosauří stopa to neprokazuje.
-- **Krok 11:** navrhnout podklady pro všechny čtyři kontroly Travnatého vršku, včetně srozumitelné podmínky dostatečné výšky. Místo mimo potvrzené nálezy neznamená automaticky místo bez jakýchkoli fosilií.
-- **Kroky 3 a 9:** vybrat dinosaura, zbývající čtyři možnosti atlasu a rozdělení kostry mezi bloky. Úplná sestava musí umožnit ověřit určení; nelze předem tvrdit konkrétní druh.
-- **Krok 4:** navrhnout vyloučený předmět a ověřovací podklad. Rozdíl nesmí stát jen na neznámé vlastnosti materiálu; dítě musí mít pozorovatelné a vysvětlené znaky.
-- **Kroky 2, 4 a 8:** ověřit nástroje, bloky a šetrné odkrývání pro děti 4–5 let. Počty dílů, provedení a časová náročnost jsou TODO.
-- **Protokol:** názvy polí v rozpisu jsou pracovní návrh. Navrhnout obrázkové označování a rozsah pomoci dospělého, aby řešení nevyžadovalo samostatné psaní a čtení.
-- **Krok 10:** dva doložené body neopravňují k přesnému vymezení souvislé hranice naleziště ani k prokázání, že díly biologicky pocházejí z jediného jedince. Pro hru tvoří jednu sestavitelnou kostru podle dodaného příběhu; rozsah ochrany zůstává k upřesnění.
-- **Ocenění:** fyzická podoba specializace PALEONTOLOG nebyla určena.
+CentrĂˇla chce postavit pozorovacĂ­ vÄ›Ĺľ nad zĂˇlivem, ale nĂˇlez kosti a stopy stavbu pozastavĂ­. DĂ­tÄ› prozkoumĂˇ dva vzorky, odliĹˇĂ­ skuteÄŤnĂ© kosti od nesouvisejĂ­cĂ­ho pĹ™edmÄ›tu a zaÄŤne urÄŤovat dinosaura. Po potvrzenĂ­ nĂˇlezĹŻ na staveniĹˇti hledĂˇ jinĂ© mĂ­sto pro vÄ›Ĺľ. VyĹ™adĂ­ louku se zakrytĂ˝m vĂ˝hledem a zaplavovanou ploĹˇinu. NovĂ˝ podklad ho pĹ™ivede ke tĹ™etĂ­mu bloku na RozcestĂ­. Z dalĹˇĂ­ch kostĂ­ dokonÄŤĂ­ rekonstrukci a oznaÄŤĂ­ oba body nĂˇlezĹŻ k ochranÄ›. Po ovÄ›Ĺ™enĂ­ vĹˇech podmĂ­nek doporuÄŤĂ­ TravnatĂ˝ vrĹˇek. CentrĂˇla zmÄ›nĂ­ stavebnĂ­ plĂˇn; dĂ­tÄ› zdokumentuje kostru a zĂ­skĂˇ specializaci PALEONTOLOG.
+
+---
+
+## 7. OtevĹ™enĂ© body nĂˇvrhu
+
+- **Krok 7:** navrhnout skuteÄŤnĂ˝ dĹŻkaz, Ĺľe na RozcestĂ­ zĹŻstal konkrĂ©tnĂ­ vzorek, a jeho propojenĂ­ se symbolem a domĂˇcĂ­m Ăşkrytem. SamotnĂˇ dinosauĹ™Ă­ stopa to neprokazuje.
+- **Krok 11:** navrhnout podklady pro vĹˇechny ÄŤtyĹ™i kontroly TravnatĂ©ho vrĹˇku, vÄŤetnÄ› srozumitelnĂ© podmĂ­nky dostateÄŤnĂ© vĂ˝Ĺˇky. MĂ­sto mimo potvrzenĂ© nĂˇlezy neznamenĂˇ automaticky mĂ­sto bez jakĂ˝chkoli fosiliĂ­.
+- **Kroky 3 a 9:** vybrat dinosaura, zbĂ˝vajĂ­cĂ­ ÄŤtyĹ™i moĹľnosti atlasu a rozdÄ›lenĂ­ kostry mezi bloky. ĂšplnĂˇ sestava musĂ­ umoĹľnit ovÄ›Ĺ™it urÄŤenĂ­; nelze pĹ™edem tvrdit konkrĂ©tnĂ­ druh.
+- **Krok 4:** navrhnout vylouÄŤenĂ˝ pĹ™edmÄ›t a ovÄ›Ĺ™ovacĂ­ podklad. RozdĂ­l nesmĂ­ stĂˇt jen na neznĂˇmĂ© vlastnosti materiĂˇlu; dĂ­tÄ› musĂ­ mĂ­t pozorovatelnĂ© a vysvÄ›tlenĂ© znaky.
+- **Kroky 2, 4 a 8:** ovÄ›Ĺ™it nĂˇstroje, bloky a ĹˇetrnĂ© odkrĂ˝vĂˇnĂ­ pro dÄ›ti 4â€“5 let. PoÄŤty dĂ­lĹŻ, provedenĂ­ a ÄŤasovĂˇ nĂˇroÄŤnost jsou TODO.
+- **Protokol:** nĂˇzvy polĂ­ v rozpisu jsou pracovnĂ­ nĂˇvrh. Navrhnout obrĂˇzkovĂ© oznaÄŤovĂˇnĂ­ a rozsah pomoci dospÄ›lĂ©ho, aby Ĺ™eĹˇenĂ­ nevyĹľadovalo samostatnĂ© psanĂ­ a ÄŤtenĂ­.
+- **Krok 10:** dva doloĹľenĂ© body neopravĹujĂ­ k pĹ™esnĂ©mu vymezenĂ­ souvislĂ© hranice naleziĹˇtÄ› ani k prokĂˇzĂˇnĂ­, Ĺľe dĂ­ly biologicky pochĂˇzejĂ­ z jedinĂ©ho jedince. Pro hru tvoĹ™Ă­ jednu sestavitelnou kostru podle dodanĂ©ho pĹ™Ă­bÄ›hu; rozsah ochrany zĹŻstĂˇvĂˇ k upĹ™esnÄ›nĂ­.
+- **OcenÄ›nĂ­:** fyzickĂˇ podoba specializace PALEONTOLOG nebyla urÄŤena.
+
