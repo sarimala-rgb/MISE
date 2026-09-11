@@ -1,14 +1,47 @@
 # Průvodce — Tajemství dávných obrů
 
-Tento dokument je pro dospělého průvodce. Dítě nemusí číst ani psát: dospělý předčítá, dítě rozhoduje, pozoruje, skládá, označuje a pracuje s věcmi. Dospělý může při potřebě pomoci otázkou, ale neříká výsledek.
+## 1. Úvod
 
-## 1. Před začátkem
+Dnes nebudeš jen průvodcem. Centrála tě spojí s malým paleontologem, který dostal důležitý úkol: rozhodnout, kde může stát nová věž, aniž by se ztratily stopy dávného světa. Nech ho objevovat, zkoušet a skládat důkazy vlastním tempem. Užij si misi!
 
-Stůl nebo rovná pracovní plocha. Do boxu patří podložka, nástroje, misky, úložná podložka a značky míst. Umísti značku Rozcestí do dostupného místa a za ni blok R; ostatní podklady nech v boxu průvodce seřazené podle kroků. Bloky 1 a 2 předávej až v jejich krocích. Venkovní varianta potřebuje rovnou suchou plochu; není nutná zahrada ani skutečné kopání do země.
+## 2. Jak se scénářem pracovat
 
-Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš roli PAXe. Vysílačka může být skutečná i herní. Pozdější artefakty drž v boxu průvodce a předávej je přesně v kroku uvedeném ve [scénáři](MISE.md).
+Scénář vedeš ty jako PAX. Dítě nemusí samostatně číst ani psát: text předčítáš, dítě pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
 
-## 2. PAX — texty k doslovnému čtení
+V průvodci najdeš tyto typy textu:
+
+- **PAX — čti doslova:** věty, které dítě slyší od Centrály.
+- **Průvodce — veď volně:** nápovědy a otázky, kterými dítěti pomůžeš bez prozrazení řešení.
+- **Hotovo:** přesný výsledek, podle kterého poznáš, že lze pokračovat.
+- **Příprava:** co je potřeba nachystat před konkrétním krokem.
+
+## 3. Pro koho mise je?
+
+Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby s ním buď nablízku a pomoz mu podle potřeby. Dítě však nechávej rozhodovat a objevovat.
+
+## 4. Co budete potřebovat?
+
+**Z boxu pro dítě**
+
+- artefakty, které dítě během mise dostává;
+- Protokol mise, mapu a značicí prostředek;
+- vysílačku nebo herní vysílačku.
+
+**Z boxu pro průvodce**
+
+- tento scénář;
+- instalační plán;
+- později předávané artefakty, připravené podle kroků;
+- úvodní nahrávku se znělkou M!SE;
+- mobil nebo jiné zařízení pro její přehrání.
+
+**Z domova**
+
+- rovná pracovní plocha nebo stůl
+- suché místo pro ukrytí bloku u značky Rozcestí
+
+---
+## 5. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -22,14 +55,14 @@ Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš r
 
 > Zbývá vršek. Ještě ho ale musíme prověřit. Ke každé podmínce najdi důkaz na stavební kartě.
 
-## 3. Vedení dítěte
+## 6. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 4. Návrhové poznámky a ověření
+## 7. Návrhové poznámky a ověření
 
 ## 1. Důkazy a texty podkladů
 
@@ -46,7 +79,6 @@ Pole uvedená v tabulce zůstávají. V každém jsou obrázkové možnosti k za
 
 Cíl 60–90 minut. Hlavní fyzická aktivita je paleontologický výkop a rekonstrukce; celkem 15–20 minut soustředěné manipulace rozdělené mezi bloky a skládání. Druhý blok má mělké uložení kolečka. Pauza je vhodná po reportu 5. Zůstává model kostry na úložné podložce, Protokol a badge. Časy ani funkčnost bloků zatím nebyly změřeny.
 
-## 5. Závěr
+## 8. Závěr
 
 Dítě získává specializaci **PALEONTOLOG**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
-

@@ -1,14 +1,47 @@
 # Průvodce — Operace Skalní orel
 
-Tento dokument je pro dospělého průvodce. Dítě nemusí číst ani psát: dospělý předčítá, dítě rozhoduje, pozoruje, skládá, označuje a pracuje s věcmi. Dospělý může při potřebě pomoci otázkou, ale neříká výsledek.
+## 1. Úvod
 
-## 1. Před začátkem
+Dnes má Centrála problém, který nejde vyřešit silou: důležitá data zůstala za závalem. Dítě dostane šanci postavit vlastní řešení, vyslat ho přes nebezpečné místo a zjistit, co se v krajině opravdu děje. Nech ho stavět, testovat a opravovat. Užij si misi!
 
-Použij rovnou desku standardního stolu nebo rovnou plochu. Z boxu vyznač nepřístupný obdélník, na vzdálený konec postav stanici, na bližší Centrálu. Dospělý předem zajistí základny, vedení a smyčku; v příběhu jde o původní servisní vedení stanice. Kazetu s kartou 5_1 vlož do lůžka. Dítě během mise pracuje pouze z konce Centrály. Výšku a vzdálenost základen musí určit prototyp; požadavek na speciální domácí pevné body se ruší.
+## 2. Jak se scénářem pracovat
 
-Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš roli PAXe. Vysílačka může být skutečná i herní. Pozdější artefakty drž v boxu průvodce a předávej je přesně v kroku uvedeném ve [scénáři](MISE.md).
+Scénář vedeš ty jako PAX. Dítě nemusí samostatně číst ani psát: text předčítáš, dítě pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
 
-## 2. PAX — texty k doslovnému čtení
+V průvodci najdeš tyto typy textu:
+
+- **PAX — čti doslova:** věty, které dítě slyší od Centrály.
+- **Průvodce — veď volně:** nápovědy a otázky, kterými dítěti pomůžeš bez prozrazení řešení.
+- **Hotovo:** přesný výsledek, podle kterého poznáš, že lze pokračovat.
+- **Příprava:** co je potřeba nachystat před konkrétním krokem.
+
+## 3. Pro koho mise je?
+
+Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby s ním buď nablízku a pomoz mu podle potřeby. Dítě však nechávej rozhodovat a objevovat.
+
+## 4. Co budete potřebovat?
+
+**Z boxu pro dítě**
+
+- artefakty, které dítě během mise dostává;
+- Protokol mise, mapu a značicí prostředek;
+- vysílačku nebo herní vysílačku.
+
+**Z boxu pro průvodce**
+
+- tento scénář;
+- instalační plán;
+- později předávané artefakty, připravené podle kroků;
+- úvodní nahrávku se znělkou M!SE;
+- mobil nebo jiné zařízení pro její přehrání.
+
+**Z domova**
+
+- rovná pevná pracovní plocha nebo standardní stůl
+- volný prostor kolem pracovní plochy pro vyznačení zakázané zóny
+
+---
+## 5. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -26,14 +59,14 @@ Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš r
 
 > Podle tvého zjištění uzavíráme svah u čidla C a vyšleme odborníky. Označ jej a předej mi aktualizovanou mapu.
 
-## 3. Vedení dítěte
+## 6. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 4. Návrhové poznámky a ověření
+## 7. Návrhové poznámky a ověření
 
 ## 1. Konstrukce a návrat
 
@@ -53,7 +86,6 @@ Krok 1 „První domněnka“: sopka s otazníkem. Krok 5 „Měření před zá
 
 HERO konstrukce a test 15–20 minut, celá mise cílově 60–90 minut. Pauza po získání kazety. Zůstává modul s lanovkou a badge; čas musí potvrdit dětský průchod.
 
-## 5. Závěr
+## 8. Závěr
 
 Dítě získává specializaci **KONSTRUKTÉR**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
-

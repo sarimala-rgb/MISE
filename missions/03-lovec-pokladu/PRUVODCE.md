@@ -1,14 +1,48 @@
 # Průvodce — Tajemství kapitánovy pečeti
 
-Tento dokument je pro dospělého průvodce. Dítě nemusí číst ani psát: dospělý předčítá, dítě rozhoduje, pozoruje, skládá, označuje a pracuje s věcmi. Dospělý může při potřebě pomoci otázkou, ale neříká výsledek.
+## 1. Úvod
 
-## 1. Před začátkem
+Dnes se z obyčejného prostoru stane kapitánova paluba a každé znamení může ukázat směr k pokladu. Dítě čeká zkouška, ve které nerozhodne štěstí, ale pozornost, chytrost a chuť pokračovat i po odhalení padělku. Nech kapitánovu stopu ožít. Užij si misi!
 
-Jeden standardní stůl a místo vedle něj; lze i venku na rovném suchém povrchu. Rozmísti kotvu, palmu a skálu do nestejnostranného trojúhelníku podle staré mapy, schránku do čtvrtého bodu. První schránka obsahuje 2_3, 2_4 a 4_1 od začátku. Druhou postav na podložku mořského dna pod krajem stolu v dosahu svislého háku. Upevnění ramene patří dospělému. Přibližně pětiminutová příprava je cíl k ověření, nikoli naměřený údaj.
+## 2. Jak se scénářem pracovat
 
-Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš roli PAXe. Vysílačka může být skutečná i herní. Pozdější artefakty drž v boxu průvodce a předávej je přesně v kroku uvedeném ve [scénáři](MISE.md).
+Scénář vedeš ty jako PAX. Dítě nemusí samostatně číst ani psát: text předčítáš, dítě pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
 
-## 2. PAX — texty k doslovnému čtení
+V průvodci najdeš tyto typy textu:
+
+- **PAX — čti doslova:** věty, které dítě slyší od Centrály.
+- **Průvodce — veď volně:** nápovědy a otázky, kterými dítěti pomůžeš bez prozrazení řešení.
+- **Hotovo:** přesný výsledek, podle kterého poznáš, že lze pokračovat.
+- **Příprava:** co je potřeba nachystat před konkrétním krokem.
+
+## 3. Pro koho mise je?
+
+Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby s ním buď nablízku a pomoz mu podle potřeby. Dítě však nechávej rozhodovat a objevovat.
+
+## 4. Co budete potřebovat?
+
+**Z boxu pro dítě**
+
+- artefakty, které dítě během mise dostává;
+- Protokol mise, mapu a značicí prostředek;
+- vysílačku nebo herní vysílačku.
+
+**Z boxu pro průvodce**
+
+- tento scénář;
+- instalační plán;
+- později předávané artefakty, připravené podle kroků;
+- úvodní nahrávku se znělkou M!SE;
+- mobil nebo jiné zařízení pro její přehrání.
+
+**Z domova**
+
+- jeden pevný standardní stůl
+- volné místo vedle stolu
+- rovná suchá plocha, pokud hrajete venku
+
+---
+## 5. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -26,14 +60,14 @@ Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš r
 
 > Pravé razítko je ověřené. Můžeš otevřít zásilku. Nejprve porovnej pečeti na mapách, potom sestav cestu.
 
-## 3. Vedení dítěte
+## 6. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 4. Návrhové poznámky a ověření
+## 7. Návrhové poznámky a ověření
 
 ## 1. Kapitánova zkouška
 
@@ -59,7 +93,6 @@ HERO stavba a test 15–20 minut, celá mise 60–90 minut. Pauza po reportu 3 n
 
 Krok 3 „První pečeť“: zkušební otisk a označený rozpor. Krok 8 „Druhá pečeť“: správný otisk a označená shoda. Krok 9 „Odeslaná trasa“: zakroužkovat pořadí přístav, maják, jeskyně, ostrov. Pole slouží reportům a kontrole před expedicí; dítě nic nemusí psát.
 
-## 5. Závěr
+## 8. Závěr
 
 Dítě získává specializaci **LOVEC POKLADŮ**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
-

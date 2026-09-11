@@ -1,14 +1,48 @@
 # Průvodce — Operace ticho
 
-Tento dokument je pro dospělého průvodce. Dítě nemusí číst ani psát: dospělý předčítá, dítě rozhoduje, pozoruje, skládá, označuje a pracuje s věcmi. Dospělý může při potřebě pomoci otázkou, ale neříká výsledek.
+## 1. Úvod
 
-## 1. Před začátkem
+Dnes Centrála zachytila tiché volání o pomoc. Agent je ukrytý, kamery hlídají cesty a jedině dítě může z bezpečného místa zjistit, kudy se dá projít. Dopřej mu chvíle soustředění, tajemství i radost z dobře vymyšlené trasy. Užij si misi!
 
-Rozlož tři scény za neprůhledné zástěny z boxu na rovné ploše. Označ vnější body kruhem, čtvercem a trojúhelníkem; dítě se mezi nimi pohybuje mimo hlídaný prostor. Pohled přímo přes hranu by odkryl hlavu v kamerové oblasti, periskop dovolí zůstat za krytem. Prostorovou výšku musí ověřit prototyp s dítětem; nepotřebujeme zvláštní domácí úkryt. Kalibrační obraz připrav zvlášť. Audio ovládá pouze průvodce.
+## 2. Jak se scénářem pracovat
 
-Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš roli PAXe. Vysílačka může být skutečná i herní. Pozdější artefakty drž v boxu průvodce a předávej je přesně v kroku uvedeném ve [scénáři](MISE.md).
+Scénář vedeš ty jako PAX. Dítě nemusí samostatně číst ani psát: text předčítáš, dítě pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
 
-## 2. PAX — texty k doslovnému čtení
+V průvodci najdeš tyto typy textu:
+
+- **PAX — čti doslova:** věty, které dítě slyší od Centrály.
+- **Průvodce — veď volně:** nápovědy a otázky, kterými dítěti pomůžeš bez prozrazení řešení.
+- **Hotovo:** přesný výsledek, podle kterého poznáš, že lze pokračovat.
+- **Příprava:** co je potřeba nachystat před konkrétním krokem.
+
+## 3. Pro koho mise je?
+
+Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby s ním buď nablízku a pomoz mu podle potřeby. Dítě však nechávej rozhodovat a objevovat.
+
+## 4. Co budete potřebovat?
+
+**Z boxu pro dítě**
+
+- artefakty, které dítě během mise dostává;
+- Protokol mise, mapu a značicí prostředek;
+- vysílačku nebo herní vysílačku.
+
+**Z boxu pro průvodce**
+
+- tento scénář;
+- instalační plán;
+- později předávané artefakty, připravené podle kroků;
+- úvodní nahrávku se znělkou M!SE;
+- mobil nebo jiné zařízení pro její přehrání.
+
+**Z domova**
+
+- rovná pracovní plocha pro periskop a tři scény
+- volný prostor vedle pracovní plochy pro tři kryté pozorovací body
+- možnost krátce ztišit okolí při poslechu hlášení
+
+---
+## 5. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -26,14 +60,14 @@ Pusť úvodní nahrávku se znělkou M!SE a monologem PAXe. Potom přebíráš r
 
 > Trasu jsme ověřili a agent ji dostal do sluchátka. Teď si poslechneme jeho hlášení z bezpečí.
 
-## 3. Vedení dítěte
+## 6. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 4. Návrhové poznámky a ověření
+## 7. Návrhové poznámky a ověření
 
 ## 1. Přesný dekodér a audio
 
@@ -69,7 +103,6 @@ Nesprávný úsek: průvodce se zeptá, zda tudy kamera vidí, a dovolí nové p
 
 Tubus má předtvarované polohy dvou reflexních ploch, montážní plán ukazuje odrazné strany. Ověřit natočení, pevnost spojů, viditelnost celé scény a výšku krytu. HERO stavba periskopu 15–20 minut, celá mise 60–90 minut. Pauza po úspěšném kalibračním testu. Dítěti zůstává periskop a badge.
 
-## 5. Závěr
+## 8. Závěr
 
 Dítě získává specializaci **TAJNÝ AGENT**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
-
