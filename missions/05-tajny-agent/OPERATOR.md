@@ -13,22 +13,26 @@ Právě ses stal Operátorem mise Operace ticho. Tvým úkolem bude pomoci malé
 - **Dítě** je specialista vyslaný do terénu. Samo zkoumá stopy, pracuje s artefakty, řeší úkoly a dělá rozhodnutí. V důležitých momentech podává Operátorovi mise a PAXovi report.
 - **Operátor mise** — jsi TY :) Technicky zajišťuješ spojení mezi dítětem a PAXem (Centrálou). Spouštíš zprávy, předáváš nové materiály ve správný okamžik, případně přijímáš reporty dítěte a hlídáš průběh mise.
 
-## 2. Jak se scénářem pracovat
+## 2. Typy textů v tomto scénáři
 
-- **Ty jsi Operátor mise:** vedeš misi, předáváš artefakty a držíš spojení s dítětem i s PAXem (Centrála).
-- **Dítě je specialista:** pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
-- **Čtení a zápis:** texty předčítáš ty; dítě nemusí samostatně číst ani psát.
 - **PAX:** tyto texty jsou předmluvené a spouštějí se pomocí QR kódu.
 - **Operátor mise:** tyto texty čteš doslova dítěti.
 - **Poznámky:** sekce s poznámkami a radami k danému kroku.
 - **Podmínky dokončení:** co je třeba splnit k úspěšnému dokončení kroku.
+
+## 3. Jak se scénářem pracovat
+
+- **Ty jsi Operátor mise:** vedeš misi, předáváš artefakty a držíš spojení s dítětem i s PAXem (Centrála).
+- **Dítě je specialista:** pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
+- **Čtení a zápis:** texty předčítáš ty; dítě nemusí samostatně číst ani psát.
+
 - **Příprava:** co je potřeba nachystat před konkrétním krokem.
 
-## 3. Pro koho mise je?
+## 4. Pro koho mise je?
 
 Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby s ním buď nablízku a pomoz mu podle potřeby. Dítě však nechávej rozhodovat a objevovat.
 
-## 4. Co budete potřebovat?
+## 5. Co budete potřebovat?
 
 **Z boxu pro dítě**
 
@@ -51,7 +55,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 - možnost krátce ztišit okolí při poslechu hlášení
 
 ---
-## 5. PAX — texty k doslovnému čtení
+## 6. PAX — texty k doslovnému čtení
 
 ### Krok 1
 
@@ -69,14 +73,14 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 > Trasu jsme ověřili a agent ji dostal do sluchátka. Teď si poslechneme jeho hlášení z bezpečí.
 
-## 6. Vedení dítěte
+## 7. Vedení dítěte
 
 - **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
 - **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
 - **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
 - **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
 
-## 7. Návrhové poznámky a ověření
+## 8. Návrhové poznámky a ověření
 
 ## 1. Přesný dekodér a audio
 
@@ -112,6 +116,6 @@ Nesprávný úsek: průvodce se zeptá, zda tudy kamera vidí, a dovolí nové p
 
 Tubus má předtvarované polohy dvou reflexních ploch, montážní plán ukazuje odrazné strany. Ověřit natočení, pevnost spojů, viditelnost celé scény a výšku krytu. HERO stavba periskopu 15–20 minut, celá mise 60–90 minut. Pauza po úspěšném kalibračním testu. Dítěti zůstává periskop a badge.
 
-## 8. Závěr
+## 9. Závěr
 
 Dítě získává specializaci **TAJNÝ AGENT**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
