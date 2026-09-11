@@ -70,14 +70,8 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 > Pravé razítko je ověřené. Můžeš otevřít zásilku. Nejprve porovnej pečeti na mapách, potom sestav cestu.
 
-## 7. Vedení dítěte
 
-- **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
-- **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
-- **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
-- **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
-
-## 8. Návrhové poznámky a ověření
+## 7. Návrhové poznámky a ověření
 
 ## 1. Kapitánova zkouška
 
@@ -103,6 +97,6 @@ HERO stavba a test 15–20 minut, celá mise 60–90 minut. Pauza po reportu 3 n
 
 Krok 3 „První pečeť“: zkušební otisk a označený rozpor. Krok 8 „Druhá pečeť“: správný otisk a označená shoda. Krok 9 „Odeslaná trasa“: zakroužkovat pořadí přístav, maják, jeskyně, ostrov. Pole slouží reportům a kontrole před expedicí; dítě nic nemusí psát.
 
-## 9. Závěr
+## 8. Závěr
 
 Dítě získává specializaci **LOVEC POKLADŮ**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.

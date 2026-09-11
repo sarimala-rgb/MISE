@@ -74,14 +74,8 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 > Mapu jsem převzal. Podle nové polohy zapínám návratový signál pro draka, jak stanovuje nouzový protokol.
 
-## 7. Vedení dítěte
 
-- **PAXova řeč:** čti doslova jen texty výše a konkrétní texty na artefaktech.
-- **Volné vedení:** při váhání popiš, co dítě vidí, nebo polož otázku typu „Co se shoduje?“ či „Kterou informaci ještě potřebujeme?“
-- **Chyba:** zastav další krok, vrať se ke zdroji informace a nabídni nejvýše jednu nápovědu. Neoznamuj správnou odpověď bez možnosti opravy.
-- **Hotovo:** platí přesně stav uvedený u každého kroku v [SCENAR-TABULKA.md](SCENAR-TABULKA.md). PAX nesmí potvrdit výsledek, který z podkladů neplyne.
-
-## 8. Návrhové poznámky a ověření
+## 7. Návrhové poznámky a ověření
 
 ## 1. Doložená posloupnost
 
@@ -103,6 +97,6 @@ Nouzový protokol 10_1 je postup Centrály, nikoli povolení vzít libovolné ve
 
 HERO je stavba nosítka a test, cílově 15–20 minut; hnízdo je kratší navazující použití připravených materiálů. Celá mise cílí na 60–90 minut. Pauza po reportu 9, před konstrukcí. Krátké reporty nemají opakovat celé předchozí pátrání. Počet kroků je zatím původní, sjednocení řeší společná otevřená otázka. Památkou je model vejce a nosítko, osobní badge zůstává oddělený od ochranné značky.
 
-## 9. Závěr
+## 8. Závěr
 
 Dítě získává specializaci **STRÁŽCE DRAKŮ**. Veškeré výroby, časy a bezpečnost konstrukcí označené jako NEOVĚŘENO ověř v prototypu s dospělým před hrou s dítětem.
