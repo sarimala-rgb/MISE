@@ -11,7 +11,7 @@ Právě ses stal Operátorem mise Po stopách draka. Tvým úkolem bude pomoci m
 - **Centrála** je operační zázemí organizace M!SE. Odtud přichází zadání a probíhá komunikace s PAXem.
 - **PAX** je koordinátor misí z Centrály. Během mise drží se specialistou spojení, předává nové informace a přijímá jeho hlášení.
 - **Dítě** je specialista vyslaný do terénu. Samo zkoumá stopy, pracuje s artefakty, řeší úkoly a dělá rozhodnutí. V důležitých momentech podává Operátorovi mise a PAXovi report.
-- **Operátor mise** — jsi TY :) Technicky zajišťuješ spojení mezi dítětem a PAXem (Centrálou). Spouštíš zprávy, předáváš nové materiály ve správný okamžik, případně přijímáš reporty dítěte a hlídáš průběh mise.
+- **Operátor mise** — jsi TY :) Technicky zajišťuješ spojení mezi dítětem a PAXem (Centrálou). Spouštíš zprávy, předáváš nové materiály ve správný okamžik, případně přijímáš reporty dítěte a hlídáš průběh mise. U čtení, luštění i stavby s ním buď nablízku a pomoz mu podle potřeby. Dítě však nechávej rozhodovat a objevovat.
 
 ## 2. Typy textů v tomto scénáři
 
