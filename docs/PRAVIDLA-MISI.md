@@ -4,9 +4,9 @@
 
 ## 1. Hlavní tabulka mise
 
-Každá detailně rozpracovaná mise používá jednu průběžně editovatelnou tabulku. Tato tabulka je hlavním zdrojem pravdy pro herní průběh mise.
+Každá mise má samostatně upravovaný soubor MISE.md a samostatně upravovaný soubor SCENAR-TABULKA.md. Oba soubory jsou rovnocenné pracovní dokumenty; žádný z nich není automaticky generován z druhého.
 
-Tabulka se ukládá v adresáři mise jako SCENAR-TABULKA.md. Soubor MISE.md obsahuje čitelný přepis po jednotlivých krocích a reportech. Přepis zachovává všechny údaje a pořadí tabulky; nepředstavuje druhý nezávislý scénář. Při změně tabulky vždy aktualizuj také přepis pomocí skriptu scripts/Update-MissionReadView.ps1 (parametr MissionDirectories) a ověř jejich shodu. Čísla sekcí dokumentu jsou oddělená od čísel herních kroků.
+SCENAR-TABULKA.md obsahuje strukturovaný pracovní scénář. MISE.md obsahuje samostatný čitelný dokument mise. Při změnách se upravují nezávisle a na konci revize se ručně kontroluje jejich soulad. Čísla sekcí dokumentu jsou oddělená od čísel herních kroků.
 
 Sloupce musí být vždy přesně v tomto pořadí:
 

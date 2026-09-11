@@ -39,7 +39,7 @@ Chat není dlouhodobý zdroj pravdy. Jakmile je rozhodnutí schváleno, má být
 
 ## 5. Čitelná podoba scénářů
 
-Scénáře se v MISE.md zobrazují po jednotlivých očíslovaných krocích a navázaných reportech. Zdrojová tabulka zůstává v samostatném SCENAR-TABULKA.md. Obě podoby musí obsahovat stejné informace a při úpravách se aktualizují společně.
+MISE.md a SCENAR-TABULKA.md jsou samostatně upravované dokumenty. Na konci práce se provádí ruční kontrola jejich souladu.
 
 ---
 
