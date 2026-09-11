@@ -57,3 +57,5 @@ zítko.
 - Výsledek zabalí do přiložené obálky a pošle PAXovi.
 
 ---
+
+## 3. Potvrzená rozhodnutí

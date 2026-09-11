@@ -577,3 +577,5 @@ Protokol je uzavřený, kostra uložená se záznamem původu, plán věže změ
 k ochraně. Dítě získalo specializaci PALEONTOLOG.
 
 ---
+
+## 3. Potvrzená rozhodnutí

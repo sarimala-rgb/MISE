@@ -55,3 +55,5 @@ znutému pracovišti; modul zachytí datovou kazetu a dítě jej stáhne zpět.
 - Byla řešena otázka, jak věrohodně dostat data zpět od badatele; původní varianta „badatel vloží kapsli s daty a pošle ji zpátky“ byla považována za nedostatečně domyšlenou.
 
 ---
+
+## 3. Potvrzená rozhodnutí
