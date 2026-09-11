@@ -52,5 +52,3 @@ Najdi na mapě požár a poškozenou bránu. Potom porovnej důkazní fotografie
 zaných reportů. Čitelný scénář je v sekci 7, zdrojová tabulka v SCENAR-MISE.md a otevřené body kontroly v sekci 8.
 
 ---
-
-## 3. Potvrzená rozhodnutí

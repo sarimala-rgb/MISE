@@ -59,5 +59,3 @@ zachycováno v rámci příběhu.
 - Dítě má najít průchod, který není pod kamerami.
 
 ---
-
-## 3. Potvrzená rozhodnutí
