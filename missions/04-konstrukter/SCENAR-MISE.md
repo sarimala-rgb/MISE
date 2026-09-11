@@ -11,10 +11,10 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 04_01 Zadání mise
-- [Z HRY] 04_02 Protokol mise
-- [Z HRY] 04_03 Mapa perimetru Centrály
-- [Z HRY] 04_04 Terénní fotografie závalu
+- [Z BOXU MISE] 04_01 Zadání mise
+- [Z BOXU MISE] 04_02 Protokol mise
+- [Z BOXU MISE] 04_03 Mapa perimetru Centrály
+- [Z BOXU MISE] 04_04 Terénní fotografie závalu
 - V Zadání je vysvětleno: A měří pohyb u sopky, B u stanice, C na svahu; spojení přerušil zával, nikdo není uvězněný. V Protokolu dítě v poli „První domněnka“ označí sopku s otazníkem.
 
 **Akce dítěte:** Projde zadání, prohlédne mapu a fotografii závalu a založí Protokol mise.
@@ -36,7 +36,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:**
 
@@ -60,10 +60,10 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 04_03 Mapa perimetru Centrály
-- [Z HRY] 04_04 Terénní fotografie závalu
-- [Z HRY] 04_05 Detašované odečtové pracoviště
-- [Z HRY] 04_06 Označení ZÁVAL – NEVSTUPOVAT
+- [Z BOXU MISE] 04_03 Mapa perimetru Centrály
+- [Z BOXU MISE] 04_04 Terénní fotografie závalu
+- [Z BOXU MISE] 04_05 Detašované odečtové pracoviště
+- [Z BOXU MISE] 04_06 Označení ZÁVAL – NEVSTUPOVAT
 - 04_01 vysvětluje lokální uložení dat. 04_06 vyznačuje obdélník nepřístupné zóny. Stanice je uvnitř, ovládací místo vně. Dítě se před stavbou dozví: servisní vedení bylo natažené před závalem, dnes se k němu připojí nouzový modul.
 
 **Akce dítěte:** Přesune se do domácího „terénu“, najde označenou nebezpečnou oblast a na druhé straně vidí odečtové pracoviště. Porovná situaci s mapou a fotografií.
@@ -83,7 +83,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí PAXovi situaci v terénu.
 
@@ -102,7 +102,7 @@
 - 04_07 Konstrukční sada: dvě nízké základny s úchyty, předinstalované nosné vedení a ovládací smyčka, napínák u Centrály, obrázkový plán
 - 04_08 Servisní modul: skládací vozík se dvěma pojezdovými prvky a širokým čelním suchým zipem pro zachycení kazety
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 04_07–04_08 od PAXe, stanice 04_05 s již instalovanou vzdálenou základnou a vedením, 04_06 hranice. [Z DOMOVA] stůl nebo rovná plocha. Průvodce před začátkem upevní oba konce; dítě u Centrály sestaví vozík, nasadí ho na vedení, připojí ovládací smyčku a nastaví místní napínák.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 04_07–04_08 od PAXe, stanice 04_05 s již instalovanou vzdálenou základnou a vedením, 04_06 hranice. [Z DOMOVA] stůl nebo rovná plocha. Průvodce před začátkem upevní oba konce; dítě u Centrály sestaví vozík, nasadí ho na vedení, připojí ovládací smyčku a nastaví místní napínák.
 
 **Akce dítěte:** Podle plánu sestaví modul a u bezpečného konce dokončí lanovou dráhu. Smyčkou pohybuje vozíkem vpřed i zpět. Při první jízdě zastaví před kazetou, vrátí modul a zkontroluje napnutí a průjezd.
 
@@ -123,7 +123,7 @@
 
 **Nové artefakty na vstupu:** 04_09 Datová kazeta s protikusem suchého zipu, získaná ze stanice; obsah zůstává zavřený do kroku 5
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] otestovaná 04_07, 04_08 a 04_05 stanice. Kazeta 04_09 leží ve vodicím lůžku, protikus suchého zipu směrem k modulu. Široké čelo a doraz nastavují stejnou výšku; dosednutím se spojí, tahem zpět se kazeta vysune z lůžka.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] otestovaná 04_07, 04_08 a 04_05 stanice. Kazeta 04_09 leží ve vodicím lůžku, protikus suchého zipu směrem k modulu. Široké čelo a doraz nastavují stejnou výšku; dosednutím se spojí, tahem zpět se kazeta vysune z lůžka.
 
 **Akce dítěte:** Pošle servisní modul lanovkou ke stanovišti. Modul fyzicky zachytí datovou kazetu a dítě jej stáhne zpět.
 
@@ -141,8 +141,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] Vysílačka
-- [Z HRY] 04_09 Datová kazeta stanoviště
+- [Z BOXU MISE] Vysílačka
+- [Z BOXU MISE] 04_09 Datová kazeta stanoviště
 
 **Akce dítěte:** Nahlásí PAXovi, že data získalo.
 
@@ -158,7 +158,7 @@
 
 **Nové artefakty na vstupu:** 04_10 Složená karta měření A–B–C uvnitř kazety 04_09, zpřístupněná jejím otevřením
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 04_09, uvnitř 04_10, 04_02 pole „Měření před závalem“, značicí prostředek. Karta výslovně uvádí tři po sobě jdoucí odečty PŘED závalem: A 1–1–1, B 1–1–1, C 1–2–3. Tečky znázorňují modelovou úroveň pohybu, ne skutečné fyzikální jednotky. Legenda: rostoucí řada = místo k uzavření a odborné kontrole.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 04_09, uvnitř 04_10, 04_02 pole „Měření před závalem“, značicí prostředek. Karta výslovně uvádí tři po sobě jdoucí odečty PŘED závalem: A 1–1–1, B 1–1–1, C 1–2–3. Tečky znázorňují modelovou úroveň pohybu, ne skutečné fyzikální jednotky. Legenda: rostoucí řada = místo k uzavření a odborné kontrole.
 
 **Akce dítěte:** Otevře kazetu a vyjme záznam. S dospělým přečte symboly A–B–C a pořadí odečtů. V předtištěných třech řadách Protokolu vybarví tolik polí, kolik ukazují tečky, a porovná průběhy.
 
@@ -178,7 +178,7 @@
 
 **Nové artefakty na vstupu:** 04_11 Značka NESTABILNÍ OBLAST
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 04_02 vyplněný graf, 04_10 časové zařazení a legenda, 04_03 mapa se sopkou A, stanicí B a svahem C, 04_11 značka. Časy před závalem vylučují, že šlo pouze o měření samotného pádu kamenů.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 04_02 vyplněný graf, 04_10 časové zařazení a legenda, 04_03 mapa se sopkou A, stanicí B a svahem C, 04_11 značka. Časy před závalem vylučují, že šlo pouze o měření samotného pádu kamenů.
 
 **Akce dítěte:** Najde na mapě čidla A, B a C a propojí jejich polohu s výsledkem grafu. Označí oblast u C. V poli „Doporučení“ označí svah a odbornou kontrolu. Neoznačuje sopku za definitivně bezpečnou ani neprohlašuje příčinu otřesů za prokázanou.
 
@@ -201,9 +201,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] Vysílačka
-- [Z HRY] 04_02 Protokol mise
-- [Z HRY] 04_03 Mapa perimetru Centrály
+- [Z BOXU MISE] Vysílačka
+- [Z BOXU MISE] 04_02 Protokol mise
+- [Z BOXU MISE] 04_03 Mapa perimetru Centrály
 
 **Akce dítěte:** Nahlásí PAXovi, které čidlo vykazovalo rostoucí aktivitu a kde leží.
 
@@ -221,8 +221,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 04_03 Mapa perimetru Centrály
-- [Z HRY] 04_12 Značka / pečeť ZÓNA UZAVŘENA
+- [Z BOXU MISE] 04_03 Mapa perimetru Centrály
+- [Z BOXU MISE] 04_12 Značka / pečeť ZÓNA UZAVŘENA
 - Pokyn PAXe po reportu 6 uzavřít označený svah; 04_02 pole „Zóna uzavřena“.
 
 **Akce dítěte:** Označí svah C pečetí uzavření, zkontroluje shodu s Protokolem a fyzicky ukáže nebo předá mapu průvodci na místě Centrály.
@@ -241,8 +241,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 04_02 Protokol mise
-- [Z HRY] 04_13 Badge KONSTRUKTÉR
+- [Z BOXU MISE] 04_02 Protokol mise
+- [Z BOXU MISE] 04_13 Badge KONSTRUKTÉR
 
 **Akce dítěte:** Dokončí Protokol mise a převezme specializaci.
 

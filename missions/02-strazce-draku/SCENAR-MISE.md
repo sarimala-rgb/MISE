@@ -14,11 +14,11 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_01 Zadání mise
-- [Z HRY] 02_02 Protokol mise
-- [Z HRY] 02_03 Mapa perimetru Centrály
-- [Z HRY] 02_04–02_06 Důkazní fotografie
-- [Z HRY] 02_07 Záznam incidentu
+- [Z BOXU MISE] 02_01 Zadání mise
+- [Z BOXU MISE] 02_02 Protokol mise
+- [Z BOXU MISE] 02_03 Mapa perimetru Centrály
+- [Z BOXU MISE] 02_04–02_06 Důkazní fotografie
+- [Z BOXU MISE] 02_07 Záznam incidentu
 
 **Akce dítěte:**
 
@@ -43,7 +43,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:**
 
@@ -62,7 +62,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_02–02_07, značicí prostředek. Fotografie i mapa ukazují rozbitou bránu, rozvětvený strom u ohniště a balvan u velké stopy. Záznam 02_07 dokládá jednoho člověka a jednu velkou bytost; počet se nehádá z jednotlivých stop.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_02–02_07, značicí prostředek. Fotografie i mapa ukazují rozbitou bránu, rozvětvený strom u ohniště a balvan u velké stopy. Záznam 02_07 dokládá jednoho člověka a jednu velkou bytost; počet se nehádá z jednotlivých stop.
 
 **Akce dítěte:** Spáruje stejné orientační body, označí v mapě požár a bránu. V Protokolu v poli „Pozorovaní účastníci“ označí jednoho člověka a jednu neznámou bytost; skutečný celkový počet účastníků tím není zaručen.
 
@@ -88,9 +88,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_02 Protokol
-- [Z HRY] 02_03 Mapa
-- [Z HRY] Vysílačka
+- [Z BOXU MISE] 02_02 Protokol
+- [Z BOXU MISE] 02_03 Mapa
+- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí první zjištění PAXovi.
 
@@ -112,9 +112,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_05 Fotografie velké stopy
-- [Z HRY] 02_08 Atlas stop
-- [Z HRY] 02_02 Protokol mise
+- [Z BOXU MISE] 02_05 Fotografie velké stopy
+- [Z BOXU MISE] 02_08 Atlas stop
+- [Z BOXU MISE] 02_02 Protokol mise
 
 **Akce dítěte:**
 
@@ -138,7 +138,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí identifikaci stopy.
 
@@ -160,7 +160,7 @@
 - 02_12 Sada 3 samolepek dračích stop
 - 02_13 Sada samolepek šipek směru
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_09–02_13 a mapa 02_03. Tři snímky mají společné orientační body s mapou: balvan, pařez, rozvětvený strom. Atlas vysvětluje směr ke špičkám prstů. Stopy tvoří návaznou trasu balvan → pařez → požářiště.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_09–02_13 a mapa 02_03. Tři snímky mají společné orientační body s mapou: balvan, pařez, rozvětvený strom. Atlas vysvětluje směr ke špičkám prstů. Stopy tvoří návaznou trasu balvan → pařez → požářiště.
 
 **Akce dítěte:**
 
@@ -186,8 +186,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_03 Mapa
-- [Z HRY] Vysílačka
+- [Z BOXU MISE] 02_03 Mapa
+- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí směr pohybu draka.
 
@@ -207,7 +207,7 @@
 - 02_15 Záznam draka směřujícího k požáru: 3 tečky / třetí událost
 - 02_16 Požární čidlo hlásí vznik ohně: 2 tečky / druhá událost
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_14–02_16 z bezpečnostního systému, 02_02 pole „Pořadí událostí“ se třemi místy a 02_03. Dospělý přečte události a vysvětlí tečky jako pořadí téhož záznamu, nikoli hodiny. Karty jsou předané promíchané.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_14–02_16 z bezpečnostního systému, 02_02 pole „Pořadí událostí“ se třemi místy a 02_03. Dospělý přečte události a vysvětlí tečky jako pořadí téhož záznamu, nikoli hodiny. Karty jsou předané promíchané.
 
 **Akce dítěte:**
 
@@ -233,9 +233,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_02 Protokol
-- [Z HRY] 02_03 Mapa
-- [Z HRY] Vysílačka
+- [Z BOXU MISE] 02_02 Protokol
+- [Z BOXU MISE] 02_03 Mapa
+- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Popíše PAXovi nesrovnalost.
 
@@ -259,9 +259,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_17 Obálka
-- [Z HRY] 02_18 Sirka
-- [Z HRY] 02_02 Protokol mise
+- [Z BOXU MISE] 02_17 Obálka
+- [Z BOXU MISE] 02_18 Sirka
+- [Z BOXU MISE] 02_02 Protokol mise
 
 **Akce dítěte:**
 
@@ -286,8 +286,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_18 Sirka
-- [Z HRY] Vysílačka
+- [Z BOXU MISE] 02_18 Sirka
+- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí, že sirka podporuje lidský zásah, ale ještě neví, kdo ji použil. PAX přijme pracovní hypotézu, ne definitivní očištění draka.
 
@@ -311,9 +311,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_03 Mapa s dračí trasou
-- [Z HRY] 02_19 Terénní značka
-- [Z HRY] 02_20 Velké dračí stopy
+- [Z BOXU MISE] 02_03 Mapa s dračí trasou
+- [Z BOXU MISE] 02_19 Terénní značka
+- [Z BOXU MISE] 02_20 Velké dračí stopy
 - [Z DOMOVA] Prostor připravený PAXem
 
 **Akce dítěte:** Najde požářiště a sleduje trasu opačně než ukazují prsty stop, aby našlo místo, odkud drak přišel. Chodí normálně vpřed; nemusí couvat. Při váhání průvodce připomene rozdíl mezi „kam šel“ a „odkud přišel“.
@@ -336,7 +336,7 @@
 - 02_21 Původní dračí hnízdo
 - 02_22 Dračí vejce
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_21 sestavené hnízdo z materiálu boxu, 02_22 model vejce; terénní trasa 02_20. Průvodce před vstupem připomene: pozoruj, vejce nech na místě.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_21 sestavené hnízdo z materiálu boxu, 02_22 model vejce; terénní trasa 02_20. Průvodce před vstupem připomene: pozoruj, vejce nech na místě.
 
 **Akce dítěte:**
 
@@ -358,7 +358,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Ohlásí nález PAXovi.
 
@@ -377,7 +377,7 @@
 - 02_23 Bezpečnostní obrazový záznam: týž člověk u zapálení ohně, drak jej hasí a vrací se, člověk hledá ve směru dračí trasy a utíká; poslední snímek draka opouštějícího okolí hnízda
 - 02_24 Kopie instrukcí k přepravě dračího vejce a poznámek nalezených hlídkou přímo u zadrženého člověka; možnost „vylákat ohněm“ je podtržená
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_23–02_24 doručí PAX po získání záznamu hlídky; záznam uvádí stejné označení osoby jako fotografie u brány. 02_02, časová osa a mapa. Vidět je sled činů, ne pouze fotografie obličeje. Záznam končí odchodem draka mimo bezprostřední okolí hnízda a zadržením člověka u vnější brány.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 02_23–02_24 doručí PAX po získání záznamu hlídky; záznam uvádí stejné označení osoby jako fotografie u brány. 02_02, časová osa a mapa. Vidět je sled činů, ne pouze fotografie obličeje. Záznam končí odchodem draka mimo bezprostřední okolí hnízda a zadržením člověka u vnější brány.
 
 **Akce dítěte:** Porovná děj snímků s časovou osou. Spojí nalezený plán s činem téhož člověka. V poli „Co se stalo“ označí: člověk zapálil oheň, drak hasí, člověk hledá vejce; v mapě porovná směr jeho pátrání se sektorem hnízda.
 
@@ -399,8 +399,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_02 Protokol
-- [Z HRY] Vysílačka
+- [Z BOXU MISE] 02_02 Protokol
+- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Vysvětlí PAXovi celý incident.
 
@@ -424,7 +424,7 @@
 - 02_25 Nouzový protokol ochrany dračího vejce včetně karty bezpečné přepravy
 - 02_26 Konstrukční sada nosítka: skládací pevná základna, čtyři bočnice, dvě široká držadla, výstelka, spojovací pásky a obrázkový plán
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_25–02_26 od PAXe po 9_Report; záznam 02_23 a vejce na původním místě. Protokol říká: prozrazený sektor vyžaduje chráněné náhradní hnízdo. Vejce lze přemístit až po testu nosítka, kontrole nového hnízda a výslovném povolení PAXe. Centrála podle nové mapy navede draka svým návratovým signálem popsaným v protokolu.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 02_25–02_26 od PAXe po 9_Report; záznam 02_23 a vejce na původním místě. Protokol říká: prozrazený sektor vyžaduje chráněné náhradní hnízdo. Vejce lze přemístit až po testu nosítka, kontrole nového hnízda a výslovném povolení PAXe. Centrála podle nové mapy navede draka svým návratovým signálem popsaným v protokolu.
 
 **Akce dítěte:** Seznámí se s podmínkami bezpečné přepravy.
 
@@ -440,7 +440,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_25 požadavky i plán, 02_26 díly. Dospělý pomůže s pevnými spoji, dítě vybírá umístění výstelky a sestavuje bočnice. [Z DOMOVA] rovná pracovní plocha.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_25 požadavky i plán, 02_26 díly. Dospělý pomůže s pevnými spoji, dítě vybírá umístění výstelky a sestavuje bočnice. [Z DOMOVA] rovná pracovní plocha.
 
 **Akce dítěte:** Postaví zařízení pro bezpečný transport vejce.
 
@@ -456,7 +456,7 @@
 
 **Nové artefakty na vstupu:** 02_27 Cvičné vejce stejného vnějšího tvaru a hmotnosti jako model dračího vejce
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_27, hotové nosítko, 02_25. Test: vložit zátěž, oběma rukama držet nosítko, ujít pět pomalých kroků, zastavit, zatočit a položit. Zátěž nesmí vyklouznout z výstelky ani přes bočnici, spoje se nerozpojí.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_27, hotové nosítko, 02_25. Test: vložit zátěž, oběma rukama držet nosítko, ujít pět pomalých kroků, zastavit, zatočit a položit. Zátěž nesmí vyklouznout z výstelky ani přes bočnici, spoje se nerozpojí.
 
 **Akce dítěte:**
 
@@ -475,7 +475,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Ohlásí úspěšný test.
 
@@ -491,7 +491,7 @@
 
 **Nové artefakty na vstupu:** 02_28 Kontrolní karta nového hnízda, součást nouzového protokolu: rovné suché místo, mimo prozrazený sektor i průchozí cestu, kryté z pohledu od původní trasy a přístupné pro uložení vejce
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_25, 02_28, mapa; po úspěšném 12_Report PAX povolil hledání místa. Průvodce předem vyznačil hranici starého sektoru na mapě i v prostoru a ponechal nejméně dvě vhodná místa. Dítě volí kterékoli splňující podmínky.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_25, 02_28, mapa; po úspěšném 12_Report PAX povolil hledání místa. Průvodce předem vyznačil hranici starého sektoru na mapě i v prostoru a ponechal nejméně dvě vhodná místa. Dítě volí kterékoli splňující podmínky.
 
 **Akce dítěte:** Vybere vhodné nové místo podle požadavků.
 
@@ -507,7 +507,7 @@
 
 **Nové artefakty na vstupu:** 02_29 Materiál náhradního hnízda z boxu: skládací podložka, měkká výstelka, ochranný lem, neprůhledná krycí zástěna a spojovací prvky
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_29, 02_28 a 02_25; vybrané místo. Deka ani polštář z domova nejsou požadované. Průvodce ověří dostupnost místa, dítě vybuduje hnízdo a na kartě projde všechny podmínky.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_29, 02_28 a 02_25; vybrané místo. Deka ani polštář z domova nejsou požadované. Průvodce ověří dostupnost místa, dítě vybuduje hnízdo a na kartě projde všechny podmínky.
 
 **Akce dítěte:**
 
@@ -526,7 +526,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí dokončení hnízda.
 
@@ -545,7 +545,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_22 vejce, otestované nosítko, 02_25, dokončené hnízdo ověřené podle 02_28 a výslovné povolení PAXe po 14_Report. [PROSTOR] krátká volná trasa; průvodce je při přesunu přítomen.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 02_22 vejce, otestované nosítko, 02_25, dokončené hnízdo ověřené podle 02_28 a výslovné povolení PAXe po 14_Report. [PROSTOR] krátká volná trasa; průvodce je při přesunu přítomen.
 
 **Akce dítěte:**
 
@@ -565,7 +565,7 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] Vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Ohlásí úspěšný přesun.
 
@@ -583,7 +583,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_30 Značka ochrany
+- [Z BOXU MISE] 02_30 Značka ochrany
 - [Z DOMOVA] Hotové hnízdo
 
 **Akce dítěte:**
@@ -605,10 +605,10 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_03 Mapa
-- [Z HRY] 02_31 Mapové značky
-- [Z HRY] Psací prostředek
-- [Z HRY] 02_02 Protokol mise
+- [Z BOXU MISE] 02_03 Mapa
+- [Z BOXU MISE] 02_31 Mapové značky
+- [Z BOXU MISE] Psací prostředek
+- [Z BOXU MISE] 02_02 Protokol mise
 
 **Akce dítěte:**
 
@@ -634,9 +634,9 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_02 Protokol
-- [Z HRY] 02_03 Aktualizovaná mapa
-- [Z HRY] Vysílačka
+- [Z BOXU MISE] 02_02 Protokol
+- [Z BOXU MISE] 02_03 Aktualizovaná mapa
+- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Shrne celý případ.
 
@@ -660,8 +660,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z HRY] 02_03 Aktualizovaná mapa
-- [Z HRY] 02_32 Návratová obálka
+- [Z BOXU MISE] 02_03 Aktualizovaná mapa
+- [Z BOXU MISE] 02_32 Návratová obálka
 
 **Akce dítěte:** Vloží aktualizovanou mapu do obálky a předá ji průvodci na předávacím místě Centrály. Průvodce zkontroluje nový sektor a polohu hnízda.
 
@@ -677,7 +677,7 @@
 
 **Nové artefakty na vstupu:** 02_33 Badge STRÁŽCE DRAKŮ
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 02_33 od PAXe po převzetí mapy, 02_02 dokončený Protokol a zachráněné vejce v chráněném hnízdě.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 02_33 od PAXe po převzetí mapy, 02_02 dokončený Protokol a zachráněné vejce v chráněném hnízdě.
 
 **Akce dítěte:** Přijme potvrzení o dokončení mise.
 

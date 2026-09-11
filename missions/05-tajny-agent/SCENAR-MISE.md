@@ -10,7 +10,7 @@
 - 05_04 Agentský dekodér – očíslovaná slova
 - 05_05 Audio 1 – poslední hlášení agenta
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 05_01–05_05, vysílačka a značicí prostředek. Dekodér obsahuje čtyři barevně a tvarem odlišené skupiny slov; audio hlásí skupinu a krátkou číselnou řadu. Každé číslo má i tečky. Dospělý čte slova, dítě vyhledává a skládá podle čísel. Nahrávku lze libovolně zastavit a opakovat.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 05_01–05_05, vysílačka a značicí prostředek. Dekodér obsahuje čtyři barevně a tvarem odlišené skupiny slov; audio hlásí skupinu a krátkou číselnou řadu. Každé číslo má i tečky. Dospělý čte slova, dítě vyhledává a skládá podle čísel. Nahrávku lze libovolně zastavit a opakovat.
 
 **Akce dítěte:** Dítě převezme případ pohřešovaného agenta. Poslechne jeho poslední hlášení. Agent otevřeně nemůže sdělit zásadní informaci a místo ní nadiktuje sekvenci čísel.
 
@@ -26,14 +26,14 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** • [Z HRY] vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
 
 **Akce dítěte:** Dítě hlásí PAXovi, co se mu podařilo rozluštit.
 
 **Úkoly:**
 
-- • Vlastními slovy vysvětlit situaci.
-- • Určit hlavní problém: agent potřebuje najít cestu z úkrytu, aniž by byl spatřen.
+- Vlastními slovy vysvětlit situaci.
+- Určit hlavní problém: agent potřebuje najít cestu z úkrytu, aniž by byl spatřen.
 
 **Co je hotový krok:** PAX ví, že dítě správně pochopilo tajnou zprávu a pověří ho průzkumem oblasti.
 
@@ -45,15 +45,15 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 05_03 mapa cest bez kamerových polí, 05_01: agent je za neprůhlednou zdí a při vykročení může být spatřen. Dítě má přístup ke třem krytým pozorovacím bodům z vnější strany; do střežené oblasti nevstupuje. Pověření k průzkumu zaznělo po 1_Report.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 05_03 mapa cest bez kamerových polí, 05_01: agent je za neprůhlednou zdí a při vykročení může být spatřen. Dítě má přístup ke třem krytým pozorovacím bodům z vnější strany; do střežené oblasti nevstupuje. Pověření k průzkumu zaznělo po 1_Report.
 
 **Akce dítěte:** Dítě z mapy zjistí vztah mezi agentovým úkrytem, možnými cestami ven a místy, odkud lze oblast pozorovat.
 
 **Úkoly:**
 
-- • Najít úkryt agenta.
-- • Najít možné směry úniku.
-- • Pochopit, že agent ze svého úkrytu nevidí rozmístění kamer a jejich zorná pole.
+- Najít úkryt agenta.
+- Najít možné směry úniku.
+- Pochopit, že agent ze svého úkrytu nevidí rozmístění kamer a jejich zorná pole.
 
 **Co je hotový krok:** Je jasné, jakou informaci musí dítě v terénu získat: kudy lze projít mimo dohled kamer.
 
@@ -70,16 +70,16 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] 05_06 Terénní sada periskopu
-- • [Z HRY] 05_07 Montážní plán
+- [Z BOXU MISE] 05_06 Terénní sada periskopu
+- [Z BOXU MISE] 05_07 Montážní plán
 
 **Akce dítěte:** Dítě otevře agentskou terénní sadu, prohlédne jednotlivé díly a podle plánu zjistí, jaké zařízení má sestavit.
 
 **Úkoly:**
 
-- • Roztřídit díly.
-- • Najít odpovídající části podle montážního plánu.
-- • Připravit konstrukci.
+- Roztřídit díly.
+- Najít odpovídající části podle montážního plánu.
+- Připravit konstrukci.
 
 **Co je hotový krok:** Všechny části periskopu jsou připravené ke stavbě.
 
@@ -93,17 +93,17 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] 05_06 Terénní sada periskopu
-- • [Z HRY] 05_07 Montážní plán
+- [Z BOXU MISE] 05_06 Terénní sada periskopu
+- [Z BOXU MISE] 05_07 Montážní plán
 
 **Akce dítěte:** Dítě sestaví vlastní funkční bezpečný periskop.
 
 **Úkoly:**
 
-- • Složit tělo.
-- • Umístit bezpečné reflexní prvky do připravených pozic.
-- • Uzavřít a zajistit konstrukci.
-- • Zkontrolovat funkčnost.
+- Složit tělo.
+- Umístit bezpečné reflexní prvky do připravených pozic.
+- Uzavřít a zajistit konstrukci.
+- Zkontrolovat funkčnost.
 
 **Co je hotový krok:** Dítě má vlastní funkční agentský periskop.
 
@@ -115,15 +115,15 @@
 
 **Nové artefakty na vstupu:** 05_08 Kalibrační scéna se sluncem nahoře a lodí dole, neprůhledná skládací zástěna z boxu
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] periskop, 05_08. Dítě sedí či klečí za zástěnou: oči pod její hranou, horní otvor periskopu nad ní. Musí rozlišit oba obrázky i jejich vzájemnou polohu. Při tmavém obrazu zkontroluje natočení odrazných ploch podle 05_07.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] periskop, 05_08. Dítě sedí či klečí za zástěnou: oči pod její hranou, horní otvor periskopu nad ní. Musí rozlišit oba obrázky i jejich vzájemnou polohu. Při tmavém obrazu zkontroluje natočení odrazných ploch podle 05_07.
 
 **Akce dítěte:** Dítě si vyzkouší pozorování objektu, který z normální pozice nevidí.
 
 **Úkoly:**
 
-- • Najít správnou pozici.
-- • Použít periskop za překážkou.
-- • Správně určit, co je na kontrolním obrazu.
+- Najít správnou pozici.
+- Použít periskop za překážkou.
+- Správně určit, co je na kontrolním obrazu.
 
 **Co je hotový krok:** Je ověřeno, že dítě periskop správně sestavilo a umí jej používat.
 
@@ -135,14 +135,14 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** • [Z HRY] vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
 
 **Akce dítěte:** Dítě nahlásí PAXovi výsledek kontrolního pozorování.
 
 **Úkoly:**
 
-- • Popsat kontrolní obraz.
-- • Potvrdit připravenost na terénní část.
+- Popsat kontrolní obraz.
+- Potvrdit připravenost na terénní část.
 
 **Co je hotový krok:** PAX povolí průzkum sledované oblasti.
 
@@ -156,19 +156,19 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] 05_03 Mapa perimetru Centrály
-- • [Z HRY] 05_09 Označení pozorovacích bodů
-- • [Z HRY] periskop
-- • [Z HRY] vysílačka
+- [Z BOXU MISE] 05_03 Mapa perimetru Centrály
+- [Z BOXU MISE] 05_09 Označení pozorovacích bodů
+- [Z BOXU MISE] periskop
+- [Z BOXU MISE] vysílačka
 - Po úspěšném testu PAX povolil průzkum. Značky kruh, čtverec, trojúhelník odpovídají mapě a zadním stranám tří zástěn z boxu.
 
 **Akce dítěte:** Dítě podle mapy přechází z papírového plánu do reálného domácího prostoru a hledá připravené pozorovací body.
 
 **Úkoly:**
 
-- • Spárovat body na mapě s místy v domácím prostoru.
-- • Přesunout se k prvnímu bodu.
-- • Nevstupovat přímo do sledované zóny.
+- Spárovat body na mapě s místy v domácím prostoru.
+- Přesunout se k prvnímu bodu.
+- Nevstupovat přímo do sledované zóny.
 
 **Co je hotový krok:** Dítě je na správném místě, odkud může provést skrytý průzkum.
 
@@ -185,16 +185,16 @@
   - čtverec: brána → dvůr, dvě cesty kolem kašny nebo zdi
   - trojúhelník: dvůr → bezpečný výstup, dvě cesty kolem beden nebo věže; každá scéna je za vlastní zástěnou z boxu
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] periskop, 05_10, 05_03 mapa, 05_02 pole „Pozorované úseky“, značicí prostředek předaný v kroku 1. Mapa má stejné cesty a orientační body, ale bez kamer. Průvodce před pozorováním vysvětlí: červené plochy na herní scéně znázorňují dosah kamer; nejsou to skutečné viditelné paprsky.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] periskop, 05_10, 05_03 mapa, 05_02 pole „Pozorované úseky“, značicí prostředek předaný v kroku 1. Mapa má stejné cesty a orientační body, ale bez kamer. Průvodce před pozorováním vysvětlí: červené plochy na herní scéně znázorňují dosah kamer; nejsou to skutečné viditelné paprsky.
 
 **Akce dítěte:** Z vnějších krytých bodů pozoruje tři připravené prostorové scény kamer. Červené pole blokuje cestu kolem lampy, kašny a věže. Dítě vyznačí blokované cesty v mapě, volné nechá neoznačené. V Protokolu označí kruh, čtverec a trojúhelník jako prozkoumané.
 
 **Úkoly:**
 
-- • U každé scény zjistit, kudy kamera vidí.
-- • Najít průchod, který neleží v červeném zorném poli.
-- • Přenést získanou informaci do mapy.
-- • Opakovat u dalších částí trasy.
+- U každé scény zjistit, kudy kamera vidí.
+- Najít průchod, který neleží v červeném zorném poli.
+- Přenést získanou informaci do mapy.
+- Opakovat u dalších částí trasy.
 
 **Co je hotový krok:** Dítě získalo z terénu informace, které agent ze svého úkrytu nemá: které části možné únikové trasy jsou pod kamerami a které zůstávají skryté.
 
@@ -208,15 +208,15 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] vysílačka
-- • [Z HRY] 05_03 Doplněná mapa
+- [Z BOXU MISE] vysílačka
+- [Z BOXU MISE] 05_03 Doplněná mapa
 
 **Akce dítěte:** Dítě PAXovi hlásí výsledky průzkumu kamer.
 
 **Úkoly:**
 
-- • Popsat, které cesty jsou pod dohledem.
-- • Popsat, kde našlo průchod mimo zorná pole.
+- Popsat, které cesty jsou pod dohledem.
+- Popsat, kde našlo průchod mimo zorná pole.
 
 **Co je hotový krok:** Centrála poprvé zná aktuální rozmístění dohledových zón.
 
@@ -228,15 +228,15 @@
 
 **Nové artefakty na vstupu:** 05_11 Prvek pro vyznačení finální trasy
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 05_03 se všemi pozorováními, 05_11 opakovaně položitelná trasa, 05_02. Spojení: úkryt – dvě větve – brána – dvě větve – dvůr – dvě větve – výstup. Mezi větvemi nejsou další spojnice.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 05_03 se všemi pozorováními, 05_11 opakovaně položitelná trasa, 05_02. Spojení: úkryt – dvě větve – brána – dvě větve – dvůr – dvě větve – výstup. Mezi větvemi nejsou další spojnice.
 
 **Akce dítěte:** Dítě spojí jednotlivá pozorování a na mapě vytvoří souvislou trasu od agentova úkrytu až do bezpečí, která nikde neprochází zorným polem kamery.
 
 **Úkoly:**
 
-- • Porovnat výsledky všech pozorování.
-- • Najít souvislou bezpečnou cestu.
-- • Vyznačit ji na mapě.
+- Porovnat výsledky všech pozorování.
+- Najít souvislou bezpečnou cestu.
+- Vyznačit ji na mapě.
 
 **Co je hotový krok:** Trasa vede úkryt → sudy → brána → zeď → dvůr → bedny → výstup. Souvisle navazuje ve všech třech scénách a neprotíná žádné červené pole.
 
@@ -250,15 +250,15 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] vysílačka
-- • [Z HRY] 05_03 Doplněná mapa
+- [Z BOXU MISE] vysílačka
+- [Z BOXU MISE] 05_03 Doplněná mapa
 
 **Akce dítěte:** Dítě popíše celou trasu. Průvodce ji před předáním agentovi porovná se scénami a kontrolním sledem: sudy, zeď, bedny. Při chybě neodesílá pokyn; vrátí dítě k prvnímu spornému úseku. Správnou trasu PAX předá agentovi do přijímacího sluchátka; agent mlčí, protože jeho mluvení by bylo slyšet.
 
 **Úkoly:**
 
-- • Popsat cestu agentovi prostřednictvím PAXe.
-- • Zdůvodnit ji podle pozorování.
+- Popsat cestu agentovi prostřednictvím PAXe.
+- Zdůvodnit ji podle pozorování.
 
 **Co je hotový krok:** PAX zkontroloval všechny úseky a teprve správnou trasu předal agentovi. Při nesouladu pokračuje pozorování a potvrzující audio se nepouští.
 
@@ -270,14 +270,14 @@
 
 **Nové artefakty na vstupu:** 05_12 Audio 2 – agentovo hlášení z bezpečí
 
-**Co potřebuje dítě k vyřešení kroku:** [Z HRY] 05_12 přehraje průvodce výhradně po ověření celé trasy v 8_Report. Dítě předtím v Protokolu označí „Trasa předána“. Audio není dostupné k náhodnému spuštění v hlavním boxu.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 05_12 přehraje průvodce výhradně po ověření celé trasy v 8_Report. Dítě předtím v Protokolu označí „Trasa předána“. Audio není dostupné k náhodnému spuštění v hlavním boxu.
 
 **Akce dítěte:** Poslechne hlášení: „Tady agent. Prošel jsem kolem sudů, podél zdi a kolem beden. Jsem za výstupem v bezpečí. Děkuji za pomoc.“ Porovná slyšený průchod s mapou a označí v Protokolu „Agent v bezpečí“.
 
 **Úkoly:**
 
-- • Poslechnout agentovo první vysílání od začátku operace.
-- • Ověřit, že jeho vyvedení bylo úspěšné.
+- Poslechnout agentovo první vysílání od začátku operace.
+- Ověřit, že jeho vyvedení bylo úspěšné.
 
 **Co je hotový krok:** Agent je potvrzeně v bezpečí. Dítěti se podařilo vyřešit hlavní problém mise.
 
@@ -289,14 +289,14 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** • [Z HRY] vysílačka
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
 
 **Akce dítěte:** Dítě podá PAXovi závěrečné hlášení.
 
 **Úkoly:**
 
-- • Potvrdit záchranu agenta.
-- • Shrnutím uzavřít operaci.
+- Potvrdit záchranu agenta.
+- Shrnutím uzavřít operaci.
 
 **Co je hotový krok:** Centrála může případ oficiálně uzavřít.
 
@@ -313,16 +313,16 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- • [Z HRY] 05_13 Záznam o uzavření M!SE
-- • [Z HRY] 05_14 Badge
-- • [Z HRY] sestavený periskop
+- [Z BOXU MISE] 05_13 Záznam o uzavření M!SE
+- [Z BOXU MISE] 05_14 Badge
+- [Z BOXU MISE] sestavený periskop
 
 **Akce dítěte:** Dítě zkontroluje v Protokolu potvrzení záchrany a převezme 05_13–05_14. Průvodce doplní jméno a datum; dítě znovu nevypisuje výsledky. Ponechá si periskop.
 
 **Úkoly:**
 
-- • Uzavřít případ.
-- • Převzít specializaci.
-- • Ponechat si periskop.
+- Uzavřít případ.
+- Převzít specializaci.
+- Ponechat si periskop.
 
 **Co je hotový krok:** M!SE je dokončena, agent zachráněn a dítě získává specializaci TAJNÝ AGENT.
