@@ -26,7 +26,7 @@ Právě ses stal Operátorem mise Tajemství dávných obrů. Tvým úkolem bude
 - **Dítě je specialista:** pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
 - **Čtení a zápis:** texty předčítáš ty; dítě nemusí samostatně číst ani psát.
 
-- **Příprava:** co je potřeba nachystat před konkrétním krokem.
+
 
 ## 4. Pro koho mise je?
 

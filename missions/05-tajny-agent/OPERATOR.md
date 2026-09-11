@@ -26,7 +26,7 @@ Právě ses stal Operátorem mise Operace ticho. Tvým úkolem bude pomoci malé
 - **Dítě je specialista:** pozoruje, rozhoduje, skládá, označuje a pracuje s artefakty.
 - **Čtení a zápis:** texty předčítáš ty; dítě nemusí samostatně číst ani psát.
 
-- **Příprava:** co je potřeba nachystat před konkrétním krokem.
+
 
 ## 4. Pro koho mise je?
 
