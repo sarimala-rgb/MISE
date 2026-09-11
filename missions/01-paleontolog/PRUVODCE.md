@@ -2,7 +2,7 @@
 
 ## 1. Úvod
 
-Dnes nebudeš jen průvodcem. Centrála tě spojí s malým paleontologem, který dostal důležitý úkol: rozhodnout, kde může stát nová věž, aniž by se ztratily stopy dávného světa. Nech ho objevovat, zkoušet a skládat důkazy vlastním tempem. Užij si misi!
+Dnes nebudeš jen průvodcem. Centrála tě spojí s malým paleontologem, který dostal důležitý úkol: rozhodnout, kde může stát nová věž, aniž by se ztratily stopy dávného světa. Nech ho objevovat, zkoušet a skládat důkazy vlastním tempem. Užijte si misi společně!
 
 M!SE je tajná organizace, která sleduje neobvyklé události, odhaluje jejich příčiny a vysílá specialisty tam, kde je potřeba jednat. **Mise** je konkrétní úkol nebo případ, který dítě pro M!SE plní. **Centrála** je operační zázemí organizace M!SE: odtud přichází zadání a probíhá komunikace s PAXem. PAX je koordinátor misí z Centrály. Během mise drží se specialistou spojení, předává nové informace a přijímá jeho hlášení.
 

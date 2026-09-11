@@ -2,7 +2,7 @@
 
 ## 1. Úvod
 
-Dnes se z obyčejného prostoru stane kapitánova paluba a každé znamení může ukázat směr k pokladu. Dítě čeká zkouška, ve které nerozhodne štěstí, ale pozornost, chytrost a chuť pokračovat i po odhalení padělku. Nech kapitánovu stopu ožít. Užij si misi!
+Dnes se z obyčejného prostoru stane kapitánova paluba a každé znamení může ukázat směr k pokladu. Dítě čeká zkouška, ve které nerozhodne štěstí, ale pozornost, chytrost a chuť pokračovat i po odhalení padělku. Nech kapitánovu stopu ožít. Užijte si misi společně!
 
 M!SE je tajná organizace, která sleduje neobvyklé události, odhaluje jejich příčiny a vysílá specialisty tam, kde je potřeba jednat. **Mise** je konkrétní úkol nebo případ, který dítě pro M!SE plní. **Centrála** je operační zázemí organizace M!SE: odtud přichází zadání a probíhá komunikace s PAXem. PAX je koordinátor misí z Centrály. Během mise drží se specialistou spojení, předává nové informace a přijímá jeho hlášení.
 
