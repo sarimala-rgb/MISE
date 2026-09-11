@@ -285,3 +285,14 @@ Do tohoto sloupce nepatří samotné řešení kroku, ale pouze podmínky a info
 - Instalace využívá jen vybavení boxu a běžnou rovnou plochu, stůl nebo židli. Mise musí jít upravit pro interiér i venek; další domácí vybavení nesmí být předpokladem.
 - Všechny mise cílí na 60–90 minut, mají jednu hlavní fyzickou HERO aktivitu přibližně 15–20 minut a zanechají dítěti fyzickou památku.
 - Do ustálení misí připravujeme pouze textové podklady. Grafické soubory vzniknou až potom.
+
+## 15. Typy textů ve scénáři
+
+Texty ve scénáři jsou označené těmito labely:
+
+- **PAX** — předmluvený text, který se spouští pomocí QR kódu.
+- **Operátor mise** — text, který Operátor mise čte dítěti doslova.
+- **Poznámky** — poznámky a rady k danému kroku pro Operátora mise.
+- **Podmínky dokončení** — co je třeba splnit k úspěšnému dokončení kroku.
+
+Label vždy určuje, zda text slyší dítě, nebo slouží pouze Operátorovi mise.
