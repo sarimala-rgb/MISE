@@ -29,5 +29,5 @@ Každý artefakt této mise má vlastní evidenční kód ve formátu **číslo 
 ## Poznámky
 
 - Všechny položky se předávají v kroku uvedeném ve sloupci „Scénář“.
-- Věci označené jako NEOVĚŘENO v [průvodci](PRUVODCE.md) je nutné před hrou fyzicky vyzkoušet.
+- Věci označené jako NEOVĚŘENO v [průvodci](OPERATOR.md) je nutné před hrou fyzicky vyzkoušet.
 - Číslo evidenčního kódu je jedinečné v rámci celé M!SE a nemění se podle toho, v jakém kroku se artefakt použije.
