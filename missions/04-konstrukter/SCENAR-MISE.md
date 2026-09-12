@@ -36,8 +36,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
-
 **Akce dítěte:**
 
 - Přihlásí se PAXovi.
@@ -82,8 +80,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí PAXovi situaci v terénu.
 
@@ -139,11 +135,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] Vysílačka
-- [Z BOXU MISE] 04_09 Datová kazeta stanoviště
-
 **Akce dítěte:** Nahlásí PAXovi, že data získalo.
 
 **Úkoly:** Potvrdit úspěšné obnovení posledních měření.
@@ -198,12 +189,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] Vysílačka
-- [Z BOXU MISE] 04_02 Protokol mise
-- [Z BOXU MISE] 04_03 Mapa perimetru Centrály
 
 **Akce dítěte:** Nahlásí PAXovi, které čidlo vykazovalo rostoucí aktivitu a kde leží.
 

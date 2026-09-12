@@ -43,8 +43,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
-
 **Akce dítěte:**
 
 - Přihlásí se PAXovi.
@@ -85,12 +83,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] 02_02 Protokol
-- [Z BOXU MISE] 02_03 Mapa
-- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí první zjištění PAXovi.
 
@@ -138,8 +130,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
-
 **Akce dítěte:** Nahlásí identifikaci stopy.
 
 **Úkoly:** Řekni PAXovi, komu stopa patří.
@@ -184,11 +174,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] 02_03 Mapa
-- [Z BOXU MISE] Vysílačka
-
 **Akce dítěte:** Nahlásí směr pohybu draka.
 
 **Úkoly:** Řekni PAXovi, kam drak mířil.
@@ -230,12 +215,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] 02_02 Protokol
-- [Z BOXU MISE] 02_03 Mapa
-- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Popíše PAXovi nesrovnalost.
 
@@ -283,11 +262,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] 02_18 Sirka
-- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Nahlásí, že sirka podporuje lidský zásah, ale ještě neví, kdo ji použil. PAX přijme pracovní hypotézu, ne definitivní očištění draka.
 
@@ -358,8 +332,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
-
 **Akce dítěte:** Ohlásí nález PAXovi.
 
 **Úkoly:** Nahlas, co jsi našel.
@@ -396,11 +368,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] 02_02 Protokol
-- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Vysvětlí PAXovi celý incident.
 
@@ -475,8 +442,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
-
 **Akce dítěte:** Ohlásí úspěšný test.
 
 **Úkoly:** Potvrď, že zařízení je připravené.
@@ -526,8 +491,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
-
 **Akce dítěte:** Nahlásí dokončení hnízda.
 
 **Úkoly:**
@@ -564,8 +527,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Ohlásí úspěšný přesun.
 
@@ -631,12 +592,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] 02_02 Protokol
-- [Z BOXU MISE] 02_03 Aktualizovaná mapa
-- [Z BOXU MISE] Vysílačka
 
 **Akce dítěte:** Shrne celý případ.
 

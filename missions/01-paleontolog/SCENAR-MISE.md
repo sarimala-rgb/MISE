@@ -117,8 +117,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_04 vysílačka; 01_02 Protokol a 01_03 mapa; závěr kroku 5
-
 **Akce dítěte:** Oznámí PAXovi skutečné nálezy a riziko jejich poškození. PAX potvrdí zastavení stavby a povolí hledání náhradního místa.
 
 **Úkoly:** Nahlas nálezy a vysvětli, proč se zde nesmí pokračovat ve stavbě.
@@ -244,8 +242,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_04 vysílačka; 01_02 Protokol; 01_03 mapa; úplná kostra
-
 **Akce dítěte:** Nahlásí PAXovi dokončenou rekonstrukci a nález z Rozcestí. Vysvětlí, proč musí být chráněny oba body a Rozcestí není vhodné pro věž.
 
 **Úkoly:**
@@ -301,8 +297,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_04 vysílačka; 01_02 Protokol; 01_03 aktualizovaná mapa; doložené výsledky kroku 11
 
 **Akce dítěte:** Předá PAXovi doporučení Travnatého vršku a vysvětlí vyřazení ostatních míst. PAX potvrdí změnu stavebního plánu a ochranu původního staveniště a Rozcestí.
 

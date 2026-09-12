@@ -26,8 +26,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
-
 **Akce dítěte:** Dítě hlásí PAXovi, co se mu podařilo rozluštit.
 
 **Úkoly:**
@@ -135,8 +133,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
-
 **Akce dítěte:** Dítě nahlásí PAXovi výsledek kontrolního pozorování.
 
 **Úkoly:**
@@ -206,11 +202,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] vysílačka
-- [Z BOXU MISE] 05_03 Doplněná mapa
-
 **Akce dítěte:** Dítě PAXovi hlásí výsledky průzkumu kamer.
 
 **Úkoly:**
@@ -248,11 +239,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] vysílačka
-- [Z BOXU MISE] 05_03 Doplněná mapa
-
 **Akce dítěte:** Dítě popíše celou trasu. Průvodce ji před předáním agentovi porovná se scénami a kontrolním sledem: sudy, zeď, bedny. Při chybě neodesílá pokyn; vrátí dítě k prvnímu spornému úseku. Správnou trasu PAX předá agentovi do přijímacího sluchátka; agent mlčí, protože jeho mluvení by bylo slyšet.
 
 **Úkoly:**
@@ -288,8 +274,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
 
 **Akce dítěte:** Dítě podá PAXovi závěrečné hlášení.
 

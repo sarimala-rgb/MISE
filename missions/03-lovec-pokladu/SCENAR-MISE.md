@@ -33,8 +33,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
-
 **Akce dítěte:** Dítě potvrdí PAXovi převzetí M!SE.
 
 **Úkoly:** Potvrdit připravenost k pátrání.
@@ -71,12 +69,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] vysílačka
-- [Z BOXU MISE] nalezená schránka
-- [Z BOXU MISE] falešné razítko
-
 **Akce dítěte:** Dítě hlásí nalezené razítko a kapitánovu zkoušku. PAX potvrdí potřebu ověření; archivní podklady doručí jako vstup kroku 3.
 
 **Úkoly:** Nahlásit nález.
@@ -109,12 +101,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] vysílačka
-- [Z BOXU MISE] falešné razítko
-- [Z BOXU MISE] sestavená rekonstrukce
 
 **Akce dítěte:** Dítě PAXovi oznámí, že razítko je falešné, a vysvětlí, co na něm nesedí.
 
@@ -164,8 +150,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] vysílačka
 
 **Akce dítěte:** Dítě hlásí PAXovi, že schránku našlo, ale nemůže se k ní dostat. PAX nabídne vybavení Centrály určené k vytahování nákladu.
 
@@ -229,11 +213,6 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] vysílačka
-- [Z BOXU MISE] 03_16 Pravé kapitánovo razítko
-
 **Akce dítěte:** Dítě hlásí PAXovi nález originálu. PAX nyní povolí otevřít zásilku map, kterou dítě dostalo na začátku.
 
 **Úkoly:** Oznámit Centrále nález.
@@ -272,11 +251,6 @@
 **Label:** Report
 
 **Nové artefakty na vstupu:** —
-
-**Co potřebuje dítě k vyřešení kroku:**
-
-- [Z BOXU MISE] vysílačka
-- [Z BOXU MISE] 03_18 Obálka s připravenými mapami
 
 **Akce dítěte:** Dítě nahlásí PAXovi složení a odeslání ověřené trasy. Průvodce potvrdí přijetí obálky předané v kroku 9.
 
