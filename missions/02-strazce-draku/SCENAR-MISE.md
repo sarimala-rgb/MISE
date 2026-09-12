@@ -41,8 +41,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:**
 
 - Přihlásí se PAXovi.
@@ -81,8 +79,6 @@
 ## 4. Krok 2_Report — První situační hlášení
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Nahlásí první zjištění PAXovi.
 
@@ -128,8 +124,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Nahlásí identifikaci stopy.
 
 **Úkoly:** Řekni PAXovi, komu stopa patří.
@@ -172,8 +166,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Nahlásí směr pohybu draka.
 
 **Úkoly:** Řekni PAXovi, kam drak mířil.
@@ -213,8 +205,6 @@
 ## 10. Krok 5_Report — Narušení původní hypotézy
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Popíše PAXovi nesrovnalost.
 
@@ -260,8 +250,6 @@
 ## 12. Krok 6_Report — Pracovní hypotéza lidského zásahu
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Nahlásí, že sirka podporuje lidský zásah, ale ještě neví, kdo ji použil. PAX přijme pracovní hypotézu, ne definitivní očištění draka.
 
@@ -330,8 +318,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Ohlásí nález PAXovi.
 
 **Úkoly:** Nahlas, co jsi našel.
@@ -366,8 +352,6 @@
 ## 17. Krok 9_Report — Závěr vyšetřování
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Vysvětlí PAXovi celý incident.
 
@@ -440,8 +424,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Ohlásí úspěšný test.
 
 **Úkoly:** Potvrď, že zařízení je připravené.
@@ -489,8 +471,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Nahlásí dokončení hnízda.
 
 **Úkoly:**
@@ -525,8 +505,6 @@
 ## 26. Krok 15_Report — Vejce v bezpečí
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Ohlásí úspěšný přesun.
 
@@ -590,8 +568,6 @@
 ## 29. Krok 17_Report — Závěrečné operační hlášení
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Shrne celý případ.
 

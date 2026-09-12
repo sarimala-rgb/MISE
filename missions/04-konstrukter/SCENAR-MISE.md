@@ -34,8 +34,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:**
 
 - Přihlásí se PAXovi.
@@ -78,8 +76,6 @@
 ## 4. Krok 2_Report — Přerušený přístup
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Nahlásí PAXovi situaci v terénu.
 
@@ -133,8 +129,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Nahlásí PAXovi, že data získalo.
 
 **Úkoly:** Potvrdit úspěšné obnovení posledních měření.
@@ -187,8 +181,6 @@
 ## 10. Krok 6_Report — Výsledek průzkumu
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Nahlásí PAXovi, které čidlo vykazovalo rostoucí aktivitu a kde leží.
 

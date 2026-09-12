@@ -31,8 +31,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Dítě potvrdí PAXovi převzetí M!SE.
 
 **Úkoly:** Potvrdit připravenost k pátrání.
@@ -67,8 +65,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Dítě hlásí nalezené razítko a kapitánovu zkoušku. PAX potvrdí potřebu ověření; archivní podklady doručí jako vstup kroku 3.
 
 **Úkoly:** Nahlásit nález.
@@ -99,8 +95,6 @@
 ## 6. Krok 3_Report — Falešné razítko
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Dítě PAXovi oznámí, že razítko je falešné, a vysvětlí, co na něm nesedí.
 
@@ -148,8 +142,6 @@
 ## 9. Krok 5_Report — Schránka na mořském dně
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Dítě hlásí PAXovi, že schránku našlo, ale nemůže se k ní dostat. PAX nabídne vybavení Centrály určené k vytahování nákladu.
 
@@ -211,8 +203,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Dítě hlásí PAXovi nález originálu. PAX nyní povolí otevřít zásilku map, kterou dítě dostalo na začátku.
 
 **Úkoly:** Oznámit Centrále nález.
@@ -249,8 +239,6 @@
 ## 15. Krok 9_Report — Expedice připravena
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Dítě nahlásí PAXovi složení a odeslání ověřené trasy. Průvodce potvrdí přijetí obálky předané v kroku 9.
 

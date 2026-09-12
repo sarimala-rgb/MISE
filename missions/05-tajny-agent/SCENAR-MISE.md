@@ -24,8 +24,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Dítě hlásí PAXovi, co se mu podařilo rozluštit.
 
 **Úkoly:**
@@ -131,8 +129,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Dítě nahlásí PAXovi výsledek kontrolního pozorování.
 
 **Úkoly:**
@@ -200,8 +196,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Dítě PAXovi hlásí výsledky průzkumu kamer.
 
 **Úkoly:**
@@ -237,8 +231,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Dítě popíše celou trasu. Průvodce ji před předáním agentovi porovná se scénami a kontrolním sledem: sudy, zeď, bedny. Při chybě neodesílá pokyn; vrátí dítě k prvnímu spornému úseku. Správnou trasu PAX předá agentovi do přijímacího sluchátka; agent mlčí, protože jeho mluvení by bylo slyšet.
 
 **Úkoly:**
@@ -272,8 +264,6 @@
 ## 14. Krok 9_Report — Operace dokončena
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Dítě podá PAXovi závěrečné hlášení.
 

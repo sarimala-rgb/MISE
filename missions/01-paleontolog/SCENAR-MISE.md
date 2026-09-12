@@ -115,8 +115,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Oznámí PAXovi skutečné nálezy a riziko jejich poškození. PAX potvrdí zastavení stavby a povolí hledání náhradního místa.
 
 **Úkoly:** Nahlas nálezy a vysvětli, proč se zde nesmí pokračovat ve stavbě.
@@ -240,8 +238,6 @@
 
 **Label:** Report
 
-**Nové artefakty na vstupu:** —
-
 **Akce dítěte:** Nahlásí PAXovi dokončenou rekonstrukci a nález z Rozcestí. Vysvětlí, proč musí být chráněny oba body a Rozcestí není vhodné pro věž.
 
 **Úkoly:**
@@ -295,8 +291,6 @@
 ## 15. Krok 12_Report — Doporučení nového stavebního místa
 
 **Label:** Report
-
-**Nové artefakty na vstupu:** —
 
 **Akce dítěte:** Předá PAXovi doporučení Travnatého vršku a vysvětlí vyřazení ostatních míst. PAX potvrdí změnu stavebního plánu a ochranu původního staveniště a Rozcestí.
 
