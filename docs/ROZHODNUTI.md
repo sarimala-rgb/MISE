@@ -34,6 +34,8 @@ Konkrétní finální grafické soubory nejsou součástí tohoto starteru, prot
 
 Chat není dlouhodobý zdroj pravdy. Jakmile je rozhodnutí schváleno, má být propsáno do tohoto repa.
 
+Každé nové schválené rozhodnutí se zapisuje sem, promítne se do všech dotčených souborů a uzavře se v `OPEN-QUESTIONS.md`.
+
 
 ---
 
