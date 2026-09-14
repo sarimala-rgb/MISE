@@ -307,3 +307,9 @@ Texty ve scénáři jsou označené těmito labely:
 
 Label vždy určuje, zda text slyší dítě, nebo slouží pouze Operátorovi mise.
 
+## 16. Kódy ve scénáři mise
+
+- Artefakt uvedený nebo odkazovaný v `SCENAR-MISE.md` má vždy kód `A_XX_YY`: `XX` je číslo mise a `YY` je pořadové číslo artefaktu v dané misi. Samotné číslování artefaktů se tím nemění; prefix `A_` pouze určuje, že jde o artefakt.
+- Úkol má vždy kód `U_XX_YY`: `XX` je číslo mise a `YY` je jedinečné pořadové číslo úkolu v dané misi. Číslování úkolů pokračuje napříč celým scénářem mise.
+- Při každé úpravě `SCENAR-MISE.md` se ověří, že všechny odkazy na artefakty používají prefix `A_` a všechny úkoly i jejich podmínky dokončení používají shodný kód `U_`.
+

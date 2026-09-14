@@ -4,174 +4,243 @@
 
 **Nové artefakty na vstupu:**
 
-- 01_01 Zadání mise
-- 01_02 Protokol mise
-- 01_03 Mapa perimetru centrály se značkou věže
-- 01_04 Vysílačka
-- 01_05 Psací / značicí prostředek
+- A_01_01 Zadání mise
+- A_01_02 Protokol mise
+- A_01_03 Mapa perimetru centrály se značkou věže
+- A_01_04 Vysílačka
+- A_01_05 Psací / značicí prostředek
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_01–01_05; mapa s pěti místy a legendou. Zadání má čtyři obrázkové kontroly: mimo označená místa nálezů, místo nad nejvyšší zaznamenanou vodou, volný výhled na záliv, vyhlídka nad červenou výškovou čárou stavebního plánu. Jde o doporučení k dalšímu stavebnímu prověření.
-
-**Akce dítěte:** Prohlédne zadání a mapu. Najde původní staveniště a čtyři kandidáty. Seznámí se s účelem věže a důvodem zastavení prací.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_01–A_01_05; mapa s pěti místy a legendou. Zadání má čtyři obrázkové kontroly: mimo označená místa nálezů, místo nad nejvyšší zaznamenanou vodou, volný výhled na záliv, vyhlídka nad červenou výškovou čárou stavebního plánu. Jde o doporučení k dalšímu stavebnímu prověření.
 
 **Úkoly:**
 
-- Zjisti, proč dělníci zastavili práci.
-- Najdi na mapě staveniště a náhradní místa.
-- Zjisti, co musíš pro Centrálu ověřit.
+- **U_01_01:** Prohlédni zadání a mapu. Najdi původní staveniště a čtyři kandidáty. Seznam se s účelem věže a důvodem zastavení prací.
+- **U_01_02:** Zjisti, proč dělníci zastavili práci.
+- **U_01_03:** Najdi na mapě staveniště a náhradní místa.
+- **U_01_04:** Zjisti, co musíš pro Centrálu ověřit.
 
-**Co je hotový krok:** Dítě zná problém a cíl: prozkoumat nálezy a podle důkazů doporučit místo pro věž. Žádný kandidát zatím není potvrzený.
+**Co je hotový krok:**
+
+- **U_01_01**
+  - Prošel jsi podklady potřebné pro další úkol.
+- **U_01_02**
+  - Znáš odpověď a dokážeš ji doložit dostupnými podklady.
+- **U_01_03**
+  - Hledané místo nebo předmět jsi našel.
+- **U_01_04**
+  - Znáš odpověď a dokážeš ji doložit dostupnými podklady.
+- **Výsledek kroku**
+  - Dítě zná problém a cíl: prozkoumat nálezy a podle důkazů doporučit místo pro věž. Žádný kandidát zatím není potvrzený.
 
 ---
-
+---
 ## 2. Krok 2 — První paleontologický výkop
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 01_06 První sádrový blok ze staveniště: trup, pánev a čtyři končetiny zjednodušeného modelu
-- 01_07 Výkopová sada: tupá špachtle, štětec, pracovní podložka, dvě označené odkládací misky a úložná podložka kostry
+- A_01_06 První sádrový blok ze staveniště: trup, pánev a čtyři končetiny zjednodušeného modelu
+- A_01_07 Výkopová sada: tupá špachtle, štětec, pracovní podložka, dvě označené odkládací misky a úložná podložka kostry
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_06–01_07, 01_02 pole „Vzorek ze staveniště“, 01_03 a 01_05. Dospělý předvede jemné odhrnování; dítě odkrývá a čistí, dospělý pomůže u pevnějšího místa. Díly ukládá do misky se symbolem staveniště.
-
-**Akce dítěte:** Opatrně odkrývá první blok. Vyjme části kostry a drží je pohromadě jako nález ze staveniště. V Protokolu označí původ vzorku a vyjmuté části.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_06–A_01_07, A_01_02 pole „Vzorek ze staveniště“, A_01_03 a A_01_05. Dospělý předvede jemné odhrnování; dítě odkrývá a čistí, dospělý pomůže u pevnějšího místa. Díly ukládá do misky se symbolem staveniště.
 
 **Úkoly:**
 
-- Odkryj části bez poškození.
-- Označ v Protokolu, odkud tento vzorek pochází.
+- **U_01_05:** Opatrně odkryj první blok. Vyjmi části kostry a drží je pohromadě jako nález ze staveniště. V Protokolu označí původ vzorku a vyjmuté části.
+- **U_01_06:** Odkryj části bez poškození.
+- **U_01_07:** Označ v Protokolu, odkud tento vzorek pochází.
 
-**Co je hotový krok:** Části z prvního bloku jsou vyjmuté a přiřazené ke staveništi; lze je porovnávat a skládat.
+**Co je hotový krok:**
+
+- **U_01_05**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_06**
+  - Nález je odkrytý a připravený pro další práci.
+- **U_01_07**
+  - Požadované označení nebo záznam je provedený.
+- **Výsledek kroku**
+  - Části z prvního bloku jsou vyjmuté a přiřazené ke staveništi; lze je porovnávat a skládat.
 
 ---
-
+---
 ## 3. Krok 3 — První hypotéza o dinosaurovi
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 01_08 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus, Ankylosaurus; sestavovací podklad ke každé možnosti
+**Nové artefakty na vstupu:** A_01_08 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus, Ankylosaurus; sestavovací podklad ke každé možnosti
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_08, části z 01_06, 01_02 pole „Pracovní určení“, 01_05. Dítě porovnává přímo obrysy modelových dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání úplnému ověření.
-
-**Akce dítěte:** Porovná kosti s obrázky. Začne je skládat a vybere pravděpodobného dinosaura. V Protokolu označí volbu jako předběžnou.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_08, části z A_01_06, A_01_02 pole „Pracovní určení“, A_01_05. Dítě porovnává přímo obrysy modelových dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání úplnému ověření.
 
 **Úkoly:**
 
-- Porovnej nález s atlasem.
-- Sestav části, které už máš.
-- Označ pracovní určení; kostra ještě není úplná.
+- **U_01_08:** Porovnej kosti s obrázky. Začni je skládat a vybere pravděpodobného dinosaura. V Protokolu označí volbu jako předběžnou.
+- **U_01_09:** Porovnej nález s atlasem.
+- **U_01_10:** Sestav části, které už máš.
+- **U_01_11:** Označ pracovní určení; kostra ještě není úplná.
 
-**Co je hotový krok:** Dítě označí předběžnou možnost nebo dvě dosud možné varianty. Žádná z možností se nepotvrdí jen slovem PAXe; čeká se na chybějící díly.
+**Co je hotový krok:**
+
+- **U_01_08**
+  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+- **U_01_09**
+  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+- **U_01_10**
+  - Výsledek je sestavený podle zadání kroku.
+- **U_01_11**
+  - Požadované označení nebo záznam je provedený.
+- **Výsledek kroku**
+  - Dítě označí předběžnou možnost nebo dvě dosud možné varianty. Žádná z možností se nepotvrdí jen slovem PAXe; čeká se na chybějící díly.
 
 ---
-
+---
 ## 4. Krok 4 — Ověření druhého vzorku
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 01_09 Druhý blok z bodu u staveniště: velké plastové kolečko ze stavebního modelu
-- 01_10 Karta s fotografií stejného kolečka na dělnickém modelu vozíku; šipky ukazují otvor pro osu a pravidelný vroubkovaný okraj
+- A_01_09 Druhý blok z bodu u staveniště: velké plastové kolečko ze stavebního modelu
+- A_01_10 Karta s fotografií stejného kolečka na dělnickém modelu vozíku; šipky ukazují otvor pro osu a pravidelný vroubkovaný okraj
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_09–01_10, 01_07, nález z 01_06, 01_08, 01_02 pole „Porovnání vzorků“ a 01_05. Karta vysvětluje: toto kolečko patří k novodobému vozíku. Nejde o obecné pravidlo, že vše odlišné od kostí je falešné.
-
-**Akce dítěte:** Odkryje druhý blok. Porovná předmět s kostmi a ověřovacím podkladem. Označí jeden skutečný nález a jeden vyloučený předmět, odděleně podle původu.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_09–A_01_10, A_01_07, nález z A_01_06, A_01_08, A_01_02 pole „Porovnání vzorků“ a A_01_05. Karta vysvětluje: toto kolečko patří k novodobému vozíku. Nejde o obecné pravidlo, že vše odlišné od kostí je falešné.
 
 **Úkoly:**
 
-- Prověř i druhý nález.
-- Ukaž, podle čeho předmět vylučuješ.
-- Do Protokolu označ výsledek obou vzorků.
+- **U_01_12:** Odkryj druhý blok. Porovnej předmět s kostmi a ověřovacím podkladem. Označ jeden skutečný nález a jeden vyloučený předmět, odděleně podle původu.
+- **U_01_13:** Prověř i druhý nález.
+- **U_01_14:** Ukaž, podle čeho předmět vylučuješ.
+- **U_01_15:** Do Protokolu označ výsledek obou vzorků.
 
-**Co je hotový krok:** Dítě ukáže shodu kolečka s doloženým předmětem na kartě, označí druhý vzorek jako novodobý předmět a první jako paleontologický nález. Rozhodnutí nestojí pouze na materiálu.
+**Co je hotový krok:**
+
+- **U_01_12**
+  - Nález je odkrytý a připravený pro další práci.
+- **U_01_13**
+  - Kontrola je dokončená a její výsledek je určený.
+- **U_01_14**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_15**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě ukáže shodu kolečka s doloženým předmětem na kartě, označí druhý vzorek jako novodobý předmět a první jako paleontologický nález. Rozhodnutí nestojí pouze na materiálu.
 
 ---
-
+---
 ## 5. Krok 5 — Posouzení původního staveniště
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 01_11 Fotografie původní zkamenělé kosti
-- 01_12 Fotografie původního otisku dinosauří stopy
+- A_01_11 Fotografie původní zkamenělé kosti
+- A_01_12 Fotografie původního otisku dinosauří stopy
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_11–01_12 jsou fotografie dělníků se symbolem staveniště a dvěma odlišnými body nálezu v mapě; 01_11 zachycuje kost před odebráním bloku 01_06, 01_12 stopu ponechanou na místě. Dítě páruje symbol původu, nikoli druh podle stopy. Dále výsledky 2–4, 01_01–01_03 a 01_05.
-
-**Akce dítěte:** Porovná fotografie a výsledky výkopů. Rozliší potvrzené nálezy od vyloučeného předmětu. Zaznamená, že pokračování stavby na původním místě ohrožuje zkameněliny.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_11–A_01_12 jsou fotografie dělníků se symbolem staveniště a dvěma odlišnými body nálezu v mapě; A_01_11 zachycuje kost před odebráním bloku A_01_06, A_01_12 stopu ponechanou na místě. Dítě páruje symbol původu, nikoli druh podle stopy. Dále výsledky 2–4, A_01_01–A_01_03 a A_01_05.
 
 **Úkoly:**
 
-- Urči, které důkazy potvrzují paleontologické nálezy na staveništi.
-- Označ původní místo jako nevhodné pro stavbu.
+- **U_01_16:** Porovnej fotografie a výsledky výkopů. Rozliš potvrzené nálezy od vyloučeného předmětu. Zaznamenej, že pokračování stavby na původním místě ohrožuje zkameněliny.
+- **U_01_17:** Urči, které důkazy potvrzují paleontologické nálezy na staveništi.
+- **U_01_18:** Označ původní místo jako nevhodné pro stavbu.
 
-**Co je hotový krok:** Protokol a mapa zachycují doložené nálezy na staveništi a důvod nepokračovat ve stavbě. Vyloučený předmět skutečné nálezy neruší.
+**Co je hotový krok:**
+
+- **U_01_16**
+  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+- **U_01_17**
+  - Znáš odpověď a dokážeš ji doložit dostupnými podklady.
+- **U_01_18**
+  - Požadované označení nebo záznam je provedený.
+- **Výsledek kroku**
+  - Protokol a mapa zachycují doložené nálezy na staveništi a důvod nepokračovat ve stavbě. Vyloučený předmět skutečné nálezy neruší.
 
 ---
-
+---
 ## 6. Krok 5_Report — Naleziště místo staveniště
 
 **Label:** Report
 
-**Akce dítěte:** Oznámí PAXovi skutečné nálezy a riziko jejich poškození. PAX potvrdí zastavení stavby a povolí hledání náhradního místa.
+**Úkoly:**
 
-**Úkoly:** Nahlas nálezy a vysvětli, proč se zde nesmí pokračovat ve stavbě.
+- **U_01_19:** Nahlaš PAXovi skutečné nálezy a riziko jejich poškození.
 
-**Co je hotový krok:** PAX zná důkazy; zastavení stavby a povolení hledání jsou předané jako vstup kroku 6.
+**Co je hotový krok:**
+
+- **U_01_19**
+  - Hlášení nebo vysvětlení je předané.
+- **Výsledek kroku**
+  - PAX zná důkazy; zastavení stavby a povolení hledání jsou předané jako vstup kroku 6.
 
 ---
-
+---
 ## 7. Krok 6 — Vyřazení louky a pobřeží
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 01_13 Fotografie výhledu z Lesní louky
-- 01_14 Fotografie Pobřežní plošiny při nižší vodě
-- 01_15 Fotografie stejné plošiny při vysoké vodě
+- A_01_13 Fotografie výhledu z Lesní louky
+- A_01_14 Fotografie Pobřežní plošiny při nižší vodě
+- A_01_15 Fotografie stejné plošiny při vysoké vodě
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z BOXU MISE] dokumentace 01_13–01_15 od Centrály; 01_01 požadavky věže; 01_03 mapa; 01_02 Protokol, pole „Náhradní místa“; 01_05 značicí prostředek
+- [Z BOXU MISE] dokumentace A_01_13–A_01_15 od Centrály; A_01_01 požadavky věže; A_01_03 mapa; A_01_02 Protokol, pole „Náhradní místa“; A_01_05 značicí prostředek
 - Povolení PAXe po 5_Report hledat jiné místo; fotografie umožňují poznat stejné místo a změnu hladiny.
-
-**Akce dítěte:** Na louce rozpozná stromy zakrývající záliv. Porovná dva stavy vody na plošině. Obě místa vyřadí na mapě a k výsledkům v Protokolu přiřadí důvody.
 
 **Úkoly:**
 
-- Zkontroluj výhled z louky.
-- Porovnej oba snímky plošiny.
-- Vyřaď nevhodná místa a ukaž důkazy.
+- **U_01_20:** Na louce rozpoznej stromy zakrývající záliv. Porovnej dva stavy vody na plošině. Obě místa vyřaď na mapě a k výsledkům v Protokolu přiřadí důvody.
+- **U_01_21:** Zkontroluj výhled z louky.
+- **U_01_22:** Porovnej oba snímky plošiny.
+- **U_01_23:** Vyřaď nevhodná místa a ukaž důkazy.
 
-**Co je hotový krok:** Lesní louka je vyřazená kvůli výhledu, Pobřežní plošina kvůli zaplavování. Rozcestí a Travnatý vršek zůstávají neověřené.
+**Co je hotový krok:**
+
+- **U_01_20**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_21**
+  - Kontrola je dokončená a její výsledek je určený.
+- **U_01_22**
+  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+- **U_01_23**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Lesní louka je vyřazená kvůli výhledu, Pobřežní plošina kvůli zaplavování. Rozcestí a Travnatý vršek zůstávají neověřené.
 
 ---
-
+---
 ## 8. Krok 7 — Pátrání po vzorku na Rozcestí
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 01_16 Předávací lístek dělníků: na Rozcestí odebrali vzorek R z přípravy alternativního místa, uzavřeli ho a ponechali u místní značky; připojený snímek vzorku R u značky Rozcestí
-- 01_17 Třetí sádrový blok R se symbolem Rozcestí; uvnitř hlava a ocas modelu
+- A_01_16 Předávací lístek dělníků: na Rozcestí odebrali vzorek R z přípravy alternativního místa, uzavřeli ho a ponechali u místní značky; připojený snímek vzorku R u značky Rozcestí
+- A_01_17 Třetí sádrový blok R se symbolem Rozcestí; uvnitř hlava a ocas modelu
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 01_16 doručí PAX po kontrole stavební evidence; 01_03 má symbol Rozcestí. Tentýž symbol je na instalační značce a vzorku R. Lístek doloží existenci a původ vzorku, nikoli předem jeho obsah. [PŘÍPRAVA] Průvodce položí blok do úkrytu vedle značky Rozcestí.
-
-**Akce dítěte:** Prozkoumá nový podklad. Podle symbolu na mapě určí odpovídající domácí místo a najde třetí blok. Zkontroluje jeho původ.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_01_16 doručí PAX po kontrole stavební evidence; A_01_03 má symbol Rozcestí. Tentýž symbol je na instalační značce a vzorku R. Lístek doloží existenci a původ vzorku, nikoli předem jeho obsah. [PŘÍPRAVA] Průvodce položí blok do úkrytu vedle značky Rozcestí.
 
 **Úkoly:**
 
-- Zjisti, kde zůstal neprozkoumaný vzorek.
-- Najdi ho podle mapy a přiřaď k Rozcestí.
+- **U_01_24:** Prozkoumej nový podklad. Podle symbolu na mapě určí odpovídající domácí místo a najde třetí blok. Zkontroluj jeho původ.
+- **U_01_25:** Zjisti, kde zůstal neprozkoumaný vzorek.
+- **U_01_26:** Najdi ho podle mapy a přiřaď k Rozcestí.
 
-**Co je hotový krok:** Dítě najde blok R a ověří shodu značky, symbolu na mapě a předávacího lístku. Obsah zatím není známý.
+**Co je hotový krok:**
+
+- **U_01_24**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_25**
+  - Znáš odpověď a dokážeš ji doložit dostupnými podklady.
+- **U_01_26**
+  - Hledané místo nebo předmět jsi našel.
+- **Výsledek kroku**
+  - Dítě najde blok R a ověří shodu značky, symbolu na mapě a předávacího lístku. Obsah zatím není známý.
 
 ---
-
+---
 ## 9. Krok 8 — Výkop z Rozcestí
 
 **Label:** Akce
@@ -180,143 +249,215 @@
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z BOXU MISE] 01_17 třetí blok; 01_07 nástroje; 01_02 Protokol, pole „Vzorek z Rozcestí“; 01_05 značicí prostředek
+- [Z BOXU MISE] A_01_17 třetí blok; A_01_07 nástroje; A_01_02 Protokol, pole „Vzorek z Rozcestí“; A_01_05 značicí prostředek
 - [Z DOMOVA] pracovní plocha
-
-**Akce dítěte:** Opatrně vykope další části kostry. Než je přidá k prvnímu nálezu, zaznamená, že pocházejí z Rozcestí.
 
 **Úkoly:**
 
-- Odkryj další kosti.
-- Označ jejich původ v Protokolu.
+- **U_01_27:** Opatrně vykopej další části kostry. Než je přidá k prvnímu nálezu, zaznamená, že pocházejí z Rozcestí.
+- **U_01_28:** Odkryj další kosti.
+- **U_01_29:** Označ jejich původ v Protokolu.
 
-**Co je hotový krok:** Nové části jsou vyjmuté a zdokumentované jako nález z Rozcestí.
+**Co je hotový krok:**
+
+- **U_01_27**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_28**
+  - Nález je odkrytý a připravený pro další práci.
+- **U_01_29**
+  - Požadované označení nebo záznam je provedený.
+- **Výsledek kroku**
+  - Nové části jsou vyjmuté a zdokumentované jako nález z Rozcestí.
 
 ---
-
+---
 ## 10. Krok 9 — Dokončení kostry a potvrzení určení
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] díly z 01_06 a 01_17, 01_08 atlas, 01_02 pole „Potvrzené určení“, 01_05. Hlava modelu se třemi rohy a límcem spolu s kompletním obrysem odpovídá kartě Triceratops. Model tvoří osm velkých dílů; jeho přesná anatomická a výrobní podoba čeká na kontrolu před výrobou.
-
-**Akce dítěte:** Připojí nové části k prvnímu nálezu. Dokončí kostru podle atlasu, porovná ji s pěti možnostmi a ověří původní hypotézu. Označí potvrzené určení.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] díly z A_01_06 a A_01_17, A_01_08 atlas, A_01_02 pole „Potvrzené určení“, A_01_05. Hlava modelu se třemi rohy a límcem spolu s kompletním obrysem odpovídá kartě Triceratops. Model tvoří osm velkých dílů; jeho přesná anatomická a výrobní podoba čeká na kontrolu před výrobou.
 
 **Úkoly:**
 
-- Dokonči kostru.
-- Porovnej ji s atlasem.
-- Potvrď určení podle úplné rekonstrukce; pokud první volba nesedí, oprav ji podle nálezu.
+- **U_01_30:** Připoj nové části k prvnímu nálezu. Dokonči kostru podle atlasu, porovná ji s pěti možnostmi a ověří původní hypotézu. Označ potvrzené určení.
+- **U_01_31:** Dokonči kostru.
+- **U_01_32:** Porovnej ji s atlasem.
+- **U_01_33:** Potvrď určení podle úplné rekonstrukce; pokud první volba nesedí, oprav ji podle nálezu.
 
-**Co je hotový krok:** Úplná kostra odpovídá jedné možnosti v atlasu. Protokol odlišuje původní hypotézu od výsledného určení.
+**Co je hotový krok:**
+
+- **U_01_30**
+  - Výsledek je sestavený podle zadání kroku.
+- **U_01_31**
+  - Výsledek je sestavený podle zadání kroku.
+- **U_01_32**
+  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+- **U_01_33**
+  - Hlášení nebo vysvětlení je předané.
+- **Výsledek kroku**
+  - Úplná kostra odpovídá jedné možnosti v atlasu. Protokol odlišuje původní hypotézu od výsledného určení.
 
 ---
-
+---
 ## 11. Krok 10 — Ochrana obou míst nálezu
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] zdokumentované původy obou skutečných nálezů v 01_02; dokončená kostra; 01_03 mapa; 01_05 značicí prostředek; požadavek ochrany nálezů z 01_01
-
-**Akce dítěte:** Na mapě označí původní staveniště i Rozcestí jako místa určená k ochraně pro výzkum. Rozcestí vyřadí jako kandidáta pro věž.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] zdokumentované původy obou skutečných nálezů v A_01_02; dokončená kostra; A_01_03 mapa; A_01_05 značicí prostředek; požadavek ochrany nálezů z A_01_01
 
 **Úkoly:**
 
-- Ukaž obě místa skutečných nálezů.
-- Označ je k ochraně.
-- Vyřaď Rozcestí ze stavebních možností.
+- **U_01_34:** Na mapě označí původní staveniště i Rozcestí jako místa určená k ochraně pro výzkum. Rozcestí vyřadí jako kandidáta pro věž.
+- **U_01_35:** Ukaž obě místa skutečných nálezů.
+- **U_01_36:** Označ je k ochraně.
+- **U_01_37:** Vyřaď Rozcestí ze stavebních možností.
 
-**Co je hotový krok:** V mapě jsou dva doložené body nálezů označené k ochraně a Rozcestí je vyřazeno. Dítě nekreslí hranici mezi body; rozsah ochranného území určí další odborný průzkum. Sestavitelný herní model není důkazem, že kosti patří jedinému jedinci.
+**Co je hotový krok:**
+
+- **U_01_34**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_35**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_36**
+  - Požadované označení nebo záznam je provedený.
+- **U_01_37**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - V mapě jsou dva doložené body nálezů označené k ochraně a Rozcestí je vyřazeno. Dítě nekreslí hranici mezi body; rozsah ochranného území určí další odborný průzkum. Sestavitelný herní model není důkazem, že kosti patří jedinému jedinci.
 
 ---
-
+---
 ## 12. Krok 10_Report — Nález zasahuje k Rozcestí
 
 **Label:** Report
 
-**Akce dítěte:** Nahlásí PAXovi dokončenou rekonstrukci a nález z Rozcestí. Vysvětlí, proč musí být chráněny oba body a Rozcestí není vhodné pro věž.
-
 **Úkoly:**
 
-- Nahlas potvrzené určení a původ nových kostí.
-- Ukaž, která dvě místa je nutné chránit.
+- **U_01_38:** Nahlaš PAXovi dokončenou rekonstrukci a nález z Rozcestí. Vysvětli, proč musí být chráněny oba body a Rozcestí není vhodné pro věž.
+- **U_01_39:** Nahlas potvrzené určení a původ nových kostí.
+- **U_01_40:** Ukaž, která dvě místa je nutné chránit.
 
-**Co je hotový krok:** Centrála zná nový nález a podklad pro ochranu původního staveniště i Rozcestí.
+**Co je hotový krok:**
+
+- **U_01_38**
+  - Hlášení nebo vysvětlení je předané.
+- **U_01_39**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_40**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Centrála zná nový nález a podklad pro ochranu původního staveniště i Rozcestí.
 
 ---
-
+---
 ## 13. Krok 11 — Ověření Travnatého vršku
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 01_18 Stavební karta Travnatého vršku od Centrály: panoramatický snímek volného zálivu, boční profil s nejvyšší zaznamenanou hladinou a minimální výškovou čárou věže, výřez mapy s oběma místy nálezů
+**Nové artefakty na vstupu:** A_01_18 Stavební karta Travnatého vršku od Centrály: panoramatický snímek volného zálivu, boční profil s nejvyšší zaznamenanou hladinou a minimální výškovou čárou věže, výřez mapy s oběma místy nálezů
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 01_18, 01_01 čtyři požadavky, 01_02 pole „Kontrola Travnatého vršku“, 01_03 a 01_05. Na profilu je značka vršku nad oběma čarami; panorama ukazuje nezakrytý záliv; výřez jej umisťuje mimo dva potvrzené body. Legendu čte dospělý.
-
-**Akce dítěte:** Po jedné porovná podmínky se skutečně dostupnými podklady. Do Protokolu označí výsledek každé kontroly.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_18, A_01_01 čtyři požadavky, A_01_02 pole „Kontrola Travnatého vršku“, A_01_03 a A_01_05. Na profilu je značka vršku nad oběma čarami; panorama ukazuje nezakrytý záliv; výřez jej umisťuje mimo dva potvrzené body. Legendu čte dospělý.
 
 **Úkoly:**
 
-- Ověř místo mimo potvrzené naleziště.
-- Ověř, že ho nezaplavuje voda.
-- Ověř nezakrytý výhled a dostatečnou výšku nad zálivem.
+- **U_01_41:** Postupně porovnej podmínky se skutečně dostupnými podklady. Do Protokolu označí výsledek každé kontroly.
+- **U_01_42:** Ověř místo mimo potvrzené naleziště.
+- **U_01_43:** Ověř, že ho nezaplavuje voda.
+- **U_01_44:** Ověř nezakrytý výhled a dostatečnou výšku nad zálivem.
 
-**Co je hotový krok:** Dítě doloží všechny čtyři kontroly: vršek leží nad zakreslenou hladinou i výškovou čárou, má volný výhled a leží mimo potvrzené nálezy. Doporučení není zárukou, že pod zemí žádné další fosilie nejsou.
+**Co je hotový krok:**
+
+- **U_01_41**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_42**
+  - Kontrola je dokončená a její výsledek je určený.
+- **U_01_43**
+  - Kontrola je dokončená a její výsledek je určený.
+- **U_01_44**
+  - Kontrola je dokončená a její výsledek je určený.
+- **Výsledek kroku**
+  - Dítě doloží všechny čtyři kontroly: vršek leží nad zakreslenou hladinou i výškovou čárou, má volný výhled a leží mimo potvrzené nálezy. Doporučení není zárukou, že pod zemí žádné další fosilie nejsou.
 
 ---
-
+---
 ## 14. Krok 12 — Návrh přesunu věže
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] úspěšně doložené kontroly z kroku 11; 01_03 mapa s přesunutelnou značkou věže z předání; 01_02 Protokol, pole „Doporučení pro Centrálu“; 01_05 značicí prostředek
-
-**Akce dítěte:** Přesune značku věže z původního staveniště na Travnatý vršek. Do Protokolu zaznamená doporučení a jeho důvody.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] úspěšně doložené kontroly z kroku 11; A_01_03 mapa s přesunutelnou značkou věže z předání; A_01_02 Protokol, pole „Doporučení pro Centrálu“; A_01_05 značicí prostředek
 
 **Úkoly:**
 
-- Přesuň značku na ověřené místo.
-- Připrav doporučení i důkazy.
+- **U_01_45:** Přesuň značku věže z původního staveniště na Travnatý vršek. Do Protokolu zaznamená doporučení a jeho důvody.
+- **U_01_46:** Přesuň značku na ověřené místo.
+- **U_01_47:** Připrav doporučení i důkazy.
 
-**Co je hotový krok:** Mapa a Protokol obsahují návrh nové polohy věže a chráněné body nálezů. Krok navazuje pouze na dokončené ověření v kroku 11.
+**Co je hotový krok:**
+
+- **U_01_45**
+  - Předmět je na požadovaném místě.
+- **U_01_46**
+  - Předmět je na požadovaném místě.
+- **U_01_47**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Mapa a Protokol obsahují návrh nové polohy věže a chráněné body nálezů. Krok navazuje pouze na dokončené ověření v kroku 11.
 
 ---
-
+---
 ## 15. Krok 12_Report — Doporučení nového stavebního místa
 
 **Label:** Report
 
-**Akce dítěte:** Předá PAXovi doporučení Travnatého vršku a vysvětlí vyřazení ostatních míst. PAX potvrdí změnu stavebního plánu a ochranu původního staveniště a Rozcestí.
-
 **Úkoly:**
 
-- Nahlas nové místo a důkazy.
-- Vysvětli, která místa zůstávají chráněná.
+- **U_01_48:** Předej PAXovi doporučení Travnatého vršku a vysvětlí vyřazení ostatních míst.
+- **U_01_49:** Nahlas nové místo a důkazy.
+- **U_01_50:** Vysvětli, která místa zůstávají chráněná.
 
-**Co je hotový krok:** Centrála přijala podložené doporučení. Potvrzení změny plánu je vstupem závěrečného kroku; není náhradou chybějících důkazů z kroku 11.
+**Co je hotový krok:**
+
+- **U_01_48**
+  - Hlášení nebo vysvětlení je předané.
+- **U_01_49**
+  - Úkol je provedený podle zadání kroku.
+- **U_01_50**
+  - Hlášení nebo vysvětlení je předané.
+- **Výsledek kroku**
+  - Centrála přijala podložené doporučení. Potvrzení změny plánu je vstupem závěrečného kroku; není náhradou chybějících důkazů z kroku 11.
 
 ---
-
+---
 ## 16. Krok 13 — Zdokumentování nálezu a uzavření mise
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 01_19 Kartonový badge PALEONTOLOG
+**Nové artefakty na vstupu:** A_01_19 Kartonový badge PALEONTOLOG
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 01_19 od PAXe po 12_Report; sestavená kostra, 01_02 pole „Uzavření mise“, 01_03, 01_05 a úložná podložka z 01_07. Centrála přijala doporučení vršku pro nový plán a ochranu obou míst, další průzkum před stavbou zůstává její prací.
-
-**Akce dítěte:** Dokončí Protokol, uloží sestavenou kostru společně s dokumentací a přijme specializaci.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_01_19 od PAXe po 12_Report; sestavená kostra, A_01_02 pole „Uzavření mise“, A_01_03, A_01_05 a úložná podložka z A_01_07. Centrála přijala doporučení vršku pro nový plán a ochranu obou míst, další průzkum před stavbou zůstává její prací.
 
 **Úkoly:**
 
-- Zkontroluj záznamy nálezů a rozhodnutí o věži.
-- Ulož kostru jako zdokumentovaný nález.
-- Převezmi specializaci.
+- **U_01_51:** Dokonči Protokol, uloží sestavenou kostru společně s dokumentací a přijme specializaci.
+- **U_01_52:** Zkontroluj záznamy nálezů a rozhodnutí o věži.
+- **U_01_53:** Ulož kostru jako zdokumentovaný nález.
+- **U_01_54:** Převezmi specializaci.
 
-**Co je hotový krok:** Protokol je uzavřený, kostra uložená se záznamem původu, plán věže změněný a oba body nálezů určené k ochraně. Dítě získalo specializaci PALEONTOLOG.
+**Co je hotový krok:**
+
+- **U_01_51**
+  - Výsledek je sestavený podle zadání kroku.
+- **U_01_52**
+  - Kontrola je dokončená a její výsledek je určený.
+- **U_01_53**
+  - Předmět je na požadovaném místě.
+- **U_01_54**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Protokol je uzavřený, kostra uložená se záznamem původu, plán věže změněný a oba body nálezů určené k ochraně. Dítě získalo specializaci PALEONTOLOG.

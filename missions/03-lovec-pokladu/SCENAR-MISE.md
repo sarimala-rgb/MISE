@@ -4,263 +4,352 @@
 
 **Nové artefakty na vstupu:**
 
-- 03_01 Zadání mise – Centrála získala staré pirátské mapy, ale neví, které jsou pravé. Potřebuje najít ztracené osobní razítko kapitána.
-- 03_02 Protokol mise – specifický protokol pro zapisování/označování zjištění během mise.
-- 03_03 Mapa perimetru Centrály – ukazuje Centrálu, pobřežní sektor staré pirátské mapy a předávací místo. Dítě podle ní nejprve najde sektor pátrání.
-- 03_04 Stará pirátská mapa – pracovní mapa vedoucí k prvnímu úkrytu.
-- 03_05 Zapečetěná zásilka 5 neověřených map – nesmí se otevřít, dokud nebude nalezeno pravé kapitánovo razítko.
+- A_03_01 Zadání mise – Centrála získala staré pirátské mapy, ale neví, které jsou pravé. Potřebuje najít ztracené osobní razítko kapitána.
+- A_03_02 Protokol mise – specifický protokol pro zapisování/označování zjištění během mise.
+- A_03_03 Mapa perimetru Centrály – ukazuje Centrálu, pobřežní sektor staré pirátské mapy a předávací místo. Dítě podle ní nejprve najde sektor pátrání.
+- A_03_04 Stará pirátská mapa – pracovní mapa vedoucí k prvnímu úkrytu.
+- A_03_05 Zapečetěná zásilka 5 neověřených map – nesmí se otevřít, dokud nebude nalezeno pravé kapitánovo razítko.
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z BOXU MISE] 03_01 Zadání mise
-- [Z BOXU MISE] 03_02 Protokol mise
-- [Z BOXU MISE] 03_03 Mapa perimetru Centrály
-- [Z BOXU MISE] 03_04 Stará pirátská mapa
-- [Z BOXU MISE] 03_05 Zapečetěná zásilka 5 map
+- [Z BOXU MISE] A_03_01 Zadání mise
+- [Z BOXU MISE] A_03_02 Protokol mise
+- [Z BOXU MISE] A_03_03 Mapa perimetru Centrály
+- [Z BOXU MISE] A_03_04 Stará pirátská mapa
+- [Z BOXU MISE] A_03_05 Zapečetěná zásilka 5 map
 - [Z BOXU MISE] vysílačka
 
-**Akce dítěte:** Dítě převezme M!SI, zjistí, že Centrála potřebuje najít kapitánovo razítko, aby mohla ověřit získané mapy. Zapečetěnou zásilku zatím nesmí otevřít.
+**Úkoly:**
 
-**Úkoly:** Převzít M!SI a pochopit její cíl.
+- **U_03_01:** převezme M!SI, zjistí, že Centrála potřebuje najít kapitánovo razítko, aby mohla ověřit získané mapy. Zapečetěnou zásilku zatím nesmí otevřít.
 
-**Co je hotový krok:** Dítě ví, že hledá ztracené kapitánovo razítko a že zásilku map smí otevřít až po jeho nalezení.
+**Co je hotový krok:**
+
+- **U_03_01**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě ví, že hledá ztracené kapitánovo razítko a že zásilku map smí otevřít až po jeho nalezení.
 
 ---
-
+---
 ## 2. Krok 1_Report — Potvrzení přijetí mise
 
 **Label:** Report
 
-**Akce dítěte:** Dítě potvrdí PAXovi převzetí M!SE.
+**Úkoly:**
 
-**Úkoly:** Potvrdit připravenost k pátrání.
+- **U_03_02:** potvrdí PAXovi převzetí M!SE.
 
-**Co je hotový krok:** PAX ví, že dítě M!SI převzalo a může začít.
+**Co je hotový krok:**
+
+- **U_03_02**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - PAX ví, že dítě M!SI převzalo a může začít.
 
 ---
-
+---
 ## 3. Krok 2 — Orientace pirátské mapy
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 03_06 Sada tří pirátských orientačních značek: kotva, palma, skála
-- 03_07 První kapitánova schránka
-- 03_08 Falešné razítko v první schránce
-- 03_09 Kapitánův vzkaz o zkoušce
-- 03_10 Rozstříhaný náčrtek o deseti velkých dílech, nalezený už v první schránce; původní kód zachován
+- A_03_06 Sada tří pirátských orientačních značek: kotva, palma, skála
+- A_03_07 První kapitánova schránka
+- A_03_08 Falešné razítko v první schránce
+- A_03_09 Kapitánův vzkaz o zkoušce
+- A_03_10 Rozstříhaný náčrtek o deseti velkých dílech, nalezený už v první schránce; původní kód zachován
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 03_03 mapa sektoru, 03_04 stará mapa, 03_06–03_09 a 03_10 připravené průvodcem. Tři různé značky tvoří nestejnostranný trojúhelník. Mapu dítě otáčí, nepřevrací; všechny značky musí souhlasit současně. Schránka leží ve čtvrtém místě zakresleném na staré mapě.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_03 mapa sektoru, A_03_04 stará mapa, A_03_06–A_03_09 a A_03_10 připravené průvodcem. Tři různé značky tvoří nestejnostranný trojúhelník. Mapu dítě otáčí, nepřevrací; všechny značky musí souhlasit současně. Schránka leží ve čtvrtém místě zakresleném na staré mapě.
 
-**Akce dítěte:** Dítě v prostoru najde tři pirátské orientační body odpovídající značkám na mapě. Mapu otáčí a zorientuje ji podle jejich skutečného rozmístění. Ze správně orientované mapy určí čtvrté místo a tam najde ukrytou schránku. Otevře schránku a prohlédne razítko, vzkaz i puzzle. Dospělý přečte kapitánův pokyn: nejdřív ověř razítko, teprve potom slož náčrtek.
+**Úkoly:**
 
-**Úkoly:** Zorientovat starou mapu podle tří bodů v reálném prostoru a podle ní najít první schránku.
+- **U_03_03:** v prostoru najde tři pirátské orientační body odpovídající značkám na mapě. Mapu otáčí a zorientuje ji podle jejich skutečného rozmístění. Ze správně orientované mapy určí čtvrté místo a tam najde ukrytou schránku. Otevři schránku a prohlédne razítko, vzkaz i puzzle.
 
-**Co je hotový krok:** Dítě najde první pirátskou schránku a uvnitř objeví údajné kapitánovo razítko.
+**Co je hotový krok:**
+
+- **U_03_03**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě najde první pirátskou schránku a uvnitř objeví údajné kapitánovo razítko.
 
 ---
-
+---
 ## 4. Krok 2_Report — Nález razítka
 
 **Label:** Report
 
-**Akce dítěte:** Dítě hlásí nalezené razítko a kapitánovu zkoušku. PAX potvrdí potřebu ověření; archivní podklady doručí jako vstup kroku 3.
+**Úkoly:**
 
-**Úkoly:** Nahlásit nález.
+- **U_03_04:** hlásí nalezené razítko a kapitánovu zkoušku.
 
-**Co je hotový krok:** Centrála ví o nálezu. Dítě ví, že nejprve prověří razítko; puzzle má již u sebe.
+**Co je hotový krok:**
+
+- **U_03_04**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Centrála ví o nálezu. Dítě ví, že nejprve prověří razítko; puzzle má již u sebe.
 
 ---
-
+---
 ## 5. Krok 3 — Rekonstrukce kapitánova razítka
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 03_11 Archivní indicie k razítku – obrazový návod určující vzájemnou polohu znaků pravého kapitánova razítka.
-- 03_12 Sada symbolů razítka – fyzické dílky, které dítě podle indicií skládá.
+- A_03_11 Archivní indicie k razítku – obrazový návod určující vzájemnou polohu znaků pravého kapitánova razítka.
+- A_03_12 Sada symbolů razítka – fyzické dílky, které dítě podle indicií skládá.
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 03_11 archivní indicie: lebka je uprostřed, hvězda nad ní, kotva pod ní; 03_12 tři dílky a orientovaná skládací plocha, 03_08 falešné samobarvicí razítko, 03_02 pole „První pečeť“. Podložka obsahuje zkušební okénko. Dospělý čte jednotlivé vztahy, dítě skládá.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_11 archivní indicie: lebka je uprostřed, hvězda nad ní, kotva pod ní; A_03_12 tři dílky a orientovaná skládací plocha, A_03_08 falešné samobarvicí razítko, A_03_02 pole „První pečeť“. Podložka obsahuje zkušební okénko. Dospělý čte jednotlivé vztahy, dítě skládá.
 
-**Akce dítěte:** Sestaví symboly podle tří indicií a udělá zkušební otisk. Otisk falešného razítka má hvězdu pod lebkou a kotvu nad ní. Dítě porovná otisk, nikoli zrcadlovou razicí plochu. V Protokolu zakroužkuje rozdíl a označí padělek.
+**Úkoly:**
 
-**Úkoly:** Zrekonstruovat známou podobu kapitánova razítka a prověřit nález.
+- **U_03_05:** Sestav symboly podle tří indicií a udělá zkušební otisk. Otisk falešného razítka má hvězdu pod lebkou a kotvu nad ní. Dítě porovná otisk, nikoli zrcadlovou razicí plochu. V Protokolu zakroužkuje rozdíl a označí padělek.
 
-**Co je hotový krok:** Dítě na konkrétním rozporu prokáže, že nalezené razítko není pravé.
+**Co je hotový krok:**
+
+- **U_03_05**
+  - Výsledek je sestavený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě na konkrétním rozporu prokáže, že nalezené razítko není pravé.
 
 ---
-
+---
 ## 6. Krok 3_Report — Falešné razítko
 
 **Label:** Report
 
-**Akce dítěte:** Dítě PAXovi oznámí, že razítko je falešné, a vysvětlí, co na něm nesedí.
+**Úkoly:**
 
-**Úkoly:** Nahlásit důkaz o padělku.
+- **U_03_06:** PAXovi oznámí, že razítko je falešné, a vysvětlí, co na něm nesedí.
 
-**Co je hotový krok:** Centrála ví, že nalezené razítko je padělek použitý v kapitánově zkoušce. Schránka a náčrtek zůstávají platnými stopami.
+**Co je hotový krok:**
+
+- **U_03_06**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Centrála ví, že nalezené razítko je padělek použitý v kapitánově zkoušce. Schránka a náčrtek zůstávají platnými stopami.
 
 ---
-
+---
 ## 7. Krok 4 — Kapitánův náčrtek
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 03_10 puzzle a 03_09 kapitánův vzkaz, získané v kroku 2; padělek prokázaný v kroku 3. Náčrtek ukáže stůl označený kotvou, pod ním schránku na mořském dně.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_10 puzzle a A_03_09 kapitánův vzkaz, získané v kroku 2; padělek prokázaný v kroku 3. Náčrtek ukáže stůl označený kotvou, pod ním schránku na mořském dně.
 
-**Akce dítěte:** Dítě složí dílky do jednoho obrázku. Z výsledného náčrtku rozpozná stůl a umístění další schránky pod ním.
+**Úkoly:**
 
-**Úkoly:** Složit náčrtek a zjistit, kde kapitán ukryl další schránku.
+- **U_03_07:** složí dílky do jednoho obrázku. Z výsledného náčrtku rozpozná stůl a umístění další schránky pod ním.
 
-**Co je hotový krok:** Dítě odvodí, že má hledat další schránku pod stolem.
+**Co je hotový krok:**
+
+- **U_03_07**
+  - Výsledek je sestavený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě odvodí, že má hledat další schránku pod stolem.
 
 ---
-
+---
 ## 8. Krok 5 — Potopená schránka
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 03_13 Druhá kapitánova schránka s velkým pevným okem
-- 03_14 Podložka MOŘSKÉ DNO a označení paluby s pravidlem vyzvedávání
+- A_03_13 Druhá kapitánova schránka s velkým pevným okem
+- A_03_14 Podložka MOŘSKÉ DNO a označení paluby s pravidlem vyzvedávání
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 03_10 složený náčrtek, 03_13–03_14. [Z DOMOVA] standardní stůl. Pravidlo na palubě čte PAX před hledáním: „Dole je hluboké moře. Nemáme potápěčskou výbavu. Na dno smí jen hák, ty zůstáváš na palubě.“ Dítě stojí na podlaze vedle stolu, nikdy na desce.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_10 složený náčrtek, A_03_13–A_03_14. [Z DOMOVA] standardní stůl. Pravidlo na palubě čte PAX před hledáním: „Dole je hluboké moře. Nemáme potápěčskou výbavu. Na dno smí jen hák, ty zůstáváš na palubě.“ Dítě stojí na podlaze vedle stolu, nikdy na desce.
 
-**Akce dítěte:** Dítě podle složeného náčrtku najde správné místo. Prostor pod stolem představuje „mořské dno“. Dítě schránku objeví, ale podle pravidel M!SE pro ni nesmí jednoduše sáhnout dolů.
+**Úkoly:**
 
-**Úkoly:** Najít potopenou schránku a zjistit, že ji nelze získat běžným způsobem.
+- **U_03_08:** podle složeného náčrtku najde správné místo. Prostor pod stolem představuje „mořské dno“. Dítě schránku objeví, ale podle pravidel M!SE pro ni nesmí jednoduše sáhnout dolů.
 
-**Co je hotový krok:** Dítě zná polohu schránky, ale potřebuje způsob, jak ji vytáhnout z „hlubin“.
+**Co je hotový krok:**
+
+- **U_03_08**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě zná polohu schránky, ale potřebuje způsob, jak ji vytáhnout z „hlubin“.
 
 ---
-
+---
 ## 9. Krok 5_Report — Schránka na mořském dně
 
 **Label:** Report
 
-**Akce dítěte:** Dítě hlásí PAXovi, že schránku našlo, ale nemůže se k ní dostat. PAX nabídne vybavení Centrály určené k vytahování nákladu.
+**Úkoly:**
 
-**Úkoly:** Popsat PAXovi vzniklý fyzický problém.
+- **U_03_09:** hlásí PAXovi, že schránku našlo, ale nemůže se k ní dostat.
 
-**Co je hotový krok:** PAX přijal popis problému a ohlásil doručení vytahovací sady v kroku 6.
+**Co je hotový krok:**
+
+- **U_03_09**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - PAX přijal popis problému a ohlásil doručení vytahovací sady v kroku 6.
 
 ---
-
+---
 ## 10. Krok 6 — HERO — Stavba kladkostroje
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 03_15 Sada: pevná kladka na nízkém stolním rameni, volná kladka s tupým hákem, jedno lano s dorazy, základna s ochrannou svěrkou, montážní plán a cvičný náklad
+**Nové artefakty na vstupu:** A_03_15 Sada: pevná kladka na nízkém stolním rameni, volná kladka s tupým hákem, jedno lano s dorazy, základna s ochrannou svěrkou, montážní plán a cvičný náklad
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] 03_15 doručí PAX po 5_Report; 03_13 schránka s okem. [Z DOMOVA] stůl. Průvodce upevní a zkontroluje základnu; dítě vede lano z horního úchytu kolem volné kladky, potom přes pevnou kladku k ovládacímu konci. Dospělý pomůže podle potřeby.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_03_15 doručí PAX po 5_Report; A_03_13 schránka s okem. [Z DOMOVA] stůl. Průvodce upevní a zkontroluje základnu; dítě vede lano z horního úchytu kolem volné kladky, potom přes pevnou kladku k ovládacímu konci. Dospělý pomůže podle potřeby.
 
-**Akce dítěte:** Sestaví vytahovací dráhu podle plánu a spustí hák nad cvičný náklad. Před ostrým pokusem jej zdvihne a spustí. Při zaseknutí zkontroluje, zda je lano v drážkách a nekříží se. Základnu opravuje dospělý.
+**Úkoly:**
 
-**Úkoly:** Sestrojit funkční kladkostroj schopný vytáhnout schránku z „mořského dna“.
+- **U_03_10:** Sestav vytahovací dráhu podle plánu a spustí hák nad cvičný náklad. Před ostrým pokusem jej zdvihne a spustí. Při zaseknutí zkontroluje, zda je lano v drážkách a nekříží se. Základnu opravuje dospělý.
 
-**Co je hotový krok:** Cvičný náklad lze bez sklouznutí základny zdvihnout z podložky a kontrolovaně položit. Cíl stavby a testu 15–20 minut, skutečné trvání a kompatibilita svěrky se stolem jsou NEOVĚŘENO.
+**Co je hotový krok:**
+
+- **U_03_10**
+  - Výsledek je sestavený podle zadání kroku.
+- **Výsledek kroku**
+  - Cvičný náklad lze bez sklouznutí základny zdvihnout z podložky a kontrolovaně položit. Cíl stavby a testu 15–20 minut, skutečné trvání a kompatibilita svěrky se stolem jsou NEOVĚŘENO.
 
 ---
-
+---
 ## 11. Krok 7 — Vytažení pokladu
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] otestovaná 03_15 a 03_13 na 03_14, 03_10 náčrtek. Schránka je pod přesahem ramene u kraje stolu, velké oko je vzhůru. Dítě stojí vedle stolu a vede zavěšený hák do oka. Průvodce jistí základnu, neřeší zachycení místo dítěte.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] otestovaná A_03_15 a A_03_13 na A_03_14, A_03_10 náčrtek. Schránka je pod přesahem ramene u kraje stolu, velké oko je vzhůru. Dítě stojí vedle stolu a vede zavěšený hák do oka. Průvodce jistí základnu, neřeší zachycení místo dítěte.
 
-**Akce dítěte:** Dítě pomocí sestaveného kladkostroje zachytí schránku a vytáhne ji z „mořského dna“ nahoru.
+**Úkoly:**
 
-**Úkoly:** Úspěšně vyzvednout schránku.
+- **U_03_11:** pomocí sestaveného kladkostroje zachytí schránku a vytáhne ji z „mořského dna“ nahoru.
 
-**Co je hotový krok:** Schránka je vytažena a dítě ji může otevřít.
+**Co je hotový krok:**
+
+- **U_03_11**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Schránka je vytažena a dítě ji může otevřít.
 
 ---
-
+---
 ## 12. Krok 8 — Pravé kapitánovo razítko
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 03_16 Pravé samobarvicí kapitánovo razítko ve druhé schránce
+**Nové artefakty na vstupu:** A_03_16 Pravé samobarvicí kapitánovo razítko ve druhé schránce
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] 03_16, 03_11–03_12 sestavený vzor, 03_02 pole „Druhá pečeť“ se zkušebním okénkem. Originál má lebku uprostřed, hvězdu nahoře, kotvu dole.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_16, A_03_11–A_03_12 sestavený vzor, A_03_02 pole „Druhá pečeť“ se zkušebním okénkem. Originál má lebku uprostřed, hvězdu nahoře, kotvu dole.
 
-**Akce dítěte:** Otevře vytaženou schránku, provede otisk v Protokolu a porovná všechny tři polohy se sestaveným vzorem. Označí shodu. Razítko potřebuje k závěrečnému potvrzení zásilky, archivní dílky otisk nevytvoří.
+**Úkoly:**
 
-**Úkoly:** Prověřit nalezené razítko.
+- **U_03_12:** Otevři vytaženou schránku, provede otisk v Protokolu a porovná všechny tři polohy se sestaveným vzorem. Označ shodu. Razítko potřebuje k závěrečnému potvrzení zásilky, archivní dílky otisk nevytvoří.
 
-**Co je hotový krok:** Dítě má pravé kapitánovo razítko.
+**Co je hotový krok:**
+
+- **U_03_12**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě má pravé kapitánovo razítko.
 
 ---
-
+---
 ## 13. Krok 8_Report — Originál nalezen
 
 **Label:** Report
 
-**Akce dítěte:** Dítě hlásí PAXovi nález originálu. PAX nyní povolí otevřít zásilku map, kterou dítě dostalo na začátku.
+**Úkoly:**
 
-**Úkoly:** Oznámit Centrále nález.
+- **U_03_13:** hlásí PAXovi nález originálu.
 
-**Co je hotový krok:** Zapečetěná zásilka 03_05 může být otevřena.
+**Co je hotový krok:**
+
+- **U_03_13**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Zapečetěná zásilka A_03_05 může být otevřena.
 
 ---
-
+---
 ## 14. Krok 9 — Ověření pirátských map
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:**
 
-- 03_17 Číselné nálepky 1, 2, 3
-- 03_18 Obálka pro Centrálu
+- A_03_17 Číselné nálepky 1, 2, 3
+- A_03_18 Obálka pro Centrálu
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] povolení PAXe po 8_Report; 03_05 pět map, 03_16 originál, 03_17–03_18, 03_02 pole „Odeslaná trasa“. Tři mapy mají předtištěnou autentizační pečeť ve správném uspořádání; dvě mají vždy jednu jasnou záměnu. Zvláštní prázdné okénko slouží novému potvrzovacímu otisku, horní okénko číslu.
-
-**Akce dítěte:** Dítě otevře 5 map. Podle originálního razítka vybere 3 pravé. Ty potom seřadí podle návaznosti kapitánovy trasy – konec jednoho úseku navazuje na začátek dalšího. Do připravených okének nalepí čísla 1, 2, 3 podle pořadí. Do druhého připraveného okénka na každé pravé mapě udělá otisk kapitánova razítka. Tři připravené mapy vloží do obálky. V Protokolu označí tři po sobě jdoucí úseky a předá obálku průvodci na místě Centrály z mapy. Předtištěnou pečeť nezakrývá novým otiskem.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] povolení PAXe po 8_Report; A_03_05 pět map, A_03_16 originál, A_03_17–A_03_18, A_03_02 pole „Odeslaná trasa“. Tři mapy mají předtištěnou autentizační pečeť ve správném uspořádání; dvě mají vždy jednu jasnou záměnu. Zvláštní prázdné okénko slouží novému potvrzovacímu otisku, horní okénko číslu.
 
 **Úkoly:**
 
-- Rozpoznat 3 pravé mapy.
-- Seřadit je do správného pořadí.
-- Očíslovat je 1–3.
-- Ověřit je razítkem.
-- Zabalit je pro Centrálu.
+- **U_03_14:** otevře 5 map. Podle originálního razítka vybere 3 pravé. Ty potom seřadí podle návaznosti kapitánovy trasy – konec jednoho úseku navazuje na začátek dalšího. Do připravených okének nalepí čísla 1, 2, 3 podle pořadí. Do druhého připraveného okénka na každé pravé mapě udělá otisk kapitánova razítka. Tři připravené mapy vloží do obálky. V Protokolu označí tři po sobě jdoucí úseky a předá obálku průvodci na místě Centrály z mapy. Předtištěnou pečeť nezakrývá novým otiskem.
+- **U_03_15:** Rozpoznat 3 pravé mapy.
+- **U_03_16:** Seřadit je do správného pořadí.
+- **U_03_17:** Očíslovat je 1–3.
+- **U_03_18:** Ověřit je razítkem.
+- **U_03_19:** Zabalit je pro Centrálu.
 
-**Co je hotový krok:** Dítě vybralo tři pravé mapy, seřadilo přístav → maják → jeskyně → ostrov, nalepilo čísla 1–3 a přidalo potvrzovací otisky. Obálka byla fyzicky předána Centrále.
+**Co je hotový krok:**
+
+- **U_03_14**
+  - Úkol je provedený podle zadání kroku.
+- **U_03_15**
+  - Úkol je provedený podle zadání kroku.
+- **U_03_16**
+  - Úkol je provedený podle zadání kroku.
+- **U_03_17**
+  - Úkol je provedený podle zadání kroku.
+- **U_03_18**
+  - Kontrola je dokončená a její výsledek je určený.
+- **U_03_19**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě vybralo tři pravé mapy, seřadilo přístav → maják → jeskyně → ostrov, nalepilo čísla 1–3 a přidalo potvrzovací otisky. Obálka byla fyzicky předána Centrále.
 
 ---
-
+---
 ## 15. Krok 9_Report — Expedice připravena
 
 **Label:** Report
 
-**Akce dítěte:** Dítě nahlásí PAXovi složení a odeslání ověřené trasy. Průvodce potvrdí přijetí obálky předané v kroku 9.
+**Úkoly:**
 
-**Úkoly:** Předat Centrále ověřenou trasu.
+- **U_03_20:** nahlásí PAXovi složení a odeslání ověřené trasy.
 
-**Co je hotový krok:** Centrála může podle dítětem ověřených a seřazených map vyslat další tým za novým pokladem.
+**Co je hotový krok:**
+
+- **U_03_20**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Centrála může podle dítětem ověřených a seřazených map vyslat další tým za novým pokladem.
 
 ---
-
+---
 ## 16. Krok 10 — Uzavření M!SE
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** 03_19 Specializace LOVEC POKLADŮ
+**Nové artefakty na vstupu:** A_03_19 Specializace LOVEC POKLADŮ
 
 **Co potřebuje dítě k vyřešení kroku:**
 
-- [Z BOXU MISE] 03_19 Specializace LOVEC POKLADŮ
-- [Z BOXU MISE] 03_16 Pravé kapitánovo razítko
+- [Z BOXU MISE] A_03_19 Specializace LOVEC POKLADŮ
+- [Z BOXU MISE] A_03_16 Pravé kapitánovo razítko
 
-**Akce dítěte:** Dítě přijme specializaci a ponechá si pravé kapitánovo razítko.
+**Úkoly:**
 
-**Úkoly:** Dokončit M!SI.
+- **U_03_21:** přijme specializaci a ponechá si pravé kapitánovo razítko.
 
-**Co je hotový krok:** Dítě získává specializaci LOVEC POKLADŮ a kapitánovo razítko mu zůstává jako fyzická památka na M!SI.
+**Co je hotový krok:**
+
+- **U_03_21**
+  - Úkol je provedený podle zadání kroku.
+- **Výsledek kroku**
+  - Dítě získává specializaci LOVEC POKLADŮ a kapitánovo razítko mu zůstává jako fyzická památka na M!SI.

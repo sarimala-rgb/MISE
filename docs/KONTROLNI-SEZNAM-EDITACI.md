@@ -7,5 +7,6 @@
 - Po úpravě zkontroluji konzistenci všech dotčených souborů stejného účelu; nezůstane stará podoba ani výjimka bez výslovného rozhodnutí.
 - U artefaktů ověřím jejich číslování, návaznost a všechny odkazy ve scénáři.
 - U scénářů ověřím návaznost kroků, dostupnost informací pro dítě a rozdíl mezi krokem `Akce` a `Report`.
+- Ve scénáři ověřím formát všech kódů: artefakty `A_XX_YY`, úkoly `U_XX_YY` a shodné kódy u jejich podmínek dokončení.
 - Po každé editaci spustím kontrolu kódování češtiny a opravím všechny nalezené chyby před odesláním.
 - Před odesláním stručně zkontroluji rozsah změny, aby se nezměnilo nic mimo zadání.
