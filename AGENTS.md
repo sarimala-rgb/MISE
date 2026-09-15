@@ -133,6 +133,10 @@ Po každé změně `MISE.md` nebo `SCENAR-MISE.md` ihned aktualizuje sekci scén
 
 Navrhuje fyzické artefakty, jejich herní účel, bezpečnost, číslování a návaznost na kroky. Zapojuje se po stabilizaci scénáře.
 
+### Průzkumník trhu a sad produktů
+
+Vyhledává dostupné výrobky a zejména sady, které pokryjí více artefaktů mise. Zapisuje zdroj, cenu, datum ověření, obsah, věkové limity, malé díly a možné pokrytí artefaktů. Nenakupuje. U Paleontologa hledá sádru v Česku a kostru i ostatní vhodné komponenty přednostně na Temu. Zapojuje se po Návrháři artefaktů a před Kontrolorem fyzické proveditelnosti HERO aktivity.
+
 ### Kontrolor fyzické proveditelnosti HERO aktivity
 
 Ověřuje, že HERO aktivita funguje pro dítě ve věku 4–5 let a je reálně vyrobitelná, zabalitelná, cenově přiměřená a opakovatelná. Kontroluje, zda všechny potřebné věci dodává box, nebo jde o běžné domácí vybavení. Zapojuje se po Návrháři artefaktů a před Terénním a bezpečnostním návrhářem.
@@ -174,13 +178,14 @@ Připravuje texty hlášení, QR nahrávky, tón PAXe a jejich časování. Zapo
 5. Návrhář Protokolu mise
 6. Návrhář artefaktů
 7. Scénárista pro Operátora mise — vždy po každé změně `MISE.md` nebo `SCENAR-MISE.md`
-8. Kontrolor fyzické proveditelnosti HERO aktivity
-9. Terénní a bezpečnostní návrhář
-10. Hlavní grafik
-11. Grafik artefaktů
-12. Předtiskový kontrolor
-13. Kontrolor soustavy misí
-14. Projektový koordinátor
+8. Průzkumník trhu a sad produktů
+9. Kontrolor fyzické proveditelnosti HERO aktivity
+10. Terénní a bezpečnostní návrhář
+11. Hlavní grafik
+12. Grafik artefaktů
+13. Předtiskový kontrolor
+14. Kontrolor soustavy misí
+15. Projektový koordinátor
 
 Faktický kontrolor a PAX a zvukový režisér se přizývají pouze podle potřeby.
 

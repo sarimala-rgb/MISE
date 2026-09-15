@@ -97,7 +97,7 @@ Schváleno uživatelem 11. 9. 2026:
 
 ## 10. Schválený systém agentů
 
-Projekt používá tyto role: Projektový koordinátor, Kontrolor soustavy misí, Herní režisér, Scénárista mise, Kontrolor řešitelnosti dítěte, Editor dětského zadání, Návrhář Protokolu mise, Návrhář artefaktů, Scénárista pro Operátora mise, Kontrolor fyzické proveditelnosti HERO aktivity, Terénní a bezpečnostní návrhář, Hlavní grafik, Grafik artefaktů, Předtiskový kontrolor, Faktický kontrolor a PAX a zvukový režisér.
+Projekt používá tyto role: Projektový koordinátor, Kontrolor soustavy misí, Herní režisér, Scénárista mise, Kontrolor řešitelnosti dítěte, Editor dětského zadání, Návrhář Protokolu mise, Návrhář artefaktů, Scénárista pro Operátora mise, Průzkumník trhu a sad produktů, Kontrolor fyzické proveditelnosti HERO aktivity, Terénní a bezpečnostní návrhář, Hlavní grafik, Grafik artefaktů, Předtiskový kontrolor, Faktický kontrolor a PAX a zvukový režisér.
 
 Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `AGENTS.md`. Faktický kontrolor a PAX a zvukový režisér se přizývají jen podle potřeby.
 
@@ -112,4 +112,5 @@ Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `A
 - `P_05 — Chráněná místa` obsahuje ochranné značky původního staveniště i Rozcestí.
 - Dětský scénář Reportů používá větu „Řekni Operátorovi, co jsi zjistil.“ PAXovy texty se dopracují v pozdější fázi.
 - Výkopovým materiálem HERO aktivity Paleontologa je skutečný sádrový blok. Jeho přesnou velikost a rozdělení dílů určí kontrola po výběru konkrétní rozebíratelné kostry.
+- Pro Paleontologa se sádra kupuje v Česku. Rozebíratelná kostra a ostatní vhodné komponenty se hledají přednostně na Temu; přednost dostávají sady pokrývající více potřeb mise.
 

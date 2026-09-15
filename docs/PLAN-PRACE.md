@@ -2,8 +2,7 @@
 
 ## Samostatně pokračovat
 
-- Pilot: **Tajemství dávných obrů**. Protokol i artefakty jsou textově připravené pro obecnou rozebíratelnou kostru ve skutečném sádrovém bloku. Po výběru fyzického produktu se ověří rozdělení dílů, velikost bloku a bezpečnost výkopu.
-- Paleontolog: nahradit neurčité podmínky dokončení konkrétními ověřitelnými výsledky bez změny schváleného děje.
+- Pilot: **Tajemství dávných obrů**. Průzkum trhu je založen v `PRUZKUM-TRHU.md`; po ručním výběru konkrétní kostry z Temu se ověří rozdělení dílů, velikost bloku a bezpečnost výkopu s českou sádrou.
 - Zpřesnit konkrétní podmínky dokončení úkolů ve všech scénářích bez změny schváleného děje.
 - Po každé změně spustit kontrolu struktury scénářů a kódování češtiny.
 

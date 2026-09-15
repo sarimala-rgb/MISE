@@ -96,6 +96,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/OPERATOR.md`.
 **Čeká na rozhodnutí:** ne
 
+## 2026-09-15 — První průzkum trhu pro Paleontologa
+
+**Role:** Průzkumník trhu a sad produktů
+**Dokončeno:** Vznikl průzkum Temu pro velkou rozebíratelnou kostru a pomocné sady a porovnání tří českých sádrových materiálů.
+**Ověřeno:** Temu nebylo možné přímo ověřit; záznam proto obsahuje pouze přesné vyhledávací výrazy a žádné vymyšlené ceny. Pro první fyzický test jsou doloženi čeští kandidáti sádry.
+**Předání:** Po ručním výběru konkrétní kostry z Temu provede Kontrolor fyzické proveditelnosti HERO aktivity test rozměru dílů, zalití, výkopu, prachu, balení a opakovatelnosti.
+**Soubory:** `docs/PRUZKUM-TRHU.md`, `agents/pruzkumnik-trhu-a-sad-produktu.md`.
+**Čeká na rozhodnutí:** ne
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor
