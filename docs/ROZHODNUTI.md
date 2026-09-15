@@ -107,4 +107,5 @@ Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `A
 - Operátor mise vybírá pro hledání Rozcestí z několika bezpečných míst v domácím prostoru. Každé možné místo musí nést stejný symbol Rozcestí.
 - Protokol používá předtištěné obrázky a dítě je označuje zakroužkováním; dítě nepíše volné poznámky.
 - Pro první nález se nepoužívá atlas s více dinosaury. Dítě nejprve pouze odkryje neúplnou část jedné rozebíratelné kostry; druh zjišťuje až po připojení výrazné chybějící části z Rozcestí.
+- Stavební karta Travnatého vršku je jeden list rozdělený na čtyři velké obrazové důkazy: mimo nálezy, nad vodou, volný výhled a dostatečná výška.
 

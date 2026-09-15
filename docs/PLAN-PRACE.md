@@ -2,7 +2,7 @@
 
 ## Samostatně pokračovat
 
-- Pilot: **Tajemství dávných obrů**. HERO aktivita, kostra, Protokol a způsob hledání Rozcestí jsou schválené. Vznikly počáteční části Protokolu ve všech misích. Pilot čeká na rozhodnutí 10 v `OPEN-QUESTIONS.md`, potom pokračuje Editorem dětského zadání a Návrhářem artefaktů.
+- Pilot: **Tajemství dávných obrů**. HERO aktivita, kostra, Protokol, způsob hledání Rozcestí i stavební karta jsou schválené. Vznikly počáteční části Protokolu ve všech misích. Pilot pokračuje Editorem dětského zadání a Návrhářem artefaktů.
 - Zpřesnit konkrétní podmínky dokončení úkolů ve všech scénářích bez změny schváleného děje.
 - Po každé změně spustit kontrolu struktury scénářů a kódování češtiny.
 
@@ -10,7 +10,7 @@
 
 - Rozhodnutí uvedená v `OPEN-QUESTIONS.md`.
 - Vizuální systém před finální grafikou.
-- Rozhodnutí 1–5 a 10 v `OPEN-QUESTIONS.md`.
+- Rozhodnutí 1–5 v `OPEN-QUESTIONS.md`.
 
 ## Pravidlo aktualizace
 

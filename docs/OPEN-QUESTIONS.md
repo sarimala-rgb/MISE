@@ -32,12 +32,6 @@ Je potřeba rozhodnout barevnou paletu, typografii, ikony, rozměry artefaktů a
 
 **Doporučení:** nejdřív dokončit pilot Paleontologa, potom vytvořit vizuální zadání a jeho varianty.
 
-## 10. Stavební karta Travnatého vršku
-
-V kroku 11 dítě ověřuje čtyři věci o Travnatém vršku: je mimo nálezy, nezaplavuje ho voda, je z něj výhled a je dost vysoko. Má dostat všechny čtyři důkazy na jednom archu, nebo každý důkaz jako samostatnou malou kartičku?
-
-**Doporučení:** jeden arch rozdělený na čtyři velké obrázky. Dítě se neztrácí mezi kartičkami, ale může po obrázcích postupovat jeden po druhém.
-
 ## Mimo rozhodování uživatele
 
 Fyzická ověření jednotlivých misí jsou vedená v [OTAZKY-KE-SCENARUM.md](OTAZKY-KE-SCENARUM.md) jako pracovní testovací backlog. Nejde o seznam rozhodnutí čekajících na uživatele.
