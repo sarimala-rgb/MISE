@@ -42,6 +42,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `missions/*/PROTOKOL.md`, `missions/*/SCENAR-MISE.md`, `docs/PRAVIDLA-MISI.md`, `agents/navrhar-protokolu-mise.md`.
 **Čeká na rozhodnutí:** ano — podoba stavebního důkazu Travnatého vršku.
 
+## 2026-09-15 — Dětské znění Paleontologa
+
+**Role:** Editor dětského zadání
+**Dokončeno:** Navržené zkrácení úkolů pro věk 4–5 let a konkrétní zápisy do částí `P_01` až `P_11`.
+**Ověřeno:** Úkoly lze formulovat jednou až třemi krátkými větami bez odborných výrazů; Protokol může používat zakroužkování obrazových symbolů.
+**Předání:** Návrhář Protokolu mise po rozhodnutích 11 a 12 upraví jednotlivé stránky pracovního sešitu; Návrhář artefaktů naváže na konkrétní rozebíratelnou kostru.
+**Soubory:** `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/PROTOKOL.md`, `docs/OPEN-QUESTIONS.md`.
+**Čeká na rozhodnutí:** ano
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor
