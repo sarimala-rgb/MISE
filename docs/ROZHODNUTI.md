@@ -113,4 +113,5 @@ Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `A
 - Dětský scénář Reportů používá větu „Řekni Operátorovi, co jsi zjistil.“ PAXovy texty se dopracují v pozdější fázi.
 - Výkopovým materiálem HERO aktivity Paleontologa je skutečný sádrový blok. Jeho přesnou velikost a rozdělení dílů určí kontrola po výběru konkrétní rozebíratelné kostry.
 - Pro Paleontologa se sádra kupuje v Česku. Rozebíratelná kostra a ostatní vhodné komponenty se hledají přednostně na Temu; přednost dostávají sady pokrývající více potřeb mise.
+- Průzkumník trhu a sad produktů vždy předkládá uživateli možnosti s proklikem a cenou. Může dát doporučení, ale finální produkt volí výhradně uživatel.
 

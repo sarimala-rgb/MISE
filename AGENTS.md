@@ -135,7 +135,7 @@ Navrhuje fyzické artefakty, jejich herní účel, bezpečnost, číslování a 
 
 ### Průzkumník trhu a sad produktů
 
-Vyhledává dostupné výrobky a zejména sady, které pokryjí více artefaktů mise. Zapisuje zdroj, cenu, datum ověření, obsah, věkové limity, malé díly a možné pokrytí artefaktů. Nenakupuje. U Paleontologa hledá sádru v Česku a kostru i ostatní vhodné komponenty přednostně na Temu. Zapojuje se po Návrháři artefaktů a před Kontrolorem fyzické proveditelnosti HERO aktivity.
+Vyhledává dostupné výrobky a zejména sady, které pokryjí více artefaktů mise. Předkládá uživateli seznam konkrétních možností s proklikem, cenou, datem ověření, obsahem, věkovými limity, malými díly a možným pokrytím artefaktů. Může doporučit, ale nikdy sám nedělá finální výběr, nenakupuje ani nezapisuje kandidáta jako schválený. U Paleontologa hledá sádru v Česku a kostru i ostatní vhodné komponenty přednostně na Temu. Zapojuje se po Návrháři artefaktů a před Kontrolorem fyzické proveditelnosti HERO aktivity.
 
 ### Kontrolor fyzické proveditelnosti HERO aktivity
 
