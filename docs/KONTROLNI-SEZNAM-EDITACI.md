@@ -9,6 +9,8 @@
 - U HERO aktivity ověřím dětskou manipulaci, obsah boxu, běžnou dostupnost domácích potřeb, balení, opakovatelnost a přiměřenost nákladů; neověřené fyzické předpoklady označím `NEOVĚŘENO`.
 - U scénářů ověřím návaznost kroků, dostupnost informací pro dítě a rozdíl mezi krokem `Akce` a `Report`.
 - Po každé změně `MISE.md` nebo `SCENAR-MISE.md` spustím Scénáristu pro Operátora mise a ověřím soulad s odpovídajícím `OPERATOR.md`.
+- Po změně děje, úkolů nebo důkazů spustím Herního režiséra a Kontrolora řešitelnosti dítěte; po změně artefaktů nebo HERO aktivity spustím Návrháře artefaktů a Kontrolora fyzické proveditelnosti HERO aktivity.
+- Neuzavřu revizi, dokud návazné role nepředají výsledek a Kontrolor soustavy misí neověří soulad scénáře s `OPERATOR.md`.
 - Ve scénáři ověřím formát všech kódů: artefakty `A_XX_YY`, úkoly `U_XX_YY` a shodné kódy u jejich podmínek dokončení.
 - Po každé změně scénáře spustím `scripts/Test-ScenarioStructure.ps1`.
 - Po každé editaci spustím kontrolu kódování češtiny a opravím všechny nalezené chyby před odesláním.

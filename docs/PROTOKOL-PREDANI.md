@@ -2,6 +2,8 @@
 
 Každá role předává další roli jen dokončený a ověřený výstup. Předání se zapíše do `LOG-PRACE.md`.
 
+Projektový koordinátor po změně mise aktivně spouští návazné role podle matice v `AGENTS.md`; nesmí předání nahradit vlastním zkráceným review.
+
 ## Povinný obsah předání
 
 - dokončené soubory,

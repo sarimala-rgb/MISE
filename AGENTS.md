@@ -189,6 +189,18 @@ Připravuje texty hlášení, QR nahrávky, tón PAXe a jejich časování. Zapo
 
 Faktický kontrolor a PAX a zvukový režisér se přizývají pouze podle potřeby.
 
+### Povinné automatické spuštění návazných rolí
+
+Projektový koordinátor nesmí nahrazovat role vlastní neoznačenou prací. Po změně musí spustit odpovídající role a počkat na jejich předání:
+
+- po změně děje, kroků, úkolů nebo důkazů: Herní režisér a Kontrolor řešitelnosti dítěte;
+- po změně artefaktu, HERO aktivity, instalace nebo domácích potřeb: Návrhář artefaktů a Kontrolor fyzické proveditelnosti HERO aktivity; při pohybu či bezpečnosti také Terénní a bezpečnostní návrhář;
+- po každé změně `MISE.md` nebo `SCENAR-MISE.md`: Scénárista pro Operátora mise;
+- po každé aktualizaci `OPERATOR.md`: Kontrolor soustavy misí ověří soulad `MISE.md` → `SCENAR-MISE.md` → `OPERATOR.md`;
+- před uzavřením větší revize: Projektový koordinátor zapíše výsledky do logu, aktualizuje plán a spustí automatické kontroly.
+
+Pokud review najde samostatně opravitelnou chybu, Scénárista mise ji opraví. Potom se znovu spustí všechny role, které změna ovlivnila. Pokud review vyžaduje rozhodnutí uživatele, Projektový koordinátor připraví konkrétní možnosti a nepokračuje závislým krokem bez rozhodnutí.
+
 ---
 
 ## 8. Pracovní log agentů

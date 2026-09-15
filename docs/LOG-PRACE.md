@@ -113,3 +113,12 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Předání:** Další úkol lze zadat podle `TEMPLATE-UKOLU.md` příslušné roli.
 **Soubory:** `agents/`, `docs/TEMPLATE-UKOLU.md`, `docs/PROTOKOL-PREDANI.md`, `docs/PRAVIDLA-MISI.md`, `scripts/Test-ScenarioStructure.ps1`.
 **Čeká na rozhodnutí:** ne
+
+## 2026-09-15 — Povinné spuštění návazných rolí a audit Draků
+
+**Role:** Projektový koordinátor; Herní režisér; Kontrolor řešitelnosti dítěte; Kontrolor fyzické proveditelnosti HERO aktivity
+**Dokončeno:** Závazně nastaveno, že koordinátor po každé změně skutečně spustí příslušné navazující role a počká na jejich předání. Proběhly tři nezávislé read-only kontroly mise Po stopách draka.
+**Ověřeno:** Herní oblouk a HERO sekvence fungují. Kontroly našly samostatně opravitelné duplicity úkolů, neurčité podmínky dokončení, nedostatečně připravené vizuální důkazy a chybějící úplný scénář pro Operátora. Fyzický prototyp vyžaduje přesné rozměry, hmotnost a materiál vejce, nosítka a hnízda.
+**Předání:** Scénárista mise provede zkrácení duplicit a zpřesnění podle auditů; před tím čeká pouze rozhodnutí k rozsahu mise v otevřené otázce 1. Poté se automaticky znovu spustí Herní režisér, Kontrolor řešitelnosti, Scénárista pro Operátora, Kontrolor soustavy misí a podle změn také návrháři artefaktů a HERO kontroly.
+**Soubory:** `AGENTS.md`, `docs/KONTROLNI-SEZNAM-EDITACI.md`, `docs/PROTOKOL-PREDANI.md`, `missions/02-strazce-draku/`.
+**Čeká na rozhodnutí:** ano — společný rozsah mise v `docs/OPEN-QUESTIONS.md`, otázka 1.
