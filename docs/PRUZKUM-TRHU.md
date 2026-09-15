@@ -77,3 +77,18 @@ Tento soubor zachycuje časově omezené produktové rešerše. Není schválen�
 - **Věk a bezpečnost:** Nejde o dětskou hračku. Prášek připravuje Operátor mimo dosah dítěte; před zařazením je nutný test vytvrzeného bloku, prachu a snadnosti vyproštění kostry.
 - **Pokrývá:** materiál všech tří sádrových bloků.
 - **Verdikt:** levný alternativní kandidát. Nevybírat jen podle ceny; rozhodne srovnávací fyzický test s konkrétní kostrou.
+
+## Po stopách draka — 2026-09-15
+
+### Kandidáti pro dračí vejce A_02_21–A_02_22
+
+- **Potřeba:** omyvatelné, nerozbitné vejce přibližně 10 × 7,5 cm a 80–100 g; bez baterie a volných dílů. Slouží jako skutečné vejce i jako referenční rozměr pro nosítko a hnízdo.
+
+| Varianta | Cena a parametry | Verdikt |
+| --- | --- | --- |
+| [Mini křišťálové šroubovací dračí vejce — Allegro](https://allegro.cz/produkt/mini-kristalove-draci-vejce-draci-vejce-sroubovaci-draci-vejce-a21f1e72-ced6-4545-9da0-6fdefba88e7b) | 164 Kč; 10 × 8 cm; 72 g; syntetický materiál. Ověřeno 2026-09-15. | **Doporučený kandidát pro první prototyp.** Rozměr je téměř přesný, ale před nákupem je nutné ověřit věkové značení, pevnost spoje a zda se neotevře při přenášení. |
+| [Dračí vejce s drakem — Allegro](https://allegro.cz/produkt/3d-tistena-draci-vejce-kloubova-hracka-drak-22cm-535f1fa5-a2e0-4c36-870e-55cb6400be12) | 260 Kč; vejce asi 8,5 × 8,5 × 13 cm; obsahuje kloubového draka. Ověřeno 2026-09-15. | Vhodné jen jako větší prémiová varianta. Rozměr by zvětšil nosítko i box; ověřit malé díly a věkové značení. |
+| [Dračí vejce — Dráčkov](https://drackov.cz/produkt?dracek=Dra%C4%8D%C3%AD+vejce) | 250 Kč; délka 9 cm; 80 g; PLA. Ověřeno 2026-09-15. | **Nevhodné pro dětský prototyp:** prodejce uvádí, že nejde o certifikovanou hračku. |
+| [2 ks svítících dračích vajec s pohyblivým drakem — Temu](https://www.temu.com/subject/n2/search--a-psurl.html?search_key=--toy) | 2,90 €; cena ověřena ve výsledku vyhledávání 2026-09-15. Rozměry, věk a malé díly nejsou ověřené. | **Nevolit bez ruční kontroly detailu nabídky.** Přednost má bezpečnost a ověřené parametry, ne nízká cena. |
+
+- **Rozhodnutí uživatele:** žádný produkt nebyl vybrán ani zakoupen. Po volbě konkrétního vejce se odvodí přesný rozměr nosítka A_02_26, zátěže A_02_27 a hnízda A_02_29.
