@@ -115,3 +115,11 @@ Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `A
 - Pro Paleontologa se sádra kupuje v Česku. Rozebíratelná kostra a ostatní vhodné komponenty se hledají přednostně na Temu; přednost dostávají sady pokrývající více potřeb mise.
 - Průzkumník trhu a sad produktů vždy předkládá uživateli možnosti s proklikem a cenou. Může dát doporučení, ale finální produkt volí výhradně uživatel.
 
+## 12. Draci — návrat draka k novému hnízdu
+
+Schváleno uživatelem 15. 9. 2026:
+
+- Po dokončení nového hnízda dítě poblíž umístí nenápadný fyzický signální maják.
+- Maják vysílá signál slyšitelný jen drakem. Dítě se poté vzdálí a drak nové hnízdo najde samo.
+- PAX ani mapa nedostávají přesnou polohu vejce; mapa nese pouze obecný symbol chráněné oblasti.
+

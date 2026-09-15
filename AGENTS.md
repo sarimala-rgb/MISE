@@ -201,6 +201,8 @@ Projektový koordinátor nesmí nahrazovat role vlastní neoznačenou prací. Po
 
 Pokud review najde samostatně opravitelnou chybu, Scénárista mise ji opraví. Potom se znovu spustí všechny role, které změna ovlivnila. Pokud review vyžaduje rozhodnutí uživatele, Projektový koordinátor připraví konkrétní možnosti a nepokračuje závislým krokem bez rozhodnutí.
 
+Projektový koordinátor nesmí uživateli označit práci za dokončenou ani uzavřít pracovní běh, dokud nejsou splněny všechny tři podmínky: navazující role jsou skutečně spuštěné, jejich předání je zapsané v `docs/LOG-PRACE.md` a uživatel dostal stručný viditelný přehled jejich verdiktů. U probíhající práce vždy uvede, která konkrétní role právě běží a co má dodat.
+
 ---
 
 ## 8. Pracovní log agentů
