@@ -249,25 +249,25 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 ### Krok 17 — Aktualizace mapy
 
-**Operátor mise:** Předdej A_02_31. „Poslední stopa byla u rozvětveného stromu. Najdi stejný strom na mapě a vedle něj označ původní hnízdo jako kompromitované. V legendě označ společný symbol chráněné oblasti Centrály. Stejný symbol zakroužkuj také v P_10. Přesný bod nového hnízda ani maják na mapu nezapisuj.“
+**Operátor mise:** Předdej A_02_31. „Poslední stopa byla u rozvětveného stromu. Najdi stejný strom na mapě a vedle něj označ původní hnízdo jako kompromitované. Podle obrazového znaku vybraného místa najdi na mapě přesný bod nového hnízda. Označ ho štítem s dračím křídlem jako chráněné místo Centrály a stejný štít zakroužkuj také v P_10. Maják na mapu nezapisuj.“
 
-**Poznámky:** Původní hnízdo dítě odvodí z poslední stopy u rozvětveného stromu a z toho, že hnízdo našlo až za ní. Symbol chráněné oblasti chrání polohu hnízda; nesmí ukazovat přesný bod.
+**Poznámky:** Původní hnízdo dítě odvodí z poslední stopy u rozvětveného stromu a z toho, že hnízdo našlo až za ní. Obrazový znak z vybraného místa v kroku 13 odpovídá jednomu bodu na mapě. PAX dostane přesný bod jen jako chráněný záznam Centrály. Maják se nikdy nezapisuje, protože funguje samostatně jako signál pro draka.
 
-**Podmínky dokončení:** U rozvětveného stromu je na mapě značka kompromitovaného původního hnízda. Legenda mapy i P_10 obsahují společný symbol chráněné oblasti Centrály; přesný bod nového hnízda ani maják na mapě nejsou.
+**Podmínky dokončení:** U rozvětveného stromu je na mapě značka kompromitovaného původního hnízda. Přesný bod nového hnízda je označený štítem s dračím křídlem a stejný štít je zakroužkovaný v P_10. Maják na mapě ani v Protokolu není.
 
 ### Krok 17_Report — Závěrečné operační hlášení
 
-**Operátor mise:** „Podej závěrečné hlášení: co se stalo s původním hnízdem a jak je vejce teď chráněné?“
+**Operátor mise:** „Podej závěrečné hlášení: co se stalo s původním hnízdem, kde Centrála eviduje nové chráněné hnízdo a jak je vejce teď chráněné?“
 
-**Podmínky dokončení:** Dítě předá stav původního hnízda a uvede, že vejce je chráněné, aniž by prozradilo jeho přesnou polohu.
+**Podmínky dokončení:** Dítě předá stav původního hnízda, uvede přesný bod nového chráněného hnízda zaznamenaný pro Centrálu a řekne, že maják zůstává samostatným signálem pro návrat draka.
 
 ### Krok 18 — Odeslání mapy PAXovi
 
 **Operátor mise:** Předdej A_02_32. „Vlož aktualizovanou mapu do obálky a předej ji Centrále.“
 
-**PAX:** „Mapu jsem převzal jako záznam chráněné oblasti. Přesný bod nového hnízda neznám a draka nenavádím. O návrat draka se postará maják, který jsi správně umístil.“
+**PAX:** „Mapu jsem převzal. Přesný bod nového hnízda eviduji jako chráněné místo Centrály. Draka k němu nenavádím; cestu si najde sám podle majáku, který jsi správně umístil.“
 
-**Podmínky dokončení:** Aktualizovaná mapa je v návratové obálce a Operátor ji převzal pouze jako obecný záznam ochrany oblasti.
+**Podmínky dokončení:** Aktualizovaná mapa s přesným bodem nového chráněného hnízda je v návratové obálce a Operátor ji předal PAXovi k evidenci Centrály. Maják v mapě uvedený není.
 
 ### Krok 19 — Udělení specializace
 

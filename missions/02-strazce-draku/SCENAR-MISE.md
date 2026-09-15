@@ -507,7 +507,7 @@
 - A_02_25 Nouzový protokol ochrany dračího vejce včetně karty bezpečné přepravy
 - A_02_26 Konstrukční sada nosítka: skládací pevná základna, čtyři bočnice, dvě široká držadla, výstelka, spojovací pásky a obrázkový plán
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_02_25–A_02_26 od PAXe po 9_Report; záznam A_02_23 a vejce na původním místě. Protokol říká: prozrazený sektor vyžaduje chráněné náhradní hnízdo. Vejce lze přemístit až po testu nosítka, kontrole nového hnízda a výslovném povolení PAXe. Draka nevede PAX ani mapa: dítě po dokončení nového hnízda umístí vedle něj předem aktivovaný maják, který vnímá jen drak.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_02_25–A_02_26 od PAXe po 9_Report; záznam A_02_23 a vejce na původním místě. Protokol říká: prozrazený sektor vyžaduje chráněné náhradní hnízdo. Vejce lze přemístit až po testu nosítka, kontrole nového hnízda a výslovném povolení PAXe. Dítě po dokončení nového hnízda umístí vedle něj předem aktivovaný maják, který vnímá jen drak; PAX draka nenavádí.
 
 **Zápis do Protokolu:** P_06 — Polož každý díl A_02_26 na jeho předtištěný obrys: jednu základnu, čtyři bočnice, dvě držadla, jednu výstelku a spojovací pásky. Tím připravíš díly pro krok 11.
 
@@ -610,18 +610,18 @@
 
 **Nové artefakty na vstupu:** A_02_28 Kontrolní karta nového hnízda s pěti obrazovými značkami: suché místo, rovný podklad, mimo prozrazený sektor, mimo průchozí cestu a kryté z pohledu od původní trasy
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_25, A_02_28, mapa; po úspěšném 12_Report PAX povolil hledání místa. Průvodce předem označí v prostoru pouze dvě značky: prozrazený sektor a průchozí cestu. Karta A_02_28 obsahuje pět předtištěných piktogramů. U každého kandidátního místa dítě ověří suchost a rovnost zrakem či dotykem; pak se postaví na označený bod původní trasy. Operátor položí do kandidátního místa velký bezpečný symbol z A_02_28 a dítě rozhodne, zda jej z bodu vidí. Místo je kryté, když symbol nevidí. Nejméně dvě místa splňují všech pět značek.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_25, A_02_28, mapa A_02_03; po úspěšném 12_Report PAX povolil hledání místa. Průvodce předem označí v prostoru pouze dvě značky: prozrazený sektor a průchozí cestu. Každé kandidátní místo má stejný jednoduchý obrazový orientační znak jako odpovídající místo na mapě. Karta A_02_28 obsahuje pět předtištěných piktogramů. U každého kandidátního místa dítě ověří suchost a rovnost zrakem či dotykem; pak se postaví na označený bod původní trasy. Operátor položí do kandidátního místa velký bezpečný symbol z A_02_28 a dítě rozhodne, zda jej z bodu vidí. Místo je kryté, když symbol nevidí. Nejméně dvě místa splňují všech pět značek.
 
 **Zápis do Protokolu:** P_08 — U vybraného místa zakroužkuj ano u pěti znaků: suchá kapka, rovný podklad, mimo prozrazený sektor, mimo cestu a velký bezpečný symbol není vidět z bodu původní trasy.
 
 **Úkoly:**
 
-- **U_02_68:** Vyber vhodné nové místo podle požadavků a z bodu původní trasy ověř krytí: velký bezpečný symbol v kandidátním místě nesmí být vidět.
+- **U_02_68:** Vyber vhodné nové místo podle požadavků, z bodu původní trasy ověř krytí a zapamatuj si jeho obrazový orientační znak z mapy: velký bezpečný symbol v kandidátním místě nesmí být vidět.
 
 **Co je hotový krok:**
 
 - **U_02_68**
-  - Vybrané místo má všech pět ověřitelných značek A_02_28: je suché, rovné, mimo starý sektor, mimo průchozí cestu a z označeného bodu původní trasy z něj není vidět velký bezpečný symbol.
+  - Vybrané místo má všech pět ověřitelných značek A_02_28: je suché, rovné, mimo starý sektor, mimo průchozí cestu a z označeného bodu původní trasy z něj není vidět velký bezpečný symbol; dítě rozpozná jeho shodný orientační znak na mapě A_02_03.
 - **Výsledek kroku**
   - Nová lokalita je vybraná.
 
@@ -764,13 +764,13 @@
 - **U_02_78**
   - Vejce je stabilně ve výstelce, z původní trasy není vidět a vstup pro draka zůstává volný.
 - **U_02_79**
-  - Značka ochrany je uvnitř hnízda a nezveřejňuje jeho polohu.
+  - Značka ochrany je uvnitř hnízda a z původní trasy není viditelná.
 - **U_02_80**
-  - Aktivní maják leží vedle hnízda, nedotýká se vejce a jeho poloha není nikde zapsaná.
+  - Aktivní maják leží vedle hnízda, nedotýká se vejce a jeho poloha není zapsaná na mapě ani v Protokolu.
 - **U_02_81**
   - Z označeného bodu původní trasy dítě nevidí ani hnízdo, ani maják; potom s Operátorem opustilo prostor hnízda po předem určené bezpečné trase.
 - **Výsledek kroku**
-  - Hnízdo je zajištěné, dítě je opustilo a maják zůstává u hnízda, aby je drak našel bez předání přesného bodu PAXovi.
+  - Hnízdo je zajištěné, dítě je opustilo a maják zůstává u hnízda, aby je drak našel nezávisle na evidenci přesného bodu PAXem.
 
 ---
 ---
@@ -791,21 +791,21 @@
 - [Z BOXU MISE] A_02_02 Protokol mise
 - [Z TERÉNU] Poslední stopa A_02_20 u rozvětveného stromu: stejný strom je na mapě a hnízdo dítě objevilo až za ním v kroku 8.
 
-**Zápis do Protokolu:** P_10 — Zakroužkuj štít s dračím křídlem jako symbol chráněné oblasti; přesný bod nového hnízda ani maják nezapisuj.
+**Zápis do Protokolu:** P_10 — Zakroužkuj štít s dračím křídlem jako značku chráněného nového hnízda a stejný štít najdi na vybraném přesném bodu mapy. Maják nezapisuj.
 
 **Úkoly:**
 
 - **U_02_82:** Na mapě najdi rozvětvený strom, stejný jako u poslední stopy původní trasy, a vedle něj označ původní hnízdo jako kompromitované.
-- **U_02_83:** V legendě mapy označ společný symbol chráněné oblasti Centrály; stejný symbol najdi také v P_10. Symbol neukazuje přesný bod nového hnízda ani maják.
+- **U_02_83:** Podle obrazového orientačního znaku vybraného místa najdi na mapě jeho přesný bod, označ jej štítem s dračím křídlem jako chráněné nové hnízdo a stejný štít zakroužkuj v P_10. Maják na mapu ani do Protokolu neznač.
 
 **Co je hotový krok:**
 
 - **U_02_82**
   - U rozvětveného stromu na mapě je značka kompromitovaného původního hnízda.
 - **U_02_83**
-  - Legenda mapy obsahuje společný symbol chráněné oblasti Centrály a stejný symbol je zakroužkovaný v P_10; na mapě není označen přesný bod nového hnízda ani maják.
+  - Přesný bod vybraného nového hnízda je na mapě označený štítem s dračím křídlem a stejný štít je zakroužkovaný v P_10; maják není označený ani na mapě, ani v Protokolu.
 - **Výsledek kroku**
-  - Mapa a Protokol shodně obsahují ochranu oblasti bez zveřejnění přesné polohy nového hnízda.
+  - Mapa i P_10 shodně označují přesný bod nového hnízda jako chráněný; maják zůstává mimo oba záznamy.
 
 ---
 ---
@@ -855,7 +855,7 @@
 - **U_02_92**
   - Předmět je na požadovaném místě.
 - **Výsledek kroku**
-  - Centrála převzala mapu pouze pro záznam ochrany oblasti. Mapa neobsahuje přesný bod nového hnízda ani maják; PAX draka nenavádí. Draka k novému hnízdu přivádí předem aktivovaný maják umístěný dítětem v kroku 16.
+  - Centrála převzala mapu s přesným bodem nového chráněného hnízda k evidenci. Mapa neobsahuje maják; PAX draka nenavádí. Draka k novému hnízdu přivádí předem aktivovaný maják umístěný dítětem v kroku 16.
 
 ---
 ---
@@ -870,7 +870,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_02_33 od PAXe po převzetí mapy, A_02_02 dokončený Protokol a zachráněné vejce v chráněném hnízdě.
 
-**Zápis do Protokolu:** P_11 — Zakroužkuj badge STRÁŽCE DRAKŮ vedle chráněného vejce, odeslané mapy a štítu s dračím křídlem; přesný bod hnízda ani maják neoznačuj.
+**Zápis do Protokolu:** P_11 — Zakroužkuj badge STRÁŽCE DRAKŮ vedle chráněného vejce, odeslané mapy a štítu s dračím křídlem. Maják neoznačuj.
 
 **Úkoly:**
 

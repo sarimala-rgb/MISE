@@ -121,5 +121,5 @@ Schváleno uživatelem 15. 9. 2026:
 
 - Po dokončení nového hnízda dítě poblíž umístí nenápadný fyzický signální maják.
 - Maják vysílá signál slyšitelný jen drakem. Dítě se poté vzdálí a drak nové hnízdo najde samo.
-- PAX ani mapa nedostávají přesnou polohu vejce; mapa nese pouze obecný symbol chráněné oblasti.
+- Dítě na mapě označí přesný bod nového hnízda jako chráněné místo a předá mapu PAXovi k evidenci. Maják se do mapy ani Protokolu nezapisuje; slouží pouze samostatnému návratu draka.
 

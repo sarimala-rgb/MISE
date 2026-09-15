@@ -49,3 +49,6 @@ V perimetru Centrály vypukl požár a bezpečnostní brána byla narušena. Bez
 Najdi na mapě požár a poškozenou bránu. Potom porovnej důkazní fotografie.
 
 ## 3. Potvrzená fakta a rozhodnutí
+
+- Přesný bod nového hnízda se označí na mapě Centrály jako chráněné místo a PAX jej po převzetí mapy eviduje.
+- Signální maják pro draka se do mapy ani Protokolu nezapisuje; jeho funkce je nezávislá na evidenci Centrály.

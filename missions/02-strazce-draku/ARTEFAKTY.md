@@ -2,7 +2,7 @@
 | --- | --- | --- |
 | **A_02_01** | 1_1 | Zadání mise |
 | **A_02_02** | 1_2 | Protokol mise |
-| **A_02_03** | 1_3 | Mapa perimetru Centrály |
+| **A_02_03** | 1_3 | Mapa perimetru Centrály s vyznačenými kandidátními místy pro možné nové hnízdo. Každé kandidátní místo má stejný jednoduchý obrazový orientační znak jako odpovídající místo v terénu; dítě tak po výběru bezpečného místa dokáže označit jeho přesný bod na mapě. |
 | **A_02_04** | 1_4 | Fotografie důkaz A – místo požáru |
 | **A_02_05** | 1_5 | Fotografie důkaz B – neobvykle velká stopa |
 | **A_02_06** | 1_6 | Fotografie důkaz C – narušení perimetru |
@@ -30,7 +30,7 @@
 | **A_02_28** | 13_1 | Kontrolní karta nového hnízda s pěti předtištěnými piktogramy: suchá kapka, rovný podklad, přeškrtnutý prozrazený sektor, přeškrtnutá cesta a přeškrtnuté oko z původní trasy. Operátor předem označí pouze prozrazený sektor a průchozí cestu; dítě na vybraném místě ověřuje suchost a rovnost pozorováním nebo dotykem. Krytí ověří z označeného bodu původní trasy: Operátor položí do kandidátního místa velký bezpečný symbol a místo je kryté, když jej dítě nevidí. Karta slouží také ke kontrole hotového hnízda v kroku 14. |
 | **A_02_29** | 14_1 | Speciální materiály pro nové hnízdo: skládací podložka, výstelka, ochranný lem a neprůhledná krycí zástěna. Zástěna chrání hnízdo jen z původní trasy; protilehlá strana hnízda zůstává otevřená pro draka. |
 | **A_02_30** | 16_1 | Vnitřní značka ochrany Strážce draků — ukládá se do hnízda, z původní trasy není viditelná |
-| **A_02_31** | 17_1 | Sada mapových značek Centrály: značka kompromitovaného původního hnízda a jediný abstraktní symbol chráněné oblasti (štít s dračím křídlem). Dítě označí kompromitované místo na mapě; symbol chráněné oblasti patří pouze do legendy mapy a do P_10. Symbol neoznačuje přesný bod nového hnízda. |
+| **A_02_31** | 17_1 | Sada mapových značek Centrály: značka kompromitovaného původního hnízda a značka chráněného nového hnízda (štít s dračím křídlem). Dítě označí obě místa na mapě: původní hnízdo jako kompromitované a vybraný přesný bod nového hnízda jako chráněný. Mapa se pak předá pouze PAXovi k evidenci chráněného místa. Značka neoznačuje ani neprozrazuje maják. |
 | **A_02_32** | 18_1 | Návratová obálka pro PAXe |
 | **A_02_33** | 19_1 | Badge STRÁŽCE DRAKŮ |
 | **A_02_34** | 16_2 | Nenápadný signální maják pro návrat draka. Dítě jej po dokončení nového hnízda položí vedle hnízda, ale mimo vejce a bez označení na mapě. Maják je příběhově předem aktivovaný, uzavřený předmět M!SE: vysílá signál slyšitelný jen drakem, aby drak mohl nové hnízdo najít sám. Dítě jej neotevírá, nemačká ani nenastavuje; po umístění se vzdálí po bezpečné předem určené trase. Box obsahuje jeden hotový maják bez volných dílů. Z domova je potřeba jen běžný rovný nebo suchý bezpečný prostor u hotového hnízda. **NEOVĚŘENO — fyzická specifikace:** rozměr, hmotnost, materiál, způsob stabilního položení, odolnost vůči běžnému domácímu či venkovnímu povrchu, zabalitelnost a cena vyžadují prototyp; maják nesmí mít malé oddělitelné části, ostré hrany, přístupnou baterii ani vyžadovat skutečný zvuk. |
