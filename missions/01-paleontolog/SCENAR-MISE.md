@@ -61,11 +61,11 @@
 **Co je hotový krok:**
 
 - **U_01_05**
-  - Úkol je provedený podle zadání kroku.
+  - Části kostry jsou vyjmuté z prvního bloku, uložené spolu a označené symbolem staveniště.
 - **U_01_06**
   - Nález je odkrytý a připravený pro další práci.
 - **U_01_07**
-  - Požadované označení nebo záznam je provedený.
+  - V P_02 je zakroužkované staveniště a obrázek kostí z prvního vzorku.
 - **Výsledek kroku**
   - Části z prvního bloku jsou vyjmuté a přiřazené ke staveništi; lze je porovnávat a skládat.
 
@@ -98,7 +98,7 @@
 - **U_01_09**
   - Dítě ukáže na obrazovém podkladu alespoň jednu chybějící výraznou část.
 - **U_01_10**
-  - Výsledek je sestavený podle zadání kroku.
+  - Každá vyjmutá část leží na odpovídajícím místě neúplného obrysu kostry.
 - **U_01_11**
   - V části P_03 je zakroužkovaná neúplná kostra.
 - **Výsledek kroku**
@@ -134,11 +134,11 @@
 - **U_01_12**
   - Nález je odkrytý a připravený pro další práci.
 - **U_01_13**
-  - Kontrola je dokončená a její výsledek je určený.
+  - Předmět z druhého bloku je porovnaný s ověřovací kartou.
 - **U_01_14**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě ukáže otvor pro osu a vroubkovaný okraj, které spojují kolečko s vozíkem na kartě.
 - **U_01_15**
-  - Úkol je provedený podle zadání kroku.
+  - V P_04 jsou kosti označené jako nález a kolečko jako předmět, který není zkamenělina.
 - **Výsledek kroku**
   - Dítě ukáže shodu kolečka s doloženým předmětem na kartě, označí druhý vzorek jako novodobý předmět a první jako paleontologický nález. Rozhodnutí nestojí pouze na materiálu.
 
@@ -169,11 +169,11 @@
 **Co je hotový krok:**
 
 - **U_01_16**
-  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+  - Dítě ukáže kost a stopu na fotografiích a rozliší je od kolečka z druhého bloku.
 - **U_01_17**
   - Znáš odpověď a dokážeš ji doložit dostupnými podklady.
 - **U_01_18**
-  - Požadované označení nebo záznam je provedený.
+  - Původní staveniště je na mapě označené jako nevhodné pro věž a v P_05 má ochrannou značku.
 - **Výsledek kroku**
   - Protokol a mapa zachycují doložené nálezy na staveništi a důvod nepokračovat ve stavbě. Vyloučený předmět skutečné nálezy neruší.
 
@@ -195,7 +195,7 @@
 **Co je hotový krok:**
 
 - **U_01_19**
-  - Hlášení nebo vysvětlení je předané.
+  - Operátor slyšel, že kost je skutečný nález a že pokračování stavby by ji mohlo poškodit.
 - **Výsledek kroku**
   - PAX zná důkazy; zastavení stavby a povolení hledání jsou předané jako vstup kroku 6.
 
@@ -231,13 +231,13 @@
 **Co je hotový krok:**
 
 - **U_01_20**
-  - Úkol je provedený podle zadání kroku.
+  - Na mapě jsou Lesní louka i Pobřežní plošina vyřazené a v P_06 je u každého místa zakroužkovaný jeho důvod.
 - **U_01_21**
-  - Kontrola je dokončená a její výsledek je určený.
+  - Dítě ukáže stromy, které na fotografii Lesní louky zakrývají záliv.
 - **U_01_22**
-  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+  - Dítě ukáže, že stejná Pobřežní plošina je na snímku při vysoké vodě zaplavená.
 - **U_01_23**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě u každého vyřazeného místa ukáže fotografický důkaz, proč pro věž nevyhovuje.
 - **Výsledek kroku**
   - Lesní louka je vyřazená kvůli výhledu, Pobřežní plošina kvůli zaplavování. Rozcestí a Travnatý vršek zůstávají neověřené.
 
@@ -268,7 +268,7 @@
 **Co je hotový krok:**
 
 - **U_01_24**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě ukáže shodný symbol Rozcestí na mapě, předávacím lístku a nalezeném bloku R.
 - **U_01_25**
   - Znáš odpověď a dokážeš ji doložit dostupnými podklady.
 - **U_01_26**
@@ -303,11 +303,11 @@
 **Co je hotový krok:**
 
 - **U_01_27**
-  - Úkol je provedený podle zadání kroku.
+  - Další části kostry jsou vyjmuté z bloku R a zůstávají oddělené od prvního nálezu.
 - **U_01_28**
   - Nález je odkrytý a připravený pro další práci.
 - **U_01_29**
-  - Požadované označení nebo záznam je provedený.
+  - V P_07 je zakroužkované Rozcestí a obrázek kostí z tohoto místa.
 - **Výsledek kroku**
   - Nové části jsou vyjmuté a zdokumentované jako nález z Rozcestí.
 
@@ -336,11 +336,11 @@
 **Co je hotový krok:**
 
 - **U_01_30**
-  - Výsledek je sestavený podle zadání kroku.
+  - Části z obou nálezů jsou spojené do jedné úplné kostry podle obrazového podkladu.
 - **U_01_31**
-  - Výsledek je sestavený podle zadání kroku.
+  - Žádné vyznačené místo na obrysu kostry nezůstalo prázdné.
 - **U_01_32**
-  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+  - Hotová kostra tvarem odpovídá obrázku dinosaura na podkladu.
 - **U_01_33**
   - Dítě ukáže na hotovou kostru a řekne, že jde o dinosaura.
 - **Výsledek kroku**
@@ -371,13 +371,13 @@
 **Co je hotový krok:**
 
 - **U_01_34**
-  - Úkol je provedený podle zadání kroku.
+  - Na mapě jsou původní staveniště i Rozcestí označené jako místa určená k ochraně.
 - **U_01_35**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě ukáže na mapě oba body skutečných nálezů.
 - **U_01_36**
-  - Požadované označení nebo záznam je provedený.
+  - V P_05 jsou zakroužkované ochranné značky u staveniště i Rozcestí.
 - **U_01_37**
-  - Úkol je provedený podle zadání kroku.
+  - Rozcestí je na mapě přeškrtnuté mezi možnostmi pro věž.
 - **Výsledek kroku**
   - V mapě jsou dva doložené body nálezů označené k ochraně a Rozcestí je vyřazeno. Dítě nekreslí hranici mezi body; rozsah ochranného území určí další odborný průzkum. Sestavitelný herní model není důkazem, že kosti patří jedinému jedinci.
 
@@ -401,11 +401,11 @@
 **Co je hotový krok:**
 
 - **U_01_38**
-  - Hlášení nebo vysvětlení je předané.
+  - Operátor slyšel, že dokončená kostra i nález z Rozcestí vyžadují ochranu obou míst.
 - **U_01_39**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě Operátorovi řekne, že nové části pocházejí z Rozcestí a po spojení tvoří kostru dinosaura.
 - **U_01_40**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě ukáže původní staveniště i Rozcestí jako dvě chráněná místa.
 - **Výsledek kroku**
   - Centrála zná nový nález a podklad pro ochranu původního staveniště i Rozcestí.
 
@@ -434,13 +434,13 @@
 **Co je hotový krok:**
 
 - **U_01_41**
-  - Úkol je provedený podle zadání kroku.
+  - V P_09 jsou u všech čtyř obrazových důkazů Travnatého vršku zakroužkované výsledky.
 - **U_01_42**
-  - Kontrola je dokončená a její výsledek je určený.
+  - Dítě na stavební kartě ukáže, že Travnatý vršek leží mimo dvě označená místa nálezů.
 - **U_01_43**
-  - Kontrola je dokončená a její výsledek je určený.
+  - Dítě na stavební kartě ukáže, že Travnatý vršek je nad vyznačenou hladinou vody.
 - **U_01_44**
-  - Kontrola je dokončená a její výsledek je určený.
+  - Dítě na stavební kartě ukáže volný výhled a značku dostatečné výšky nad zálivem.
 - **Výsledek kroku**
   - Dítě doloží všechny čtyři kontroly: vršek leží nad zakreslenou hladinou i výškovou čárou, má volný výhled a leží mimo potvrzené nálezy. Doporučení není zárukou, že pod zemí žádné další fosilie nejsou.
 
@@ -468,11 +468,11 @@
 **Co je hotový krok:**
 
 - **U_01_45**
-  - Předmět je na požadovaném místě.
+  - Značka věže je přesunutá z původního staveniště na Travnatý vršek.
 - **U_01_46**
-  - Předmět je na požadovaném místě.
+  - Značka věže stojí na jediném dosud nevyřazeném místě, Travnatém vršku.
 - **U_01_47**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě umí ukázat čtyři důkazy ze stavební karty, na kterých doporučení stojí.
 - **Výsledek kroku**
   - Mapa a Protokol obsahují návrh nové polohy věže a chráněné body nálezů. Krok navazuje pouze na dokončené ověření v kroku 11.
 
@@ -496,11 +496,11 @@
 **Co je hotový krok:**
 
 - **U_01_48**
-  - Hlášení nebo vysvětlení je předané.
+  - Operátor slyšel doporučení Travnatého vršku.
 - **U_01_49**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě Operátorovi řekne název doporučeného místa a uvede alespoň jeden důkaz ze stavební karty.
 - **U_01_50**
-  - Hlášení nebo vysvětlení je předané.
+  - Dítě Operátorovi ukáže původní staveniště a Rozcestí jako chráněná místa.
 - **Výsledek kroku**
   - Centrála přijala podložené doporučení. Potvrzení změny plánu je vstupem závěrečného kroku; není náhradou chybějících důkazů z kroku 11.
 
@@ -529,12 +529,12 @@
 **Co je hotový krok:**
 
 - **U_01_51**
-  - Výsledek je sestavený podle zadání kroku.
+  - V P_11 jsou zakroužkované uložená kostra, dokončený Protokol a badge PALEONTOLOG.
 - **U_01_52**
-  - Kontrola je dokončená a její výsledek je určený.
+  - Dítě v Protokolu ukáže záznamy obou nálezů, obě chráněná místa a Travnatý vršek jako doporučení.
 - **U_01_53**
-  - Předmět je na požadovaném místě.
+  - Kostra leží na úložné podložce společně se záznamem svého původu.
 - **U_01_54**
-  - Úkol je provedený podle zadání kroku.
+  - Dítě převezme kartonový badge PALEONTOLOG.
 - **Výsledek kroku**
   - Protokol je uzavřený, kostra uložená se záznamem původu, plán věže změněný a oba body nálezů určené k ochraně. Dítě získalo specializaci PALEONTOLOG.

@@ -103,7 +103,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** P_04 — dítě u kostí zakroužkuje „nález“ a u kolečka „není zkamenělina“.
 
-**Krok je hotový:** Dítě označilo první vzorek jako paleontologický nález a kolečko jako novodobý předmět; ví, že rozhodnutí nestojí jen na materiálu.
+**Krok je hotový:** Dítě ukáže otvor pro osu a vroubkovaný okraj kolečka shodný s vozíkem na ověřovací kartě. V P_04 jsou kosti označené jako nález a kolečko jako předmět, který není zkamenělina.
 
 **Následuje:** Předej fotografie původní kosti a stopy.
 
@@ -115,7 +115,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** P_05 — dítě zakroužkuje ochrannou značku u původního staveniště.
 
-**Krok je hotový:** Mapa a Protokol zachycují doložené nálezy na staveništi i důvod, proč tam stavba nemá pokračovat.
+**Krok je hotový:** Dítě ukáže kost a stopu na fotografiích a rozliší je od kolečka. Původní staveniště je na mapě označené jako nevhodné pro věž a v P_05 má ochrannou značku.
 
 **Následuje:** Vyzvi dítě k reportu.
 
@@ -153,7 +153,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** Bez zápisu.
 
-**Krok je hotový:** Dítě našlo blok R a ověřilo jeho původ. Jeho obsah zatím nezná.
+**Krok je hotový:** Dítě ukáže shodný symbol Rozcestí na mapě, předávacím lístku a nalezeném bloku R. Obsah bloku zatím nezná.
 
 **Následuje:** Připrav pracovní plochu pro výkop z Rozcestí.
 
@@ -165,7 +165,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** P_07 — dítě zakroužkuje Rozcestí a obrázek kostí z tohoto místa.
 
-**Krok je hotový:** Nové části jsou vyjmuté a zdokumentované jako nález z Rozcestí.
+**Krok je hotový:** Další části kostry jsou vyjmuté z bloku R, zůstávají oddělené od prvního nálezu a v P_07 je zakroužkované Rozcestí i obrázek kostí z tohoto místa.
 
 **Následuje:** Vrať dítě k obrazovému podkladu a oběma sadám dílů.
 
@@ -177,7 +177,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** P_08 — dítě zakroužkuje úplnou kostru a obrázek dinosaura.
 
-**Krok je hotový:** Úplná kostra odpovídá obrazovému podkladu; Protokol zachycuje neúplnou i hotovou kostru.
+**Krok je hotový:** Části z obou nálezů jsou spojené do jedné kostry podle obrazového podkladu a žádné vyznačené místo nezůstalo prázdné. Dítě ukáže na hotovou kostru a řekne, že jde o dinosaura.
 
 **Následuje:** Předej mapu a značicí prostředek pro označení chráněných míst.
 
@@ -199,7 +199,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** Bez zápisu.
 
-**Krok je hotový:** Dítě předalo Operátorovi potvrzené určení a původ nových kostí.
+**Krok je hotový:** Dítě Operátorovi řekne, že nové části pocházejí z Rozcestí a po spojení tvoří kostru dinosaura. Současně ukáže původní staveniště i Rozcestí jako dvě chráněná místa.
 
 **Následuje:** Předej stavební kartu Travnatého vršku.
 
@@ -215,7 +215,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** P_09 — dítě u každého ze čtyř obrázků zakroužkuje „splněno“.
 
-**Krok je hotový:** Dítě doložilo všechny čtyři kontroly na stavební kartě. Vršek je vhodným doporučením, ne zárukou, že pod zemí nejsou další fosilie.
+**Krok je hotový:** V P_09 jsou u všech čtyř obrazových důkazů zakroužkované výsledky. Dítě na kartě ukáže, že vršek leží mimo chráněná místa, nad vyznačenou hladinou vody, má volný výhled a dostatečnou výšku nad zálivem.
 
 **Následuje:** Připrav mapu s přesunutelnou značkou věže.
 
@@ -227,7 +227,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** P_10 — dítě zakroužkuje Travnatý vršek jako nové místo pro věž.
 
-**Krok je hotový:** Mapa i Protokol obsahují návrh nové polohy věže a oba chráněné body nálezů.
+**Krok je hotový:** Značka věže je přesunutá z původního staveniště na Travnatý vršek, jediný dosud nevyřazený kandidát. Dítě umí ukázat čtyři důkazy ze stavební karty, na kterých doporučení stojí.
 
 **Následuje:** Vyzvi dítě k závěrečnému doporučení.
 
@@ -237,7 +237,7 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** Bez zápisu.
 
-**Krok je hotový:** Dítě předalo Operátorovi podložené doporučení.
+**Krok je hotový:** Operátor slyšel doporučení Travnatého vršku. Dítě uvede alespoň jeden důkaz ze stavební karty a ukáže původní staveniště i Rozcestí jako chráněná místa.
 
 **Následuje:** Předej A_01_19 badge PALEONTOLOG a připrav úložnou podložku kostry.
 
@@ -249,4 +249,4 @@ Mise je pro jedno dítě ve věku **4–5 let**. U čtení, luštění a stavby 
 
 **Protokol:** P_11 — dítě zakroužkuje uloženou kostru, dokončený Protokol a badge PALEONTOLOG.
 
-**Krok je hotový:** Protokol je uzavřený, kostra uložená se záznamem původu, plán věže změněný a oba body nálezů určené k ochraně. Dítě získalo specializaci PALEONTOLOG.
+**Krok je hotový:** V P_11 jsou zakroužkované uložená kostra, dokončený Protokol a badge PALEONTOLOG. Dítě v Protokolu ukáže oba nálezy, dvě chráněná místa a Travnatý vršek jako doporučení; kostra leží na úložné podložce se záznamem původu.

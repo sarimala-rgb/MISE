@@ -87,6 +87,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `missions/01-paleontolog/OPERATOR.md`, `agents/scenarista-pro-operatora-mise.md`, `agents/kontrolor-soustavy-misi.md`, `AGENTS.md`, `docs/PROTOKOL-PREDANI.md`.
 **Čeká na rozhodnutí:** ne
 
+## 2026-09-15 — Konkrétní podmínky dokončení Paleontologa
+
+**Role:** Scénárista mise, Scénárista pro Operátora mise a Kontrolor soustavy misí
+**Dokončeno:** Všechny neurčité podmínky dokončení v Paleontologovi byly nahrazeny ověřitelnými stavy: konkrétním předmětem, zápisem v Protokolu, důkazem na kartě, stavem mapy nebo hlášením dítěte. Operátorský scénář byl podle nich aktualizován.
+**Ověřeno:** Kontrola neurčitých formulací je čistá; `Test-ScenarioStructure.ps1`, `Test-CzechEncoding.ps1` a nezávislá kontrola shody `SCENAR-MISE.md` → `OPERATOR.md` prošly.
+**Předání:** Příští krok Paleontologa je fyzický prototyp po výběru konkrétní rozebíratelné kostry.
+**Soubory:** `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/OPERATOR.md`.
+**Čeká na rozhodnutí:** ne
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor
