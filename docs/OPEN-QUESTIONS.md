@@ -32,12 +32,6 @@ Je potřeba rozhodnout barevnou paletu, typografii, ikony, rozměry artefaktů a
 
 **Doporučení:** nejdřív dokončit pilot Paleontologa, potom vytvořit vizuální zadání a jeho varianty.
 
-## 6. HERO aktivita Paleontologa
-
-Má být HERO aktivitou souvislý oblouk „vykopat a sestavit kostru“, rozdělený příběhem mezi staveniště a Rozcestí?
-
-**Doporučení:** ano.
-
 ## 7. Atlas první kostry Paleontologa
 
 Má po prvním výkopu zůstat jedna pravděpodobná možnost dinosaura, nebo dvě rovnocenné možnosti, které rozhodne až hlava a ocas z Rozcestí?
@@ -49,12 +43,6 @@ Má po prvním výkopu zůstat jedna pravděpodobná možnost dinosaura, nebo dv
 Má dítě označovat obrázková pole zakroužkováním, nebo používat samolepky?
 
 **Doporučení:** předtištěné obrázky a zakroužkování nebo posunutí žetonu; dítě nemusí psát.
-
-## 9. Hledání Rozcestí doma
-
-Má instalační plán určit jedno pevné místo úkrytu, nebo umožnit Operátorovi vybrat z několika bezpečných míst označených stejným symbolem Rozcestí?
-
-**Doporučení:** Operátor volí z několika bezpečných míst.
 
 ## 10. Stavební karta Travnatého vršku
 

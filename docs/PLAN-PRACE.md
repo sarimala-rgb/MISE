@@ -2,7 +2,7 @@
 
 ## Samostatně pokračovat
 
-- Pilot: **Tajemství dávných obrů**. Herní režisér a Kontrolor řešitelnosti dítěte dokončili čtecí review. Pilot čeká na rozhodnutí 6–10 v `OPEN-QUESTIONS.md`, potom pokračuje Editorem dětského zadání a Návrhářem artefaktů.
+- Pilot: **Tajemství dávných obrů**. HERO aktivita i způsob hledání Rozcestí jsou schválené. Pilot čeká na rozhodnutí 7, 8 a 10 v `OPEN-QUESTIONS.md`, potom pokračuje Editorem dětského zadání a Návrhářem artefaktů.
 - Zpřesnit konkrétní podmínky dokončení úkolů ve všech scénářích bez změny schváleného děje.
 - Po každé změně spustit kontrolu struktury scénářů a kódování češtiny.
 

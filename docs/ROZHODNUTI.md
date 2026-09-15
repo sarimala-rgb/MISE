@@ -101,3 +101,8 @@ Projekt používá tyto role: Projektový koordinátor, Kontrolor soustavy misí
 
 Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `AGENTS.md`. Faktický kontrolor a PAX a zvukový režisér se přizývají jen podle potřeby.
 
+## 11. Paleontolog — potvrzený rámec HERO aktivity
+
+- HERO aktivitou mise je souvislý oblouk **vykopat a sestavit kostru**, rozdělený příběhem mezi staveniště a Rozcestí.
+- Operátor mise vybírá pro hledání Rozcestí z několika bezpečných míst v domácím prostoru. Každé možné místo musí nést stejný symbol Rozcestí.
+
