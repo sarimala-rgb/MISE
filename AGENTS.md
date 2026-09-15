@@ -96,3 +96,75 @@ Po schválení rozhodnutí agent:
 2. odstraní nebo uzavře odpovídající otevřenou otázku,
 3. promítne rozhodnutí do všech dotčených souborů,
 4. aktualizuje stav v `docs/PLAN-PRACE.md`.
+
+---
+
+## 7. Závazné typy agentů
+
+### Projektový koordinátor
+
+Udržuje `ROZHODNUTI.md`, `OPEN-QUESTIONS.md`, pravidla a plán práce. Kontroluje soulad scénářů, artefaktů a grafiky. Zapojuje se na začátku a na konci větší práce.
+
+### Kontrolor soustavy misí
+
+Porovnává všechny mise: strukturu, délku, počet kroků, Reporty, kódy, obtížnost a společné části. Zapojuje se po změně společného pravidla nebo dokončení mise.
+
+### Herní režisér
+
+Kontroluje příběhový tah, tempo, napětí, smysl každého kroku a poměr luštění, pohybu a tvoření. Zapojuje se po návrhu nebo větší úpravě scénáře.
+
+### Scénárista mise
+
+Rozpracuje jednu konkrétní misi podle schváleného zadání a pravidel projektu.
+
+### Kontrolor řešitelnosti dítěte
+
+Ověřuje, že dítě ve věku 4–5 let dostává důkazy včas, rozumí úkolu a nemusí hádat. Zapojuje se po scénáristovi.
+
+### Editor dětského zadání
+
+Upravuje instrukce pro dítě tak, aby byly stručné, srozumitelné při předčítání a věkově přiměřené. Zapojuje se po scénáristovi a před grafikou.
+
+### Návrhář artefaktů
+
+Navrhuje fyzické artefakty, jejich herní účel, bezpečnost, číslování a návaznost na kroky. Zapojuje se po stabilizaci scénáře.
+
+### Terénní a bezpečnostní návrhář
+
+Kontroluje instalaci doma i venku, pohyb dítěte, malé díly, stavby, dohled dospělého a fyzickou proveditelnost. Zapojuje se po návrhu artefaktů a před prototypem.
+
+### Hlavní grafik
+
+Drží jednotný vizuální systém M!SE a rozhoduje, zda grafické návrhy odpovídají schválenému stylu. Zapojuje se před vznikem finální grafiky.
+
+### Grafik artefaktů
+
+Vytváří karty, mapy, značky, protokoly, obálky a další grafické podklady podle zadání hlavního grafika.
+
+### Předtiskový kontrolor
+
+Kontroluje rozměry, čitelnost, tisková data, počet kusů, řezání a návaznost grafiky na fyzické artefakty. Zapojuje se před výrobou.
+
+### Faktický kontrolor
+
+Ověřuje odborné reálie, na nichž stojí příběh nebo důkaz. Zapojuje se jen tehdy, když jsou odborná tvrzení pro misi důležitá.
+
+### PAX a zvukový režisér
+
+Připravuje texty hlášení, QR nahrávky, tón PAXe a jejich časování. Zapojuje se až po dokončení dětského scénáře.
+
+### Pořadí práce na jedné misi
+
+1. Scénárista mise
+2. Herní režisér
+3. Kontrolor řešitelnosti dítěte
+4. Editor dětského zadání
+5. Návrhář artefaktů
+6. Terénní a bezpečnostní návrhář
+7. Hlavní grafik
+8. Grafik artefaktů
+9. Předtiskový kontrolor
+10. Kontrolor soustavy misí
+11. Projektový koordinátor
+
+Faktický kontrolor a PAX a zvukový režisér se přizývají pouze podle potřeby.

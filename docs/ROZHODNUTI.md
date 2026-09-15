@@ -89,3 +89,9 @@ Schváleno uživatelem 11. 9. 2026:
 - **Po stopách draka:** člověk vstoupil, založil požár, drak k němu šel hasit a člověk mezitím hledal hnízdo, ale drak se vrátil dřív. U člověka jsou instrukce k přepravě vejce a poznámky o vylákání draka, kde je zvýrazněn oheň. Bezpečnostní záznam dokládá kompromitaci sektoru; přesun vejce povoluje nouzový protokol a PAX až po splnění podmínek.
 - **Tajemství kapitánovy pečeti:** první schránku s falešným razítkem a puzzle připravil kapitán jako zkoušku. Puzzle se najde už při otevření schránky, řeší se až po ověření padělku. Neexistuje padělatel, falešné dno ani přesouvání mezi schránkami.
 
+## 10. Schválený systém agentů
+
+Projekt používá tyto role: Projektový koordinátor, Kontrolor soustavy misí, Herní režisér, Scénárista mise, Kontrolor řešitelnosti dítěte, Editor dětského zadání, Návrhář artefaktů, Terénní a bezpečnostní návrhář, Hlavní grafik, Grafik artefaktů, Předtiskový kontrolor, Faktický kontrolor a PAX a zvukový režisér.
+
+Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `AGENTS.md`. Faktický kontrolor a PAX a zvukový režisér se přizývají jen podle potřeby.
+
