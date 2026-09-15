@@ -125,6 +125,10 @@ Ověřuje, že dítě ve věku 4–5 let dostává důkazy včas, rozumí úkolu
 
 Upravuje instrukce pro dítě tak, aby byly stručné, srozumitelné při předčítání a věkově přiměřené. Zapojuje se po scénáristovi a před grafikou.
 
+### Scénárista pro Operátora mise
+
+Po každé změně `MISE.md` nebo `SCENAR-MISE.md` ihned aktualizuje sekci scénáře v `OPERATOR.md` dané mise. Překládá schválený scénář do praktického vedení dospělého, aniž by měnil děj nebo dítěti přidával nové informace. Pokrývá všechny kroky i Reporty a předává výsledek Kontroloru soustavy misí.
+
 ### Návrhář artefaktů
 
 Navrhuje fyzické artefakty, jejich herní účel, bezpečnost, číslování a návaznost na kroky. Zapojuje se po stabilizaci scénáře.
@@ -169,13 +173,14 @@ Připravuje texty hlášení, QR nahrávky, tón PAXe a jejich časování. Zapo
 4. Editor dětského zadání
 5. Návrhář Protokolu mise
 6. Návrhář artefaktů
-7. Kontrolor fyzické proveditelnosti HERO aktivity
-8. Terénní a bezpečnostní návrhář
-9. Hlavní grafik
-10. Grafik artefaktů
-11. Předtiskový kontrolor
-12. Kontrolor soustavy misí
-13. Projektový koordinátor
+7. Scénárista pro Operátora mise — vždy po každé změně `MISE.md` nebo `SCENAR-MISE.md`
+8. Kontrolor fyzické proveditelnosti HERO aktivity
+9. Terénní a bezpečnostní návrhář
+10. Hlavní grafik
+11. Grafik artefaktů
+12. Předtiskový kontrolor
+13. Kontrolor soustavy misí
+14. Projektový koordinátor
 
 Faktický kontrolor a PAX a zvukový režisér se přizývají pouze podle potřeby.
 

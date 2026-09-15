@@ -78,6 +78,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `missions/01-paleontolog/MISE.md`, `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/ARTEFAKTY.md`, `docs/OTAZKY-KE-SCENARUM.md`, `docs/PLAN-PRACE.md`.
 **Čeká na rozhodnutí:** ne
 
+## 2026-09-15 — Scénář pro Operátora Paleontologa
+
+**Role:** Scénárista pro Operátora mise a Kontrolor soustavy misí
+**Dokončeno:** Sekce 6 v `OPERATOR.md` Paleontologa nyní obsahuje praktický průchod všemi 13 kroky a 3 Reporty: předání, přípravu, činnost dítěte, Protokol, dokončení i návaznost.
+**Ověřeno:** Názvy a pořadí 16 bloků, artefakty A_01_01–A_01_19, zápisy P_01–P_11 a dějová návaznost jsou shodné se `SCENAR-MISE.md`. Operátorský scénář nepřidává nové důkazy.
+**Předání:** Při každé další změně `MISE.md` nebo `SCENAR-MISE.md` se bezprostředně aktualizuje odpovídající `OPERATOR.md` a Kontrolor soustavy misí ověří soulad.
+**Soubory:** `missions/01-paleontolog/OPERATOR.md`, `agents/scenarista-pro-operatora-mise.md`, `agents/kontrolor-soustavy-misi.md`, `AGENTS.md`, `docs/PROTOKOL-PREDANI.md`.
+**Čeká na rozhodnutí:** ne
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor
