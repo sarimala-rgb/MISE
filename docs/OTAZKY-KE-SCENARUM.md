@@ -10,7 +10,9 @@ Revize: 11. 9. 2026. Rozhodnuté dějové a provozní otázky byly propsány do 
 
 ## 2. Tajemství dávných obrů
 
-- **Výkopy — NEOVĚŘENO:** vyzkoušet bezpečnost a dobu odkrývání tří bloků, rozpoznatelnost osmi dílů modelu a odlišení kolečka od kostí.
+- **Výkopy — NEOVĚŘENO:** po výběru konkrétní rozebíratelné kostry vyzkoušet bezpečnost a dobu odkrývání tří skutečných sádrových bloků, rozpoznatelnost a opětovné spojení osmi dílů, odlišení kolečka od kostí a odolnost spojů kostry vůči zalití i čištění.
+- **Balení a provoz — NEOVĚŘENO:** ověřit velikost, hmotnost a cenu bloků; uzavíratelné balení oddělené od papírových artefaktů; zachycení sádrových drobků; opakování mise pomocí náhradních bloků.
+- **Instalace Rozcestí — NEOVĚŘENO:** stanovit počet bezpečných možných úkrytů, podobu stejného symbolu, výšku a dostupnost pro dítě.
 - **Podklady — NEOVĚŘENO:** zkontrolovat s dítětem čitelnost fotografie, lístku ke vzorku R a stavební karty Travnatého vršku.
 
 ## 3. Po stopách draka

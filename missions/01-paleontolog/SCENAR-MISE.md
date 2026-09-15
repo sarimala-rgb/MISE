@@ -74,35 +74,35 @@
 
 ---
 
-## 3. Krok 3 — První hypotéza o dinosaurovi
+## 3. Krok 3 — Neúplná kostra
 
 **Label:** Akce
 
 **Nové artefakty na vstupu:** A_01_08 Obrazový podklad jedné rozebíratelné kostry s vyznačením chybějících částí
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_08, části z A_01_06, A_01_02 pole „Pracovní určení“, A_01_05. Dítě porovnává přímo obrysy modelových dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání úplnému ověření.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_08, části z A_01_06, A_01_02 pole „Neúplná kostra“, A_01_05. Dítě porovnává přímo obrysy modelových dílů s obrázkem, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící výrazné části brání potvrzení, že jde o dinosaura.
 
 **Zápis do Protokolu:** P_03 — Zakroužkuj neúplnou kostru. Ještě chybí důležité části.
 
 **Úkoly:**
 
-- **U_01_08:** Porovnej kosti s obrázky. Začni je skládat a vybere pravděpodobného dinosaura. V Protokolu označí volbu jako předběžnou.
+- **U_01_08:** Porovnej kosti s obrázkem. Začni je skládat a všimni si, že kostra ještě není hotová.
 - **U_01_09:** Porovnej části s obrysem kostry a zjisti, co ještě chybí.
 - **U_01_10:** Sestav části, které už máš.
-- **U_01_11:** Označ pracovní určení; kostra ještě není úplná.
+- **U_01_11:** V Protokolu označ neúplnou kostru.
 
 **Co je hotový krok:**
 
 - **U_01_08**
-  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+  - Části kostry jsou položené na odpovídajících místech obrazového podkladu.
 - **U_01_09**
-  - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
+  - Dítě ukáže na obrazovém podkladu alespoň jednu chybějící výraznou část.
 - **U_01_10**
   - Výsledek je sestavený podle zadání kroku.
 - **U_01_11**
-  - Požadované označení nebo záznam je provedený.
+  - V části P_03 je zakroužkovaná neúplná kostra.
 - **Výsledek kroku**
-  - Dítě označí předběžnou možnost nebo dvě dosud možné varianty. Žádná z možností se nepotvrdí jen slovem PAXe; čeká se na chybějící díly.
+  - Dítě má složenou neúplnou kostru a ví, že k potvrzení potřebuje chybějící části.
 
 ---
 ---
@@ -190,7 +190,7 @@
 
 **Úkoly:**
 
-- **U_01_19:** Nahlaš PAXovi skutečné nálezy a riziko jejich poškození.
+- **U_01_19:** Řekni Operátorovi, co jsi zjistil: kost je skutečný nález a stavba by ho mohla poškodit.
 
 **Co je hotový krok:**
 
@@ -331,7 +331,7 @@
 - **U_01_30:** Připoj nové části k prvnímu nálezu. Dokonči kostru podle obrysu a potvrď, že jde o dinosaura.
 - **U_01_31:** Dokonči kostru.
 - **U_01_32:** Porovnej hotovou kostru s obrázkem dinosaura.
-- **U_01_33:** Potvrď určení podle úplné rekonstrukce; pokud první volba nesedí, oprav ji podle nálezu.
+- **U_01_33:** Potvrď podle úplné rekonstrukce, že jde o kostru dinosaura.
 
 **Co je hotový krok:**
 
@@ -342,7 +342,7 @@
 - **U_01_32**
   - Porovnání nebo uspořádání je provedeno podle dostupných podkladů.
 - **U_01_33**
-  - Hlášení nebo vysvětlení je předané.
+  - Dítě ukáže na hotovou kostru a řekne, že jde o dinosaura.
 - **Výsledek kroku**
   - Úplná kostra odpovídá obrazovému podkladu. Protokol zachycuje neúplnou a následně hotovou kostru dinosaura.
 
@@ -394,7 +394,7 @@
 
 **Úkoly:**
 
-- **U_01_38:** Nahlaš PAXovi dokončenou rekonstrukci a nález z Rozcestí. Vysvětli, proč musí být chráněny oba body a Rozcestí není vhodné pro věž.
+- **U_01_38:** Řekni Operátorovi, co jsi zjistil: kostra je dokončená a Rozcestí je také naleziště, které je potřeba chránit.
 - **U_01_39:** Nahlas potvrzené určení a původ nových kostí.
 - **U_01_40:** Ukaž, která dvě místa je nutné chránit.
 

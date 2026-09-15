@@ -69,6 +69,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `agents/kontrolor-fyzicke-proveditelnosti-hero.md`, `AGENTS.md`, `agents/README.md`, `docs/KONTROLNI-SEZNAM-EDITACI.md`, `docs/ROZHODNUTI.md`.
 **Čeká na rozhodnutí:** ne
 
+## 2026-09-15 — Úplná kontrola pilotu Paleontologa
+
+**Role:** Kontrolor soustavy misí, Kontrolor řešitelnosti dítěte a Kontrolor fyzické proveditelnosti HERO aktivity
+**Dokončeno:** Proběhla kontrola struktury, kódování, odkazů artefaktů a Protokolu, návaznosti děje, řešitelnosti pro věk 4–5 let i fyzické proveditelnosti sádrových výkopů. Opraveny zbytky určování konkrétního druhu, dětské Reporty a specifikace artefaktů A_01_16, A_01_18 a A_01_19.
+**Ověřeno:** `Test-ScenarioStructure.ps1`, `Test-CzechEncoding.ps1`, odkazy A_01_01–A_01_19 a P_01–P_11.
+**Předání:** Scénárista mise zpřesní neurčité podmínky dokončení. Potom kontrolor HERO provede fyzický prototyp po výběru kostry.
+**Soubory:** `missions/01-paleontolog/MISE.md`, `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/ARTEFAKTY.md`, `docs/OTAZKY-KE-SCENARUM.md`, `docs/PLAN-PRACE.md`.
+**Čeká na rozhodnutí:** ne
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor

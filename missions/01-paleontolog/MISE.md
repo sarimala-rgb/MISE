@@ -35,18 +35,16 @@ Při přípravě základů nové pozorovací věže nad zálivem dělníci objev
 ### 2.5 Co zatím nevíme
 
 - Které vykopané předměty jsou skutečné paleontologické nálezy?
-- Ke kterému dinosaurovi patří části kostry?
+- Zda části po sestavení tvoří kostru dinosaura?
 - Kde jsou doložené nálezy a která místa je třeba chránit?
 - Které náhradní místo splní podmínky pro věž?
 
 ### 2.6 Úkoly mise
 
-- Prozkoumat vzorky, ověřit nálezy a postupně určit dinosaura.
+- Prozkoumat vzorky, ověřit nálezy a po sestavení potvrdit kostru dinosaura.
 - Zdokumentovat původ a výsledek každého vzorku.
 - Posoudit původní staveniště a podle důkazů doporučit místo pro věž.
 - Předat Centrále doporučení k ochraně naleziště.
-
-Pracovní formulace podle dodaného příběhu; finální text pro dítě zbývá upravit.
 
 ### 2.7 První pokyn
 

@@ -15,7 +15,7 @@
 | **01_13** | 6_1 | Fotografie výhledu z Lesní louky |
 | **01_14** | 6_2 | Fotografie Pobřežní plošiny při nižší vodě |
 | **01_15** | 6_3 | Fotografie stejné plošiny při vysoké vodě |
-| **01_16** | 7_1 | Podklad Centrály o neprozkoumaném vzorku na Rozcestí — TODO: obsah a forma |
+| **01_16** | 7_1 | Předávací lístek dělníků ke vzorku R: vzorek byl odebraný na Rozcestí, uzavřený a ponechaný u místní značky; připojený snímek ukazuje vzorek R u značky Rozcestí |
 | **01_17** | 7_2 | Třetí sádrový blok se symbolem Rozcestí a výraznými chybějícími částmi téže rozebíratelné kostry; přesné rozdělení dílů se určí po výběru produktu |
-| **01_18** | 11_1 | Ověřovací podklady k Travnatému vršku — TODO: forma a doložení všech podmínek |
-| **01_19** | 13_1 | Specializace PALEONTOLOG — TODO: fyzická podoba ocenění |
+| **01_18** | 11_1 | Stavební karta Travnatého vršku: jeden list se čtyřmi velkými obrazovými důkazy — mimo chráněná místa, nad vodou, volný výhled a dostatečná výška |
+| **01_19** | 13_1 | Kartonový badge PALEONTOLOG |
