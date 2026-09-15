@@ -111,4 +111,5 @@ Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `A
 - Dokud není vybraný fyzický produkt, dítě určuje pouze obecného dinosaura, ne konkrétní druh.
 - `P_05 — Chráněná místa` obsahuje ochranné značky původního staveniště i Rozcestí.
 - Dětský scénář Reportů používá větu „Řekni Operátorovi, co jsi zjistil.“ PAXovy texty se dopracují v pozdější fázi.
+- Výkopovým materiálem HERO aktivity Paleontologa je skutečný sádrový blok. Jeho přesnou velikost a rozdělení dílů určí kontrola po výběru konkrétní rozebíratelné kostry.
 

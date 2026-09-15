@@ -2,7 +2,7 @@
 
 ## Samostatně pokračovat
 
-- Pilot: **Tajemství dávných obrů**. Protokol i artefakty jsou textově připravené pro obecnou rozebíratelnou kostru. Po výběru fyzického produktu se ověří rozdělení dílů a výkopový materiál.
+- Pilot: **Tajemství dávných obrů**. Protokol i artefakty jsou textově připravené pro obecnou rozebíratelnou kostru ve skutečném sádrovém bloku. Po výběru fyzického produktu se ověří rozdělení dílů, velikost bloku a bezpečnost výkopu.
 - Zpřesnit konkrétní podmínky dokončení úkolů ve všech scénářích bez změny schváleného děje.
 - Po každé změně spustit kontrolu struktury scénářů a kódování češtiny.
 
