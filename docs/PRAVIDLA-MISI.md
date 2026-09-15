@@ -260,7 +260,7 @@ Pokud je artefakt poprvé použit v kroku, ale nebyl dříve předán, nalezen n
 
 ### 11.1 Číslování a odkazy artefaktů
 
-Při přidání artefaktu do `SCENAR-MISE.md` se ihned zkontroluje číselná posloupnost v `ARTEFAKTY.md` dané mise. Evidenční kód má vždy formát `číslo_mise_číslo_artefaktu`.
+Při přidání artefaktu do `SCENAR-MISE.md` se ihned zkontroluje číselná posloupnost v `ARTEFAKTY.md` dané mise. Odkaz na artefakt ve scénáři má vždy formát `A_XX_YY`.
 
 Pokud nový artefakt vložení do posloupnosti změní, přečíslují se všechny následující artefakty. Poté se vyhledají všechny původní kódy v `SCENAR-MISE.md` a nahradí se jejich novými kódy. Změna není dokončená, dokud žádný odkaz na starý kód v misi nezůstane.
 

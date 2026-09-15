@@ -2,15 +2,15 @@
 
 ## Samostatně pokračovat
 
-- Kontrolovat a sjednocovat strukturu scénářů podle `AGENTS.md` a `PRAVIDLA-MISI.md`.
-- Doplňovat jasné návaznosti, odkazy, kódy a podmínky dokončení v rámci již schválených rozhodnutí.
-- Připravovat textové a grafické návrhy podle schváleného vizuálního stylu.
-- Po každé změně kontrolovat kódování češtiny a konzistenci souborů stejného účelu.
+- Pilot: **Tajemství dávných obrů**. Herní režisér a Kontrolor řešitelnosti dítěte dokončili čtecí review. Pilot čeká na rozhodnutí 6–10 v `OPEN-QUESTIONS.md`, potom pokračuje Editorem dětského zadání a Návrhářem artefaktů.
+- Zpřesnit konkrétní podmínky dokončení úkolů ve všech scénářích bez změny schváleného děje.
+- Po každé změně spustit kontrolu struktury scénářů a kódování češtiny.
 
 ## Čeká na rozhodnutí
 
-- Položky uvedené v `OPEN-QUESTIONS.md`.
-- Každá nová kreativní volba, pro kterou neexistuje rozhodnutí v `ROZHODNUTI.md` nebo `VIZUALNI-STYL.md`.
+- Rozhodnutí uvedená v `OPEN-QUESTIONS.md`.
+- Vizuální systém před finální grafikou.
+- Rozhodnutí 1–10 v `OPEN-QUESTIONS.md`.
 
 ## Pravidlo aktualizace
 

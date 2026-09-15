@@ -24,6 +24,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `AGENTS.md`, `docs/ROZHODNUTI.md`, `docs/PLAN-PRACE.md`, `docs/VIZUALNI-STYL.md`.
 **Čeká na rozhodnutí:** ne
 
+## 2026-09-15 — Audit projektu a pilot Paleontologa
+
+**Role:** Projektový koordinátor, Kontrolor soustavy misí, Herní režisér a Kontrolor řešitelnosti dítěte
+**Dokončeno:** Proběhl audit řídicích souborů, všech misí a čtecí review Paleontologa.
+**Ověřeno:** Struktura scénářů, kódy `A_` a `U_`, odkazy na artefakty a kódování češtiny. Příčinná linie Paleontologa je funkční.
+**Předání:** Pilot čeká na rozhodnutí o podobě atlasu, Protokolu, domácího hledání a stavební karty; potom pokračuje Editorem dětského zadání a Návrhářem artefaktů.
+**Soubory:** `docs/OPEN-QUESTIONS.md`, `docs/PLAN-PRACE.md`, `missions/01-paleontolog/SCENAR-MISE.md`.
+**Čeká na rozhodnutí:** ano
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor

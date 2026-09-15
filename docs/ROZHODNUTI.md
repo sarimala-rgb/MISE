@@ -70,7 +70,13 @@ Schváleno uživatelem 11. 9. 2026:
 
 - **Operace Skalní orel** — specializace KONSTRUKTÉR.
 
-Názvy všech pěti misí jsou schválené. Kódy misí zůstávají TODO.
+Názvy a kódy všech pěti misí jsou schválené:
+
+- **DINO-01** — Tajemství dávných obrů
+- **DRAK-02** — Po stopách draka
+- **PIRA-03** — Tajemství kapitánovy pečeti
+- **KONS-04** — Operace Skalní orel
+- **AGEN-05** — Operace ticho
 ---
 
 ## 8. Schválené vedení misí

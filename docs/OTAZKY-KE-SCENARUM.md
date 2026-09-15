@@ -1,4 +1,4 @@
-# Otevřené ověření scénářů M!SE
+# Prototypové ověření scénářů M!SE
 
 Revize: 11. 9. 2026. Rozhodnuté dějové a provozní otázky byly propsány do [rozhodnutí](ROZHODNUTI.md), zdrojových tabulek a průvodců. Tento soubor už neobsahuje vyřešené otázky.
 
