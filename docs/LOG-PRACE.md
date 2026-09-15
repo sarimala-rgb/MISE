@@ -23,3 +23,12 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Předání:** Další práce může začít u Scénáristy mise podle priorit v `PLAN-PRACE.md`.
 **Soubory:** `AGENTS.md`, `docs/ROZHODNUTI.md`, `docs/PLAN-PRACE.md`, `docs/VIZUALNI-STYL.md`.
 **Čeká na rozhodnutí:** ne
+
+## 2026-09-15 — Základ multiagentního pracovního toku
+
+**Role:** Projektový koordinátor
+**Dokončeno:** Vznikly role karty agentů, šablona pracovního úkolu, předávací protokol a automatická kontrola struktury scénářů. Pravidla scénářů odpovídají Markdown blokům místo zrušené tabulky.
+**Ověřeno:** `Test-ScenarioStructure.ps1` a kontrola kódování češtiny.
+**Předání:** Další úkol lze zadat podle `TEMPLATE-UKOLU.md` příslušné roli.
+**Soubory:** `agents/`, `docs/TEMPLATE-UKOLU.md`, `docs/PROTOKOL-PREDANI.md`, `docs/PRAVIDLA-MISI.md`, `scripts/Test-ScenarioStructure.ps1`.
+**Čeká na rozhodnutí:** ne

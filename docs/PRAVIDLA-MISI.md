@@ -2,23 +2,29 @@
 
 ---
 
-## 1. Hlavní tabulka mise
+## 1. Struktura scénáře mise
 
 Každá mise má samostatně upravovaný soubor MISE.md a samostatně upravovaný soubor SCENAR-MISE.md. Oba soubory jsou rovnocenné pracovní dokumenty; žádný z nich není automaticky generován z druhého.
 
-SCENAR-MISE.md obsahuje strukturovaný pracovní scénář. MISE.md obsahuje samostatný čitelný dokument mise. Při změnách se upravují nezávisle a na konci revize se ručně kontroluje jejich soulad. Čísla sekcí dokumentu jsou oddělená od čísel herních kroků.
+SCENAR-MISE.md obsahuje strukturovaný pracovní scénář v Markdownu. MISE.md obsahuje samostatný čitelný dokument mise. Při změnách se upravují nezávisle a na konci revize se ručně kontroluje jejich soulad. Čísla sekcí dokumentu jsou oddělená od čísel herních kroků.
 
-Sloupce musí být vždy přesně v tomto pořadí:
+Každý blok scénáře začíná nadpisem `## pořadí. Krok číslo — název` a představuje buď skutečný herní krok dítěte, nebo Report navázaný na konkrétní krok.
 
-| Label | Krok | Název kroku | Nové artefakty na vstupu | Co potřebuje dítě k vyřešení kroku | Akce dítěte | Úkoly | Co je hotový krok |
+Blok s labelem `Akce` obsahuje vždy v tomto pořadí:
 
-Každý řádek tabulky představuje buď jeden skutečný herní krok dítěte, nebo jeden Report navázaný na konkrétní krok.
+1. `Label`
+2. `Nové artefakty na vstupu`
+3. `Co potřebuje dítě k vyřešení kroku`
+4. `Úkoly`
+5. `Co je hotový krok`
+
+Blok s labelem `Report` obsahuje pouze `Label`, `Úkoly` a `Co je hotový krok`.
 
 ---
 
 ## 2. Label
 
-Do sloupce `Label` lze zapisovat pouze:
+Jako `Label` lze zapisovat pouze:
 
 - `Akce`
 - `Report`
@@ -36,7 +42,7 @@ Do sloupce `Label` lze zapisovat pouze:
 - zapisuje,
 - nebo jinak aktivně řeší.
 
-Každý řádek `Akce` musí mít jasný vstup, akci dítěte a výsledek.
+Každý blok `Akce` musí mít jasný vstup, úkoly dítěte a výsledek.
 
 ### 2.2 Report
 
@@ -213,7 +219,7 @@ Dítě má mít pocit, že na řešení přišlo samo.
 
 Každý krok musí mít jednoznačně definováno, podle čeho poznáme, že je hotový.
 
-Do sloupce `Co je hotový krok` se zapisuje konkrétní stav nebo výsledek, ne obecná formulace typu `dítě úkol splnilo`.
+Do sekce `Co je hotový krok` se zapisuje konkrétní stav nebo výsledek, ne obecná formulace typu `dítě úkol splnilo`.
 
 Správné dokončení kroku musí být ověřitelné alespoň jedním z těchto způsobů:
 - dítě získá konkrétní výsledek,
@@ -236,7 +242,7 @@ Ověření nemá být založené jen na tom, že PAX řekne `správně`. Pokud t
 
 ## 11. Nové artefakty na vstupu
 
-Do sloupce `Nové artefakty na vstupu` se zapisují pouze artefakty, které dítě v daném kroku nově dostává, nachází nebo zpřístupňuje.
+Do sekce `Nové artefakty na vstupu` se zapisují pouze artefakty, které dítě v daném kroku nově dostává, nachází nebo zpřístupňuje.
 
 Nezapisují se sem artefakty, které už dítě získalo v některém z předchozích kroků a pouze je znovu používá.
 
@@ -262,7 +268,7 @@ Pokud nový artefakt vložení do posloupnosti změní, přečíslují se všech
 
 ## 12. Co potřebuje dítě k vyřešení kroku
 
-Do sloupce `Co potřebuje dítě k vyřešení kroku` se zapisují všechny informace, pomůcky a předchozí zjištění, bez kterých dítě nemůže krok správně vyřešit.
+Do sekce `Co potřebuje dítě k vyřešení kroku` se zapisují všechny informace, pomůcky a předchozí zjištění, bez kterých dítě nemůže krok správně vyřešit.
 
 Může jít například o:
 - informaci získanou v předchozím kroku,
@@ -278,7 +284,7 @@ Pokud je zde uvedena informace nebo artefakt, musí být dohledatelné, kde a kd
 
 Pokud něco potřebné k řešení není před krokem dostupné, jde o chybu scénáře.
 
-Do tohoto sloupce nepatří samotné řešení kroku, ale pouze podmínky a informace, které dítě k řešení potřebuje.
+Do této sekce nepatří samotné řešení kroku, ale pouze podmínky a informace, které dítě k řešení potřebuje.
 
 ---
 
