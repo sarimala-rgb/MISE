@@ -32,23 +32,11 @@ Je potřeba rozhodnout barevnou paletu, typografii, ikony, rozměry artefaktů a
 
 **Doporučení:** nejdřív dokončit pilot Paleontologa, potom vytvořit vizuální zadání a jeho varianty.
 
-## 7. Atlas první kostry Paleontologa
-
-Má po prvním výkopu zůstat jedna pravděpodobná možnost dinosaura, nebo dvě rovnocenné možnosti, které rozhodne až hlava a ocas z Rozcestí?
-
-**Doporučení:** dvě možnosti.
-
-## 8. Protokol Paleontologa
-
-Má dítě označovat obrázková pole zakroužkováním, nebo používat samolepky?
-
-**Doporučení:** předtištěné obrázky a zakroužkování nebo posunutí žetonu; dítě nemusí psát.
-
 ## 10. Stavební karta Travnatého vršku
 
-Má mít podobu jedné velké karty se čtyřmi očíslovanými obrazovými poli, nebo čtyř samostatných karet?
+V kroku 11 dítě ověřuje čtyři věci o Travnatém vršku: je mimo nálezy, nezaplavuje ho voda, je z něj výhled a je dost vysoko. Má dostat všechny čtyři důkazy na jednom archu, nebo každý důkaz jako samostatnou malou kartičku?
 
-**Doporučení:** jedna karta se čtyřmi velkými poli.
+**Doporučení:** jeden arch rozdělený na čtyři velké obrázky. Dítě se neztrácí mezi kartičkami, ale může po obrázcích postupovat jeden po druhém.
 
 ## Mimo rozhodování uživatele
 

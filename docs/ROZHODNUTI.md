@@ -97,7 +97,7 @@ Schváleno uživatelem 11. 9. 2026:
 
 ## 10. Schválený systém agentů
 
-Projekt používá tyto role: Projektový koordinátor, Kontrolor soustavy misí, Herní režisér, Scénárista mise, Kontrolor řešitelnosti dítěte, Editor dětského zadání, Návrhář artefaktů, Terénní a bezpečnostní návrhář, Hlavní grafik, Grafik artefaktů, Předtiskový kontrolor, Faktický kontrolor a PAX a zvukový režisér.
+Projekt používá tyto role: Projektový koordinátor, Kontrolor soustavy misí, Herní režisér, Scénárista mise, Kontrolor řešitelnosti dítěte, Editor dětského zadání, Návrhář Protokolu mise, Návrhář artefaktů, Terénní a bezpečnostní návrhář, Hlavní grafik, Grafik artefaktů, Předtiskový kontrolor, Faktický kontrolor a PAX a zvukový režisér.
 
 Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `AGENTS.md`. Faktický kontrolor a PAX a zvukový režisér se přizývají jen podle potřeby.
 
@@ -105,4 +105,6 @@ Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `A
 
 - HERO aktivitou mise je souvislý oblouk **vykopat a sestavit kostru**, rozdělený příběhem mezi staveniště a Rozcestí.
 - Operátor mise vybírá pro hledání Rozcestí z několika bezpečných míst v domácím prostoru. Každé možné místo musí nést stejný symbol Rozcestí.
+- Protokol používá předtištěné obrázky a dítě je označuje zakroužkováním; dítě nepíše volné poznámky.
+- Pro první nález se nepoužívá atlas s více dinosaury. Dítě nejprve pouze odkryje neúplnou část jedné rozebíratelné kostry; druh zjišťuje až po připojení výrazné chybějící části z Rozcestí.
 

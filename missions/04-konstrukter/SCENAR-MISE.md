@@ -17,6 +17,8 @@
 - [Z BOXU MISE] A_04_04 Terénní fotografie závalu
 - V Zadání je vysvětleno: A měří pohyb u sopky, B u stanice, C na svahu; spojení přerušil zával, nikdo není uvězněný. V Protokolu dítě v poli „První domněnka“ označí sopku s otazníkem.
 
+**Zápis do Protokolu:** P_01 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+
 **Úkoly:**
 
 - **U_04_01:** Projdi zadání, prohlédne mapu a fotografii závalu a založí Protokol mise.
@@ -42,9 +44,14 @@
 
 ---
 ---
+
+---
+
 ## 2. Krok 1_Report — Potvrzení přijetí mise
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -62,6 +69,9 @@
 
 ---
 ---
+
+---
+
 ## 3. Krok 2 — Přerušené spojení
 
 **Label:** Akce
@@ -78,6 +88,8 @@
 - [Z BOXU MISE] A_04_05 Detašované odečtové pracoviště
 - [Z BOXU MISE] A_04_06 Označení ZÁVAL – NEVSTUPOVAT
 - A_04_01 vysvětluje lokální uložení dat. A_04_06 vyznačuje obdélník nepřístupné zóny. Stanice je uvnitř, ovládací místo vně. Dítě se před stavbou dozví: servisní vedení bylo natažené před závalem, dnes se k němu připojí nouzový modul.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -98,9 +110,14 @@
 
 ---
 ---
+
+---
+
 ## 4. Krok 2_Report — Přerušený přístup
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -115,6 +132,9 @@
 
 ---
 ---
+
+---
+
 ## 5. Krok 3 — Nouzová inspekční lanovka
 
 **Label:** Akce
@@ -125,6 +145,8 @@
 - A_04_08 Servisní modul: skládací vozík se dvěma pojezdovými prvky a širokým čelním suchým zipem pro zachycení kazety
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_04_07–A_04_08 od PAXe, stanice A_04_05 s již instalovanou vzdálenou základnou a vedením, A_04_06 hranice. [Z DOMOVA] stůl nebo rovná plocha. Průvodce před začátkem upevní oba konce; dítě u Centrály sestaví vozík, nasadí ho na vedení, připojí ovládací smyčku a nastaví místní napínák.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -151,6 +173,9 @@
 
 ---
 ---
+
+---
+
 ## 6. Krok 4 — Získání posledních dat
 
 **Label:** Akce
@@ -158,6 +183,8 @@
 **Nové artefakty na vstupu:** A_04_09 Datová kazeta s protikusem suchého zipu, získaná ze stanice; obsah zůstává zavřený do kroku 5
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] otestovaná A_04_07, A_04_08 a A_04_05 stanice. Kazeta A_04_09 leží ve vodicím lůžku, protikus suchého zipu směrem k modulu. Široké čelo a doraz nastavují stejnou výšku; dosednutím se spojí, tahem zpět se kazeta vysune z lůžka.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -172,9 +199,14 @@
 
 ---
 ---
+
+---
+
 ## 7. Krok 4_Report — Data obnovena
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -189,6 +221,9 @@
 
 ---
 ---
+
+---
+
 ## 8. Krok 5 — Vyhodnocení měření
 
 **Label:** Akce
@@ -196,6 +231,8 @@
 **Nové artefakty na vstupu:** A_04_10 Složená karta měření A–B–C uvnitř kazety A_04_09, zpřístupněná jejím otevřením
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_04_09, uvnitř A_04_10, A_04_02 pole „Měření před závalem“, značicí prostředek. Karta výslovně uvádí tři po sobě jdoucí odečty PŘED závalem: A 1–1–1, B 1–1–1, C 1–2–3. Tečky znázorňují modelovou úroveň pohybu, ne skutečné fyzikální jednotky. Legenda: rostoucí řada = místo k uzavření a odborné kontrole.
+
+**Zápis do Protokolu:** P_02 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -219,6 +256,9 @@
 
 ---
 ---
+
+---
+
 ## 9. Krok 6 — Zdroj nebezpečí
 
 **Label:** Akce
@@ -226,6 +266,8 @@
 **Nové artefakty na vstupu:** A_04_11 Značka NESTABILNÍ OBLAST
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_04_02 vyplněný graf, A_04_10 časové zařazení a legenda, A_04_03 mapa se sopkou A, stanicí B a svahem C, A_04_11 značka. Časy před závalem vylučují, že šlo pouze o měření samotného pádu kamenů.
+
+**Zápis do Protokolu:** P_03 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -252,9 +294,14 @@
 
 ---
 ---
+
+---
+
 ## 10. Krok 6_Report — Výsledek průzkumu
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -269,6 +316,9 @@
 
 ---
 ---
+
+---
+
 ## 11. Krok 7 — Zajištění perimetru
 
 **Label:** Akce
@@ -280,6 +330,8 @@
 - [Z BOXU MISE] A_04_03 Mapa perimetru Centrály
 - [Z BOXU MISE] A_04_12 Značka / pečeť ZÓNA UZAVŘENA
 - Pokyn PAXe po reportu 6 uzavřít označený svah; A_04_02 pole „Zóna uzavřena“.
+
+**Zápis do Protokolu:** P_04 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -294,6 +346,9 @@
 
 ---
 ---
+
+---
+
 ## 12. Krok 8 — Uzavření M!SE
 
 **Label:** Akce
@@ -304,6 +359,8 @@
 
 - [Z BOXU MISE] A_04_02 Protokol mise
 - [Z BOXU MISE] A_04_13 Badge KONSTRUKTÉR
+
+**Zápis do Protokolu:** P_05 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 

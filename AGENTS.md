@@ -129,6 +129,10 @@ Upravuje instrukce pro dítě tak, aby byly stručné, srozumitelné při před�
 
 Navrhuje fyzické artefakty, jejich herní účel, bezpečnost, číslování a návaznost na kroky. Zapojuje se po stabilizaci scénáře.
 
+### Návrhář Protokolu mise
+
+Navrhuje a udržuje `PROTOKOL.md` jako pracovní sešit dítěte. Každou část označuje kódem `P_XX`, propojuje ji s konkrétními kroky scénáře a používá pouze předtištěné obrázky, symboly a zakroužkování. Zapojuje se po Editorovi dětského zadání a před Návrhářem artefaktů.
+
 ### Terénní a bezpečnostní návrhář
 
 Kontroluje instalaci doma i venku, pohyb dítěte, malé díly, stavby, dohled dospělého a fyzickou proveditelnost. Zapojuje se po návrhu artefaktů a před prototypem.
@@ -159,13 +163,14 @@ Připravuje texty hlášení, QR nahrávky, tón PAXe a jejich časování. Zapo
 2. Herní režisér
 3. Kontrolor řešitelnosti dítěte
 4. Editor dětského zadání
-5. Návrhář artefaktů
-6. Terénní a bezpečnostní návrhář
-7. Hlavní grafik
-8. Grafik artefaktů
-9. Předtiskový kontrolor
-10. Kontrolor soustavy misí
-11. Projektový koordinátor
+5. Návrhář Protokolu mise
+6. Návrhář artefaktů
+7. Terénní a bezpečnostní návrhář
+8. Hlavní grafik
+9. Grafik artefaktů
+10. Předtiskový kontrolor
+11. Kontrolor soustavy misí
+12. Projektový koordinátor
 
 Faktický kontrolor a PAX a zvukový režisér se přizývají pouze podle potřeby.
 

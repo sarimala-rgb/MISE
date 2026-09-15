@@ -33,6 +33,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `docs/OPEN-QUESTIONS.md`, `docs/PLAN-PRACE.md`, `missions/01-paleontolog/SCENAR-MISE.md`.
 **Čeká na rozhodnutí:** ano
 
+## 2026-09-15 — Zavedení Protokolů mise
+
+**Role:** Návrhář Protokolu mise
+**Dokončeno:** Vznikl `PROTOKOL.md` pro každou misi a každý blok scénáře nyní uvádí konkrétní část `P_XX` nebo `—`.
+**Ověřeno:** Každý kód `P_XX` použitý ve scénáři existuje v příslušném Protokolu; struktura scénářů i kódování češtiny prošly kontrolou.
+**Předání:** Editor dětského zadání a Návrhář artefaktů mohou jednotlivé sekce Protokolu zpřesnit podle konkrétních artefaktů.
+**Soubory:** `missions/*/PROTOKOL.md`, `missions/*/SCENAR-MISE.md`, `docs/PRAVIDLA-MISI.md`, `agents/navrhar-protokolu-mise.md`.
+**Čeká na rozhodnutí:** ano — podoba stavebního důkazu Travnatého vršku.
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor

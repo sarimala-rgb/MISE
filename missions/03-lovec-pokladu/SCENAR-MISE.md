@@ -19,6 +19,8 @@
 - [Z BOXU MISE] A_03_05 Zapečetěná zásilka 5 map
 - [Z BOXU MISE] vysílačka
 
+**Zápis do Protokolu:** P_01 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+
 **Úkoly:**
 
 - **U_03_01:** převezme M!SI, zjistí, že Centrála potřebuje najít kapitánovo razítko, aby mohla ověřit získané mapy. Zapečetěnou zásilku zatím nesmí otevřít.
@@ -32,9 +34,14 @@
 
 ---
 ---
+
+---
+
 ## 2. Krok 1_Report — Potvrzení přijetí mise
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -49,6 +56,9 @@
 
 ---
 ---
+
+---
+
 ## 3. Krok 2 — Orientace pirátské mapy
 
 **Label:** Akce
@@ -63,6 +73,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_03 mapa sektoru, A_03_04 stará mapa, A_03_06–A_03_09 a A_03_10 připravené průvodcem. Tři různé značky tvoří nestejnostranný trojúhelník. Mapu dítě otáčí, nepřevrací; všechny značky musí souhlasit současně. Schránka leží ve čtvrtém místě zakresleném na staré mapě.
 
+**Zápis do Protokolu:** —
+
 **Úkoly:**
 
 - **U_03_03:** v prostoru najde tři pirátské orientační body odpovídající značkám na mapě. Mapu otáčí a zorientuje ji podle jejich skutečného rozmístění. Ze správně orientované mapy určí čtvrté místo a tam najde ukrytou schránku. Otevři schránku a prohlédne razítko, vzkaz i puzzle.
@@ -76,9 +88,14 @@
 
 ---
 ---
+
+---
+
 ## 4. Krok 2_Report — Nález razítka
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -93,6 +110,9 @@
 
 ---
 ---
+
+---
+
 ## 5. Krok 3 — Rekonstrukce kapitánova razítka
 
 **Label:** Akce
@@ -103,6 +123,8 @@
 - A_03_12 Sada symbolů razítka – fyzické dílky, které dítě podle indicií skládá.
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_11 archivní indicie: lebka je uprostřed, hvězda nad ní, kotva pod ní; A_03_12 tři dílky a orientovaná skládací plocha, A_03_08 falešné samobarvicí razítko, A_03_02 pole „První pečeť“. Podložka obsahuje zkušební okénko. Dospělý čte jednotlivé vztahy, dítě skládá.
+
+**Zápis do Protokolu:** P_02 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -117,9 +139,14 @@
 
 ---
 ---
+
+---
+
 ## 6. Krok 3_Report — Falešné razítko
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -134,6 +161,9 @@
 
 ---
 ---
+
+---
+
 ## 7. Krok 4 — Kapitánův náčrtek
 
 **Label:** Akce
@@ -141,6 +171,8 @@
 **Nové artefakty na vstupu:** —
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_10 puzzle a A_03_09 kapitánův vzkaz, získané v kroku 2; padělek prokázaný v kroku 3. Náčrtek ukáže stůl označený kotvou, pod ním schránku na mořském dně.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -155,6 +187,9 @@
 
 ---
 ---
+
+---
+
 ## 8. Krok 5 — Potopená schránka
 
 **Label:** Akce
@@ -165,6 +200,8 @@
 - A_03_14 Podložka MOŘSKÉ DNO a označení paluby s pravidlem vyzvedávání
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_10 složený náčrtek, A_03_13–A_03_14. [Z DOMOVA] standardní stůl. Pravidlo na palubě čte PAX před hledáním: „Dole je hluboké moře. Nemáme potápěčskou výbavu. Na dno smí jen hák, ty zůstáváš na palubě.“ Dítě stojí na podlaze vedle stolu, nikdy na desce.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -179,9 +216,14 @@
 
 ---
 ---
+
+---
+
 ## 9. Krok 5_Report — Schránka na mořském dně
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -196,6 +238,9 @@
 
 ---
 ---
+
+---
+
 ## 10. Krok 6 — HERO — Stavba kladkostroje
 
 **Label:** Akce
@@ -203,6 +248,8 @@
 **Nové artefakty na vstupu:** A_03_15 Sada: pevná kladka na nízkém stolním rameni, volná kladka s tupým hákem, jedno lano s dorazy, základna s ochrannou svěrkou, montážní plán a cvičný náklad
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_03_15 doručí PAX po 5_Report; A_03_13 schránka s okem. [Z DOMOVA] stůl. Průvodce upevní a zkontroluje základnu; dítě vede lano z horního úchytu kolem volné kladky, potom přes pevnou kladku k ovládacímu konci. Dospělý pomůže podle potřeby.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -217,6 +264,9 @@
 
 ---
 ---
+
+---
+
 ## 11. Krok 7 — Vytažení pokladu
 
 **Label:** Akce
@@ -224,6 +274,8 @@
 **Nové artefakty na vstupu:** —
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] otestovaná A_03_15 a A_03_13 na A_03_14, A_03_10 náčrtek. Schránka je pod přesahem ramene u kraje stolu, velké oko je vzhůru. Dítě stojí vedle stolu a vede zavěšený hák do oka. Průvodce jistí základnu, neřeší zachycení místo dítěte.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -238,6 +290,9 @@
 
 ---
 ---
+
+---
+
 ## 12. Krok 8 — Pravé kapitánovo razítko
 
 **Label:** Akce
@@ -245,6 +300,8 @@
 **Nové artefakty na vstupu:** A_03_16 Pravé samobarvicí kapitánovo razítko ve druhé schránce
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_03_16, A_03_11–A_03_12 sestavený vzor, A_03_02 pole „Druhá pečeť“ se zkušebním okénkem. Originál má lebku uprostřed, hvězdu nahoře, kotvu dole.
+
+**Zápis do Protokolu:** P_03 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -259,9 +316,14 @@
 
 ---
 ---
+
+---
+
 ## 13. Krok 8_Report — Originál nalezen
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -276,6 +338,9 @@
 
 ---
 ---
+
+---
+
 ## 14. Krok 9 — Ověření pirátských map
 
 **Label:** Akce
@@ -286,6 +351,8 @@
 - A_03_18 Obálka pro Centrálu
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] povolení PAXe po 8_Report; A_03_05 pět map, A_03_16 originál, A_03_17–A_03_18, A_03_02 pole „Odeslaná trasa“. Tři mapy mají předtištěnou autentizační pečeť ve správném uspořádání; dvě mají vždy jednu jasnou záměnu. Zvláštní prázdné okénko slouží novému potvrzovacímu otisku, horní okénko číslu.
+
+**Zápis do Protokolu:** P_04 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -315,9 +382,14 @@
 
 ---
 ---
+
+---
+
 ## 15. Krok 9_Report — Expedice připravena
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -332,6 +404,9 @@
 
 ---
 ---
+
+---
+
 ## 16. Krok 10 — Uzavření M!SE
 
 **Label:** Akce
@@ -342,6 +417,8 @@
 
 - [Z BOXU MISE] A_03_19 Specializace LOVEC POKLADŮ
 - [Z BOXU MISE] A_03_16 Pravé kapitánovo razítko
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 

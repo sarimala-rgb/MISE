@@ -12,6 +12,8 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_05_01–A_05_05, vysílačka a značicí prostředek. Dekodér obsahuje čtyři barevně a tvarem odlišené skupiny slov; audio hlásí skupinu a krátkou číselnou řadu. Každé číslo má i tečky. Dospělý čte slova, dítě vyhledává a skládá podle čísel. Nahrávku lze libovolně zastavit a opakovat.
 
+**Zápis do Protokolu:** P_01 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+
 **Úkoly:**
 
 - **U_05_01:** převezme případ pohřešovaného agenta. Poslechni jeho poslední hlášení. Agent otevřeně nemůže sdělit zásadní informaci a místo ní nadiktuje sekvenci čísel.
@@ -25,9 +27,14 @@
 
 ---
 ---
+
+---
+
 ## 2. Krok 1_Report — Potvrzení přijetí mise
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -48,6 +55,9 @@
 
 ---
 ---
+
+---
+
 ## 3. Krok 2 — Co agent nevidí
 
 **Label:** Akce
@@ -55,6 +65,8 @@
 **Nové artefakty na vstupu:** —
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_05_03 mapa cest bez kamerových polí, A_05_01: agent je za neprůhlednou zdí a při vykročení může být spatřen. Dítě má přístup ke třem krytým pozorovacím bodům z vnější strany; do střežené oblasti nevstupuje. Pověření k průzkumu zaznělo po 1_Report.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -78,6 +90,9 @@
 
 ---
 ---
+
+---
+
 ## 4. Krok 3 — Nouzová pozorovací výbava
 
 **Label:** Akce
@@ -91,6 +106,8 @@
 
 - [Z BOXU MISE] A_05_06 Terénní sada periskopu
 - [Z BOXU MISE] A_05_07 Montážní plán
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -114,6 +131,9 @@
 
 ---
 ---
+
+---
+
 ## 5. Krok 4 — HERO – Stavba agentského periskopu
 
 **Label:** Akce
@@ -124,6 +144,8 @@
 
 - [Z BOXU MISE] A_05_06 Terénní sada periskopu
 - [Z BOXU MISE] A_05_07 Montážní plán
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -150,6 +172,9 @@
 
 ---
 ---
+
+---
+
 ## 6. Krok 5 — Zkouška periskopu
 
 **Label:** Akce
@@ -157,6 +182,8 @@
 **Nové artefakty na vstupu:** A_05_08 Kalibrační scéna se sluncem nahoře a lodí dole, neprůhledná skládací zástěna z boxu
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] periskop, A_05_08. Dítě sedí či klečí za zástěnou: oči pod její hranou, horní otvor periskopu nad ní. Musí rozlišit oba obrázky i jejich vzájemnou polohu. Při tmavém obrazu zkontroluje natočení odrazných ploch podle A_05_07.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -180,9 +207,14 @@
 
 ---
 ---
+
+---
+
 ## 7. Krok 5_Report — Připraven k průzkumu
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -203,6 +235,9 @@
 
 ---
 ---
+
+---
+
 ## 8. Krok 6 — Vstup do sledované oblasti
 
 **Label:** Akce
@@ -216,6 +251,8 @@
 - [Z BOXU MISE] periskop
 - [Z BOXU MISE] vysílačka
 - Po úspěšném testu PAX povolil průzkum. Značky kruh, čtverec, trojúhelník odpovídají mapě a zadním stranám tří zástěn z boxu.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -239,6 +276,9 @@
 
 ---
 ---
+
+---
+
 ## 9. Krok 7 — Průzkum kamer
 
 **Label:** Akce
@@ -251,6 +291,8 @@
   - trojúhelník: dvůr → bezpečný výstup, dvě cesty kolem beden nebo věže; každá scéna je za vlastní zástěnou z boxu
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] periskop, A_05_10, A_05_03 mapa, A_05_02 pole „Pozorované úseky“, značicí prostředek předaný v kroku 1. Mapa má stejné cesty a orientační body, ale bez kamer. Průvodce před pozorováním vysvětlí: červené plochy na herní scéně znázorňují dosah kamer; nejsou to skutečné viditelné paprsky.
+
+**Zápis do Protokolu:** P_02 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -277,9 +319,14 @@
 
 ---
 ---
+
+---
+
 ## 10. Krok 7_Report — Stav perimetru
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -300,6 +347,9 @@
 
 ---
 ---
+
+---
+
 ## 11. Krok 8 — Bezpečná cesta z úkrytu
 
 **Label:** Akce
@@ -307,6 +357,8 @@
 **Nové artefakty na vstupu:** A_05_11 Prvek pro vyznačení finální trasy
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_05_03 se všemi pozorováními, A_05_11 opakovaně položitelná trasa, A_05_02. Spojení: úkryt – dvě větve – brána – dvě větve – dvůr – dvě větve – výstup. Mezi větvemi nejsou další spojnice.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -330,9 +382,14 @@
 
 ---
 ---
+
+---
+
 ## 12. Krok 8_Report — Vyvedení agenta
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -353,6 +410,9 @@
 
 ---
 ---
+
+---
+
 ## 13. Krok 9 — Hlas agenta
 
 **Label:** Akce
@@ -360,6 +420,8 @@
 **Nové artefakty na vstupu:** A_05_12 Audio 2 – agentovo hlášení z bezpečí
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_05_12 přehraje průvodce výhradně po ověření celé trasy v 8_Report. Dítě předtím v Protokolu označí „Trasa předána“. Audio není dostupné k náhodnému spuštění v hlavním boxu.
+
+**Zápis do Protokolu:** P_03 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -380,9 +442,14 @@
 
 ---
 ---
+
+---
+
 ## 14. Krok 9_Report — Operace dokončena
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -403,6 +470,9 @@
 
 ---
 ---
+
+---
+
 ## 15. Krok 10 — Tajný agent
 
 **Label:** Akce
@@ -417,6 +487,8 @@
 - [Z BOXU MISE] A_05_13 Záznam o uzavření M!SE
 - [Z BOXU MISE] A_05_14 Badge
 - [Z BOXU MISE] sestavený periskop
+
+**Zápis do Protokolu:** P_04 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 

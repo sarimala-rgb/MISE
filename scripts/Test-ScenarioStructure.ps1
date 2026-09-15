@@ -24,6 +24,7 @@ Get-ChildItem -Path $MissionsPath -Recurse -Filter 'SCENAR-MISE.md' | ForEach-Ob
     $blocks = [regex]::Matches($text, '(?ms)^## .*?(?=^## |\z)')
     $taskCodes = [System.Collections.Generic.List[string]]::new()
     $doneCodes = [System.Collections.Generic.List[string]]::new()
+    $protocolCodes = [System.Collections.Generic.List[string]]::new()
 
     foreach ($block in $blocks) {
         $content = $block.Value
@@ -36,6 +37,8 @@ Get-ChildItem -Path $MissionsPath -Recurse -Filter 'SCENAR-MISE.md' | ForEach-Ob
         if ($label -eq 'Akce' -and (-not $hasArtifacts -or -not $hasNeeds)) { $errors.Add("${path}: Akce nemá oba povinné vstupy.") }
         if ($label -eq 'Report' -and ($hasArtifacts -or $hasNeeds)) { $errors.Add("${path}: Report obsahuje vstupy určené jen pro Akci.") }
         if ($content -notmatch '(?m)^\*\*Úkoly:\*\*' -or $content -notmatch '(?m)^\*\*Co je hotový krok:\*\*') { $errors.Add("${path}: krok nemá Úkoly nebo Co je hotový krok.") }
+        $protocolMatch = [regex]::Match($content, '(?m)^\*\*Zápis do Protokolu:\*\*\s*(P_\d{2}|—)(?:\s+—.*)?\s*$')
+        if (-not $protocolMatch.Success) { $errors.Add("${path}: krok nemá platný Zápis do Protokolu.") } elseif ($protocolMatch.Groups[1].Value -ne '—') { $protocolCodes.Add($protocolMatch.Groups[1].Value) }
         if ($content -match '(?m)^\*\*Akce dítěte:\*\*') { $errors.Add("${path}: zůstala zastaralá sekce Akce dítěte.") }
         foreach ($match in [regex]::Matches($content, '(?m)^- \*\*(U_\d{2}_\d{2}):\*\*')) { $taskCodes.Add($match.Groups[1].Value) }
         foreach ($match in [regex]::Matches($content, '(?m)^- \*\*(U_\d{2}_\d{2})\*\*\s*$')) { $doneCodes.Add($match.Groups[1].Value) }
@@ -45,6 +48,12 @@ Get-ChildItem -Path $MissionsPath -Recurse -Filter 'SCENAR-MISE.md' | ForEach-Ob
     if ($taskCodes.Count -ne ($taskCodes | Sort-Object -Unique).Count) { $errors.Add("${path}: duplicitní kód úkolu.") }
     if (($taskCodes -join ',') -ne ($doneCodes -join ',')) { $errors.Add("${path}: úkoly a podmínky dokončení nemají shodné kódy a pořadí.") }
     foreach ($code in $taskCodes) { if ($code -notmatch "^U_$missionNumber`_\d{2}$") { $errors.Add("${path}: úkol $code má chybné číslo mise.") } }
+    if ($protocolCodes.Count -ne ($protocolCodes | Sort-Object -Unique).Count) { $errors.Add("${path}: duplicitní kód části Protokolu.") }
+    $protocolPath = Join-Path $_.Directory.FullName 'PROTOKOL.md'
+    if (-not (Test-Path $protocolPath)) { $errors.Add("${path}: chybí PROTOKOL.md.") } else {
+        $protocolText = [IO.File]::ReadAllText($protocolPath, [Text.UTF8Encoding]::new($false))
+        foreach ($code in $protocolCodes) { if ($protocolText -notmatch "(?m)^## $code —") { $errors.Add("${path}: kód $code chybí v PROTOKOL.md.") } }
+    }
 }
 
 if ($errors.Count) {

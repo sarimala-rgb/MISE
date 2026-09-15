@@ -20,6 +20,8 @@
 - [Z BOXU MISE] A_02_04–A_02_06 Důkazní fotografie
 - [Z BOXU MISE] A_02_07 Záznam incidentu
 
+**Zápis do Protokolu:** P_01 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+
 **Úkoly:**
 
 - **U_02_01:** Seznam se s incidentem.
@@ -42,9 +44,14 @@
 
 ---
 ---
+
+---
+
 ## 2. Krok 1_Report — Potvrzení přijetí mise
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -62,6 +69,9 @@
 
 ---
 ---
+
+---
+
 ## 3. Krok 2 — Lokalizace prvních důkazů
 
 **Label:** Akce
@@ -69,6 +79,8 @@
 **Nové artefakty na vstupu:** —
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_02–A_02_07, značicí prostředek. Fotografie i mapa ukazují rozbitou bránu, rozvětvený strom u ohniště a balvan u velké stopy. Záznam A_02_07 dokládá jednoho člověka a jednu velkou bytost; počet se nehádá z jednotlivých stop.
+
+**Zápis do Protokolu:** P_02 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -96,9 +108,14 @@
 
 ---
 ---
+
+---
+
 ## 4. Krok 2_Report — První situační hlášení
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -122,6 +139,9 @@
 
 ---
 ---
+
+---
+
 ## 5. Krok 3 — Analýza velké stopy
 
 **Label:** Akce
@@ -133,6 +153,8 @@
 - [Z BOXU MISE] A_02_05 Fotografie velké stopy
 - [Z BOXU MISE] A_02_08 Atlas stop
 - [Z BOXU MISE] A_02_02 Protokol mise
+
+**Zápis do Protokolu:** P_03 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -162,9 +184,14 @@
 
 ---
 ---
+
+---
+
 ## 6. Krok 3_Report — Potvrzení přítomnosti draka
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -179,6 +206,9 @@
 
 ---
 ---
+
+---
+
 ## 7. Krok 4 — Rekonstrukce dračí trasy
 
 **Label:** Akce
@@ -192,6 +222,8 @@
 - A_02_13 Sada samolepek šipek směru
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_09–A_02_13 a mapa A_02_03. Tři snímky mají společné orientační body s mapou: balvan, pařez, rozvětvený strom. Atlas vysvětluje směr ke špičkám prstů. Stopy tvoří návaznou trasu balvan → pařez → požářiště.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -221,9 +253,14 @@
 
 ---
 ---
+
+---
+
 ## 8. Krok 4_Report — Hlášení o trase draka
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -238,6 +275,9 @@
 
 ---
 ---
+
+---
+
 ## 9. Krok 5 — Časová rekonstrukce incidentu
 
 **Label:** Akce
@@ -249,6 +289,8 @@
 - A_02_16 Požární čidlo hlásí vznik ohně: 2 tečky / druhá událost
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_14–A_02_16 z bezpečnostního systému, A_02_02 pole „Pořadí událostí“ se třemi místy a A_02_03. Dospělý přečte události a vysvětlí tečky jako pořadí téhož záznamu, nikoli hodiny. Karty jsou předané promíchané.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -278,9 +320,14 @@
 
 ---
 ---
+
+---
+
 ## 10. Krok 5_Report — Narušení původní hypotézy
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -301,6 +348,9 @@
 
 ---
 ---
+
+---
+
 ## 11. Krok 6 — Důkaz způsobu založení požáru
 
 **Label:** Akce
@@ -315,6 +365,8 @@
 - [Z BOXU MISE] A_02_17 Obálka
 - [Z BOXU MISE] A_02_18 Sirka
 - [Z BOXU MISE] A_02_02 Protokol mise
+
+**Zápis do Protokolu:** P_04 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -341,9 +393,14 @@
 
 ---
 ---
+
+---
+
 ## 12. Krok 6_Report — Pracovní hypotéza lidského zásahu
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -364,6 +421,9 @@
 
 ---
 ---
+
+---
+
 ## 13. Krok 7 — Stopování draka v terénu
 
 **Label:** Akce
@@ -379,6 +439,8 @@
 - [Z BOXU MISE] A_02_19 Terénní značka
 - [Z BOXU MISE] A_02_20 Velké dračí stopy
 - [Z DOMOVA] Prostor připravený PAXem
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -399,6 +461,9 @@
 
 ---
 ---
+
+---
+
 ## 14. Krok 8 — Nález dračího hnízda
 
 **Label:** Akce
@@ -409,6 +474,8 @@
 - A_02_22 Dračí vejce
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_21 sestavené hnízdo z materiálu boxu, A_02_22 model vejce; terénní trasa A_02_20. Průvodce před vstupem připomene: pozoruj, vejce nech na místě.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -432,9 +499,14 @@
 
 ---
 ---
+
+---
+
 ## 15. Krok 8_Report — Mimořádný nález
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -449,6 +521,9 @@
 
 ---
 ---
+
+---
+
 ## 16. Krok 9 — Odhalení motivu vetřelce
 
 **Label:** Akce
@@ -459,6 +534,8 @@
 - A_02_24 Kopie instrukcí k přepravě dračího vejce a poznámek nalezených hlídkou přímo u zadrženého člověka; možnost „vylákat ohněm“ je podtržená
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_02_23–A_02_24 doručí PAX po získání záznamu hlídky; záznam uvádí stejné označení osoby jako fotografie u brány. A_02_02, časová osa a mapa. Vidět je sled činů, ne pouze fotografie obličeje. Záznam končí odchodem draka mimo bezprostřední okolí hnízda a zadržením člověka u vnější brány.
+
+**Zápis do Protokolu:** P_05 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -482,9 +559,14 @@
 
 ---
 ---
+
+---
+
 ## 17. Krok 9_Report — Závěr vyšetřování
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -511,6 +593,9 @@
 
 ---
 ---
+
+---
+
 ## 18. Krok 10 — Zahájení záchranné operace
 
 **Label:** Akce
@@ -521,6 +606,8 @@
 - A_02_26 Konstrukční sada nosítka: skládací pevná základna, čtyři bočnice, dvě široká držadla, výstelka, spojovací pásky a obrázkový plán
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_02_25–A_02_26 od PAXe po 9_Report; záznam A_02_23 a vejce na původním místě. Protokol říká: prozrazený sektor vyžaduje chráněné náhradní hnízdo. Vejce lze přemístit až po testu nosítka, kontrole nového hnízda a výslovném povolení PAXe. Centrála podle nové mapy navede draka svým návratovým signálem popsaným v protokolu.
+
+**Zápis do Protokolu:** P_06 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -535,6 +622,9 @@
 
 ---
 ---
+
+---
+
 ## 19. Krok 11 — Stavba transportního zařízení
 
 **Label:** Akce
@@ -542,6 +632,8 @@
 **Nové artefakty na vstupu:** —
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_25 požadavky i plán, A_02_26 díly. Dospělý pomůže s pevnými spoji, dítě vybírá umístění výstelky a sestavuje bočnice. [Z DOMOVA] rovná pracovní plocha.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -556,6 +648,9 @@
 
 ---
 ---
+
+---
+
 ## 20. Krok 12 — Test transportního zařízení
 
 **Label:** Akce
@@ -563,6 +658,8 @@
 **Nové artefakty na vstupu:** A_02_27 Cvičné vejce stejného vnějšího tvaru a hmotnosti jako model dračího vejce
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_27, hotové nosítko, A_02_25. Test: vložit zátěž, oběma rukama držet nosítko, ujít pět pomalých kroků, zastavit, zatočit a položit. Zátěž nesmí vyklouznout z výstelky ani přes bočnici, spoje se nerozpojí.
+
+**Zápis do Protokolu:** P_07 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -580,9 +677,14 @@
 
 ---
 ---
+
+---
+
 ## 21. Krok 12_Report — Transport připraven
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -597,6 +699,9 @@
 
 ---
 ---
+
+---
+
 ## 22. Krok 13 — Výběr nového místa pro hnízdo
 
 **Label:** Akce
@@ -604,6 +709,8 @@
 **Nové artefakty na vstupu:** A_02_28 Kontrolní karta nového hnízda, součást nouzového protokolu: rovné suché místo, mimo prozrazený sektor i průchozí cestu, kryté z pohledu od původní trasy a přístupné pro uložení vejce
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_25, A_02_28, mapa; po úspěšném 12_Report PAX povolil hledání místa. Průvodce předem vyznačil hranici starého sektoru na mapě i v prostoru a ponechal nejméně dvě vhodná místa. Dítě volí kterékoli splňující podmínky.
+
+**Zápis do Protokolu:** P_08 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -618,6 +725,9 @@
 
 ---
 ---
+
+---
+
 ## 23. Krok 14 — Stavba náhradního hnízda
 
 **Label:** Akce
@@ -625,6 +735,8 @@
 **Nové artefakty na vstupu:** A_02_29 Materiál náhradního hnízda z boxu: skládací podložka, měkká výstelka, ochranný lem, neprůhledná krycí zástěna a spojovací prvky
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_29, A_02_28 a A_02_25; vybrané místo. Deka ani polštář z domova nejsou požadované. Průvodce ověří dostupnost místa, dítě vybuduje hnízdo a na kartě projde všechny podmínky.
+
+**Zápis do Protokolu:** P_09 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -642,9 +754,14 @@
 
 ---
 ---
+
+---
+
 ## 24. Krok 14_Report — Hnízdo připraveno
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -665,6 +782,9 @@
 
 ---
 ---
+
+---
+
 ## 25. Krok 15 — Přesun dračího vejce
 
 **Label:** Akce
@@ -672,6 +792,8 @@
 **Nové artefakty na vstupu:** —
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_02_22 vejce, otestované nosítko, A_02_25, dokončené hnízdo ověřené podle A_02_28 a výslovné povolení PAXe po 14_Report. [PROSTOR] krátká volná trasa; průvodce je při přesunu přítomen.
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -692,9 +814,14 @@
 
 ---
 ---
+
+---
+
 ## 26. Krok 15_Report — Vejce v bezpečí
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -709,6 +836,9 @@
 
 ---
 ---
+
+---
+
 ## 27. Krok 16 — Zajištění nového hnízda
 
 **Label:** Akce
@@ -719,6 +849,8 @@
 
 - [Z BOXU MISE] A_02_30 Značka ochrany
 - [Z DOMOVA] Hotové hnízdo
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -736,6 +868,9 @@
 
 ---
 ---
+
+---
+
 ## 28. Krok 17 — Aktualizace mapy
 
 **Label:** Akce
@@ -748,6 +883,8 @@
 - [Z BOXU MISE] A_02_31 Mapové značky
 - [Z BOXU MISE] Psací prostředek
 - [Z BOXU MISE] A_02_02 Protokol mise
+
+**Zápis do Protokolu:** P_10 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 
@@ -777,9 +914,14 @@
 
 ---
 ---
+
+---
+
 ## 29. Krok 17_Report — Závěrečné operační hlášení
 
 **Label:** Report
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -809,6 +951,9 @@
 
 ---
 ---
+
+---
+
 ## 30. Krok 18 — Odeslání mapy PAXovi
 
 **Label:** Akce
@@ -819,6 +964,8 @@
 
 - [Z BOXU MISE] A_02_03 Aktualizovaná mapa
 - [Z BOXU MISE] A_02_32 Návratová obálka
+
+**Zápis do Protokolu:** —
 
 **Úkoly:**
 
@@ -833,6 +980,9 @@
 
 ---
 ---
+
+---
+
 ## 31. Krok 19 — Udělení specializace
 
 **Label:** Akce
@@ -840,6 +990,8 @@
 **Nové artefakty na vstupu:** A_02_33 Badge STRÁŽCE DRAKŮ
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_02_33 od PAXe po převzetí mapy, A_02_02 dokončený Protokol a zachráněné vejce v chráněném hnízdě.
+
+**Zápis do Protokolu:** P_11 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
 
 **Úkoly:**
 

@@ -15,10 +15,11 @@ Blok s labelem `Akce` obsahuje vždy v tomto pořadí:
 1. `Label`
 2. `Nové artefakty na vstupu`
 3. `Co potřebuje dítě k vyřešení kroku`
-4. `Úkoly`
-5. `Co je hotový krok`
+4. `Zápis do Protokolu`
+5. `Úkoly`
+6. `Co je hotový krok`
 
-Blok s labelem `Report` obsahuje pouze `Label`, `Úkoly` a `Co je hotový krok`.
+Blok s labelem `Report` obsahuje `Label`, `Zápis do Protokolu`, `Úkoly` a `Co je hotový krok`.
 
 ---
 
@@ -318,4 +319,15 @@ Label vždy určuje, zda text slyší dítě, nebo slouží pouze Operátorovi m
 - Artefakt uvedený nebo odkazovaný v `SCENAR-MISE.md` má vždy kód `A_XX_YY`: `XX` je číslo mise a `YY` je pořadové číslo artefaktu v dané misi. Samotné číslování artefaktů se tím nemění; prefix `A_` pouze určuje, že jde o artefakt.
 - Úkol má vždy kód `U_XX_YY`: `XX` je číslo mise a `YY` je jedinečné pořadové číslo úkolu v dané misi. Číslování úkolů pokračuje napříč celým scénářem mise.
 - Při každé úpravě `SCENAR-MISE.md` se ověří, že všechny odkazy na artefakty používají prefix `A_` a všechny úkoly i jejich podmínky dokončení používají shodný kód `U_`.
+
+## 17. Protokol mise
+
+Každá mise má samostatný soubor `PROTOKOL.md`. Protokol je pracovní sešit dítěte, který provází celou misí a zachycuje jen důležité průběžné výsledky.
+
+- Každá část Protokolu má kód `P_XX`, kde `XX` je pořadové číslo části v dané misi.
+- Každý blok `SCENAR-MISE.md` obsahuje sekci `Zápis do Protokolu`.
+- Pokud dítě v kroku nic do Protokolu nezaznamenává, sekce obsahuje pouze `—`.
+- Pokud dítě zaznamenává výsledek, sekce uvádí kód `P_XX` a konkrétní činnost.
+- Dítě nepíše volné poznámky. Zapisuje pomocí předtištěných obrázků, symbolů a zakroužkování; Operátor zapisuje pouze volbu dítěte, když je to potřeba.
+- Každý kód `P_XX` uvedený ve scénáři musí existovat v `PROTOKOL.md` dané mise.
 
