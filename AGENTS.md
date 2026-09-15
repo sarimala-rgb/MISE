@@ -168,3 +168,20 @@ Připravuje texty hlášení, QR nahrávky, tón PAXe a jejich časování. Zapo
 11. Projektový koordinátor
 
 Faktický kontrolor a PAX a zvukový režisér se přizývají pouze podle potřeby.
+
+---
+
+## 8. Pracovní log agentů
+
+Agent po dokončení významné části práce nebo při předání jiné roli zapíše stručný záznam do `docs/LOG-PRACE.md`.
+
+Záznam obsahuje:
+- datum,
+- roli agenta,
+- konkrétní dokončenou práci,
+- provedené kontroly,
+- předání další roli nebo další samostatný krok,
+- odkazy na změněné soubory,
+- stav `Čeká na rozhodnutí: ano/ne`.
+
+Log nezachycuje průběžné interní úvahy ani nahodilé technické kroky. `ROZHODNUTI.md` zůstává jediným zdrojem schválených rozhodnutí a `OPEN-QUESTIONS.md` jediným seznamem otázek čekajících na uživatele.
