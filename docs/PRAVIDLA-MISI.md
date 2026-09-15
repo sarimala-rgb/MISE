@@ -330,4 +330,5 @@ Každá mise má samostatný soubor `PROTOKOL.md`. Protokol je pracovní sešit 
 - Pokud dítě zaznamenává výsledek, sekce uvádí kód `P_XX` a konkrétní činnost.
 - Dítě nepíše volné poznámky. Zapisuje pomocí předtištěných obrázků, symbolů a zakroužkování; Operátor zapisuje pouze volbu dítěte, když je to potřeba.
 - Každý kód `P_XX` uvedený ve scénáři musí existovat v `PROTOKOL.md` dané mise.
+- Jeden kód `P_XX` může scénář použít vícekrát, pokud se dítě k téže části Protokolu vrací a doplňuje ji.
 

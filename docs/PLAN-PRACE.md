@@ -2,7 +2,7 @@
 
 ## Samostatně pokračovat
 
-- Pilot: **Tajemství dávných obrů**. Editor dětského zadání dokončil návrh dětského znění a zápisů do Protokolu. Pilot čeká na rozhodnutí 4, 11 a 12 v `OPEN-QUESTIONS.md`; potom pokračuje Návrhářem Protokolu mise a Návrhářem artefaktů.
+- Pilot: **Tajemství dávných obrů**. Protokol i artefakty jsou textově připravené pro obecnou rozebíratelnou kostru. Po výběru fyzického produktu se ověří rozdělení dílů a výkopový materiál.
 - Zpřesnit konkrétní podmínky dokončení úkolů ve všech scénářích bez změny schváleného děje.
 - Po každé změně spustit kontrolu struktury scénářů a kódování češtiny.
 

@@ -20,29 +20,11 @@ Má `Label` ve scénáři znamenat pouze `Akce` nebo `Report`, zatímco PAX, Ope
 
 **Doporučení:** ano.
 
-## 4. Fáze PAXe
-
-Mají se pravidla a podklady PAXe globálně označit jako pozdější fáze, dokud je `SCENAR-MISE.md` psán jen z pohledu dítěte?
-
-**Doporučení:** ano.
-
 ## 5. Vizuální systém
 
 Je potřeba rozhodnout barevnou paletu, typografii, ikony, rozměry artefaktů a dostupný schválený vzor loga před zahájením finální grafiky.
 
 **Doporučení:** nejdřív dokončit pilot Paleontologa, potom vytvořit vizuální zadání a jeho varianty.
-
-## 11. Druh kostry Paleontologa
-
-Má dítě po sestavení kostry určit konkrétní druh, například Triceratopse, nebo má mise pracovat jen s obecným označením dinosaurus, dokud nevybereme vhodnou rozebíratelnou kostru z trhu?
-
-**Doporučení:** v tomto pilotu používat obecné označení dinosaurus; konkrétní druh vybrat až spolu s fyzickým produktem.
-
-## 12. Ochranný záznam Rozcestí v Protokolu
-
-Má dítě v kroku 10 doplnit druhou ochrannou značku do dřívější části `P_05 — Chráněná místa`, nebo má vzniknout samostatná nová část Protokolu?
-
-**Doporučení:** doplnit druhou značku do `P_05`; dítě tak uvidí obě chráněná místa pohromadě.
 
 ## Mimo rozhodování uživatele
 

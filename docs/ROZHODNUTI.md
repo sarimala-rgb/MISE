@@ -108,4 +108,7 @@ Jejich závazná odpovědnost i pořadí práce na jedné misi jsou uvedeny v `A
 - Protokol používá předtištěné obrázky a dítě je označuje zakroužkováním; dítě nepíše volné poznámky.
 - Pro první nález se nepoužívá atlas s více dinosaury. Dítě nejprve pouze odkryje neúplnou část jedné rozebíratelné kostry; druh zjišťuje až po připojení výrazné chybějící části z Rozcestí.
 - Stavební karta Travnatého vršku je jeden list rozdělený na čtyři velké obrazové důkazy: mimo nálezy, nad vodou, volný výhled a dostatečná výška.
+- Dokud není vybraný fyzický produkt, dítě určuje pouze obecného dinosaura, ne konkrétní druh.
+- `P_05 — Chráněná místa` obsahuje ochranné značky původního staveniště i Rozcestí.
+- Dětský scénář Reportů používá větu „Řekni Operátorovi, co jsi zjistil.“ PAXovy texty se dopracují v pozdější fázi.
 

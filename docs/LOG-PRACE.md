@@ -51,6 +51,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/PROTOKOL.md`, `docs/OPEN-QUESTIONS.md`.
 **Čeká na rozhodnutí:** ano
 
+## 2026-09-15 — Pilot Protokolu a artefaktů Paleontologa
+
+**Role:** Návrhář Protokolu mise a Návrhář artefaktů
+**Dokončeno:** Protokol Paleontologa má konkrétní obrazové zápisy `P_01` až `P_11`. Scénář používá jednu obecnou rozebíratelnou kostru; část `P_05` vede dítě ke dvěma chráněným místům. Popis obou výkopových bloků odkládá přesné rozdělení dílů až na výběr fyzického produktu.
+**Ověřeno:** Kontrola struktury scénářů a kontrola kódování češtiny prošly. Kontrola nyní správně připouští opakovaný odkaz na stejnou část Protokolu.
+**Předání:** Terénní a bezpečnostní návrhář ověří zvolený způsob výkopu po výběru konkrétní kostry; potom lze uzavřít výrobu artefaktů pilotu.
+**Soubory:** `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/PROTOKOL.md`, `missions/01-paleontolog/ARTEFAKTY.md`, `docs/PRAVIDLA-MISI.md`, `scripts/Test-ScenarioStructure.ps1`.
+**Čeká na rozhodnutí:** ano — zda ponechat skutečnou sádru jako výkopový materiál pilotu.
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor

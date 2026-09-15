@@ -12,7 +12,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_01–A_01_05; mapa s pěti místy a legendou. Zadání má čtyři obrázkové kontroly: mimo označená místa nálezů, místo nad nejvyšší zaznamenanou vodou, volný výhled na záliv, vyhlídka nad červenou výškovou čárou stavebního plánu. Jde o doporučení k dalšímu stavebnímu prověření.
 
-**Zápis do Protokolu:** P_01 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_01 — Zakroužkuj staveniště, kde se zastavila práce, a prohlédni čtyři místa pro věž.
 
 **Úkoly:**
 
@@ -45,12 +45,12 @@
 
 **Nové artefakty na vstupu:**
 
-- A_01_06 První sádrový blok ze staveniště: trup, pánev a čtyři končetiny zjednodušeného modelu
+- A_01_06 První sádrový blok ze staveniště se středními částmi jedné budoucí vybrané rozebíratelné kostry; přesné rozdělení dílů se určí po výběru produktu
 - A_01_07 Výkopová sada: tupá špachtle, štětec, pracovní podložka, dvě označené odkládací misky a úložná podložka kostry
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_06–A_01_07, A_01_02 pole „Vzorek ze staveniště“, A_01_03 a A_01_05. Dospělý předvede jemné odhrnování; dítě odkrývá a čistí, dospělý pomůže u pevnějšího místa. Díly ukládá do misky se symbolem staveniště.
 
-**Zápis do Protokolu:** P_02 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_02 — Zakroužkuj staveniště a obrázek kostí, které z něj pocházejí.
 
 **Úkoly:**
 
@@ -78,16 +78,16 @@
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** A_01_08 Atlas pěti zjednodušených koster: Triceratops, Stegosaurus, Tyrannosaurus, Diplodocus, Ankylosaurus; sestavovací podklad ke každé možnosti
+**Nové artefakty na vstupu:** A_01_08 Obrazový podklad jedné rozebíratelné kostry s vyznačením chybějících částí
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_08, části z A_01_06, A_01_02 pole „Pracovní určení“, A_01_05. Dítě porovnává přímo obrysy modelových dílů s obrázky, nemusí znát anatomii ani názvy. Dospělý je přečte. Chybějící hlava a ocas brání úplnému ověření.
 
-**Zápis do Protokolu:** P_03 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_03 — Zakroužkuj neúplnou kostru. Ještě chybí důležité části.
 
 **Úkoly:**
 
 - **U_01_08:** Porovnej kosti s obrázky. Začni je skládat a vybere pravděpodobného dinosaura. V Protokolu označí volbu jako předběžnou.
-- **U_01_09:** Porovnej nález s atlasem.
+- **U_01_09:** Porovnej části s obrysem kostry a zjisti, co ještě chybí.
 - **U_01_10:** Sestav části, které už máš.
 - **U_01_11:** Označ pracovní určení; kostra ještě není úplná.
 
@@ -120,7 +120,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_09–A_01_10, A_01_07, nález z A_01_06, A_01_08, A_01_02 pole „Porovnání vzorků“ a A_01_05. Karta vysvětluje: toto kolečko patří k novodobému vozíku. Nejde o obecné pravidlo, že vše odlišné od kostí je falešné.
 
-**Zápis do Protokolu:** P_04 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_04 — U kostí zakroužkuj „nález“. U kolečka zakroužkuj „není zkamenělina“.
 
 **Úkoly:**
 
@@ -158,7 +158,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_11–A_01_12 jsou fotografie dělníků se symbolem staveniště a dvěma odlišnými body nálezu v mapě; A_01_11 zachycuje kost před odebráním bloku A_01_06, A_01_12 stopu ponechanou na místě. Dítě páruje symbol původu, nikoli druh podle stopy. Dále výsledky 2–4, A_01_01–A_01_03 a A_01_05.
 
-**Zápis do Protokolu:** P_05 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_05 — Zakroužkuj ochrannou značku u původního staveniště.
 
 **Úkoly:**
 
@@ -219,7 +219,7 @@
 - [Z BOXU MISE] dokumentace A_01_13–A_01_15 od Centrály; A_01_01 požadavky věže; A_01_03 mapa; A_01_02 Protokol, pole „Náhradní místa“; A_01_05 značicí prostředek
 - Povolení PAXe po 5_Report hledat jiné místo; fotografie umožňují poznat stejné místo a změnu hladiny.
 
-**Zápis do Protokolu:** P_06 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_06 — Zakroužkuj Lesní louku se stromy před výhledem a Pobřežní plošinu s vysokou vodou.
 
 **Úkoly:**
 
@@ -253,7 +253,7 @@
 **Nové artefakty na vstupu:**
 
 - A_01_16 Předávací lístek dělníků: na Rozcestí odebrali vzorek R z přípravy alternativního místa, uzavřeli ho a ponechali u místní značky; připojený snímek vzorku R u značky Rozcestí
-- A_01_17 Třetí sádrový blok R se symbolem Rozcestí; uvnitř hlava a ocas modelu
+- A_01_17 Třetí sádrový blok R se symbolem Rozcestí a výraznými chybějícími částmi téže kostry; přesné rozdělení dílů se určí po výběru produktu
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_01_16 doručí PAX po kontrole stavební evidence; A_01_03 má symbol Rozcestí. Tentýž symbol je na instalační značce a vzorku R. Lístek doloží existenci a původ vzorku, nikoli předem jeho obsah. [PŘÍPRAVA] Průvodce položí blok do úkrytu vedle značky Rozcestí.
 
@@ -292,7 +292,7 @@
 - [Z BOXU MISE] A_01_17 třetí blok; A_01_07 nástroje; A_01_02 Protokol, pole „Vzorek z Rozcestí“; A_01_05 značicí prostředek
 - [Z DOMOVA] pracovní plocha
 
-**Zápis do Protokolu:** P_07 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_07 — Zakroužkuj Rozcestí a obrázek kostí z tohoto místa.
 
 **Úkoly:**
 
@@ -322,15 +322,15 @@
 
 **Nové artefakty na vstupu:** —
 
-**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] díly z A_01_06 a A_01_17, A_01_08 atlas, A_01_02 pole „Potvrzené určení“, A_01_05. Hlava modelu se třemi rohy a límcem spolu s kompletním obrysem odpovídá kartě Triceratops. Model tvoří osm velkých dílů; jeho přesná anatomická a výrobní podoba čeká na kontrolu před výrobou.
+**Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] díly z A_01_06 a A_01_17, A_01_08 obrazový podklad, A_01_02 pole „Potvrzené určení“, A_01_05. Po připojení výrazných chybějících dílů odpovídá celá kostra obrysu na podkladu. Model tvoří osm velkých dílů; jeho přesná anatomická a výrobní podoba čeká na výběr fyzického produktu.
 
-**Zápis do Protokolu:** P_08 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_08 — Zakroužkuj úplnou kostru a obrázek dinosaura.
 
 **Úkoly:**
 
-- **U_01_30:** Připoj nové části k prvnímu nálezu. Dokonči kostru podle atlasu, porovná ji s pěti možnostmi a ověří původní hypotézu. Označ potvrzené určení.
+- **U_01_30:** Připoj nové části k prvnímu nálezu. Dokonči kostru podle obrysu a potvrď, že jde o dinosaura.
 - **U_01_31:** Dokonči kostru.
-- **U_01_32:** Porovnej ji s atlasem.
+- **U_01_32:** Porovnej hotovou kostru s obrázkem dinosaura.
 - **U_01_33:** Potvrď určení podle úplné rekonstrukce; pokud první volba nesedí, oprav ji podle nálezu.
 
 **Co je hotový krok:**
@@ -344,7 +344,7 @@
 - **U_01_33**
   - Hlášení nebo vysvětlení je předané.
 - **Výsledek kroku**
-  - Úplná kostra odpovídá jedné možnosti v atlasu. Protokol odlišuje původní hypotézu od výsledného určení.
+  - Úplná kostra odpovídá obrazovému podkladu. Protokol zachycuje neúplnou a následně hotovou kostru dinosaura.
 
 ---
 ---
@@ -359,7 +359,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] zdokumentované původy obou skutečných nálezů v A_01_02; dokončená kostra; A_01_03 mapa; A_01_05 značicí prostředek; požadavek ochrany nálezů z A_01_01
 
-**Zápis do Protokolu:** —
+**Zápis do Protokolu:** P_05 — Zakroužkuj druhou ochrannou značku u Rozcestí.
 
 **Úkoly:**
 
@@ -418,11 +418,11 @@
 
 **Label:** Akce
 
-**Nové artefakty na vstupu:** A_01_18 Stavební karta Travnatého vršku od Centrály: panoramatický snímek volného zálivu, boční profil s nejvyšší zaznamenanou hladinou a minimální výškovou čárou věže, výřez mapy s oběma místy nálezů
+**Nové artefakty na vstupu:** A_01_18 Stavební karta Travnatého vršku: jeden list se čtyřmi velkými obrazovými důkazy — mimo chráněná místa, nad vodou, volný výhled a dostatečná výška
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] A_01_18, A_01_01 čtyři požadavky, A_01_02 pole „Kontrola Travnatého vršku“, A_01_03 a A_01_05. Na profilu je značka vršku nad oběma čarami; panorama ukazuje nezakrytý záliv; výřez jej umisťuje mimo dva potvrzené body. Legendu čte dospělý.
 
-**Zápis do Protokolu:** P_09 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_09 — U každého ze čtyř obrázků Travnatého vršku zakroužkuj „splněno“.
 
 **Úkoly:**
 
@@ -457,7 +457,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU MISE] úspěšně doložené kontroly z kroku 11; A_01_03 mapa s přesunutelnou značkou věže z předání; A_01_02 Protokol, pole „Doporučení pro Centrálu“; A_01_05 značicí prostředek
 
-**Zápis do Protokolu:** P_10 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_10 — Zakroužkuj Travnatý vršek jako nové místo pro věž.
 
 **Úkoly:**
 
@@ -489,7 +489,7 @@
 
 **Úkoly:**
 
-- **U_01_48:** Předej PAXovi doporučení Travnatého vršku a vysvětlí vyřazení ostatních míst.
+- **U_01_48:** Řekni Operátorovi, že doporučuješ Travnatý vršek.
 - **U_01_49:** Nahlas nové místo a důkazy.
 - **U_01_50:** Vysvětli, která místa zůstávají chráněná.
 
@@ -517,7 +517,7 @@
 
 **Co potřebuje dítě k vyřešení kroku:** [Z BOXU OPERÁTORA] A_01_19 od PAXe po 12_Report; sestavená kostra, A_01_02 pole „Uzavření mise“, A_01_03, A_01_05 a úložná podložka z A_01_07. Centrála přijala doporučení vršku pro nový plán a ochranu obou míst, další průzkum před stavbou zůstává její prací.
 
-**Zápis do Protokolu:** P_11 — Zakroužkuj předtištěný symbol podle výsledku tohoto kroku.
+**Zápis do Protokolu:** P_11 — Zakroužkuj uloženou kostru, dokončený Protokol a badge PALEONTOLOG.
 
 **Úkoly:**
 

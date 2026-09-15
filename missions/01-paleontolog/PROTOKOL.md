@@ -1,47 +1,47 @@
-# Protokol mise — Předání mise
+# Protokol mise — Tajemství dávných obrů
 
-Protokol je pracovní sešit dítěte. Dítě v něm zakroužkuje předtištěné obrázky nebo symboly podle svého výsledku; nepíše volné poznámky.
+Protokol je pracovní sešit dítěte. Dítě zakroužkuje předtištěné obrázky a symboly; nepíše volné poznámky.
 
-## P_01 — Krok 1 — Předání mise — Prohlédni zadání a mapu. Najdi původní staveniště a čtyři kandidáty. Seznam se s účelem věže a důvodem zastavení prací.
+## P_01 — Mapa případu
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje staveniště a ukáže čtyři místa, která bude prověřovat.
 
-## P_02 — Krok 2 — První paleontologický výkop — Opatrně odkryj první blok. Vyjmi části kostry a drží je pohromadě jako nález ze staveniště. V Protokolu označí původ vzorku a vyjmuté části.
+## P_02 — Vzorek ze staveniště
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje symbol staveniště a obrázek kostí, které z něj pocházejí.
 
-## P_03 — Krok 3 — První hypotéza o dinosaurovi — Porovnej kosti s obrázky. Začni je skládat a vybere pravděpodobného dinosaura. V Protokolu označí volbu jako předběžnou.
+## P_03 — Neúplná kostra
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje obrys kostry s chybějícími částmi a symbolem „ještě nehotovo“.
 
-## P_04 — Krok 4 — Ověření druhého vzorku — Odkryj druhý blok. Porovnej předmět s kostmi a ověřovacím podkladem. Označ jeden skutečný nález a jeden vyloučený předmět, odděleně podle původu.
+## P_04 — Prověření nálezů
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje kost jako nález a kolečko z vozíku jako předmět, který není zkamenělina.
 
-## P_05 — Krok 5 — Posouzení původního staveniště — Porovnej fotografie a výsledky výkopů. Rozliš potvrzené nálezy od vyloučeného předmětu. Zaznamenej, že pokračování stavby na původním místě ohrožuje zkameněliny.
+## P_05 — Chráněná místa
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Stránka ukazuje staveniště a Rozcestí se dvěma ochrannými značkami. Dítě nejprve zakroužkuje značku u staveniště a později druhou u Rozcestí.
 
-## P_06 — Krok 6 — Vyřazení louky a pobřeží — Na louce rozpoznej stromy zakrývající záliv. Porovnej dva stavy vody na plošině. Obě místa vyřaď na mapě a k výsledkům v Protokolu přiřadí důvody.
+## P_06 — Náhradní místa
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje Lesní louku se stromy před výhledem a Pobřežní plošinu s vysokou vodou.
 
-## P_07 — Krok 8 — Výkop z Rozcestí — Opatrně vykopej další části kostry. Než je přidá k prvnímu nálezu, zaznamená, že pocházejí z Rozcestí.
+## P_07 — Vzorek z Rozcestí
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje symbol Rozcestí a obrázek nových kostí z tohoto místa.
 
-## P_08 — Krok 9 — Dokončení kostry a potvrzení určení — Připoj nové části k prvnímu nálezu. Dokonči kostru podle atlasu, porovná ji s pěti možnostmi a ověří původní hypotézu. Označ potvrzené určení.
+## P_08 — Dokončená kostra
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje úplnou kostru a obrázek dinosaura.
 
-## P_09 — Krok 11 — Ověření Travnatého vršku — Postupně porovnej podmínky se skutečně dostupnými podklady. Do Protokolu označí výsledek každé kontroly.
+## P_09 — Kontrola Travnatého vršku
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Jeden list má čtyři velké obrazové důkazy: mimo chráněná místa, nad vodou, volný výhled a dostatečná výška. Dítě zakroužkuje „splněno“ u všech čtyř.
 
-## P_10 — Krok 12 — Návrh přesunu věže — Přesuň značku věže z původního staveniště na Travnatý vršek. Do Protokolu zaznamená doporučení a jeho důvody.
+## P_10 — Doporučení pro Centrálu
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje Travnatý vršek jako nové místo pro věž.
 
-## P_11 — Krok 13 — Zdokumentování nálezu a uzavření mise — Dokonči Protokol, uloží sestavenou kostru společně s dokumentací a přijme specializaci.
+## P_11 — Uzavření nálezu
 
-**Způsob zápisu:** Dítě zakroužkuje předtištěný symbol podle výsledku kroku. Operátor případně zapíše pouze volbu dítěte.
+Dítě zakroužkuje uloženou kostru, dokončený Protokol a badge PALEONTOLOG.
