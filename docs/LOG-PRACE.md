@@ -60,6 +60,15 @@ Tento soubor zachycuje důležitá dokončení, kontroly a předání mezi rolem
 **Soubory:** `missions/01-paleontolog/SCENAR-MISE.md`, `missions/01-paleontolog/PROTOKOL.md`, `missions/01-paleontolog/ARTEFAKTY.md`, `docs/PRAVIDLA-MISI.md`, `scripts/Test-ScenarioStructure.ps1`.
 **Čeká na rozhodnutí:** ano — zda ponechat skutečnou sádru jako výkopový materiál pilotu.
 
+## 2026-09-15 — Kontrola fyzické proveditelnosti HERO aktivity
+
+**Role:** Projektový koordinátor
+**Dokončeno:** Přibyla samostatná role pro ověření dětské proveditelnosti, obsahu a balení boxu, nákladů, domácích potřeb, opakovatelnosti a úklidu HERO aktivity.
+**Ověřeno:** Role je zařazená do závazného pořadí práce mezi Návrháře artefaktů a Terénního a bezpečnostního návrháře.
+**Předání:** U každé ustálené HERO aktivity provede nová role samostatný posudek před prototypem.
+**Soubory:** `agents/kontrolor-fyzicke-proveditelnosti-hero.md`, `AGENTS.md`, `agents/README.md`, `docs/KONTROLNI-SEZNAM-EDITACI.md`, `docs/ROZHODNUTI.md`.
+**Čeká na rozhodnutí:** ne
+
 ## 2026-09-15 — Základ multiagentního pracovního toku
 
 **Role:** Projektový koordinátor

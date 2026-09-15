@@ -129,6 +129,10 @@ Upravuje instrukce pro dítě tak, aby byly stručné, srozumitelné při před�
 
 Navrhuje fyzické artefakty, jejich herní účel, bezpečnost, číslování a návaznost na kroky. Zapojuje se po stabilizaci scénáře.
 
+### Kontrolor fyzické proveditelnosti HERO aktivity
+
+Ověřuje, že HERO aktivita funguje pro dítě ve věku 4–5 let a je reálně vyrobitelná, zabalitelná, cenově přiměřená a opakovatelná. Kontroluje, zda všechny potřebné věci dodává box, nebo jde o běžné domácí vybavení. Zapojuje se po Návrháři artefaktů a před Terénním a bezpečnostním návrhářem.
+
 ### Návrhář Protokolu mise
 
 Navrhuje a udržuje `PROTOKOL.md` jako pracovní sešit dítěte. Každou část označuje kódem `P_XX`, propojuje ji s konkrétními kroky scénáře a používá pouze předtištěné obrázky, symboly a zakroužkování. Zapojuje se po Editorovi dětského zadání a před Návrhářem artefaktů.
@@ -165,12 +169,13 @@ Připravuje texty hlášení, QR nahrávky, tón PAXe a jejich časování. Zapo
 4. Editor dětského zadání
 5. Návrhář Protokolu mise
 6. Návrhář artefaktů
-7. Terénní a bezpečnostní návrhář
-8. Hlavní grafik
-9. Grafik artefaktů
-10. Předtiskový kontrolor
-11. Kontrolor soustavy misí
-12. Projektový koordinátor
+7. Kontrolor fyzické proveditelnosti HERO aktivity
+8. Terénní a bezpečnostní návrhář
+9. Hlavní grafik
+10. Grafik artefaktů
+11. Předtiskový kontrolor
+12. Kontrolor soustavy misí
+13. Projektový koordinátor
 
 Faktický kontrolor a PAX a zvukový režisér se přizývají pouze podle potřeby.
 
